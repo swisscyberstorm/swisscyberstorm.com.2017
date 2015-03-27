@@ -14,14 +14,14 @@ theme:
 
   home_text: News
 
-  header_img: glasses_bg.png
+  header_img: nodes_bg.jpg
 
   header_text: >
       <p><img src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo"></p>
     
   call_out: >
       <a class="button" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942">
-      Get your Ticket now!
+      Register now!
       </a>
 
   footer_text: >
