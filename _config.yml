@@ -5,30 +5,26 @@ url: "http://m.swisscyberstorm.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: "Swiss Cyber Storm 2015" 
+  title: "Swiss Cyber Storm 2015 - International IT Security Conference"
   avatar: SCS_Logo.png
   gravatar: # email md5 hash
   description: "Swiss Cyber Storm 2015 Conference, European Cyber Security Challenge, Cyber Security Challenge, IT Security Conference Switzerland" # used by search engines
   
   # Header and footer text
 
-  home_text: News
+  home_text: Home
 
   header_img: nodes_bg.jpg
 
   header_text: >
-      <p><img src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo"></p>
+      <img src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo">
     
   call_out: >
-      <a class="button" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942">
-      Register now!
+      <a class="button-inverted" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942">
+      Tickets / Registration
       </a>
 
   footer_text: >
-      <p>
-      <a href="http://www.admin.ch/"><img src="/img/EFD_ISB_d_CMYK_pos_quer_MELANI-EDA-DE-500dpi.gif"></a>
-      <a href="http://www.satw.ch/"><img src="/img/SATW_transparent.png"></a>
-      </p>
       <p>&copy; 2015 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a></p>
   
   # Icons
@@ -70,7 +66,7 @@ theme:
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "/News/Blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown

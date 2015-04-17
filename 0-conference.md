@@ -2,8 +2,13 @@
 layout: page
 title: Conference
 permalink: /conference/
+draft: true
+image:
+ - url: img/scs_2014.png
+   caption: 'Swiss Cyber Storm 2014'
+   alt: 'Swiss Cyber Storm 2014'
 ---
-
+{% figure_img figure-notxtwrap-mw-500px 0 caption %}
 Swiss Cyber Storm 2015 is an international IT security conference in the domain of cyber attacks and defense.
 In a management and tech track, international experts talk about the latest findings, techniques, visions, opinions and lessons learned. To complement the talks, the conference features a CEO/CISO panel where decision makers discuss the current and future challenges in cyber defense. Swiss Cyber Storm 2015 provides a lot of room for the networking with national and international experts. And last but not least, thanks to the co-location of the conference with the European Cyber Security Challenge, it offers an unique opportunity to network with young talents from Austria, Germany, Romania, Spain, Switzerland, United Kingdom and maybe even more countries. All of these countries send a team formed by the winners of their national cyber competition to foster collaboration, networking and least but not least, to determine who has the best young talents in Europe.
 
@@ -15,21 +20,21 @@ Registration for the conference is now open!
 </a>
 
 <h2>Venue</h2>
-As in 2013 and 2014, the conference is held again in the 
-<a href="http://www.kkl-luzern.ch/" target="_blank">Konferenz- und Kongresszentrum
-Luzern (KKL)</a>, next to the train main station of Lucerne and the Lake Lucerne.
-<table>
-<tr>
-<td>
-<img src="/img/venue/kkl_luzern.jpg"></td>
-<td>
-KKL Luzern <br>
-Europaplatz 1 <br>
-6005 Luzern <br>
-<a href="http://www.kkl-luzern.ch/" target="_blank">http://www.kkl-luzern.ch/</a>
-</td>
-</tr>
-</table>
+ As in 2013 and 2014, the conference is held again in the 
+ <a href="http://www.kkl-luzern.ch/" target="_blank">Konferenz- und Kongresszentrum
+ Luzern (KKL)</a>, next to the train main station of Lucerne and the Lake Lucerne.
+
+ <div class="row">
+  <div class="col-md-7 col-xs-12">
+   <img src="/img/venue/kkl_luzern.jpg"></td>
+  </div>
+  <div class="col-md-5 col-xs-12">
+   KKL Luzern <br>
+   Europaplatz 1 <br>
+   6005 Luzern <br>
+   <a href="http://www.kkl-luzern.ch/" target="_blank">http://www.kkl-luzern.ch/</a>
+  </div>
+ </div>
 
 <h2>Travel</h2>
 
