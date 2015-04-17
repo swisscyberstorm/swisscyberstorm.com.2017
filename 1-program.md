@@ -6,9 +6,8 @@ permalink: /program/
 
 <h2>Conference Schedule</h2>
 
-Management Track  | Tech Track
-------------- | -------------
-Lord Sidious: How to manage the Empire | MacGyver: Build some fancy stuff
-Padmé Amidala: How to fight against the Empire | Dr. Emmett L. Brown: The Flux Cpacitor
+<p>Comming soon!</p>
 
 <h2>Speakers</h2>
+
+<p>Comming soon!</p>
