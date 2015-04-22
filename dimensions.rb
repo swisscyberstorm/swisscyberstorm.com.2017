@@ -10,7 +10,7 @@ require 'rubygems'
 require 'rmagick'
 require 'yaml'
 
-scaling = {'GOLD' => 1, 'SILVER' => 0.6, 'CHALLENGE+' => 0.6, 'BRONZE' => 0.3, 'CHALLENGE' => 0.3}
+scaling = {'GOLD' => 1, 'SILVER' => 0.6, 'CHALLENGE+' => 0.6, 'BRONZE' => 0.4, 'CHALLENGE' => 0.4}
 cnf = YAML::load(File.open('_data/sponsors.yml.orig'))
 
 

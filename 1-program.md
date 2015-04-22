@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 <h2>Conference Schedule</h2>
-
+<!--
 <div class="row program">
  <div class="col-xs-12">
   <div class="row">
@@ -149,4 +149,4 @@ permalink: /program/
  </div>
  </div>
 </div>
-
+-->
