@@ -1,0 +1,101 @@
+---
+- www: http://www.terreactive.ch/
+  image: /img/sponsors/Logo_terreActiveAG_big.png
+  image-alt: GOLD Sponsor - terreActive AG
+  profile: <strong>terreActive</strong> is one of the leading IT security experts
+    with main focus on Security Monitoring and Log Management. As a Swiss engineering
+    company with outstanding know-how our services include Consulting, Integration
+    and Operation. We design comprehensive concepts for international enterprises,
+    small e-business companies as well as for private banks.
+  max-width: 79%
+  type: GOLD
+- www: http://www.fh-ooe.at/studiengaenge/bachelor/sib/
+  image: /img/sponsors/Logo_FH.png
+  image-alt: SILVER Sponsor - FH Hagenberg
+  profile: <strong>FH Hagenberg</strong> is part of the &quot;Softwarepark Hagenberg&quot;,
+    which also hosts several university research departments and software companies.
+    With its unique combination of education, research and business, Hagenberg has
+    established itself as a dynamic center of computing and software development with
+    an international reputation. The School of Informatics, Communications and Media
+    offers a wide range of degree programmes in the field of Information Technology.
+    Strong ties to the IT industry, modern infrastructure and equipment as well as
+    a dedicated teaching staff ensure a high-quality, practice-oriented education
+    with excellent career opportunities.
+  max-width: 61%
+  type: SILVER
+- www: https://www.infoguard.ch/
+  image: /img/sponsors/InfoGuard_Logo_web.jpg
+  image-alt: SILVER Sponsor - InfoGuard
+  profile: <strong>InfoGuard</strong> is a leading and innovative Swiss company providing
+    comprehensive information security and network solutions. Our competences include
+    raising awareness, strategic and technical consultancy and auditing, as well as
+    the implementation and the support of network and security solutions.
+  max-width: 91%
+  type: SILVER
+- www: http://www.pwc.ch/en/challenges/cyber_security.html
+  image: /img/sponsors/PwC_farbig_rgb.jpg
+  image-alt: SILVER Sponsor - PwC Switzerland
+  profile: <strong>PwC</strong> brings a multi-disciplinary approach to information
+    and cyber security, addressing the key components of strategy, people, process,
+    technology and compliance. PwC's approach to information security blends business
+    insight with a broader view of risk. We help clients to exploit opportunities
+    by understanding their business drivers and threats and building in appropriate
+    security enablers.
+  max-width: 55%
+  type: SILVER
+- www: http://www.temet.ch
+  image: /img/sponsors/temet_logo.png
+  image-alt: SILVER Sponsor - TEMET
+  profile: <strong>TEMET</strong> is a privately owned IT Security consulting company
+    located in Zurich, Switzerland. It provides vendor independent project management
+    and consulting services in the areas of Information Security Management Systems
+    (ISMS) and Identity and Access Management (IAM) solutions. Our consultants have
+    a background in engineering and project management, and they are experienced practitioners.
+    With this combination of skills, they can plan, guide and support even your most
+    complex security initiatives. From the sketch book to production - we make your
+    IT Security infrastructure work! <!-- TEMET AG was founded 2010 by experienced
+    IT Security professionals and currently employs 11 information security consultants.
+    Its customer base comprises more than 30 financial institutions and public authorities
+    in Switzerland. -->
+  max-width: 100%
+  type: SILVER
+- www: https://www.united-security-providers.ch/
+  image: /img/sponsors/USP_Logo_oClaim_RGB.jpg
+  image-alt: SILVER Sponsor - United Security Providers
+  profile: <strong>United Security Providers</strong> is a leading specialist in information
+    security who closes the gaps in network and application security. As the Swiss
+    market leader in this sector, we now also handle this task on an increasingly
+    international level. Our efforts are centred on providing maximum security for
+    your business processes in terms of both confidentiality and availability. <!--
+    Solutions from United Security Providers effectively protect your existing IT
+    infrastructure, whilst also providing opportunities to simplify it. Since 1994,
+    a growing number of clients have been placing their trust in United Security Providers.
+    Our clients include renowned Swiss financial service providers, administrative
+    organisations, multinational corporations, hospitals and transport and logistics
+    companies, all of whom demand first-class products and services. And that’s just
+    what we offer – 24 hours a day, seven days a week – by operating mission-critical
+    network and security infrastructures at more than 400 locations across the globe.
+    Our carefully selected business partners help you to choose and integrate the
+    perfect solution for you, meaning that United Security Providers is always at
+    hand – wherever you are in the world.-->
+  max-width: 71%
+  type: SILVER
+- www: http://www.csnc.ch/
+  image: /img/sponsors/compass-L1_4c-o_print_registered_300dpi_trans.png
+  image-alt: BRONZE Sponsor - Compass Security AG
+  profile: <strong>Compass Security AG</strong> is a leading Swiss penetration testing
+    and ethical hacking company, located in Rapperswil-Jona with branches in Berne
+    and Berlin. Compass Security provides in-depth security analysis, APT detection
+    and forensic services to their clients.
+  max-width: 34%
+  type: BRONZE
+- www: http://www.digicomp.ch/
+  image: /img/sponsors/Logo_Digicomp_RGB_2500.png
+  image-alt: BRONZE Sponsor - DIGICOMP
+  profile: <strong>DIGICOMP</strong> is a leading specialist in on-the-job training.
+    Digicomp courses help to increase productivity at work. 90% of the participants
+    confirm 60 days after the course that they could speed up their work thanks to
+    the seminar. 250 lecturers with practical experience guarantee that participants
+    can immediately transfer the skills learned to the practice.
+  max-width: 65%
+  type: BRONZE
