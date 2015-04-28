@@ -11,7 +11,7 @@ Get in touch with them and check out what they have to offer!</p>
  <div class="row">
   <div id="equalheight">
   
-   <div class="col-lg-3 col-xs-6 col-eq-padding"> 
+   <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding"> 
     <div class="row">
      <div class="col-xs-12">
        <h4>Gold</h4>
@@ -24,7 +24,7 @@ Get in touch with them and check out what they have to offer!</p>
      <div class="col-xs-12">
       <div class="sponsor-img" style="max-width: {{item.max-width}}">
        <a href="{{item.www}}" target="_blank">
-        <img src="{{item.image}}" alt="{{item.image-alt}}">
+        <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
        </a>
       </div>
      </div>
@@ -48,19 +48,19 @@ Get in touch with them and check out what they have to offer!</p>
     {% assign no_odd = '</div></div>' %} 
     <div class="row">
      <div id="equalheight">
-      <div class="col-xs-6 col-eq-padding">
+      <div class="col-lg-6 col-sm-4 col-xs-6 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}" target ="_blank">
-         <img src="{{item.image}}" alt="{{item.image-alt}}">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
         </a>
        </div>
       </div>
   {% else %}
     {% assign no_odd = '' %} 
-      <div class="col-xs-6 col-eq-padding">
+      <div class="col-lg-6 col-sm-4 col-xs-6 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}" target ="_blank">
-         <img src="{{item.image}}" alt="{{item.image-alt}}">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
         </a>
        </div>
       </div>
@@ -84,19 +84,19 @@ Get in touch with them and check out what they have to offer!</p>
     {% assign no_odd = '</div></div>' %} 
     <div class="row">
      <div id="equalheight">
-      <div class="col-lg-3 col-xs-6 col-eq-padding">
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}{{no_odd}}" target ="_blank">
-         <img src="{{item.image}}" alt="{{item.image-alt}}">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
         </a>
        </div>
       </div>
   {% else %}
     {% assign no_odd = '' %} 
-      <div class="col-sm-3 col-xs-6 col-eq-padding">
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}{{no_odd}}" target ="_blank">
-         <img src="{{item.image}}" alt="{{item.image-alt}}">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
         </a>
        </div>
       </div>
@@ -127,7 +127,7 @@ Get in touch with them and check out what they have to offer!</p>
    <div class="col-sm-3 col-xs-6">
     <div class="sponsor-img" style="max-width: {{item.max-width}}">
      <a href="{{item.www}}{{no_odd}}" target ="_blank">
-      <img src="{{item.image}}" alt="{{item.image-alt}}">
+      <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
      </a>
     </div>
    </div>
