@@ -17,7 +17,7 @@ E-Mail</a></p>
 
 <h2>Press Releases</h2>
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>(empty)</li>
+  <li><i class="fa-li fa fa-check-square"></i><a href="/res/press/Press-Release-Challenge-Start_EN.pdf">Qualification opens: More IT security, playfully</a>, (<a href="/res/press/Press-Release-Challenge-Start_DE.pdf">German</a>) | (<a href="/res/press/Press-Release-Challenge-Start_FR.pdf">French</a>)</li>
 </ul>
 
 

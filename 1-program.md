@@ -4,30 +4,90 @@ title: Program
 permalink: /program/
 ---
 
-<h2>Conference Schedule</h2>
+{% assign speakers = site.data.speakers %}
+
+<p>The program is curently work in progress. Please find a list of confirmed speakers below.</p>
+
+<ul>
+{% for item in site.data.speakers %}
+
+     <a href="{{item.www}}" target ="_blank">
+      <li><a href="#{{item.id}}-profile">{{item.speaker}}</li>
+     </a>
+{% endfor %}
+</ul>
+
+<h3>Speakers</h3>
+
+{% for item in site.data.speakers %}
+
+<div class="row">
+ <div class="col-lg-12 col-md-12">
+  <div class="row">
+   <div class="col-sm-3 col-xs-6">
+    <div class="sponsor-img" style="max-width: 300">
+     <a href="{{item.www}}" target ="_blank">
+      <img src="{{item.image}}" alt="{{item.speaker}}">
+     </a>
+    </div>
+   </div>
+   <div class="col-sm-9 col-xs-12">
+    <p id="{{item.id}}-profile">
+     {{item.profile}}
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+{% endfor %}
+
 <!--
+<h2>Conference Schedule</h2>
 <div class="row program">
  <div class="col-xs-12">
+
   <div class="row">
    <div id="equalheight">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>09:00 - 09:45</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <speaker>Speaker</speaker>
-    <title>Keynote</title>
+    <div class="col-sm-2 col-xs-12 time-col">
+     <time>08:30 - 09:00</time>
+    </div>
+    <div class="col-sm-10 col-xs-12 break-col">
+     Registration
+    </div>
    </div>
   </div>
+
+  <div class="row">
+   <div id="equalheight">
+    <div class="col-sm-2 col-xs-12 time-col">
+     <time>09:00 - 09:05</time>
+    </div>
+    <div class="col-sm-10 col-xs-12 talk-col-morning">
+     Welcome
+    </div>
+   </div>
   </div>
+  
   <div class="row">
    <div class="col-sm-2 col-xs-12 time-col">
-    <time>09:45 - 10:30</time>
+    <time>09:05 - 09:50</time>
    </div>
    <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <speaker>Speaker</speaker>
-    <title>Talk 1</title>
+    <a href="#{{speakers[0].id}}-profile"><speaker>{{speakers[0].speaker}}</speaker></a>
+    <a href="#{{speakers[0].id}}-abstract"><title>{{speakers[0].title}}</title></a>
    </div>
   </div>
+
+  <div class="row">
+   <div class="col-sm-2 col-xs-12 time-col">
+    <time>09:50 - 10:30</time>
+   </div>
+   <div class="col-sm-10 col-xs-12 talk-col-morning">
+    <a href="#{{speakers[1].id}}-profile"><speaker>{{speakers[1].speaker}}</speaker></a>
+    <a href="#{{speakers[1].id}}-abstract"><title>{{speakers[1].title}}</title></a>
+   </div>
+  </div>
+
   <div class="row">
    <div class="col-sm-2 col-xs-12 time-col">
     <time>10:30 - 11:00</time>
@@ -110,43 +170,17 @@ permalink: /program/
 </div>
 
 
+<h3>Abstracts</h3>
 
-<p>Comming soon!</p>
-
-<h2>Speakers</h2>
-
+{% for item in site.data.speakers %}
 <div class="row">
- <div class="col-lg-6 col-md-12">
-  <div class="row">
-  <div class="col-lg-4 col-sm-3 col-xs-12">
-    <div class="sponsor-img" style="max-width: 11em">
-     <a href="http://www.terreactive.ch/" target="_blank">
-     <img src="/img/sponsors/Logo_terreActiveAG_big.png" alt="GOLD Sponsor - terreActive AG">
-     </a>
-    </div>
-  </div>
-  <div class="col-lg-8 col-sm-9 col-xs-12">
-   <p>
-    <strong>terreActive AG</strong> is a leading provider of IT security solutions in Switzerland. We design sustainable concepts and tailored solutions to meet our customers' sophisticate$
-   </p>
-  </div>
-  </div>
- </div>
- <div class="col-lg-6 col-md-12">
-  <div class="row">
-  <div class="col-lg-4 col-sm-3 col-xs-12">
-   <div class="sponsor-img" style="max-width: 9.0em;">
-    <a href="http://www.fh-ooe.at/studiengaenge/bachelor/sib/" target ="_blank">
-     <img src="/img/sponsors/Logo_FH.png" alt="SILVER Sponsor - FH Hagenberg">
-    </a>
-   </div>
-  </div>
-  <div class="col-lg-8 col-sm-9 col-xs-12">
-   <p>
-    <strong>FH Hagenberg</strong> is ... (TODO)
-   </p>
-  </div>
- </div>
+ <div class="col-lg-12 col-md-12">
+  <h4>{{item.title}}</h4>
+  <strong>Title: </strong>{{item.title}}<br>
+  <strong>Speaker: </strong>{{item.speaker}}<br>
+  <p id="{{item.id}}-abstract">{{item.abstract}}</p>
  </div>
 </div>
+{% endfor %}
+
 -->
