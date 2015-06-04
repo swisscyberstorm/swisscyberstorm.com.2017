@@ -170,17 +170,19 @@ permalink: /program/
 </div>
 
 
+-->
+
 <h3>Abstracts</h3>
 
 {% for item in site.data.speakers %}
+{% if item.title != 'Working Title' %}
 <div class="row">
  <div class="col-lg-12 col-md-12">
   <h4>{{item.title}}</h4>
-  <strong>Title: </strong>{{item.title}}<br>
   <strong>Speaker: </strong>{{item.speaker}}<br>
   <p id="{{item.id}}-abstract">{{item.abstract}}</p>
  </div>
 </div>
+{% endif %}
 {% endfor %}
 
--->

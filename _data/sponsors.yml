@@ -28,6 +28,13 @@
     Security and a part time Master degree program in Information Security Management.'
   max-width: 60%
   type: SILVER
+- www: https://www.hslu.ch/de-ch/informatik/weiterbildung/#?filters=1109
+  image: /img/sponsors/hslu.png
+  image-alt: SILVER Sponsor - Lucerne University of Applied Sciences and Arts
+  profile: <strong>Lucerne University of Applied Sciences and Arts</strong><br>Profile
+    will be available soon!
+  max-width: 69%
+  type: SILVER
 - www: https://www.infoguard.ch/
   image: /img/sponsors/infoguard_logo.svg
   image-alt: SILVER Sponsor - InfoGuard

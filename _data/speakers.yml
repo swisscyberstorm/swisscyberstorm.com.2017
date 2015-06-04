@@ -1,14 +1,24 @@
 ---
 - speaker: Josef Nelissen, CISO, ABB
-  title: "Protecting intellectual property and other assets in the cyber Middle Ages"
+  title: "ABB’s Security Step Up Program – Countering the Cyber Threat"
   profile: "<strong>Josef Nelissen</strong> is recognized as a Senior Leader in Information Security both within ABB and beyond in the global network of Security Professionals.<br>He has been shaping and developing the ABB Group Information Security function from a small team at its very beginning in 2001 to a global organization of adequate size for a Fortune 500 company in 2015.<br>Josef is passionate about Information Security and sets high standards of performance for his staff and himself regarding delivery on quality, time, and budget.<br>His analytical skills, ingenuity and commitment permit him to address very complex problems and deliver feasible solutions.<br>He feels at home delivering the case of Information Security to Senior Stakeholders both within his company and at international conferences.<br>While he is very experienced in operational matters of Information Security, his knowledge ranges from designing operational services and providing advice and consulting on Information Security to Information Security Architecture, Strategy, Governance and Risk Management. This has enabled him to design the Information Security Step Up Transformation Program for ABB, which will raise the Information Security Function to a best of breed level by 2016."
-  abstract: "Protecting intellectual property and other assets: Trends, challenges and experiences from the industry sector."
+  abstract: "ABB is, like everybody else, acknowledging that threats are increasing and getting more complex and sophisticated.
+We are responding to this in various ways through a 3 year Security Step Up Program:
+<ul>
+<li>Investing in new and improved technology and security staff</li>
+<li>Extending the use of managed security services</li>
+<li>Expanding the service portfolio</li>
+<li>Ramping up protection for our most precious data and applications</li>
+<li>Standardizing service delivery worldwide, leaving behind the legacy country based delivery model</li>
+<li>Setting up timezone based service delivery centers</li>
+</ull>
+"
   www: "https://www.linkedin.com/pub/josef-nelissen/aa/399/332"
   image: /img/speakers/josef_nelissen.jpg
   max-width: 78%
   id: nelissen
 - speaker: Patrick Miller, President Emeritus of EnergySec
-  title: "Working title"
+  title: "Working Title"
   profile: "<strong>Patrick Miller</strong> is a security executive who has dedicated his career to the protection and defense of the nation’s critical energy infrastructure. He is the founder of EnergySec, and currently its President and CEO. This nonprofit information sharing organization began as a few colleagues meeting for lunch and has grown into a nationwide effort to promote sound security principles in the energy industry. <br>One of his strengths is the diversity of his professional experience. In Energy, he has held positions with a utility, a regulator, and a private consulting firm. He has also held key positions in the Insurance, Internet and Telecommunications sectors. Among other credentials he holds the CISA, CRISC and CISSP certifications. <br>Patrick is an active member of several critical infrastructure security working groups and a sought after speaker and industry expert on the subjects of critical infrastructure protection, process control system security, regulatory compliance, audit, and privacy."
   abstract: "To be posted."
   www: "https://www.linkedin.com/in/millerpatrickc"
@@ -16,21 +26,28 @@
   max-width: 78%
   id: miller
 - speaker: Dmitry Slinkov, Information Security Officer, RUSSIA CONSULTING
-  title: "Working title"
+  title: "Black Market of Cybercrime in Russia"
   profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
-  abstract: "To be posted."
+  abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
+How to identify which threats are most relevant and can be directed against you tomorrow? Are the hackers really as scary as people speculate? 
+We explored the services available on the black market of cybercrime in Russia and the CIS and found a lot of very nice services like purchasing 
+and renting of botnets, personal malware, DoS attacks, hacking of private and corporate emails, etc... and decided to test these services to get 
+the real picture of the methods hackers use and to know the costs of such attacks."
   www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
   image: /img/speakers/dmitry_slinkov.jpg
   max-width: 78%
   id: slinkov
-- speaker: MacDonnell Ulsch, Senior Managing Director, Cybercrime & Breach Response, PricewaterhouseCoopers LLP
-  title: "Working title"
-  profile: "<strong>MacDonnell Ulsch</strong> is senior Managing Director of Cybercrime and Breach Response at PricewaterhouseCoopers LLP.  He served on the United States Secrecy Commission and is the author of two books, “Cyber Threat! How to Manage the Growing Risk of Cyber Attacks” (Wiley, 2014) and “THREAT! Managing Risk in a Hostile World” (The IIA Research Foundation, 2008). Ulsch has advised a variety of private sector and federal agency clients and has led many complex breach investigation."
-  abstract: "To be posted."
-  www: "https://www.linkedin.com/pub/don-ulsch/1/bb2/38a"
-  image: /img/speakers/macdonnell_ulsch.png
+- speaker: Richard Dorough, Senior Managing Director, National Practice leader Cyber Breach Response, Remediation and Investigation Practice, PwC
+  title: "State of the Cyber Threat & Consequences of Inaction"
+  profile: "<strong>Richard Dorough</strong> is as a Senior Managing Director and National Practice leader in our Cyber Breach Response, Remediation and Investigation Practice.  Richard has over 20 years’ experience in IT Security, IT Forensics, IT Audit, and IT Governance.  Areas of focus include digital threat assessments, Cyber incident identification and response, electronic investigations and IT Security organization and operations center  assessment and development. <br> Richard was the Global Chief Information Security Officer for Textron.  As Global Chief Information Security Officer, Richard was responsible for developing, maintaining and assuring continuous improvement of Textron’s Information Technology Security strategy, programs, policies and processes. This included leadership of the Information Technology Risk Management (ITRM) Council which is a team of Security leaders from across Textron’s Business Units and COEs.  Richard was also responsible for IT Privacy governance, software asset management, disaster recovery and led the IT portion of the electronic discovery (eDiscovery) program for Textron. "
+  abstract: "The cyber threat is increasingly sophisticated.  Many cyber defenses are inadequate to mitigate the risk.  
+While many boards of directors are beginning to ask probing questions about the cyber threat, not enough are engaging this issue adequately.
+This is a discussion of what boards need to know in order to more effectively managed the cyber risk, which now qualifies as one of the more 
+critical threats most any board will face."
+  www: "https://www.linkedin.com/pub/richard-dorough/1/220/971"
+  image: /img/speakers/richard_dorough.png
   max-width: 78%
-  id: ulsch
+  id: dorough
 
 
 
