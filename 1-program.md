@@ -179,7 +179,7 @@ permalink: /program/
 <div class="row">
  <div class="col-lg-12 col-md-12">
   <h4>{{item.title}}</h4>
-  <strong>Speaker: </strong>{{item.speaker}}<br>
+  <strong>Speaker: </strong>{{item.speaker}}<br><br>
   <p id="{{item.id}}-abstract">{{item.abstract}}</p>
  </div>
 </div>
