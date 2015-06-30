@@ -5,6 +5,7 @@ permalink: /press/
 ---
 <h2>Press Releases</h2>
 <ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i><a href="/res/press/SCS_MM_Event_Gymnasien_DE_def.pdf">«Ethical Hacking»-Kurse gegen den Fachkräftemangel</a></li>
   <li><i class="fa-li fa fa-check-square"></i><a href="/res/press/Press-Release-Challenge-Start_EN.pdf">Qualification opens: More IT security, playfully</a>, (<a href="/res/press/Press-Release-Challenge-Start_DE.pdf">German</a>) | (<a href="/res/press/Press-Release-Challenge-Start_FR.pdf">French</a>)</li>
 <li><i class="fa-li fa fa-check-square"></i><a href="/res/press/alpencup_final_pressemitteilung_final_v2.0.pdf">Press Release 3/13 - 11.11.2013 (German)</a></li>
 <li><i class="fa-li fa fa-check-square"></i><a href="/res/press/SCS4_MM_20130613.pdf">Press Release 2/13 - 13.06.2013 (German)</a></li>
@@ -15,6 +16,21 @@ permalink: /press/
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i><a href="http://www.20min.ch/digital/news/story/-Eine-Webcam-laesst-sich-innert-Minuten-knacken--27871932" target="_blank">
 20 Minuten: Centre of Excellence member about Webcam Security
+</a></li>
+<li><i class="fa-li fa fa-check-square"></i><a href="http://ictk.ch/content/ethical-hacking-kurse-gegen-den-fachkr%C3%A4ftemangel" target="_blank">
+ICT Kommunikation: "Ethical Hacking"-Kurse gegen den Fachkräftemangel
+</a></li>
+<li><i class="fa-li fa fa-check-square"></i><a href="http://www.itbusiness.ch/news/people-corporate/item/390-%C2%ABethical-hacking%C2%BB-kurse-gegen-den-fachkr%C3%A4ftemangel.html" target="_blank">
+IT Business: "Ethical Hacking"-Kurse gegen den Fachkräftemangel
+</a></li>
+<li><i class="fa-li fa fa-check-square"></i><a href="http://www.computerworld.ch/news/security/artikel/mit-ethical-hacking-gegen-den-fachkraeftemangel-68193/" target="_blank">
+Computerworld: Mit «Ethical Hacking» gegen den Fachkräftemangel
+</a></li>
+<li><i class="fa-li fa fa-check-square"></i><a href="http://www.netzwoche.ch/de-CH/News/2015/06/25/Verein-will-Jugendliche-fuer-Cyber-Gefahren-sensibilisieren.aspx" target="_blank">
+Netzwoche: Verein will Jugendliche für Cybergefahren sensibilisieren
+</a></li>
+<li><i class="fa-li fa fa-check-square"></i><a href="http://www.it-markt.ch/de-CH/News/2015/06/25/Verein-will-Jugendliche-fuer-Cyber-Gefahren-sensibilisieren.aspx" target="_blank">
+IT-Markt: Verein will Jugendliche für Cybergefahren sensibilisieren
 </a></li>
 </ul>
 
