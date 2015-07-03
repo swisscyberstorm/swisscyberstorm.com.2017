@@ -2,14 +2,14 @@
   image: "/img/sponsors/terreactive_logo.svg" 
   image-alt: "GOLD Sponsor - terreActive AG"
   profile: "<strong>terreActive</strong> is one of the leading IT security experts with main focus on Security Monitoring and Log Management. As a Swiss engineering company with outstanding know-how our services include Consulting, Integration and Operation. We design comprehensive concepts for international enterprises, small e-business companies as well as for private banks."
-  max-width: 11em
+  max-width: 1
   type: "GOLD"
 
 - www: "http://www.fh-ooe.at/studiengaenge/bachelor/sib/"
   image: "/img/sponsors/fh-hagenberg_logo.svg"
   image-alt: "SILVER Sponsor - FH Hagenberg"
   profile: "About the <strong>University of Applied Sciences Upper Austria (FH OÖ)</strong><br>The University is one of the country’s field leaders in applied sciences and offers internationally recognized, practice-oriented degree programs at four locations in the central region of Upper Austria. Each of the University’s four schools has defined its own key areas for best practice in teaching and research: Informatics, Communications and Media at Hagenberg Campus, Applied Health and Social Sciences at Linz Campus, Management at Steyr Campus and Engineering and Environmental Sciences at Wels Campus. The School of Informatics, Communications and Media is part of the Softwarepark Hagenberg complex, which also hosts several University research centers and a number of commercial software companies, and has established a worldwide reputation as a dynamic powerhouse of computing and software development. At Hagenberg Campus, a wide range of degree programs in information technology is offered, including fulltime Bachelor and Master degree programs in technical Information Security and a part time Master degree program in Information Security Management."
-  max-width: 11em
+  max-width: 1
   type: SILVER
 
 - www: "https://www.hslu.ch/de-ch/informatik/"
@@ -17,28 +17,42 @@
   image-alt: "SILVER Sponsor - Lucerne University of Applied Sciences and Arts"
   profile: "The <strong>Lucerne University of Applied Sciences and Arts</strong> is a university of applied sciences that is supported by the six cantons of Central Switzerland. With over 5,800 students attending bachelor's and master's degree programmes, almost 4,400 students attending continuing and executive education programmes, and 556 projects in research and development, it is the largest educational institution in this region, the heart of Switzerland.<br>
 The Lucerne University of Applied Sciences and Arts will contribute with a new School of Information Technology in Rotkreuz from 2016 onwards. The Lucerne School of Information Technology offers bachelor’s and master’s degree programs, applied research and development, and continuing education programs in Information Technology and Business Information Technology."
-  max-width: 11em
+  max-width: 1
   type: SILVER
 
 - www: "https://www.infoguard.ch/"
   image: "/img/sponsors/infoguard_logo.svg"
   image-alt: "SILVER Sponsor - InfoGuard"
   profile: "<strong>InfoGuard</strong> is a leading and innovative Swiss company providing comprehensive information security and network solutions. Our competences include raising awareness, strategic and technical consultancy and auditing, as well as the implementation and the support of network and security solutions."
-  max-width: 11em
+  max-width: 1
+  type: SILVER
+
+- www: "https://www.oneconsult.ch/"
+  image: "/img/sponsors/oneconsult_logo.svg"
+  image-alt: "SILVER Sponsor - Oneconsult AG"
+  profile: "<strong>Oneconsult AG</strong> was founded in 2003 and is a privately owned, product and vendor independent Swiss IT security consulting company with offices in Switzerland and Germany. With a customer base of 250+ (international) organizations and a total of 1000+ security projects, we are a reliable and trustworthy partner with cutting-edge hacking techniques.<br>Oneconsult has one of the largest teams of salaried and certified penetration testers (OPST, OSCP) in Switzerland, highly qualified and certified digital forensics experts (GCFE), as well as an experienced ISO 27001 Lead Auditor team."
+  max-width: 1
   type: SILVER
 
 - www: "http://www.pwc.ch/cybersecurity"
   image: "/img/sponsors/pwc_logo.svg"
   image-alt: "SILVER Sponsor - PwC Switzerland"
   profile: "<strong>PwC</strong> brings a multi-disciplinary approach to information and cyber security, addressing the key components of strategy, people, process, technology and compliance. PwC's approach to information security blends business insight with a broader view of risk. We help clients to exploit opportunities by understanding their business drivers and threats and building in appropriate security enablers."
-  max-width: 11em
+  max-width: 1
   type: SILVER
 
 - www: "http://www.temet.ch"
   image: "/img/sponsors/temet_logo.svg"
   image-alt: "SILVER Sponsor - TEMET"
   profile: "<strong>TEMET</strong> is a privately owned information security consulting company located in Zurich, Switzerland. It provides vendor independent project management and consulting services in the areas of Identity and Access Management (IAM) and Information Security Management Systems (ISMS) solutions. Our consultants have a background in engineering and project management, and they are experienced practitioners. Temet currently employs 11 information security experts and has a customer base of more than 40 financial institutions and public authorities in Switzerland."
-  max-width: 11em
+  max-width: 1
+  type: SILVER
+
+- www: "http://www.trendmicro.de"
+  image: "/img/sponsors/trendmicro_logo.svg"
+  image-alt: "SILVER Sponsor - Trend Micro"
+  profile: "<strong>Trend Micro</strong> company profile."
+  max-width: 1
   type: SILVER
 
 - www: "https://www.united-security-providers.ch/"
@@ -46,19 +60,26 @@ The Lucerne University of Applied Sciences and Arts will contribute with a new S
   image-alt: "SILVER Sponsor - United Security Providers"
   profile: "<strong>United Security Providers</strong> is a leading specialist in information security who closes the gaps in network and application security. As the Swiss market leader in this sector, we now also handle this task on an increasingly international level. Our efforts are centred on providing maximum security for your business processes in terms of both confidentiality and availability. 
   <!-- Solutions from United Security Providers effectively protect your existing IT infrastructure, whilst also providing opportunities to simplify it. Since 1994, a growing number of clients have been placing their trust in United Security Providers. Our clients include renowned Swiss financial service providers, administrative organisations, multinational corporations, hospitals and transport and logistics companies, all of whom demand first-class products and services. And that’s just what we offer – 24 hours a day, seven days a week – by operating mission-critical network and security infrastructures at more than 400 locations across the globe. Our carefully selected business partners help you to choose and integrate the perfect solution for you, meaning that United Security Providers is always at hand – wherever you are in the world.-->"
-  max-width: 11em
+  max-width: 1
   type: SILVER
+
+- www: "http://www.aspectra.ch/"
+  image: "/img/sponsors/aspectra_logo.svg"
+  image-alt: "BRONZE Sponsor - aspectra AG"
+  profile: "<strong>aspectra</strong> is a dedicated hoster of IT systems for business-critical applications. We comply with FINMA-RS08/7 and we are ISO/IEC 27001:2013-certified. Our georedundant data centers are located exclusively in Switzerland. Customers are banks, insurance companies, e-health providers, the Swiss government, web portals, online shops etc."
+  max-width: 1
+  type: BRONZE
 
 - www: "http://www.csnc.ch/"
   image: "/img/sponsors/compass_logo.svg"
   image-alt: "BRONZE Sponsor - Compass Security AG"
   profile: "<strong>Compass Security AG</strong> is a leading Swiss penetration testing and ethical hacking company, located in Rapperswil-Jona with branches in Berne and Berlin. Compass Security provides in-depth security analysis, APT detection and forensic services to their clients."
-  max-width: 11em
+  max-width: 1
   type: BRONZE
 
 - www: "http://www.digicomp.ch/"
   image: "/img/sponsors/digicomp_logo.svg"
   image-alt: "BRONZE Sponsor - DIGICOMP"
   profile: "<strong>DIGICOMP</strong> is a leading specialist in on-the-job training. Digicomp courses help to increase productivity at work. 90% of the participants confirm 60 days after the course that they could speed up their work thanks to the seminar. 250 lecturers with practical experience guarantee that participants can immediately transfer the skills learned to the practice."
-  max-width: 11em
+  max-width: 0.8
   type: BRONZE
