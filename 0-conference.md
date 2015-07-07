@@ -10,9 +10,9 @@ image:
 ---
 {% figure_img figure-notxtwrap-mw-500px 0 caption %}
 Swiss Cyber Storm 2015 is an international IT security conference in the domain of cyber attacks and defense.
-In a management and tech track, international experts talk about the latest findings, techniques, visions, opinions and lessons learned. To complement the talks, the conference features a CEO/CISO panel where decision makers discuss the current and future challenges in cyber defense. Swiss Cyber Storm 2015 provides a lot of room for the networking with national and international experts. And last but not least, thanks to the co-location of the conference with the European Cyber Security Challenge, it offers an unique opportunity to network with young talents from Austria, Germany, Romania, Spain, Switzerland, United Kingdom and maybe even more countries. All of these countries send a team formed by the winners of their national cyber competition to foster collaboration, networking and least but not least, to determine who has the best young talents in Europe.
+On the management and tech track, international experts talk about the latest findings, techniques, visions, opinions and lessons learned. To complement the talks, the conference features a CEO/CISO panel where decision makers discuss the current and future challenges in cyber defense. Swiss Cyber Storm 2015 provides a lot of room for networking with national and international experts. And last but not least, thanks to the co-location of the conference with the European Cyber Security Challenge, it offers an unique opportunity to network with young talents from Austria, Germany, Romania, Spain, Switzerland, United Kingdom and possibly even more countries. All of these countries send a team formed by the winners of their national cyber competition to foster collaboration, networking and with this is determined who has the best young talents in Europe.
 
-Swiss Cyber Storm is supported by the Federal Department of Foreign Affairs, the Federal Department of Finance and the Swiss Accademy of Engineering Sciences (SATW). Furthermore, the European Cyber Security Challenge is supportet by the European Network and Information Security Agency (ENISA), the  and the organizations organizing the national competitions the participating countries.
+Swiss Cyber Storm is supported by the Federal Department of Foreign Affairs, the Federal Department of Finance and the Swiss Accademy of Engineering Sciences (SATW). Furthermore, the European Cyber Security Challenge is supported by the European Network and Information Security Agency (ENISA) as well as the organizations that each spent time organizing the national competitions for each respective participating country.
 
 <h2>Tickets</h2>
 <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942" style="text-decoration: underline;">
@@ -40,7 +40,7 @@ Registration for the conference is now open!
 
 <h3>By Train (recommended)</h3>
 The conference center (<a href="http://www.kkl-luzern.ch/" target="_blank">KKL</a>)
-is located next to the train main station of Lucerne and reachable within a 5 2 minutes'
+is located next to the train main station of Lucerne and reachable within a 5 minutes
 walk. Please refer to the website of SBB for more information and timetables.
 
 <h3>By Car</h3>
@@ -54,7 +54,7 @@ for more information.
 <h3>By Plane</h3>
 The closest international airport is located in Zurich
 (<a href="http://www.zurich-airport.com/passengers-and-visitors" target="_blank">ZRH</a>).
-It's recommended to take the <a href="https://www.sbb.ch/en/home.html" target="_blank">
+It is recommended that attendees take the <a href="https://www.sbb.ch/en/home.html" target="_blank">
 train</a> from the airport to the conference center (travel time approx. 1hr ).
 
 <h2>Accommodation</h2>

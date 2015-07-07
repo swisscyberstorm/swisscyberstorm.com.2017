@@ -6,7 +6,7 @@ permalink: /program/
 
 {% assign speakers = site.data.speakers %}
 
-<p>The program is curently work in progress. Please find a list of confirmed speakers below.</p>
+<p>The program is currently a work in progress. Please find a list of confirmed speakers below.</p>
 
 <ul>
 {% for item in site.data.speakers %}

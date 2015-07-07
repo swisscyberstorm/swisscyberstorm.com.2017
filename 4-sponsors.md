@@ -5,8 +5,8 @@ permalink: /sponsors/
 hide: false
 ---
 <h2>Sponsors</h2>
-<p>Swiss Cyber Storm would like to thank its partners and sponsors for their invaluable support. We are happy to have them on board. We believe they are not only the right partners for us but also for you. 
-Get in touch with them and check out what they have to offer!</p>
+<p>Swiss Cyber Storm would like to thank its partners and sponsors for their invaluable support. We are happy to have each of them on board. We believe they are not only the right partners for us but also for you. 
+Get in touch with them and have a look at what they have to offer!</p>
 
  <div class="row">
   <div id="equalheight">
@@ -147,8 +147,7 @@ Please contact us at
 <a href="mailto:sponsoring@swisscyberstorm.com" target="_blank">sponsoring@swisscyberstorm.com</a>
 and we'll tell you all about our conference and challenge sponsoring opportunities!
 
-You can visit our web sites from previous years to get an impression of the Swiss Cyber Storm event. However, please note that this year, Swiss Cyber Storm is special since we are the host of the European Cyber Security challenge final! 
-
+You can visit our web sites from previous years to get a better idea of the Swiss Cyber Storm event. However, please note that this year, Swiss Cyber Storm is special since we are the host of the European Cyber Security challenge final! 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i><a href="http://2013.swisscyberstorm.com/" target="_blank">2013</a></li>
   <li><i class="fa-li fa fa-check-square"></i><a href="http://2014.swisscyberstorm.com/" target="_blank">2014</a></li>
