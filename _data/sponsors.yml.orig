@@ -15,8 +15,7 @@
 - www: "https://www.hslu.ch/de-ch/informatik/"
   image: "/img/sponsors/hslu.svg"
   image-alt: "SILVER Sponsor - Lucerne University of Applied Sciences and Arts"
-  profile: "The <strong>Lucerne University of Applied Sciences and Arts</strong> is a university of applied sciences that is supported by the six cantons of Central Switzerland. With over 5,800 students attending bachelor's and master's degree programmes, almost 4,400 students attending continuing and executive education programmes, and 556 projects in research and development, it is the largest educational institution in this region, the heart of Switzerland.<br>
-The Lucerne University of Applied Sciences and Arts will contribute with a new School of Information Technology in Rotkreuz from 2016 onwards. The Lucerne School of Information Technology offers bachelor’s and master’s degree programs, applied research and development, and continuing education programs in Information Technology and Business Information Technology."
+  profile: "<strong>The Lucerne School of Information Technology</strong> is one of the six Schools of the Lucerne University of Applied Sciences and Arts. It offers bachelor’s and master’s degree programs, continuing and executive education programs, applied research and development, and services in Information Technology and Business Information Technology on a single campus.<br><br>As <strong>the only dedicated School for Information Technology in Switzerland</strong>, it is investing in new infrastructures and is also making IT accessible to creative minds with the new Digital Ideation degree program. The future-proof facilities on the Suurstoffi site in Rotkreuz are a central part of this growth strategy. With the <strong>Campus Rotkreuz</strong>, the Lucerne University of Applied Sciences and Arts is creating one of the most advanced learning centers in Switzerland." 
   max-width: 1
   type: SILVER
 
@@ -51,7 +50,7 @@ The Lucerne University of Applied Sciences and Arts will contribute with a new S
 - www: "http://www.trendmicro.de"
   image: "/img/sponsors/trendmicro_logo.svg"
   image-alt: "SILVER Sponsor - Trend Micro"
-  profile: "<strong>Trend Micro</strong> company profile."
+  profile: "<strong>Trend Micro Incorporated</strong>, a global leader in security software, strives to make the world safe for exchanging digital information. Our innovative solutions for consumers, businesses and governments provide layered content security to protect information on mobile devices, endpoints, gateways, servers and the cloud. All of our solutions are powered by cloud-based global threat intelligence, the Trend Micro™ Smart Protection Network™, and are supported by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com."
   max-width: 1
   type: SILVER
 
