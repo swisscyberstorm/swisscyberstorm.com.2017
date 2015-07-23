@@ -1,0 +1,143 @@
+---
+- speaker: Jennifer Garnick
+  jobtitle: Director of Civil Liberties
+  affiliation: Stanford Center for Internet and Society
+  title: "The Lifecycle of a Revolution"
+  profile: "<strong>Jennifer Granick</strong> is the Director of Civil Liberties at the Stanford Center for Internet and Society. Jennifer returns to Stanford after working with the internet boutique firm of Zwillgen PLLC. Before that, she was the Civil Liberties Director at the Electronic Frontier Foundation. Jennifer practices, speaks and writes about computer crime and security, electronic surveillance, consumer privacy, data protection, copyright, trademark and the Digital Millennium Copyright Act. From 2001 to 2007, Jennifer was Executive Director of CIS and taught Cyberlaw, Computer Crime Law, Internet intermediary liability, and Internet law and policy. Before teaching at Stanford, Jennifer spent almost a decade practicing criminal defense law in California. She was selected by Information Security magazine in 2003 as one of 20 &qt;Women of Vision&qt; in the computer security field. She earned her law degree from University of California, Hastings College of the Law and her undergraduate degree from the New College of the University of South Florida."
+  abstract: "In the early days of the public internet, we believed that we were helping build something totally new, a world that would leave behind the shackles of age, of race, of gender, of class, even of law. Twenty years on, &qt;cyberspace&qt; looks a lot less revolutionary than it once did. Hackers have become information security professionals. Racism and sexism have proven resiliant enough to thrive in the digital world. Big companies are getting even bigger, and the decisions corporationsnot just governmentsmake about security, privacy, and free speech affect hundreds of thousands, or millions, of people. The Four Horsemen of the Infocalypseterrorists, pedophiles, drug dealers, and money launderersare driving online policy as governments around the world are getting more deeply involved in the business of regulating the network. Meanwhile, the Next Billion Internet Users are going to connect from Asia and developing countries without a Bill of Rights. Centralization, Regulation, and Globalization are the key words, and over the next twenty years, we'll see these forces change digital networks and information security as we know it today. So where does that leave security, openness, innovation, and freedom?<br><br>
+The Digital Millennium Copyright Act is being used to weld the hood of cars shut to keep engine software safe from mechanics. Will we still have the Freedom to Tinker even in the oldest of technologies? What does it mean that the U.S. is a big player in the zero-day market even as international agreements seek to regulate exploit code and surveillance tools? Will we see liability for insecure software and what does that mean for open source? With advances in artificial intelligence that will decide who gets run over, who gets a loan, who gets a job, how far off can legal liability regimes for robots, drones, and even algorythms be? Is the global Internet headed for history's dustbin, and what does a balkanized network mean for security, for civil rights?<br><br>
+In this talk, Granick will look forward at the forces that are shaping and will determine the next 20 years in the lifecycle of the revolutionary communications technology that we've had such high hopes for."
+  www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
+  image: /img/speakers/jennifer_granick.jpg
+  max-width: 78%
+  id: granick
+- speaker: Sponsor
+  jobtitle: CTO
+  affiliation: terreActive
+  title: "Working Title"
+  profile: "<strong>Sponsor </strong> is ..."
+  abstract: ""
+  www: ""
+  image: /img/speakers/sponsor.jpg
+  max-width: 78%
+  id: terreactive
+- speaker: Dr. Yuejin Du
+  jobtitle: Vice President
+  affiliation: Alibaba Group
+  title: "Working Title"
+  profile: "<strong>Yuejin Du, Ph.D.</strong> is currently serving as the director of the National Engineering Laboratory for Cybersecurity Emergency Response Technology, CTO of the National Computer Emergency Response Team and Coordination Center of China (CNCERT/CC). Dr. Du has more than 10 years of experience on Internet security and was involved in the handling work of nearly all the large scale Internet incidents during 2001 to 2008. Dr. Du contributed to national Internet security capacity building, leaded the project of national Internet intrusion monitoring platform and played a key role setting up the national incident response cooperation framework. Dr. Du was one of the top level network security experts during many important event, include Olympic Game in 2008, the World Expo and the Asian Games in 2010, and the Summer Universiade in 2011. Dr. Du earned many very high level awards because of his contributions. <br><br> 
+Dr. Du also played an active role in international cooperation. Dr. Du worked as deputy chair of APCERT. He proposed the China-ASEAN cooperation framework on network security, led an APEC-TEL project on botnet countermeasure, and conducted numerous presentations on various international conferences."
+  abstract: ""
+  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
+  image: /img/speakers/yuejin_du.jpg
+  max-width: 78%
+  id: drdu
+- speaker: Alan Neville
+  jobtitle: Threat Intelligence Analyst 
+  affiliation: Symantec
+  title: "Working Title"
+  profile: "<strong>Alan Neville</strong> ... "
+  abstract: ""
+  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
+  image: /img/speakers/alan_neville.jpg
+  max-width: 78%
+  talkid: fbi 
+  id: neville
+- speaker: Dmitry Slinkov
+  jobtitle: Information Security Officer
+  affiliation: RUSSIA CONSULTING
+  title: "Black Market of Cybercrime in Russia"
+  profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
+  abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
+How to identify which threats are most relevant and can be directed against you tomorrow? Are the hackers really as scary as people speculate? 
+We explored the services available on the black market of cybercrime in Russia and the CIS and found a lot of very nice services like purchasing 
+and renting of botnets, personal malware, DoS attacks, hacking of private and corporate emails, etc... and decided to test these services to get 
+the real picture of the methods hackers use and to know the costs of such attacks."
+  www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
+  image: /img/speakers/dmitry_slinkov.jpg
+  max-width: 78%
+  id: slinkov
+- speaker: Thom Langford
+  jobtitle: CISO
+  affiliation: Publicis Group
+  title: "Flushing Away Preconceptions of Risk"
+  profile: "As Chief Information Security Officer of Publicis Groupe, Thom is responsible for all aspects of information security risk and compliance as well as managing the Groupe Information Security Programme. Additionally the role is responsible for  business continuity capabilities across the Groupe’s global operations. Having successfully built security and IT programmes from the ground up Thom brings an often opinionated and forward thinking view of security risk, both in assessments and management, but is able to do so with humour and pragmatism (mostly). An international public speaker and award winning security blogger, Thom contributes to a number of industry blogs and publications. Thom is also the sole founder of Host Unknown, a loose collective of three infosec luminaries combined to make security education and infotainment films.  Thom can be found online at both thomlangford.com and @thomlangford  on Twitter."
+  abstract: "Risk is often seen as a dirty word in business. It is a thing that needs to be reduced to nothing, and has no possible good use in an organization, especially a security programme.<br><br>
+This couldn’t be more wrong! Risk is an inherent part of any business, and yet it is often poorly recognized and leveraged in the security organisation. In this presentation Thom will look at three areas of the risk conundrum to open the veil on the elusive art of understanding and ultimately measuring risk:
+<ol><li>The initial interpretation of risk and how it is often misunderstood.</li>
+<li>The measurement of risk, and how some systems work and other don’t.</li>
+<li>The effective treatment of risk, and how sometimes the obvious thing to do can be the wrong thing to do.</li></ol>
+With the use of analogies and examples, the audience will appreciate that risk assessment, measurement and management is not always as straightforward as it might first seem. The audience will leave with a new appreciation of how risk can be leveraged for good, and not just perceived as bad."
+  www: "https://www.linkedin.com/in/thomlangford"
+  image: /img/speakers/thom_langford.jpg
+  max-width: 78%
+  id: langford
+- speaker: GOOGLE
+  jobtitle: ""
+  affiliation: GOOGLE
+  title: "Working Title"
+  abstract: ""
+  profile: "<strong>GOOGLE</strong> is..."
+  www: ""
+  image: /img/speakers/google.jpg
+  max-width: 78%
+  id: google
+- speaker: Richard Dorough, 
+  jobtitle: Senior Managing Director
+  jobtitle-long: Senior Managing Director, National Practice leader Cyber Breach Response, Remediation and Investigation Practice
+  affiliation: PwC
+  title: "State of the Cyber Threat & Consequences of Inaction"
+  profile: "<strong>Richard Dorough</strong> is as a Senior Managing Director and National Practice leader in our Cyber Breach Response, Remediation and Investigation Practice.  Richard has over 20 years’ experience in IT Security, IT Forensics, IT Audit, and IT Governance.  Areas of focus include digital threat assessments, Cyber incident identification and response, electronic investigations and IT Security organization and operations center  assessment and development. <br> Richard was the Global Chief Information Security Officer for Textron.  As Global Chief Information Security Officer, Richard was responsible for developing, maintaining and assuring continuous improvement of Textron’s Information Technology Security strategy, programs, policies and processes. This included leadership of the Information Technology Risk Management (ITRM) Council which is a team of Security leaders from across Textron’s Business Units and COEs.  Richard was also responsible for IT Privacy governance, software asset management, disaster recovery and led the IT portion of the electronic discovery (eDiscovery) program for Textron. "
+  abstract: "The cyber threat is increasingly sophisticated.  Many cyber defenses are inadequate to mitigate the risk.  
+While many boards of directors are beginning to ask probing questions about the cyber threat, not enough are engaging this issue adequately.
+This is a discussion of what boards need to know in order to more effectively managed the cyber risk, which now qualifies as one of the more 
+critical threats most any board will face."
+  www: "https://www.linkedin.com/pub/richard-dorough/1/220/971"
+  image: /img/speakers/richard_dorough.jpg
+  max-width: 78%
+  id: dorough
+- speaker: Michael Ossmann
+  jobtitle: Security Researcher
+  affiliation: Great Scott Gadgets
+  title: "NSA Playset"
+  abstract: "Inspired by the contents of the leaked NSA ANT catalog, the NSA Playset project has produced an array of gadgets with capabilities similar to those employed by the spooks. I will review the entire collection since the start of the project. This includes new tools for USB, PCI Express, I2C, GSM, Bluetooth, and a family of RF retroreflectors for eavesdropping on a wide variety of electronic devices. Now you can play along with the NSA!"
+  profile: "<strong>Michael Ossmann</strong> is a wireless security researcher who makes hardware for hackers. Best known for the open source HackRF, Ubertooth, and Daisho projects, he founded Great Scott Gadgets in an effort to put exciting, new tools into the hands of innovative people."
+  www: "http://www.ossmann.com/mike/"
+  image: /img/speakers/michael_ossmann.jpg
+  max-width: 78%
+  id: ossmann
+- speaker: ENISA
+  jobtitle: ""
+  affiliation: ENISA
+  title: "Working Title"
+  abstract: ""
+  profile: "<strong>ENISA</strong> is..."
+  www: ""
+  image: /img/speakers/ENISA.jpg
+  max-width: 78%
+  id: enisa
+- speaker: Patrick Miller
+  jobtitle: President Emeritus
+  affiliation: EnergySec
+  title: "Threat Intelligence Sharing – Lessons from the Front Lines."
+  profile: "<strong>Patrick Miller</strong> is a security executive who has dedicated his career to the protection and defense of the nation’s critical energy infrastructure. He is the founder of EnergySec, and currently its President and CEO. This nonprofit information sharing organization began as a few colleagues meeting for lunch and has grown into a nationwide effort to promote sound security principles in the energy industry. <br>One of his strengths is the diversity of his professional experience. In Energy, he has held positions with a utility, a regulator, and a private consulting firm. He has also held key positions in the Insurance, Internet and Telecommunications sectors. Among other credentials he holds the CISA, CRISC and CISSP certifications. <br>Patrick is an active member of several critical infrastructure security working groups and a sought after speaker and industry expert on the subjects of critical infrastructure protection, process control system security, regulatory compliance, audit, and privacy."
+  abstract: "Threat Intelligence Sharing is being called the Holy Grail of cybersecurity by many. It is also being called the Flavor of the Month by others. Does it really provide the promised value? How does an organization know whom to trust, when to share and how to transform the endless flood of security data into actionable information? Whether your intel sharing/gathering is peer to peer, public/private, commercial service or open source - there is a risk of realizing the quote from Aristotle: 'the more you know the more, the more you don’t know.’ Get the most out of your cybersecurity situational awareness efforts by learning from the successes and failures on the front lines of global critical infrastructure organizations."
+  www: "https://www.linkedin.com/in/millerpatrickc"
+  image: /img/speakers/patrick_miller.jpg
+  max-width: 78%
+  id: miller
+- speaker: Christopher K. Stangl
+  jobtitle: Acting Section Chief
+  affiliation: Cyber Division (CYD), FBI
+  title: "Working Title"
+  profile: "<strong>Christopher K. Stangl</strong> began his career as a special agent with the FBI in 2003. After attending the FBI Academy in Quantico, Virginia, Stangl was assigned to the FBI's Oklahoma City Field Office where he investigated various cyber cases involving criminal computer intrusions, counterterrorism/counterintelligence computer intrusions, intellectual property rights violations, child pornography, extortion, and internet fraud. <br><br>
+In 2006, Stangl was transferred to the FBI’s New York Field Office, where he continued to investigate cyber cases, primarily high profile internationally focused computer intrusion matters. While in New York, he served as a supervisory special agent where he aggressively worked with Legal Attaché Offices, the FBI’s overseas offices, to formulate strategic partnerships with foreign law enforcement counterparts to ensure the successful apprehension and prosecution of international cyber criminals. <br><br>
+In 2010, Stangl received the FBI Director’s Award for Excellence in Outstanding Cyber Investigation for his groundbreaking work in successfully identifying and dismantling a well-organized Cyber Crime ring of international and domestic co-conspirators.<br><br>
+Most recently, he is currently an acting section chief in Cyber Operations of the FBI’s Cyber Division. <br><br>
+Stangl holds a bachelor of science from Peru State College, Nebraska, a master of business administration from Monmouth University, New Jersey, and is currently enrolled at Carnegie Mellon’s MS Information Technology program."
+  abstract: ""
+  www: "https://www.linkedin.com/pub/christopher-stangl/2/597/347"
+  image: /img/speakers/christopher_stangl.jpg
+  max-width: 78%
+  talkid: fbi
+  id: stangl
