@@ -9,8 +9,8 @@ permalink: /program/
 {% assign slot2 = (speakers | where: "id" , "terreactive") %}
 {% assign slot3 = (speakers | where: "id" , "drdu") %}
 {% assign slot4 = (speakers | where: "talkid" , "fbi") %}
-{% assign slot11 = (speakers | where: "id" , "slinkov") %}
-{% assign slot12 = (speakers | where: "id" , "google") %}
+{% assign slot11 = (speakers | where: "id" , "google") %}
+{% assign slot12 = (speakers | where: "id" , "slinkov") %}
 {% assign slot13 = (speakers | where: "id" , "ossmann") %}
 {% assign slot21 = (speakers | where: "id" , "langford") %}
 {% assign slot22 = (speakers | where: "id" , "dorough") %}
@@ -128,7 +128,7 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">13:30 - 14:00</td>
+            <td class="time-col" data-title="  ">13:30 - 14:10</td>
             <td data-title="Track 1" class="track-1">
 	       {% for slot in slot11 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
@@ -143,7 +143,7 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">14:05 - 14:35</td>
+            <td class="time-col" data-title="  ">14:15 - 14:45</td>
             <td data-title="Track 1" class="track-1">
 	       {% for slot in slot12 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
@@ -158,7 +158,7 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">14:40 - 15:10</td>
+            <td class="time-col" data-title="  ">14:50 - 15:20</td>
             <td data-title="Track 1" class="track-1">
 	       {% for slot in slot13 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
@@ -173,19 +173,19 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">15:10 - 15:40</td>
+            <td class="time-col" data-title="  ">15:20 - 15:50</td>
             <td colspan="2" class="break-col">
 		Coffee Break
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">15:40 - 16:40</td>
+            <td class="time-col" data-title="  ">15:50 - 16:50</td>
             <td colspan="2" class="talk-col-morning">
 		<strong>Six hacks in 60 Minutes</strong><br>ECSC Presentations
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">16:40 - 17:20</td>
+            <td class="time-col" data-title="  ">16:50 - 17:30</td>
             <td data-title="Track 1" colspan="2" class="talk-col-morning">
 	       {% for slot in slot5 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
