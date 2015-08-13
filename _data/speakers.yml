@@ -1,31 +1,53 @@
 ---
-- speaker: Josef Nelissen, CISO, ABB
-  title: "ABB’s Security Step Up Program – Countering the Cyber Threat"
-  profile: "<strong>Josef Nelissen</strong> is recognized as a Senior Leader in Information Security both within ABB and beyond in the global network of Security Professionals.<br>He has been shaping and developing the ABB Group Information Security function from a small team at its very beginning in 2001 to a global organization of adequate size for a Fortune 500 company in 2015.<br>Josef is passionate about Information Security and sets high standards of performance for his staff and himself regarding delivery on quality, time, and budget.<br>His analytical skills, ingenuity and commitment permit him to address very complex problems and deliver feasible solutions.<br>He feels at home delivering the case of Information Security to Senior Stakeholders both within his company and at international conferences.<br>While he is very experienced in operational matters of Information Security, his knowledge ranges from designing operational services and providing advice and consulting on Information Security to Information Security Architecture, Strategy, Governance and Risk Management. This has enabled him to design the Information Security Step Up Transformation Program for ABB, which will raise the Information Security Function to a best of breed level by 2016."
-  abstract: "ABB is, like everybody else, acknowledging that threats are increasing and getting more complex and sophisticated.
-We are responding to this in various ways through a 3 year Security Step Up Program:
-<ul>
-<li>Investing in new and improved technology and security staff</li>
-<li>Extending the use of managed security services</li>
-<li>Expanding the service portfolio</li>
-<li>Ramping up protection for our most precious data and applications</li>
-<li>Standardizing service delivery worldwide, leaving behind the legacy country based delivery model</li>
-<li>Setting up timezone based service delivery centers</li>
-</ull>
-"
-  www: "https://www.linkedin.com/pub/josef-nelissen/aa/399/332"
-  image: /img/speakers/josef_nelissen.jpg
+- speaker: "?"
+  jobtitle: "?"
+  affiliation: "?"
+  publish: "false"
+  title: ""
+  profile: ""
+  abstract: ""
+  www: ""
+  image: /img/speakers/questionmark.jpg
   max-width: 78%
-  id: nelissen
-- speaker: Patrick Miller, President Emeritus of EnergySec
-  title: "Threat Intelligence Sharing – Lessons from the Front Lines."
-  profile: "<strong>Patrick Miller</strong> is a security executive who has dedicated his career to the protection and defense of the nation’s critical energy infrastructure. He is the founder of EnergySec, and currently its President and CEO. This nonprofit information sharing organization began as a few colleagues meeting for lunch and has grown into a nationwide effort to promote sound security principles in the energy industry. <br>One of his strengths is the diversity of his professional experience. In Energy, he has held positions with a utility, a regulator, and a private consulting firm. He has also held key positions in the Insurance, Internet and Telecommunications sectors. Among other credentials he holds the CISA, CRISC and CISSP certifications. <br>Patrick is an active member of several critical infrastructure security working groups and a sought after speaker and industry expert on the subjects of critical infrastructure protection, process control system security, regulatory compliance, audit, and privacy."
-  abstract: "Threat Intelligence Sharing is being called the Holy Grail of cybersecurity by many. It is also being called the Flavor of the Month by others. Does it really provide the promised value? How does an organization know whom to trust, when to share and how to transform the endless flood of security data into actionable information? Whether your intel sharing/gathering is peer to peer, public/private, commercial service or open source - there is a risk of realizing the quote from Aristotle: 'the more you know the more, the more you don’t know.’ Get the most out of your cybersecurity situational awareness efforts by learning from the successes and failures on the front lines of global critical infrastructure organizations."
-  www: "https://www.linkedin.com/in/millerpatrickc"
-  image: /img/speakers/patrick_miller.jpg
+  id: placeholder
+- speaker: Enrico Petrov
+  jobtitle: Director Managed Security Services
+  affiliation: terreActive
+  title: "Effective methods to detect current threats"
+  profile: "<strong>Enrico Petrov</strong> has a proven record of supporting Swiss enterprises to detect and prevent IT security incidents. Working at terreActive as Director of Managed Security Services since 2002 he has focused on design, integration and operation of Security Monitoring projects for Swiss banks, insurances, health care and government institutions. Mr. Petrov is managing a team of engineers providing SOC Services to guarantee security for various companies in Switzerland 7x24. With his expertise in security assessments and multi-layer defense architectures he has further enhanced quality and efficiency of the terreActive Security Operations Center. Mr. Petrov holds a Master degree in Electronics and Telecommunications from the Technical University of Turin."
+  abstract: "Taking your IT security to the next level, you have to consider a paradigm shift. In the past companies mostly invested resources to try to avoid security violations. Nowadays you have to face the inevitable: a security breach can’t be fully prevented. You need to be able to detect it as quick as possible to stop it in its early stages. You need a multi-layer defense strategy to detect attacks and secure your company, a combination of various sensors to improve transparency. Based on our experience managing Security Monitoring for various Swiss companies we will share insights with you how to tackle this.<br>
+  <ul><li>Different types of attacks. What can be detected at which stage of the attack?</li>
+  <li>Detection tools and methods. When to use automated alarming, when to rely on security staff.</li>
+  <li>How to integrate tools into your internal organization? Impacts on your daily business.</li></ul>"
+  www: "https://www.terreactive.ch/de/management-_content---1--1011.html"
+  image: /img/speakers/enrico_petrov.jpg
   max-width: 78%
-  id: miller
-- speaker: Dmitry Slinkov, Information Security Officer, RUSSIA CONSULTING
+  id: terreactive
+- speaker: Dr. Yuejin Du
+  jobtitle: Vice President
+  affiliation: Alibaba Group
+  title: ""
+  profile: "<strong>Yuejin Du, Ph.D.</strong> is currently serving as the director of the National Engineering Laboratory for Cybersecurity Emergency Response Technology, CTO of the National Computer Emergency Response Team and Coordination Center of China (CNCERT/CC). Dr. Du has more than 10 years of experience on Internet security and was involved in the handling work of nearly all the large scale Internet incidents during 2001 to 2008. Dr. Du contributed to national Internet security capacity building, leaded the project of national Internet intrusion monitoring platform and played a key role setting up the national incident response cooperation framework. Dr. Du was one of the top level network security experts during many important event, include Olympic Game in 2008, the World Expo and the Asian Games in 2010, and the Summer Universiade in 2011. Dr. Du earned many very high level awards because of his contributions. <br><br> 
+Dr. Du also played an active role in international cooperation. Dr. Du worked as deputy chair of APCERT. He proposed the China-ASEAN cooperation framework on network security, led an APEC-TEL project on botnet countermeasure, and conducted numerous presentations on various international conferences."
+  abstract: ""
+  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
+  image: /img/speakers/yuejin_du.jpg
+  max-width: 78%
+  id: drdu
+- speaker: Alan Neville
+  jobtitle: Threat Intelligence Analyst 
+  affiliation: Symantec
+  title: ""
+  profile: "<strong>Alan Neville</strong> is a member of the Attack Investigations Team (AIT) housed in Symantec’s Security Response Center in Dublin where he leads investigations into high-profile attacks and is responsible for identifying, analyzing and responding to such attacks and threats. Alan also represents Symantec as a media spokesperson on topical security issues. Previously, Alan worked on the operations team in Symantec’s Security Response Team as a Malware Analyst before moving into AIT. More recently, Alan has been involved in investigations surrounding Dragonfly, Turla and take operations such as Ramnit and ZeroAccess. Alan holds a MS.c in Security and Forensics from Dublin City University."
+  abstract: ""
+  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
+  image: /img/speakers/alan_neville.jpg
+  max-width: 78%
+  talkid: fbi 
+  id: neville
+- speaker: Dmitry Slinkov
+  jobtitle: Information Security Officer
+  affiliation: RUSSIA CONSULTING
   title: "Black Market of Cybercrime in Russia"
   profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
   abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
@@ -37,7 +59,36 @@ the real picture of the methods hackers use and to know the costs of such attack
   image: /img/speakers/dmitry_slinkov.jpg
   max-width: 78%
   id: slinkov
-- speaker: Richard Dorough, Senior Managing Director, National Practice leader Cyber Breach Response, Remediation and Investigation Practice, PwC
+- speaker: Thom Langford
+  jobtitle: CISO
+  affiliation: Publicis Group
+  title: "Flushing Away Preconceptions of Risk"
+  profile: "As Chief Information Security Officer of Publicis Groupe, Thom is responsible for all aspects of information security risk and compliance as well as managing the Groupe Information Security Programme. Additionally the role is responsible for  business continuity capabilities across the Groupe’s global operations. Having successfully built security and IT programmes from the ground up Thom brings an often opinionated and forward thinking view of security risk, both in assessments and management, but is able to do so with humour and pragmatism (mostly). An international public speaker and award winning security blogger, Thom contributes to a number of industry blogs and publications. Thom is also the sole founder of Host Unknown, a loose collective of three infosec luminaries combined to make security education and infotainment films.  Thom can be found online at both thomlangford.com and @thomlangford  on Twitter."
+  abstract: "Risk is often seen as a dirty word in business. It is a thing that needs to be reduced to nothing, and has no possible good use in an organization, especially a security programme.<br><br>
+This couldn’t be more wrong! Risk is an inherent part of any business, and yet it is often poorly recognized and leveraged in the security organisation. In this presentation Thom will look at three areas of the risk conundrum to open the veil on the elusive art of understanding and ultimately measuring risk:
+<ol><li>The initial interpretation of risk and how it is often misunderstood.</li>
+<li>The measurement of risk, and how some systems work and other don’t.</li>
+<li>The effective treatment of risk, and how sometimes the obvious thing to do can be the wrong thing to do.</li></ol>
+With the use of analogies and examples, the audience will appreciate that risk assessment, measurement and management is not always as straightforward as it might first seem. The audience will leave with a new appreciation of how risk can be leveraged for good, and not just perceived as bad."
+  www: "https://www.linkedin.com/in/thomlangford"
+  image: /img/speakers/thom_langford.jpg
+  max-width: 78%
+  id: langford
+- speaker: Daniel White
+  jobtitle: Incident Response, Forensics and Tools
+  affiliation:  Google's security team
+  title: "New generation timeline tools: A case study"
+  abstract: "A moderately-sized institution of higher learning receives an ominous threat from a shadowy hacker group. A plucky band of misfits, armed only with open source forensic tools is the college’s only hope. What happens next? Will our brave band of heroes be able to stop the cyber terrorists in time? <br><br>
+This talk will give you a good understanding of the new features in the Plaso and Timesketch forensic tools, as well as an insight into some of the analysis processes these tools enable. Rather than just talking about these features, you’ll see how they’re actually deployed in an investigative context."
+  profile: "Daniel White is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
+  www: "https://www.linkedin.com/pub/daniel-white/3/a71/690"
+  image: /img/speakers/google.jpg
+  max-width: 78%
+  id: white
+- speaker: Richard Dorough
+  jobtitle: Senior Managing Director
+  jobtitle-long: Senior Managing Director, National Practice leader Cyber Breach Response, Remediation and Investigation Practice
+  affiliation: PwC
   title: "State of the Cyber Threat & Consequences of Inaction"
   profile: "<strong>Richard Dorough</strong> is as a Senior Managing Director and National Practice leader in our Cyber Breach Response, Remediation and Investigation Practice.  Richard has over 20 years’ experience in IT Security, IT Forensics, IT Audit, and IT Governance.  Areas of focus include digital threat assessments, Cyber incident identification and response, electronic investigations and IT Security organization and operations center  assessment and development. <br> Richard was the Global Chief Information Security Officer for Textron.  As Global Chief Information Security Officer, Richard was responsible for developing, maintaining and assuring continuous improvement of Textron’s Information Technology Security strategy, programs, policies and processes. This included leadership of the Information Technology Risk Management (ITRM) Council which is a team of Security leaders from across Textron’s Business Units and COEs.  Richard was also responsible for IT Privacy governance, software asset management, disaster recovery and led the IT portion of the electronic discovery (eDiscovery) program for Textron. "
   abstract: "The cyber threat is increasingly sophisticated.  Many cyber defenses are inadequate to mitigate the risk.  
@@ -48,6 +99,45 @@ critical threats most any board will face."
   image: /img/speakers/richard_dorough.jpg
   max-width: 78%
   id: dorough
-
-
-
+- speaker: Michael Ossmann
+  publish: "false"
+  jobtitle: Security Researcher
+  affiliation: Great Scott Gadgets
+  title: "NSA Playset"
+  abstract: "Inspired by the contents of the leaked NSA ANT catalog, the NSA Playset project has produced an array of gadgets with capabilities similar to those employed by the spooks. I will review the entire collection since the start of the project. This includes new tools for USB, PCI Express, I2C, GSM, Bluetooth, and a family of RF retroreflectors for eavesdropping on a wide variety of electronic devices. Now you can play along with the NSA!"
+  profile: "<strong>Michael Ossmann</strong> is a wireless security researcher who makes hardware for hackers. Best known for the open source HackRF, Ubertooth, and Daisho projects, he founded Great Scott Gadgets in an effort to put exciting, new tools into the hands of innovative people."
+  www: "http://www.ossmann.com/mike/"
+  image: /img/speakers/michael_ossmann.jpg
+  max-width: 78%
+  id: ossmann
+- speaker: ENISA
+  jobtitle: "ENISA"
+  affiliation: ENISA
+  title: ""
+  abstract: ""
+  profile: ""
+  www: ""
+  image: /img/speakers/enisa.jpg
+  max-width: 78%
+  id: enisa
+- speaker: Patrick Miller
+  jobtitle: President Emeritus
+  affiliation: EnergySec
+  title: "Threat Intelligence Sharing – Lessons from the Front Lines."
+  profile: "<strong>Patrick Miller</strong> is a security executive who has dedicated his career to the protection and defense of the nation’s critical energy infrastructure. He is the founder of EnergySec, and currently its President and CEO. This nonprofit information sharing organization began as a few colleagues meeting for lunch and has grown into a nationwide effort to promote sound security principles in the energy industry. <br>One of his strengths is the diversity of his professional experience. In Energy, he has held positions with a utility, a regulator, and a private consulting firm. He has also held key positions in the Insurance, Internet and Telecommunications sectors. Among other credentials he holds the CISA, CRISC and CISSP certifications. <br>Patrick is an active member of several critical infrastructure security working groups and a sought after speaker and industry expert on the subjects of critical infrastructure protection, process control system security, regulatory compliance, audit, and privacy."
+  abstract: "Threat Intelligence Sharing is being called the Holy Grail of cybersecurity by many. It is also being called the Flavor of the Month by others. Does it really provide the promised value? How does an organization know whom to trust, when to share and how to transform the endless flood of security data into actionable information? Whether your intel sharing/gathering is peer to peer, public/private, commercial service or open source - there is a risk of realizing the quote from Aristotle: 'the more you know the more, the more you don’t know.’ Get the most out of your cybersecurity situational awareness efforts by learning from the successes and failures on the front lines of global critical infrastructure organizations."
+  www: "https://www.linkedin.com/in/millerpatrickc"
+  image: /img/speakers/patrick_miller.jpg
+  max-width: 78%
+  id: miller
+- speaker: Tom Grasso
+  jobtitle: Supervisory Special Agent
+  affiliation: Cyber Division (CYD), FBI
+  title: "Working Title"
+  profile: "<strong>Tom Grasso</strong> has been an FBI Agent since 1998 and has worked for the FBI’s Regional Computer Crime Squad in Chicago and the High Technology Crimes Task Force in Pittsburgh. He has also served as the FBI Liaison to the CERT/CC at Carnegie Mellon University. Tom is now part of the FBI’s Cyber Division and is assigned to the National Cyber-Forensics and Training Alliance (NCFTA) in Pittsburgh, a joint partnership between law enforcement, academia, and industry. Tom is also an Adjunct Professor of Criminology at La Roche College in Pittsburgh."
+  abstract: ""
+  www: "https://www.linkedin.com/pub/christopher-stangl/2/597/347"
+  image: /img/speakers/tom_grasso.jpg
+  max-width: 78%
+  talkid: fbi
+  id: grasso

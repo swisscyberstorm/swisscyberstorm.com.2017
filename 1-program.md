@@ -5,29 +5,196 @@ permalink: /program/
 ---
 
 {% assign speakers = site.data.speakers %}
+{% assign slot1 = (speakers | where: "id" , "placeholder") %}
+{% assign slot2 = (speakers | where: "id" , "terreactive") %}
+{% assign slot3 = (speakers | where: "id" , "drdu") %}
+{% assign slot4 = (speakers | where: "talkid" , "fbi") %}
+{% assign slot11 = (speakers | where: "id" , "white") %}
+{% assign slot12 = (speakers | where: "id" , "slinkov") %}
+{% assign slot13 = (speakers | where: "id" , "placeholder") %}
+{% assign slot21 = (speakers | where: "id" , "langford") %}
+{% assign slot22 = (speakers | where: "id" , "dorough") %}
+{% assign slot23 = (speakers | where: "id" , "enisa") %}
+{% assign slot5 = (speakers | where: "id" , "miller") %}
 
-<p>The program is currently a work in progress. Please find a list of confirmed speakers below.</p>
-
+<!--
 <ul>
 {% for item in site.data.speakers %}
-
-     <a href="{{item.www}}" target ="_blank">
-      <li><a href="#{{item.id}}-profile">{{item.speaker}}</li>
-     </a>
+{% if item.publish != 'false' %}
+      <li><a href="#{{item.id}}-profile">{{item.speaker}}</a>, {{item.jobtitle}}, {{item.affiliation}}</li>
+{% endif %}
 {% endfor %}
 </ul>
 
+<h2>Conference Schedule</h2>
+-->
+
+<div class="program">
+  <div class="row">
+    <div id="no-more-tables">
+      <table class="col-sm-12 table-condensed cf">
+	<col style="width: 16%" />
+	<col style="width: 42%" />
+	<col style="width: 42%" />
+        <thead class="cf">
+          <tr>
+            <th>  </th>
+            <th>Track 1</th>
+            <th>Track 2</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="time-col" data-title="  ">08:30 - 09:00</td>
+            <td colspan="2" class="break-col">
+		Registration
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">09:00 - 09:10</td>
+            <td data-title="Track 1" colspan="2" class="talk-col-morning-1">
+               <speaker>Dr. Bernhard Tellenbach<br>President, Swiss Cyber Storm</speaker><br>
+               <talktitle>Welcome</talktitle>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">09:10 - 10:00</td>
+            <td data-title="Track 1" colspan="2" class="talk-col-morning-2">
+ 	       {% for slot in slot1 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot1[0].id}}-abstract"><talktitle>{{slot1[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">10:00 - 10:30</td>
+            <td data-title="Track 1" colspan="2" class="talk-col-morning-1">
+	       {% for slot in slot2 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot2[0].id}}-abstract"><talktitle>{{slot2[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">10:30 - 11:00</td>
+            <td colspan="2" class="break-col">
+		Coffee Break
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">11:00 - 11:45</td>
+            <td data-title="Track 1" colspan="2"  class="talk-col-morning-1">
+	       {% for slot in slot3 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot3[0].id}}-abstract"><talktitle>{{slot3[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">11:45 - 12:30</td>
+            <td data-title="Track 1" colspan="2" class="talk-col-morning-2">
+	       {% for slot in slot4 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot4[0].id}}-abstract"><talktitle>{{slot4[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">12:30 - 13:30</td>
+            <td colspan="2" class="break-col">
+		Lunch
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">13:30 - 14:10</td>
+            <td data-title="Track 1" class="track-1-1">
+	       {% for slot in slot11 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot11[0].id}}-abstract"><talktitle>{{slot11[0].title}}</talktitle></a>
+            </td>
+            <td data-title="Track 2" class="track-2-1">
+	       {% for slot in slot21 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot21[0].id}}-abstract"><talktitle>{{slot21[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">14:15 - 14:45</td>
+            <td data-title="Track 1" class="track-1-2">
+	       {% for slot in slot12 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot12[0].id}}-abstract"><talktitle>{{slot12[0].title}}</talktitle></a>
+            </td>
+            <td data-title="Track 2" class="track-2-2">
+	       {% for slot in slot22 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot22[0].id}}-abstract"><talktitle>{{slot22[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">14:50 - 15:20</td>
+            <td data-title="Track 1" class="track-1-1">
+	       {% for slot in slot13 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot13[0].id}}-abstract"><talktitle>{{slot13[0].title}}</talktitle></a>
+            </td>
+            <td data-title="Track 2" class="track-2-1">
+	       {% for slot in slot23 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot23[0].id}}-abstract"><talktitle>{{slot23[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">15:20 - 15:50</td>
+            <td colspan="2" class="break-col">
+		Coffee Break
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">15:50 - 16:50</td>
+            <td colspan="2" class="talk-col-morning-1">
+		<strong>Six hacks in 60 Minutes</strong><br>ECSC Presentations
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">16:50 - 17:30</td>
+            <td data-title="Track 1" colspan="2" class="talk-col-morning-2">
+	       {% for slot in slot5 %}
+               <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
+	       {% endfor %}
+               <a href="#{{slot5[0].id}}-abstract"><talktitle>{{slot5[0].title}}</talktitle></a>
+            </td>
+          </tr>
+          <tr>
+            <td class="time-col" data-title="  ">17:30+</td>
+            <td colspan="2" class="break-col">
+		Apéro Riche
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
 <h3>Speakers</h3>
 
 {% for item in site.data.speakers %}
 
+{% if item.publish != 'false' %}
+{% if item.profile != '' %}
 <div class="row">
  <div class="col-lg-12 col-md-12">
   <div class="row">
    <div class="col-sm-3 col-xs-6">
     <div class="sponsor-img" style="max-width: 300">
      <a href="{{item.www}}" target ="_blank">
-      <img src="{{item.image}}" alt="{{item.speaker}}">
+      <img src="{{item.image}}" alt="{{item.speaker}}, {{item.jobtitle}}, {{item.affiliation}}">
      </a>
     </div>
    </div>
@@ -39,150 +206,26 @@ permalink: /program/
   </div>
  </div>
 </div>
+{% endif %}
+{% endif %}
 {% endfor %}
 
-<!--
-<h2>Conference Schedule</h2>
-<div class="row program">
- <div class="col-xs-12">
-
-  <div class="row">
-   <div id="equalheight">
-    <div class="col-sm-2 col-xs-12 time-col">
-     <time>08:30 - 09:00</time>
-    </div>
-    <div class="col-sm-10 col-xs-12 break-col">
-     Registration
-    </div>
-   </div>
-  </div>
-
-  <div class="row">
-   <div id="equalheight">
-    <div class="col-sm-2 col-xs-12 time-col">
-     <time>09:00 - 09:05</time>
-    </div>
-    <div class="col-sm-10 col-xs-12 talk-col-morning">
-     Welcome
-    </div>
-   </div>
-  </div>
-  
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>09:05 - 09:50</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <a href="#{{speakers[0].id}}-profile"><speaker>{{speakers[0].speaker}}</speaker></a>
-    <a href="#{{speakers[0].id}}-abstract"><title>{{speakers[0].title}}</title></a>
-   </div>
-  </div>
-
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>09:50 - 10:30</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <a href="#{{speakers[1].id}}-profile"><speaker>{{speakers[1].speaker}}</speaker></a>
-    <a href="#{{speakers[1].id}}-abstract"><title>{{speakers[1].title}}</title></a>
-   </div>
-  </div>
-
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>10:30 - 11:00</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 break-col">
-	Coffee Break
-   </div>
-  </div>
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>11:00 - 11:30</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 time-col-morning">
-    <speaker>Speaker</speaker>
-    <title>Talk 2</title>
-   </div>
-  </div>
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>11:30 - 12:15</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <speaker>Speaker</speaker>
-    <title>Talk 3</title>
-   </div>
-  </div>
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>12:15 - 13:00</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 talk-col-morning">
-    <speaker>Speaker</speaker>
-    <title>Talk 4</title>
-   </div>
-  </div>
-  <div class="row">
-   <div class="col-sm-2 col-xs-12 time-col">
-    <time>13:00 - 14:00</time>
-   </div>
-   <div class="col-sm-10 col-xs-12 break-col">
-	Lunch Break
-   </div>
-  </div>
- </div>
-</div>
-
-<div class="row">
- <div class="col-xs-12">
-  <div class="row">
-   <div class="col-md-2 col-sm-12 time-col">
-    <time>14:00 - 14:40</time>
-   </div>
-   <div class="col-md-5 col-sm-12 track-1">
-    <speaker>Speaker</speaker>
-    <title>Talk 1.1</title>
-   </div>
-   <div class="col-md-5 col-sm-12 track-2">
-    <speaker>Speaker</speaker>
-    <title>Talk 1.2</title>
-   </div>
-  </div>
- </div>
-</div>
-<div class="row">
- <div class="col-xs-12">
-  <div class="row">
-   <div class="col-md-2 col-sm-12 time-col">
-    <time>14:00 - 14:40</time>
-   </div>
-   <div class="col-md-5 col-sm-12 track-1">
-    <speaker>Speaker</speaker>
-    <title>Talk 1.1</title>
-   </div>
-   <div class="col-md-5 col-sm-12 track-2">
-    <speaker>Speaker</speaker>
-    <title>Talk 1.2</title>
-   </div>
-  </div>
- </div>
-</div>
-
-
--->
 
 <h3>Abstracts</h3>
 
 {% for item in site.data.speakers %}
 {% if item.title != 'Working Title' %}
+{% if item.title != '' %}
+{% if item.publish != 'false' %}
 <div class="row">
  <div class="col-lg-12 col-md-12">
   <h4>{{item.title}}</h4>
-  <strong>Speaker: </strong>{{item.speaker}}<br><br>
+  <strong>Speaker: </strong>{{item.speaker}}, {{item.jobtitle}}, {{item.affiliation}}<br><br>
   <p id="{{item.id}}-abstract">{{item.abstract}}</p>
  </div>
 </div>
+{% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
 

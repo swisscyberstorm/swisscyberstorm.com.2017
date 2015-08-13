@@ -1,5 +1,11 @@
 .program {
-  border-bottom: 1px solid $border-color;
+ table {
+    border-collapse: collapse;
+ }
+
+ table, td, th {
+   border: 2px solid black;
+ }
 }
 
 talktitle {
@@ -14,14 +20,23 @@ speaker {
   background: #4F100F !important;
 }
 
-.track-1 {
+.track-1-1 {
   text-align: center;
   background: #F9F9F9;
 }
 
-.track-2 {
+.track-1-2 {
+  text-align: center;
+  background: #E1E1E1;
+}
+
+.track-2-1 {
   text-align: center;
   background: #F9F9F9;
+}
+.track-2-2 {
+  text-align: center;
+  background: #E1E1E1;
 }
 
 .break-col {
@@ -30,9 +45,13 @@ speaker {
   background: #4F100F;
 }
 
-.talk-col-morning {
+.talk-col-morning-1 {
   text-align: center;
   background: #F9F9F9;
+}
+.talk-col-morning-2 {
+  text-align: center;
+  background: #E1E1E1;
 }
 
 // Formating for agenda/program/timetable
