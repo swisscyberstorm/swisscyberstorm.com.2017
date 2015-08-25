@@ -18,11 +18,27 @@
   abstract: "Taking your IT security to the next level, you have to consider a paradigm shift. In the past companies mostly invested resources to try to avoid security violations. Nowadays you have to face the inevitable: a security breach can’t be fully prevented. You need to be able to detect it as quick as possible to stop it in its early stages. You need a multi-layer defense strategy to detect attacks and secure your company, a combination of various sensors to improve transparency. Based on our experience managing Security Monitoring for various Swiss companies we will share insights with you how to tackle this.<br>
   <ul><li>Different types of attacks. What can be detected at which stage of the attack?</li>
   <li>Detection tools and methods. When to use automated alarming, when to rely on security staff.</li>
-  <li>How to integrate tools into your internal organization? Impacts on your daily business.</li></ul>"
+  <li>How to integrate tools into your internal organization? Impacts on your daily business.</li></ul>
+<br>
+A customer of terreActive, the international private bank Coutts will afterwards explain why outsourcing of security services is an option. Coutts will share its experiences and will also provide an outlook of security measures that should be considered for the future. Coutts is an international private bank operating in Europe, Asia and many offshore centres and providing private banking, wealth management and investment services.
+<br>Speaker:<br>Daniel Just, Vice President<br>Head of SOC<br>Wealth IT SR Security Operations Centre<br>Coutts & Co Ltd<br>Zürich, Switzerland
+"
   www: "https://www.terreactive.ch/de/management-_content---1--1011.html"
   image: /img/speakers/enrico_petrov.jpg
   max-width: 78%
-  id: terreactive
+  talkid: terreactive
+  id: petrov
+- speaker: Daniel Just
+  jobtitle: Vice President and Head of SOC
+  affiliation: Coutts & Co Ltd, Zurich
+  title: ""
+  profile: ""
+  abstract: ""
+  www: "https://www.linkedin.com/pub/daniel-just/9a/7b/499"
+  image: 
+  max-width: 78%
+  talkid: terreactive
+  id: just
 - speaker: Dr. Yuejin Du
   jobtitle: Vice President
   affiliation: Alibaba Group
@@ -37,9 +53,9 @@ Dr. Du also played an active role in international cooperation. Dr. Du worked as
 - speaker: Alan Neville
   jobtitle: Threat Intelligence Analyst 
   affiliation: Symantec
-  title: ""
+  title: "Working Together: Law enforcement and private sector botnet takedowns"
   profile: "<strong>Alan Neville</strong> is a member of the Attack Investigations Team (AIT) housed in Symantec’s Security Response Center in Dublin where he leads investigations into high-profile attacks and is responsible for identifying, analyzing and responding to such attacks and threats. Alan also represents Symantec as a media spokesperson on topical security issues. Previously, Alan worked on the operations team in Symantec’s Security Response Team as a Malware Analyst before moving into AIT. More recently, Alan has been involved in investigations surrounding Dragonfly, Turla and take operations such as Ramnit and ZeroAccess. Alan holds a MS.c in Security and Forensics from Dublin City University."
-  abstract: ""
+  abstract: "Computer criminals regularly construct large distributed attack networks known as botnets. These networks are comprised of hijacked computers that an attacker can use to send spam, commit financial fraud or launch cyber-attacks. This talk aims to describe the approaches of botnet takedowns from the perspective of law enforcement agencies and the AV industry using examples from recent take-downs and discusses success stories when private and public sectors work together to tackle a common foe.  "
   www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
   image: /img/speakers/alan_neville.jpg
   max-width: 78%
@@ -63,7 +79,7 @@ the real picture of the methods hackers use and to know the costs of such attack
   jobtitle: CISO
   affiliation: Publicis Group
   title: "Flushing Away Preconceptions of Risk"
-  profile: "As Chief Information Security Officer of Publicis Groupe, Thom is responsible for all aspects of information security risk and compliance as well as managing the Groupe Information Security Programme. Additionally the role is responsible for  business continuity capabilities across the Groupe’s global operations. Having successfully built security and IT programmes from the ground up Thom brings an often opinionated and forward thinking view of security risk, both in assessments and management, but is able to do so with humour and pragmatism (mostly). An international public speaker and award winning security blogger, Thom contributes to a number of industry blogs and publications. Thom is also the sole founder of Host Unknown, a loose collective of three infosec luminaries combined to make security education and infotainment films.  Thom can be found online at both thomlangford.com and @thomlangford  on Twitter."
+  profile: "<strong>Thom Langford</strong>. As Chief Information Security Officer of Publicis Groupe, Thom is responsible for all aspects of information security risk and compliance as well as managing the Groupe Information Security Programme. Additionally the role is responsible for  business continuity capabilities across the Groupe’s global operations. Having successfully built security and IT programmes from the ground up Thom brings an often opinionated and forward thinking view of security risk, both in assessments and management, but is able to do so with humour and pragmatism (mostly). An international public speaker and award winning security blogger, Thom contributes to a number of industry blogs and publications. Thom is also the sole founder of Host Unknown, a loose collective of three infosec luminaries combined to make security education and infotainment films.  Thom can be found online at both thomlangford.com and @thomlangford  on Twitter."
   abstract: "Risk is often seen as a dirty word in business. It is a thing that needs to be reduced to nothing, and has no possible good use in an organization, especially a security programme.<br><br>
 This couldn’t be more wrong! Risk is an inherent part of any business, and yet it is often poorly recognized and leveraged in the security organisation. In this presentation Thom will look at three areas of the risk conundrum to open the veil on the elusive art of understanding and ultimately measuring risk:
 <ol><li>The initial interpretation of risk and how it is often misunderstood.</li>
@@ -80,7 +96,7 @@ With the use of analogies and examples, the audience will appreciate that risk a
   title: "New generation timeline tools: A case study"
   abstract: "A moderately-sized institution of higher learning receives an ominous threat from a shadowy hacker group. A plucky band of misfits, armed only with open source forensic tools is the college’s only hope. What happens next? Will our brave band of heroes be able to stop the cyber terrorists in time? <br><br>
 This talk will give you a good understanding of the new features in the Plaso and Timesketch forensic tools, as well as an insight into some of the analysis processes these tools enable. Rather than just talking about these features, you’ll see how they’re actually deployed in an investigative context."
-  profile: "Daniel White is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
+  profile: "<strong>Daniel White</strong> is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
   www: "https://www.linkedin.com/pub/daniel-white/3/a71/690"
   image: /img/speakers/google.jpg
   max-width: 78%
@@ -110,16 +126,16 @@ critical threats most any board will face."
   image: /img/speakers/michael_ossmann.jpg
   max-width: 78%
   id: ossmann
-- speaker: ENISA
-  jobtitle: "ENISA"
-  affiliation: ENISA
-  title: ""
+- speaker: Louis Marinos
+  jobtitle: "Senior Expert Risk Management"
+  affiliation: European Union Agency for Network and Information Security (ENISA)
+  title: "Visibility in the ENISA Threat Landscape"
   abstract: ""
-  profile: ""
-  www: ""
-  image: /img/speakers/enisa.jpg
+  profile: "<strong>Dr. Louis Marinos</strong>, is senior expert at ENISA in the area of Risk and Threat Management with extensive experience in the management and operation of security and the coordination of European expert groups. Currently, he is responsible for Projects in the area of Emerging Threat Landscape. He is the author and main responsible of the ENISA Threat Landscape. His expertise is on: Threat Analysis, Risk analysis, Risk Management and Business Continuity Planning, including SMEs, Member States and Critical Information Infrastructure Protection. Assessment and management of Emerging and Future Risks, Threats and trends hereof. Integration of Risk Management with operational and governance processes. Strategic consulting in the area of security for major firms in the financial, telecommunication and commercial sectors. Security management with regard to critical business areas, such as financial institutions, B2B and telecommunications."
+  www: "https://www.linkedin.com/pub/louis-marinos/12/124/b69"
+  image: /img/speakers/louis_marinos.jpg
   max-width: 78%
-  id: enisa
+  id: marinos
 - speaker: Patrick Miller
   jobtitle: President Emeritus
   affiliation: EnergySec

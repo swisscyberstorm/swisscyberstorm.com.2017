@@ -6,7 +6,7 @@ permalink: /program/
 
 {% assign speakers = site.data.speakers %}
 {% assign slot1 = (speakers | where: "id" , "placeholder") %}
-{% assign slot2 = (speakers | where: "id" , "terreactive") %}
+{% assign slot2 = (speakers | where: "talkid" , "terreactive") %}
 {% assign slot3 = (speakers | where: "id" , "drdu") %}
 {% assign slot4 = (speakers | where: "talkid" , "fbi") %}
 {% assign slot11 = (speakers | where: "id" , "white") %}
@@ -14,7 +14,7 @@ permalink: /program/
 {% assign slot13 = (speakers | where: "id" , "placeholder") %}
 {% assign slot21 = (speakers | where: "id" , "langford") %}
 {% assign slot22 = (speakers | where: "id" , "dorough") %}
-{% assign slot23 = (speakers | where: "id" , "enisa") %}
+{% assign slot23 = (speakers | where: "id" , "marinos") %}
 {% assign slot5 = (speakers | where: "id" , "miller") %}
 
 <!--
@@ -217,13 +217,21 @@ permalink: /program/
 {% if item.title != 'Working Title' %}
 {% if item.title != '' %}
 {% if item.publish != 'false' %}
-<div class="row">
- <div class="col-lg-12 col-md-12">
-  <h4>{{item.title}}</h4>
-  <strong>Speaker: </strong>{{item.speaker}}, {{item.jobtitle}}, {{item.affiliation}}<br><br>
-  <p id="{{item.id}}-abstract">{{item.abstract}}</p>
+ {% capture speakerdata %}<strong>Speaker: </strong> {{ item.speaker }}, {{ item.jobtitle }}, {{item.affiliation}} <br>{% endcapture %}
+ {% for linkedItem in site.data.speakers %}
+ {% if item.talkid and linkedItem.talkid == item.talkid %}
+  {% unless linkedItem.id == item.id %}
+   {% capture speakerdata %}{{speakerdata}}<strong>Speaker: </strong> {{ linkedItem.speaker }}, {{ linkedItem.jobtitle }}, {{linkedItem.affiliation}} <br>{% endcapture %}
+  {% endunless %}
+ {% endif %}
+ {% endfor %}
+ <div class="row">
+  <div class="col-lg-12 col-md-12">
+   <h4 id="{{item.id}}-abstract">{{item.title}}</h4>
+   {{speakerdata}}<br>
+   <p>{{item.abstract}}</p>
+  </div>
  </div>
-</div>
 {% endif %}
 {% endif %}
 {% endif %}
