@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 {% assign speakers = site.data.speakers %}
-{% assign slot1 = (speakers | where: "id" , "placeholder") %}
+{% assign slot1 = (speakers | where: "id" , "beaver") %}
 {% assign slot2 = (speakers | where: "talkid" , "terreactive") %}
 {% assign slot3 = (speakers | where: "id" , "drdu") %}
 {% assign slot4 = (speakers | where: "talkid" , "fbi") %}

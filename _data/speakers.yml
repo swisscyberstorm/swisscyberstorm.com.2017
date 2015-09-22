@@ -1,15 +1,15 @@
 ---
-- speaker: "?"
-  jobtitle: "?"
-  affiliation: "?"
-  publish: "false"
-  title: ""
-  profile: ""
+- speaker: "Kevin Beaver"
+  jobtitle: "Security Consultant, Writer, Professional Speaker and Expert Witness"
+  affiliation: "Atlanta, Georgia-based Principle Logic, LLC"
+  publish: "true"
+  title: "Why organizations keep getting breached....Still, in 2015."
+  profile: "<strong>Kevin Beaver</strong>, CISSP is an information security consultant, writer, professional speaker, and expert witness with Atlanta, Georgia-based Principle Logic, LLC. With over 26 years of experience in IT and 20 in information security, Kevin specializes in performing independent security assessments to help businesses minimize their IT risks, take the pain out of compliance, and uncheck the checkboxes that keep creating a false sense of security. He has written/co-written 12 books on information security including the best-selling Hacking For Dummies and The Practical Guide to HIPAA Privacy and Security Compliance. Kevin has also written over 800 articles and guest blog posts on information security and serves as a regular contributor to various websites including TechTarget's SearchSecurity.com, Ziff Davis' Toolbox.com, and IBM's SecurityIntelligence.com. Kevin can be reached at www.principlelogic.com and you can connect with him on LinkedIn and on Twitter at @kevinbeaver"
   abstract: ""
-  www: ""
-  image: /img/speakers/questionmark.jpg
+  www: "https://www.linkedin.com/in/kevinbeaver"
+  image: /img/speakers/kevin_beaver.jpg
   max-width: 78%
-  id: placeholder
+  id: beaver
 - speaker: Enrico Petrov
   jobtitle: Director Managed Security Services
   affiliation: terreActive
