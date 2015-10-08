@@ -9,11 +9,11 @@ permalink: /program/
 {% assign slot2 = (speakers | where: "talkid" , "terreactive") %}
 {% assign slot3 = (speakers | where: "id" , "drdu") %}
 {% assign slot4 = (speakers | where: "talkid" , "fbi") %}
-{% assign slot11 = (speakers | where: "id" , "white") %}
-{% assign slot12 = (speakers | where: "id" , "slinkov") %}
-{% assign slot13 = (speakers | where: "id" , "placeholder") %}
-{% assign slot21 = (speakers | where: "id" , "langford") %}
-{% assign slot22 = (speakers | where: "id" , "dorough") %}
+{% assign slot21 = (speakers | where: "id" , "white") %}
+{% assign slot22 = (speakers | where: "id" , "slinkov") %}
+{% assign slot13 = (speakers | where: "talkid" , "fireside") %}
+{% assign slot11 = (speakers | where: "id" , "langford") %}
+{% assign slot12 = (speakers | where: "id" , "dorough") %}
 {% assign slot23 = (speakers | where: "id" , "marinos") %}
 {% assign slot5 = (speakers | where: "id" , "miller") %}
 
@@ -58,7 +58,7 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">09:10 - 10:00</td>
+            <td class="time-col" data-title="  ">09:10 - 09:55</td>
             <td data-title="Track 1" colspan="2" class="talk-col-morning-2">
  	       {% for slot in slot1 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
@@ -67,7 +67,7 @@ permalink: /program/
             </td>
           </tr>
           <tr>
-            <td class="time-col" data-title="  ">10:00 - 10:30</td>
+            <td class="time-col" data-title="  ">09:55 - 10:30</td>
             <td data-title="Track 1" colspan="2" class="talk-col-morning-1">
 	       {% for slot in slot2 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>

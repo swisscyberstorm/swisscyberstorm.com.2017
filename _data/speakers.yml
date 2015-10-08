@@ -5,7 +5,7 @@
   publish: "true"
   title: "Why organizations keep getting breached....Still, in 2015."
   profile: "<strong>Kevin Beaver</strong>, CISSP is an information security consultant, writer, professional speaker, and expert witness with Atlanta, Georgia-based Principle Logic, LLC. With over 26 years of experience in IT and 20 in information security, Kevin specializes in performing independent security assessments to help businesses minimize their IT risks, take the pain out of compliance, and uncheck the checkboxes that keep creating a false sense of security. He has written/co-written 12 books on information security including the best-selling Hacking For Dummies and The Practical Guide to HIPAA Privacy and Security Compliance. Kevin has also written over 800 articles and guest blog posts on information security and serves as a regular contributor to various websites including TechTarget's SearchSecurity.com, Ziff Davis' Toolbox.com, and IBM's SecurityIntelligence.com. Kevin can be reached at www.principlelogic.com and you can connect with him on LinkedIn and on Twitter at @kevinbeaver"
-  abstract: ""
+  abstract: "Information security is no longer a mysterious function carried out by IT staff. Rather, it has made its way into the boardroom, falling under what seems to be increasingly stringent compliance oversight. Yet the data breaches keep occurring. Why is this? The solutions to our information security challenges are right before our eyes. Many principles have been around for decades. Yet, not unlike government politics, people often get in their own way when it comes to getting things done with security. In this keynote presentation, <a href=\"http://www.principlelogic.com/\">Atlanta, Georgia-based independent information security consultant, expert witness, and author of Hacking For Dummies, Kevin Beaver</a>, will explore why we’re experiencing these roadblocks and provide ideas on what you can do to minimize their impact on your security program."
   www: "https://www.linkedin.com/in/kevinbeaver"
   image: /img/speakers/kevin_beaver.jpg
   max-width: 78%
@@ -42,10 +42,10 @@ A customer of terreActive, the international private bank Coutts will afterwards
 - speaker: Dr. Yuejin Du
   jobtitle: Vice President
   affiliation: Alibaba Group
-  title: ""
+  title: "Differences and new challenges of cybersecurity issues from the angle of Alibaba"
   profile: "<strong>Yuejin Du, Ph.D.</strong> is currently serving as the director of the National Engineering Laboratory for Cybersecurity Emergency Response Technology, CTO of the National Computer Emergency Response Team and Coordination Center of China (CNCERT/CC). Dr. Du has more than 10 years of experience on Internet security and was involved in the handling work of nearly all the large scale Internet incidents during 2001 to 2008. Dr. Du contributed to national Internet security capacity building, leaded the project of national Internet intrusion monitoring platform and played a key role setting up the national incident response cooperation framework. Dr. Du was one of the top level network security experts during many important event, include Olympic Game in 2008, the World Expo and the Asian Games in 2010, and the Summer Universiade in 2011. Dr. Du earned many very high level awards because of his contributions. <br><br> 
 Dr. Du also played an active role in international cooperation. Dr. Du worked as deputy chair of APCERT. He proposed the China-ASEAN cooperation framework on network security, led an APEC-TEL project on botnet countermeasure, and conducted numerous presentations on various international conferences."
-  abstract: ""
+  abstract: "As one of the biggest 'Internet-based' company, what are the main cybersecurity challenges in Alibaba? Are there any differences with the popular theories or practices from others, like the national cybersecurity protection systems? Can we provide something new on cybersecurity protection from a different angle, to help the global situation? This speech will share some thoughts on the above, and introduce the practices of Alibaba security."
   www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
   image: /img/speakers/yuejin_du.jpg
   max-width: 78%
@@ -61,20 +61,6 @@ Dr. Du also played an active role in international cooperation. Dr. Du worked as
   max-width: 78%
   talkid: fbi 
   id: neville
-- speaker: Dmitry Slinkov
-  jobtitle: Information Security Officer
-  affiliation: RUSSIA CONSULTING
-  title: "Black Market of Cybercrime in Russia"
-  profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
-  abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
-How to identify which threats are most relevant and can be directed against you tomorrow? Are the hackers really as scary as people speculate? 
-We explored the services available on the black market of cybercrime in Russia and the CIS and found a lot of very nice services like purchasing 
-and renting of botnets, personal malware, DoS attacks, hacking of private and corporate emails, etc... and decided to test these services to get 
-the real picture of the methods hackers use and to know the costs of such attacks."
-  www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
-  image: /img/speakers/dmitry_slinkov.jpg
-  max-width: 78%
-  id: slinkov
 - speaker: Thom Langford
   jobtitle: CISO
   affiliation: Publicis Group
@@ -98,7 +84,7 @@ With the use of analogies and examples, the audience will appreciate that risk a
 This talk will give you a good understanding of the new features in the Plaso and Timesketch forensic tools, as well as an insight into some of the analysis processes these tools enable. Rather than just talking about these features, you’ll see how they’re actually deployed in an investigative context."
   profile: "<strong>Daniel White</strong> is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
   www: "https://www.linkedin.com/pub/daniel-white/3/a71/690"
-  image: /img/speakers/google.jpg
+  image: /img/speakers/daniel_white.jpg
   max-width: 78%
   id: white
 - speaker: Richard Dorough
@@ -115,17 +101,45 @@ critical threats most any board will face."
   image: /img/speakers/richard_dorough.jpg
   max-width: 78%
   id: dorough
-- speaker: Michael Ossmann
-  publish: "false"
-  jobtitle: Security Researcher
-  affiliation: Great Scott Gadgets
-  title: "NSA Playset"
-  abstract: "Inspired by the contents of the leaked NSA ANT catalog, the NSA Playset project has produced an array of gadgets with capabilities similar to those employed by the spooks. I will review the entire collection since the start of the project. This includes new tools for USB, PCI Express, I2C, GSM, Bluetooth, and a family of RF retroreflectors for eavesdropping on a wide variety of electronic devices. Now you can play along with the NSA!"
-  profile: "<strong>Michael Ossmann</strong> is a wireless security researcher who makes hardware for hackers. Best known for the open source HackRF, Ubertooth, and Daisho projects, he founded Great Scott Gadgets in an effort to put exciting, new tools into the hands of innovative people."
-  www: "http://www.ossmann.com/mike/"
-  image: /img/speakers/michael_ossmann.jpg
+- speaker: Dmitry Slinkov
+  jobtitle: Information Security Officer
+  affiliation: RUSSIA CONSULTING
+  title: "Black Market of Cybercrime in Russia"
+  profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
+  abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
+How to identify which threats are most relevant and can be directed against you tomorrow? Are the hackers really as scary as people speculate? 
+We explored the services available on the black market of cybercrime in Russia and the CIS and found a lot of very nice services like purchasing 
+and renting of botnets, personal malware, DoS attacks, hacking of private and corporate emails, etc... and decided to test these services to get 
+the real picture of the methods hackers use and to know the costs of such attacks."
+  www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
+  image: /img/speakers/dmitry_slinkov.jpg
   max-width: 78%
-  id: ossmann
+  id: slinkov
+- speaker: David A. Cass
+  jobtitle: Chief Information Security Officer
+  affiliation: IBM Cloud SaaS Operational Services
+  title: "The 2020 CISO, What will their roll look like?"
+  abstract: "A fireside chat between David A. Cass and his interviewer Roberd D. Rodriguez. David explains his thoughts about the 2020 CISO and what CISOs need to prepare for. He answers questions like: What authorities will they have? Who will they report to? Will they have a seat at the Board of Directors (BOD)? What will be the operational norms that BOD are hearing? How will you articulate matters to non-technical BOD members?"
+  profile: "<strong>David A. Cass</strong> is the Chief Information Security Officer for IBM.  He has global responsibility for all aspects of security practices, processes, and policies across the IBM Cloud SaaS business unit.<br>
+    Previously Mr. Cass served as the SVP & Chief Information Security Officer for Elsevier.  Where he lead an organization of experienced legal, risk and security professionals that provided data protection, privacy, security, and risk management guidance on a global basis for Elsevier.<br>
+    David has extensive experience in IT security, risk assessment, risk management, business continuity and disaster recovery, developing security policies and procedures. He has played a key role in leading and building corporate risk & governance and information security organizations in the financial sector. As the Senior Director of Information Security Risk and Governance for Freddie Mac, David rebuilt the risk and governance function and developed a team to provide risk assessments, methodologies, tools, services, and training to improve the organization’s capabilities and maturity. Prior to that he was Vice President of Risk Management for JPMorgan Chase, and was responsible for providing an accurate assessment of the current risk management state, contributing to the future direction of risk management, continuity and disaster recovery capabilities for the organization.<br>
+    David has a MSE from the University of Pennsylvania, and a MBA from MIT.  He is also a frequent speaker at high profile industry conferences, and serves on the Board of Directors for PixarBio Corporation.<br>"
+  www: "https://www.linkedin.com/in/dcass001"
+  image: /img/speakers/david_cass.jpg
+  max-width: 78%
+  talkid: fireside
+  id: cass
+- speaker: Robert Rodriguez
+  jobtitle: Chairman & Founder, SINET
+  affiliation: Security Innovation Network (SINET)
+  profile: "Robert D. Rodriguez is the Chairman & Founder of the Security Innovation Network™ (SINET) www.security-innovation.org an International community builder whose mission is to advance innovation and enable global collaboration between the public and private sectors to defeat Cybersecurity threats. Each year SINET  hosts  programs  in Silicon Valley, New York City, London and Washington DC  which are   supported   by   the   U.S. Department of Homeland Security Science & Technology Directorate (DHS S&T). The SINET model is designed to advance innovation by connecting the ecosystem of the entrepreneur; academia, science, private   industry, investment banking, system integration, policy, innovators, law enforcement, venture capital and the Federal Government to include the civilian, military and intelligence agencies. In 2001, Robert spearheaded the development of the U. S. Secret   Service’s   first public-private   partnership Cybersecurity initiative in the Western Region of the United States. Since 2005 he has been advising and coordinating the public private sector outreach for the DHS S&T and SRI International. Robert has served on the US Air Force Cybersecurity Advisory Board and has been called upon numerous times by Federal Government Agencies and universities such as Stanford and UNC Charlotte to help coordinate their private    sector outreach to the venture capital community and both large and small businesses. In his previous career Robert served twenty-two years as a Special Agent with the United States Secret Service where he held a number of executive leadership positions within the Presidential Protection, Protective Intelligence, Inspection, Criminal Investigation Divisions and the Counter Assault Team. His executive protection experience spanned 10 years at the White House serving   Presidents   Ronald   W.   Reagan, George   H.  Bush, William  J. Clinton and numerous  Heads of  State. He serves on the Board of Advisors for The Chertoff Group, as Director Emeritus for the San Francisco Kraft Fight Hunger Bowl, National Cyber Security Hall of Fame Board of Directors and is a certified graduate of the Federal Government’s Senior Executive Service Program."
+  title: ""
+  abstract: ""
+  www: "www.security-innovation.org/itsef/bios/rrodriguez.htm"
+  image: /img/speakers/robert_rodriguez.jpg
+  max-width: 78%
+  talkid: fireside
+  id: rodriguez
 - speaker: Louis Marinos
   jobtitle: "Senior Expert Risk Management"
   affiliation: European Union Agency for Network and Information Security (ENISA)
