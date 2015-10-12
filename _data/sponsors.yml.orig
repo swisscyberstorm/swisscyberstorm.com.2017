@@ -6,7 +6,7 @@
   type: "GOLD"
 
 - www: "https://www.balabit.com"
-  image: "/img/sponsors/balabit.gif"
+  image: "/img/sponsors/balabit.svg"
   image-alt: "SILVER Sponsor - Balabit"
   profile: "<strong>Balabit</strong> – headquartered in Luxembourg – is a leading provider of contextual security technologies with the mission of preventing data breaches without constraining business. Balabit operates globally through a network of local offices across the United States and Europe together with partners. Balabit’s Contextual Security Intelligence™ strategy protects organizations in real-time from threats posed by the misuse of high risk and privileged accounts. Solutions include reliable system and application Log Management with context aware data ingestion, Privileged User Monitoring and User Behaviour Analytics. Together they can identify unusual user activities and provide deep visibility into potential threats. Working in conjunction with existing control-based strategies Balabit enables a flexible and people-centric approach to improve security without adding additional barriers to business practices. Founded in 2000 Balabit has a proven track record including 23 Fortune 100 customers amongst over 1,000,000 corporate users worldwide."
   max-width: 1

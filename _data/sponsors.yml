@@ -10,7 +10,7 @@
   max-width: 59.52%
   type: GOLD
 - www: https://www.balabit.com
-  image: /img/sponsors/balabit.gif
+  image: /img/sponsors/balabit.svg
   image-alt: SILVER Sponsor - Balabit
   profile: <strong>Balabit</strong> – headquartered in Luxembourg – is a leading provider
     of contextual security technologies with the mission of preventing data breaches
@@ -26,7 +26,7 @@
     additional barriers to business practices. Founded in 2000 Balabit has a proven
     track record including 23 Fortune 100 customers amongst over 1,000,000 corporate
     users worldwide.
-  max-width: 54.02%
+  max-width: 48.75%
   type: SILVER
 - www: http://www.emitec-datacom.ch/
   image: /img/sponsors/emitec.svg
