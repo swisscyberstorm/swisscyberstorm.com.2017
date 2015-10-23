@@ -5,8 +5,8 @@ permalink: /conference/
 draft: true
 image:
  - url: img/scs_2014.png
-   caption: 'Swiss Cyber Storm 2014'
-   alt: 'Swiss Cyber Storm 2014'
+   caption: 'Swiss Cyber Storm 2015'
+   alt: 'Swiss Cyber Storm 2015'
 ---
 {% figure_img figure-notxtwrap-mw-500px 0 caption %}
 Swiss Cyber Storm 2015 is an international IT security conference in the domain of cyber attacks and defense.

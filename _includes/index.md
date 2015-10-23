@@ -1,10 +1,15 @@
 <div style="text-align: center;">
 <h1>Swiss Cyber Storm 2015</h2>
-<h2>International IT Security Conference<h3>
-<h3>21. October 2015, KKL Lucerne</h4>
-<br>
-<br>
-<div class="call-out">{{ site.theme.call_out }}</div>
+{% if false %}
+  <h2>International IT Security Conference<h3>
+  <h3>21. October 2015, KKL Lucerne</h4>
+  <br>
+  <br>
+  <div class="call-out">{{ site.theme.call_out }}</div>
+{% endif %}
+<p>Swiss Cyber Storm 2015 is over. See you at Swiss Cyber Storm 2016!<p>
+<h3>Save the date - October 19, 2016</h3>
+<img src="/img/conference_2015.jpg"></img>
 </div>
 <br>
 <br>

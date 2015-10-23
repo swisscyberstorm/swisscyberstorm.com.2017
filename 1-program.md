@@ -7,12 +7,12 @@ permalink: /program/
 {% assign speakers = site.data.speakers %}
 {% assign slot1 = (speakers | where: "id" , "beaver") %}
 {% assign slot2 = (speakers | where: "talkid" , "terreactive") %}
-{% assign slot3 = (speakers | where: "id" , "drdu") %}
+{% assign slot3 = (speakers | where: "id" , "langford") %}
 {% assign slot4 = (speakers | where: "talkid" , "fbi") %}
 {% assign slot21 = (speakers | where: "id" , "white") %}
 {% assign slot22 = (speakers | where: "id" , "slinkov") %}
 {% assign slot13 = (speakers | where: "talkid" , "fireside") %}
-{% assign slot11 = (speakers | where: "id" , "langford") %}
+{% assign slot11 = (speakers | where: "id" , "drdu") %}
 {% assign slot12 = (speakers | where: "id" , "dorough") %}
 {% assign slot23 = (speakers | where: "id" , "marinos") %}
 {% assign slot5 = (speakers | where: "id" , "miller") %}
@@ -64,6 +64,9 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot1[0].id}}-abstract"><talktitle>{{slot1[0].title}}</talktitle></a>
+               {% if slot1[0].pdf %}
+                 <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot1[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -73,6 +76,9 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot2[0].id}}-abstract"><talktitle>{{slot2[0].title}}</talktitle></a>
+               {% if slot2[0].pdf %}
+                 <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot2[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -88,6 +94,9 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot3[0].id}}-abstract"><talktitle>{{slot3[0].title}}</talktitle></a>
+               {% if slot3[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot3[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -97,6 +106,9 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot4[0].id}}-abstract"><talktitle>{{slot4[0].title}}</talktitle></a>
+               {% if slot4[0].pdf %}
+                 <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot4[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -112,12 +124,18 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot11[0].id}}-abstract"><talktitle>{{slot11[0].title}}</talktitle></a>
+               {% if slot11[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot11[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
             <td data-title="Track 2" class="track-2-1">
 	       {% for slot in slot21 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot21[0].id}}-abstract"><talktitle>{{slot21[0].title}}</talktitle></a>
+               {% if slot21[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot21[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -127,12 +145,18 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot12[0].id}}-abstract"><talktitle>{{slot12[0].title}}</talktitle></a>
+               {% if slot12[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot12[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
             <td data-title="Track 2" class="track-2-2">
 	       {% for slot in slot22 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot22[0].id}}-abstract"><talktitle>{{slot22[0].title}}</talktitle></a>
+               {% if slot22[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot22[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -142,12 +166,18 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot13[0].id}}-abstract"><talktitle>{{slot13[0].title}}</talktitle></a>
+               {% if slot13[0].pdf %}
+                 <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot13[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
             <td data-title="Track 2" class="track-2-1">
 	       {% for slot in slot23 %}
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot23[0].id}}-abstract"><talktitle>{{slot23[0].title}}</talktitle></a>
+               {% if slot23[0].pdf %}
+                  <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot23[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
@@ -169,6 +199,9 @@ permalink: /program/
                <a href="#{{slot.id}}-profile"><speaker>{{slot.speaker}}</speaker></a><br><speaker>{{slot.jobtitle}}, {{slot.affiliation}}</speaker><br>
 	       {% endfor %}
                <a href="#{{slot5[0].id}}-abstract"><talktitle>{{slot5[0].title}}</talktitle></a>
+               {% if slot5[0].pdf %}
+                 <br><img src="/img/ico_small_pdf.png" alt="PDF Logo"><a href="{{slot5[0].pdf}}">Download Slides (PDF)</a>
+               {% endif %}
             </td>
           </tr>
           <tr>
