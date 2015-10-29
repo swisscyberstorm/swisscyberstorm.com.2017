@@ -8,7 +8,7 @@
   abstract: "Information security is no longer a mysterious function carried out by IT staff. Rather, it has made its way into the boardroom, falling under what seems to be increasingly stringent compliance oversight. Yet the data breaches keep occurring. Why is this? The solutions to our information security challenges are right before our eyes. Many principles have been around for decades. Yet, not unlike government politics, people often get in their own way when it comes to getting things done with security. In this keynote presentation, <a href=\"http://www.principlelogic.com/\">Atlanta, Georgia-based independent information security consultant, expert witness, and author of Hacking For Dummies, Kevin Beaver</a>, will explore why we’re experiencing these roadblocks and provide ideas on what you can do to minimize their impact on your security program."
   www: "https://www.linkedin.com/in/kevinbeaver"
   image: /img/speakers/kevin_beaver.jpg
-  pdf: /presentations/kevin_beaver.pdf
+  pdf: /res/presentations/kevin_beaver.pdf
   max-width: 78%
   id: beaver
 - speaker: Enrico Petrov
@@ -26,7 +26,7 @@ A customer of terreActive, the international private bank Coutts will afterwards
 "
   www: "https://www.terreactive.ch/de/management-_content---1--1011.html"
   image: /img/speakers/enrico_petrov.jpg
-  pdf: /presentations/enrico_petrov.pdf
+  pdf: /res/presentations/enrico_petrov.pdf
   max-width: 78%
   talkid: terreactive
   id: petrov
@@ -50,7 +50,7 @@ Dr. Du also played an active role in international cooperation. Dr. Du worked as
   abstract: "As one of the biggest 'Internet-based' company, what are the main cybersecurity challenges in Alibaba? Are there any differences with the popular theories or practices from others, like the national cybersecurity protection systems? Can we provide something new on cybersecurity protection from a different angle, to help the global situation? This speech will share some thoughts on the above, and introduce the practices of Alibaba security."
   www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
   image: /img/speakers/yuejin_du.jpg
-  pdf: /presentations/yuejin_du.pdf
+  pdf: /res/presentations/yuejin_du.pdf
   max-width: 78%
   id: drdu
 - speaker: Alan Neville
@@ -61,7 +61,7 @@ Dr. Du also played an active role in international cooperation. Dr. Du worked as
   abstract: "Computer criminals regularly construct large distributed attack networks known as botnets. These networks are comprised of hijacked computers that an attacker can use to send spam, commit financial fraud or launch cyber-attacks. This talk aims to describe the approaches of botnet takedowns from the perspective of law enforcement agencies and the AV industry using examples from recent take-downs and discusses success stories when private and public sectors work together to tackle a common foe.  "
   www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
   image: /img/speakers/alan_neville.jpg
-  pdf: /presentations/alan_neville.pdf
+  pdf: /res/presentations/alan_neville.pdf
   max-width: 78%
   talkid: fbi 
   id: neville
@@ -78,7 +78,7 @@ This couldn’t be more wrong! Risk is an inherent part of any business, and yet
 With the use of analogies and examples, the audience will appreciate that risk assessment, measurement and management is not always as straightforward as it might first seem. The audience will leave with a new appreciation of how risk can be leveraged for good, and not just perceived as bad."
   www: "https://www.linkedin.com/in/thomlangford"
   image: /img/speakers/thom_langford.jpg
-  pdf: /presentations/thom_langford.pdf
+  pdf: /res/presentations/thom_langford.pdf
   max-width: 78%
   id: langford
 - speaker: Daniel White
@@ -90,7 +90,7 @@ This talk will give you a good understanding of the new features in the Plaso an
   profile: "<strong>Daniel White</strong> is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
   www: "https://www.linkedin.com/pub/daniel-white/3/a71/690"
   image: /img/speakers/daniel_white.jpg
-  pdf: /presentations/daniel_white.pdf
+  pdf: /res/presentations/daniel_white.pdf
   max-width: 78%
   id: white
 - speaker: Richard Dorough
@@ -105,7 +105,7 @@ This is a discussion of what boards need to know in order to more effectively ma
 critical threats most any board will face."
   www: "https://www.linkedin.com/pub/richard-dorough/1/220/971"
   image: /img/speakers/richard_dorough.jpg
-  pdf: /presentations/richard_dorough.pdf
+  pdf: /res/presentations/richard_dorough.pdf
   max-width: 78%
   id: dorough
 - speaker: Dmitry Slinkov
@@ -120,7 +120,7 @@ and renting of botnets, personal malware, DoS attacks, hacking of private and co
 the real picture of the methods hackers use and to know the costs of such attacks."
   www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
   image: /img/speakers/dmitry_slinkov.jpg
-  pdf: /presentations/dmitry_slinkov.pdf
+  pdf: /res/presentations/dmitry_slinkov.pdf
   max-width: 78%
   id: slinkov
 - speaker: Paul Crichard
@@ -153,7 +153,7 @@ the real picture of the methods hackers use and to know the costs of such attack
   profile: "<strong>Dr. Louis Marinos</strong>, is senior expert at ENISA in the area of Risk and Threat Management with extensive experience in the management and operation of security and the coordination of European expert groups. Currently, he is responsible for Projects in the area of Emerging Threat Landscape. He is the author and main responsible of the ENISA Threat Landscape. His expertise is on: Threat Analysis, Risk analysis, Risk Management and Business Continuity Planning, including SMEs, Member States and Critical Information Infrastructure Protection. Assessment and management of Emerging and Future Risks, Threats and trends hereof. Integration of Risk Management with operational and governance processes. Strategic consulting in the area of security for major firms in the financial, telecommunication and commercial sectors. Security management with regard to critical business areas, such as financial institutions, B2B and telecommunications."
   www: "https://www.linkedin.com/pub/louis-marinos/12/124/b69"
   image: /img/speakers/louis_marinos.jpg
-  pdf: /presentations/louis_marinos.pdf
+  pdf: /res/presentations/louis_marinos.pdf
   max-width: 78%
   id: marinos
 - speaker: Patrick Miller
@@ -164,7 +164,7 @@ the real picture of the methods hackers use and to know the costs of such attack
   abstract: "Threat Intelligence Sharing is being called the Holy Grail of cybersecurity by many. It is also being called the Flavor of the Month by others. Does it really provide the promised value? How does an organization know whom to trust, when to share and how to transform the endless flood of security data into actionable information? Whether your intel sharing/gathering is peer to peer, public/private, commercial service or open source - there is a risk of realizing the quote from Aristotle: 'the more you know the more, the more you don’t know.’ Get the most out of your cybersecurity situational awareness efforts by learning from the successes and failures on the front lines of global critical infrastructure organizations."
   www: "https://www.linkedin.com/in/millerpatrickc"
   image: /img/speakers/patrick_miller.jpg
-  pdf: /presentations/patrick_miller.pdf
+  pdf: /res/presentations/patrick_miller.pdf
   max-width: 78%
   id: miller
 - speaker: Tom Grasso
