@@ -18,6 +18,8 @@ permalink: /program/
 {% assign slot5 = (speakers | where: "id" , "miller") %}
 
 <!--
+
+
 <ul>
 {% for item in site.data.speakers %}
 {% if item.publish != 'false' %}
