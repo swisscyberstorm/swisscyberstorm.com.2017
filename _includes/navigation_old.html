@@ -1,0 +1,49 @@
+<header id="top-header" class="top-header">
+    <!--<div class="overlay white-solid"></div>-->
+    <nav class="navigation navigation-primary navigation-primary--skin" id="nav" role="navigation">
+        <a class="btn btn-primary pull-right" title="Show navigation" href="#nav"></a>
+        <a title="Hide navigation" class="btn btn-primary pull-right" href="#"></a>
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
+        <ul class="navigation-primary">
+            <li>
+              <a href="/"><i class="fa fa-home"></i></a>
+            </li>
+            <li><a href="http://challenge.swisscyberstorm.com" target="_blank">Challenge</a></li>
+
+{% assign last_base_url = "" %}
+{% for page in site.html_pages %}
+  {% assign url_parts = page.url | split: '/' %}
+  {% assign url_parts_size = url_parts | size %}
+  {% assign rm = url_parts | last %}
+  {% assign base_url = page.url | replace: rm %}
+
+  {% if page.title and page.hide != true %}
+
+  {% if url_parts_size == 2 and rm != 'index.html' %}
+          <li><a href='{{page.url}}'>{{page.title}}</a></li>  
+  {% endif %}
+  {% if url_parts_size == 3 and base_url != last_base_url %}
+	<li><div class="nolink">{{page.parent}}</div>
+          <ul>    
+    {% for node in site.html_pages %}
+      {% assign node_url_parts = node.url | split: '/' %}
+      {% assign node_url_parts_size = node_url_parts | size %}
+      {% assign rm = node_url_parts | last %}
+      {% assign node_base_url = node.url | replace: rm %}
+      {% if node_base_url == base_url and node.title and node.hide != true%}
+        <li><a href='{{node.url}}'>{{node.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  
+          </ul>
+        </li>
+  {% endif %}
+
+  {% endif %}
+  {% assign last_base_url = base_url %}
+{% endfor %}
+   	<!-- Social icons from Font Awesome, if enabled -->
+        {% include icons.html %}
+        </ul>
+    </nav>
+</header>

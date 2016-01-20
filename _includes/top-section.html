@@ -1,0 +1,18 @@
+<!-- Begin Top Section --> 
+<section id="top-section" class="top-section image-section {% if page.header_image %}enable-overlay{% endif %}" style="{% if page.header_image %}background-image: url('{{ site.baseurl }}/img/{{ page.header_image }}');{% elsif page.color %}background: {{ page.color }}{% endif %}">
+        <div class="overlay gradient-overlay"></div>
+        {% include navigation.html %}
+        <div class="logo-header">
+           <img id="mainLogo" src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo">
+        </div>
+        <div class="content-wrapper">
+            <div class="jumbotron text-left">
+                <div class="animated fadeInLeft" style="-vendor-animation-delay:500">
+                    <h1>{{ page.title }}</h1>
+                </div>
+            </div>
+        </div>
+
+</section>
+<!-- End Top Section -->
+

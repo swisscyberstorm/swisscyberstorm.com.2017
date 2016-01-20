@@ -1,0 +1,22 @@
+<!-- Begin Latest News Section -->
+<section id="latest-news" class="latest-news">
+        <div class="content-wrapper">
+                <div class="col-lg-10 col-lg-offset-1">
+                        <h1 class="schedule-table-heading" style="text-align: center">{{ site.NewsTitle }}</h1>
+                        <article class="row">
+                                {% for post in site.posts limit:2 %}
+                    {% assign postUrl = site.baseurl | append: post.url %}
+                                        <div class="post col-md-6 col-sm-6 text-left animated fadeInDown" data-delay="500">
+                                                <h5 class="slot-title">{{ post.title }}</h5>
+						<p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+                                                <p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
+                                        </div>
+                {% endfor %}
+                        </article>
+                        <article class="row">
+			   {% include slide-show.html %}
+			</article>
+                </div>
+        </div>
+</section>
+<!-- End Latest News Section -->

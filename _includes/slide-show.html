@@ -1,0 +1,46 @@
+
+<!-- Carousel
+ ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        {% for item in page.slideshow %}
+          {% if forloop.index == 1 %}
+            <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}" class="active"></li>
+          {% else %}
+            <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"></li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+
+      <div class="carousel-inner" role="listbox">
+        {% for item in page.slideshow %}
+          {% if forloop.index == 1 %}
+            <div class="item active">
+          {% else %}
+            <div class="item">
+          {% endif %}
+            <img src="{{ item.background_image_path }}" alt="{{ item.background_image_path }}">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="animation animated-item-1">{{ item.main_heading }}.</h1>
+                <p class="animation animated-item-2">{{ item.sub_heading }}</p>
+                <p><a class="btn btn-lg btn-primary animation animated-item-3" href="{{ item.read_more_link }}" role="button">{{ item.button_text }}</a></p>
+              </div>
+            </div>
+          </div><!--/.item-->
+        {% endfor %}
+      </div><!--/.carousel-inner-->
+      <!-- Controls -->
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <i class="fa fa-angle-left"></i>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="sr-only">Next</span>
+        <i class="fa fa-angle-right"></i>
+      </a>
+    </div>
+<!-- /.carousel -->
+
+

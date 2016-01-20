@@ -1,0 +1,108 @@
+-
+  id: 901
+  title: "Registration"
+  place: "Entrance Area"
+  service: service
+  description: "Get your conference bag and badge"
+-
+  id: 902
+  title: "Welcome"
+  place: "Lucerne Hall"
+  speakers: [bernhard]
+  description: "Welcome note of the presedent of the SCS"
+-
+  id: 903
+  title: "Coffee Break"
+  place: "Hall"
+  service: service
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 904
+  title: "Lunch"
+  place: "Foyer"
+  service: service
+-
+  id: 905
+  title: "Apéro Riche"
+  place: "Foyer / Lucerne Terrace"
+  service: service
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 906
+  title: "Coffee Break"
+  place: "Hall"
+  service: service
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 101
+  title: "Why organizations keep getting breached....Still, in 2015"
+  subtype: keynote
+  speakers: [beaver]
+  link: 
+-
+  id: 102
+  title: "Effective methods to detect current threats"
+  subtype: presentation
+  speakers: [petrov, just]
+  link: 
+-
+  id: 103
+  title: "Flushing Away Preconceptions of Risk"
+  subtype: presentation
+  speakers: [drdu]
+  link: 
+-
+  id: 104
+  title: "Working Together: Law enforcement and private sector botnet takedowns"
+  subtype: presentation
+  speakers: [neville,langford]
+  link:
+-
+  id: 105
+  title: "Six hacks in 60 Minutes"
+  subtype: presentation
+  speakers: []
+  link:
+-
+  id: 106
+  title: "Working Together: Law enforcement and private sector botnet takedowns"
+  subtype: keynote
+  speakers: [neville,langford]
+  link:
+-
+  id: 201
+  title: "Differences and new challenges of cybersecurity issues from the angle of Alibaba"
+  subtype: keynote
+  speakers: [white]
+  link: 
+-
+  id: 202
+  title: "State of the Cyber Threat & Consequences of Inaction"
+  subtype: presentation
+  speakers: [dorough]
+  link: 
+-
+  id: 203
+  title: "The 2020 CISO, What will their roll look like?"
+  subtype: presentation
+  speakers: [9]
+  link: 
+-
+  id: 301
+  title: "New generation timeline tools: A case study"
+  subtype: keynote
+  speakers: [7]
+  link: 
+-
+  id: 302
+  title: "Black Market of Cybercrime in Russia"
+  subtype: presentation
+  speakers: [8]
+  link:
+-
+  id: 303
+  title: "Visibility in the ENISA Threat Landscape"
+  subtype: presentation
+  speakers: [9]
+  link:
+ 
