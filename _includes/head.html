@@ -1,39 +1,39 @@
+
 <head>
-	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.metaKeywords }}">
 
-	<!--Favicon-->
-	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
-	
-	<!-- Canonical -->
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	
-	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	
-	<!-- Font Awesome -->
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	
-	<!-- Google Fonts -->
-	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
-	
-	<!-- Google Analytics -->
-	{% if site.theme.google_analytics %}
-	<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <!-- Canonical -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!--Favicon-->
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-	ga('create', '{{ site.theme.google_analytics }}', 'auto');
-	ga('send', 'pageview');
-	</script>
-	{% endif %}
-    <script type="text/javascript" src="/js/jquery-2.1.3.min.js"></script>
-    <script type="text/javascript" src="/js/doubletaptogo.js"></script>
-</head>
+    <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ "/img/favicons/apple-touch-icon-144x144.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ "/img/favicons/apple-touch-icon-120x120.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ "/img/favicons/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ "/img/favicons/apple-touch-icon-76x76.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ "/img/favicons/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ "/img/favicons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/favicons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" href="{{ "/img/favicons/favicon-196x196.png" sizes="196x196" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" href="{{ "/img/favicons/favicon-160x160.png" sizes="160x160" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" href="{{ "/img/favicons/favicon-96x96.png" sizes="96x96" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" href="{{ "/img/favicons/favicon-32x32.png" sizes="32x32" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" href="{{ "/img/favicons/favicon-16x16.png" sizes="16x16" | prepend: site.baseurl }}">
+    <meta name="msapplication-TileColor" content="#4F100F">
+    <meta name="msapplication-TileImage" content="{{ "/img/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
+    <meta name="msapplication-config" content="{{ "/img/favicons/browserconfig.xml" | prepend: site.baseurl }}">
+    
+    <meta name="theme-color" content="#4F100F">
+    
+    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet"> 
+    <link href="{{ "/css/animate.min.css" | prepend: site.baseurl }}" rel="stylesheet"> 
+  </head>

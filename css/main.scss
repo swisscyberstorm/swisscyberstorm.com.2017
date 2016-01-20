@@ -1,5 +1,8 @@
 ---
 ---
+// Mixins
+@import 'layouts/mixins';
+
 // External
 @import 'external/reset';
 @import 'external/syntax';
@@ -8,6 +11,8 @@
 @import 'base/variables';
 @import 'base/global';
 @import 'base/utility';
+@import 'base/helper';
+@import 'base/hero';
 
 // Layout elements
 @import 'layouts/posts';
@@ -20,4 +25,6 @@
 @import 'includes/footer';
 
 @import 'bootstrap';
+@import 'font-awesome';
+@import 'partials';
 

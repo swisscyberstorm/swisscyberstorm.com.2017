@@ -1,9 +1,16 @@
 ---
-layout: page
+layout: default
 title: Association
 permalink: /about/association/
 parent: About
+header_image: nodes_bg.jpg
 ---
+{% include top-section.html %}
+<!-- we should always have a bootstrap section header ... -->
+<section id="speakers" style="text-align:left;">
+<div class="content-wrapper">
+<div class="col-lg-10 col-lg-offset-1">
+
 The Swiss Cyber Storm association was founded on November 15, 2012 by a group of cyber security enthusiasts. 
 The purpose of this association as stated in the <a href="/res/association/statuten.pdf">byelaws (in German)</a> is to promote young
 cyber security talents and to regularly carry out cyber security events for security professionals and decision-makers.
@@ -82,4 +89,8 @@ Organizing committee: <a href="mailto:ok@swisscyberstorm.com" target="_blank">ok
 <a class="scs-portrait-affiliation" href="https://www.consecom.com/Team-Members/lukas-ruf.html">CEO, Consecom AG</a>
 </div>
 </div>
+
+</div>
+</div>
+</section>
 

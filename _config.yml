@@ -1,6 +1,17 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
+author: Benajmin Fehrensen, SCS
 url: "http://m.swisscyberstorm.com" # the base hostname & protocol for your site
+
+# News Title
+NewsTitle: "Swiss Cyber Storm 2016"
+
+# Hero Block -- typing on the start site 
+heroImage: "hero.jpg"
+heroTitle: "<typeout>"
+eventDate: "October, 2016"
+typeoutTextValues: '"Swiss Cyber Storm", "Swiss Cyber Storm 2016", "SCS 2016"'
+typeoutFallback: "SCS 2016"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -10,6 +21,7 @@ theme:
   gravatar: # email md5 hash
   description: "Swiss Cyber Storm 2015 Conference, European Cyber Security Challenge, Cyber Security Challenge, IT Security Conference Switzerland" # used by search engines
   
+
   # Header and footer text
 
   home_text: Home
@@ -17,7 +29,10 @@ theme:
   header_img: nodes_bg.jpg
 
   header_text: >
-      <img src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo">
+      <div>
+      	<span id="mainTitle" class="fadeIn animated" style="font-size:80px;font-weight:bold;">Swiss Cyber Storm</span>
+      	<img id="mainLogo" class="zoomIn animated" src="/img/SCS_Logo.png" alt="Swiss Cyber Storm Logo" width="100px" style="vertical-align:middle;margin-bottom:55px;">
+      </div>
     
   call_out: >
       <a class="button-inverted" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942">
@@ -25,7 +40,20 @@ theme:
       </a>
 
   footer_text: >
-      <p>&copy; 2015 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a></p>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          &copy; 2015 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a>
+        </div>
+      <div class="col-sm-6">
+        <ul class="pull-right">
+          <li><a href="#">Home</a></li>
+          <li><a href="/committee">About Us</a></li>
+          <li><a href="mailto:press@swisscyberstorm.com1">Contact Us</a></li>
+        </ul>
+      </div>
+     </div>
+    </div>
   
   # Icons
   rss: false
@@ -76,4 +104,4 @@ sass:
   style: :compressed
 
 
-exclude: ['draft-program']
+exclude: ['draft-program','README.md']

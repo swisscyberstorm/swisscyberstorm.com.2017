@@ -1,4 +1,13 @@
 ---
+- speaker: "Dr. Bernhard Tellenbach"
+  id: bernhard 
+  jobtitle: "President of the Swiss Cyber Storm"
+  affiliation: "Lecturer, Zurich University of Applied Sciences (ZHAW)"
+  publish: "true"
+  title: "Welcome"
+  profile: 
+  abstract: 
+  image: /img/about/bernhard_tellenbach.jpg
 - speaker: "Kevin Beaver"
   jobtitle: "Security Consultant, Writer, Professional Speaker and Expert Witness"
   affiliation: "Atlanta, Georgia-based Principle Logic, LLC"

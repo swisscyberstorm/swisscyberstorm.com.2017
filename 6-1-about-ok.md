@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: default
 title: Organization Committee
 permalink: /about/committee/
 parent: About
+header_image: final_2013.jpg
 ---
+
+{% include top-section.html %}
+<!-- we should always have a bootstrap section header ... -->
+<section id="speakers" style="text-align:left;">
+<div class="content-wrapper">
+<div class="col-lg-10 col-lg-offset-1">
+
 
 
 <div class="scs-portrait">
@@ -97,3 +105,8 @@ Board
 
 Organization Committee
 <a href="mailto:ok@swisscyberstorm.com" target="_blank">ok@swisscyberstorm.com</a>
+
+</div>
+</div>
+</section>
+

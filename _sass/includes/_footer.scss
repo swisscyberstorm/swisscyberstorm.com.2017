@@ -11,3 +11,30 @@
     max-height: 5em;
     margin: 1em 1em;
 }
+.footer {
+    border-top: 5px solid #4F100F;
+    background-color: #383838;
+    color: #fff;
+    height: 84px;
+    margin-top: 110px;
+}
+
+.footer ul {
+    list-style: outside none none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer a:hover {
+  color: #4F100F;;
+}
+
+.footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
+

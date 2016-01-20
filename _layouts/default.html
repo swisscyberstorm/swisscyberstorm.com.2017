@@ -1,14 +1,59 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    {% include header.html %}
-    
-      {{ content }}
+<body>
+    <div id="scs-container" class="scs-container disable-scrolling">
+        <div class="scs-pusher">
+            <div class="scs-content">
 
-    {% include footer.html %}
-  </body>
-  
+                {{ content }}
+
+                {% include footer.html %}
+            </div>
+        </div>
+    </div>
+
+    {% if page.modal != null %}
+        {% include speakers-modals.html %}
+    {% endif %}
+
+    {% if page.permalink == '/schedule/' %}
+        {% include sessions-modals.html %}
+    {% endif %}
+
+
+    <script type="text/javascript" src="/js/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="/js/doubletaptogo.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/scripts.js"></script>
+
+    <script type="text/javascript" src="/js/jquery.sticky-kit.min.js"></script>
+    {% if page.typeout %}
+    <script type="text/javascript" src="/js/typed.min.js"></script>
+        <script type="text/javascript">
+	$(function () {
+                    if ($(window).width() > 767) {
+                        $("#typeout-text").typed({
+                            strings: [{{site.typeoutTextValues}}],
+                            typeSpeed: 70,
+                            backDelay: 900,
+                            loop: true
+                        });
+                    }
+                });
+        </script>
+    {% endif %}
+    {% if page.permalink == '/schedule/' %}
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var navHeight = $('#top-header').height();
+                var headerHeight = $('.track-header').first().height();
+                $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
+                $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
+            });
+        </script>
+    {% endif %}
+</body>
 </html>

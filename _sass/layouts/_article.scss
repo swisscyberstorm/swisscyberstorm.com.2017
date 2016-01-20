@@ -12,6 +12,10 @@ article,
   text-align: left;
 }
 article {
+  //@include box-shadow(0 3px 10px rgba(0,0,0,.1)); 
+  //background-color: #444;
+  //@include border-radius(10px); 
+
   header {
     margin-bottom: 6%;
     text-align: left;

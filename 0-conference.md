@@ -1,18 +1,48 @@
 ---
-layout: page
+layout: default
+color: #000000
 title: Conference
 permalink: /conference/
 draft: true
+header_image: conference_2015.jpg
 image:
  - url: img/scs_2014.png
    caption: 'Swiss Cyber Storm 2015'
    alt: 'Swiss Cyber Storm 2015'
+slideshow:
+  - background_image_path: /img/conference_2015.jpg
+    main_heading: Swiss Cyber Strom 2015
+    sub_heading: Swiss Cyber Storm 2015 is over. See you at Swiss Cyber Storm 2016!
+    read_more_link: /conference/
+    button_text: Read more
+  - background_image_path: /img/scs_2014.png
+    main_heading: Swiss Cyber Storm 2016
+    sub_heading: Swiss Cyber Storm 2016 is coming soon! Save the date - October 19, 2016
+    read_more_link: /conference/
+    button_text: Sign up today
+  - background_image_path: /img/final_2013.jpg
+    main_heading: Cyber Talents Wanted
+    sub_heading: Are you between 14 and 30 years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then this challenge is for you!
+    read_more_link: http://challenge.swisscyberstorm.com/
+    button_text: Read more
+
 ---
-{% figure_img figure-notxtwrap-mw-500px 0 caption %}
+{% include top-section.html %}
+
+<!-- we should always have a bootstrap section header ... -->
+<section id="speakers" style="text-align:left;">
+<div class="content-wrapper">
+<div class="col-lg-10 col-lg-offset-1">
+
+
 Swiss Cyber Storm 2015 is an international IT security conference in the domain of cyber attacks and defense.
 On the management and tech track, international experts talk about the latest findings, techniques, visions, opinions and lessons learned. To complement the talks, the conference features a CEO/CISO panel where decision makers discuss the current and future challenges in cyber defense. Swiss Cyber Storm 2015 provides a lot of room for networking with national and international experts. And last but not least, thanks to the co-location of the conference with the European Cyber Security Challenge, it offers an unique opportunity to network with young talents from Austria, Germany, Romania, Spain, Switzerland, United Kingdom and possibly even more countries. All of these countries send a team formed by the winners of their national cyber competition to foster collaboration, networking and with this is determined who has the best young talents in Europe.
 
 Swiss Cyber Storm is supported by the Federal Department of Foreign Affairs, the Federal Department of Finance and the Swiss Accademy of Engineering Sciences (SATW). Furthermore, the European Cyber Security Challenge is supported by the European Network and Information Security Agency (ENISA) as well as the organizations that each spent time organizing the national competitions for each respective participating country.
+
+{% include slide-show.html %}
+
+{% figure_img figure-notxtwrap-mw-500px 0 caption %}
 
 <h2>Tickets</h2>
 <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128221942" style="text-decoration: underline;">
@@ -69,3 +99,7 @@ There are several hotels in the immediate vicinity (walking distance), e.g.:
 
 Otherwise you can find other hotels & accommodations on the website of 
 <a href="http://www.luzern.com/en/" target="_blank">Lucerne Tourism</a>.
+
+</div>
+</div>
+</section>

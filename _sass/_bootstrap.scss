@@ -2,14 +2,20 @@
 @import "bootstrap/mixins";
 
 // Reset and dependencies
+@import "bootstrap/normalize";
 
 // Core CSS
 @import "bootstrap/grid";
 @import "bootstrap/tables";
+@import "bootstrap/buttons";
+@import "bootstrap/modals";
+@import "bootstrap/close";
+@import "bootstrap/type";
 
 // Components
 
 // Components w/ JavaScript
+@import "bootstrap/carousel";
 
 // Utility classes
 @import "bootstrap/utilities";
