@@ -12,8 +12,11 @@
 # animated icon fade in
 # animated start text 
 > apple touch icon!!!
-> wipe caroussel
+# swipe support for carousel
+# carousel full image ...
 > scroll navigation mobile scroll navigation mobile
 # modal popups 
 > compress
 # posts
+> partner plates
+# follow us in footer
