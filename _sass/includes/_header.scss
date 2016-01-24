@@ -306,7 +306,7 @@ $lap-end:               $desk-start - 1px;
         {
             //display: none;
             max-height:0;
-            overflow-y: hidden;
+            overflow-y: auto;
 	    z-index:$zindex-ontop;
 
             //@include transition(max-height, 0.5s, ease);
@@ -333,8 +333,8 @@ $lap-end:               $desk-start - 1px;
         {
             //display: block;
             height:auto;  
-            max-height:999px;
-            //@include transition(max-height, 1s, ease);
+            max-height: 500px;
+            @include transition(max-height, 0.5s, ease);
 
             left:0;         
         }
