@@ -2,7 +2,7 @@
 layout: default
 title: Schedule
 permalink: /schedule/
-header_image: nodes_bg.jpg
+header_image: 2015/Beaver3_CyberStorm_2015.jpg
 ---
 
 {% include top-section.html %}

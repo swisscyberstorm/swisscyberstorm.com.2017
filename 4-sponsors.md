@@ -2,14 +2,17 @@
 layout: default
 title: Sponsors
 permalink: /sponsors/
-header_image: nodes_bg.jpg
+header_image: 2015/Ceremony_CyberStorm_2015.jpg
 hide: false
 ---
 {% include top-section.html %}
-<!-- we should always have a bootstrap section header ... -->
+
 <section id="speakers" style="text-align:left;">
-<div class="content-wrapper">
-<div class="col-lg-10 col-lg-offset-1">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 wow fadeInDown">
+<article>
+<div class="post-content">
 
 <h2>Sponsors</h2>
 <p>Swiss Cyber Storm would like to thank its partners and sponsors for their invaluable support. We are happy to have each of them on board. We believe they are not only the right partners for us but also for you. 
@@ -159,6 +162,10 @@ You can visit our web sites from previous years to get a better idea of the Swis
   <li><i class="fa-li fa fa-check-square"></i><a href="http://2013.swisscyberstorm.com/" target="_blank">2013</a></li>
   <li><i class="fa-li fa fa-check-square"></i><a href="http://2014.swisscyberstorm.com/" target="_blank">2014</a></li>
 </ul>
+
+</div>
+</article>
+</div>
 
 </div>
 </div>

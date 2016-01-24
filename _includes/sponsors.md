@@ -1,28 +1,14 @@
-<div class="paddingleft">
-<div class="row">
- <div class="col-xs-12">
-  <h3>Partners:</h3>
-  <div class="partner-image-right">
-   <a href="http://www.admin.ch/" target="_blank"><img src="/img/EFD_ISB_d_CMYK_pos_quer_MELANI-EDA-DE-500dpi.gif"></a>
-  </div>
- </div>
+<div class="page-column-left">
+  <h3 style="margin: 0.5em 0; padding-top: 32px">Partners:</h3>
+  {% for element in site.data.partner %}
+  {% if element.type == 'Partner' %}
+  {% include sponsor_entry.html %}
+  {% endif %}
+  {% endfor %}
+  <h3 style="margin: 0.5em 0; padding-top: 32px">GOLD Sponsor:</h3>
+  {% for element in site.data.partner %}
+  {% if element.type == 'GOLD' %}
+  {% include sponsor_entry.html %}
+  {% endif %}
+  {% endfor %}
 </div>
-<div class="row">
- <div class="col-xs-12">
-  <div class="partner-image-right">
-   <a href="http://www.satw.ch/" target="_blank"><img src="/img/SATW_transparent.png"></a>
-  </div>
- </div>
-</div>
-<div class="row">
- <div class="col-xs-12">
-  <h4>GOLD Sponsor:</h4>
-  <div class="partner-image-right">
-   <a href="http://www.terreactive.ch/" target="_blank">
-    <img class="sponsor-img" src="/img/sponsors/Logo_terreActiveAG.jpg" alt="GOLD Sponsor - terreActive AG"></a>
-  </div>
- </div>
-</div>
-</div>
-
-

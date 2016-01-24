@@ -3,14 +3,18 @@ layout: default
 title: Association
 permalink: /about/association/
 parent: About
-header_image: nodes_bg.jpg
+header_image: 2015/Technics_CyberSorm_2015.jpg
 ---
 {% include top-section.html %}
 <!-- we should always have a bootstrap section header ... -->
 <section id="speakers" style="text-align:left;">
-<div class="content-wrapper">
-<div class="col-lg-10 col-lg-offset-1">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-9 wow fadeInDown">
+<article>
+<div class="post-content">
 
+<h1>Association</h1>
 The Swiss Cyber Storm association was founded on November 15, 2012 by a group of cyber security enthusiasts. 
 The purpose of this association as stated in the <a href="/res/association/statuten.pdf">byelaws (in German)</a> is to promote young
 cyber security talents and to regularly carry out cyber security events for security professionals and decision-makers.
@@ -91,6 +95,13 @@ Organizing committee: <a href="mailto:ok@swisscyberstorm.com" target="_blank">ok
 </div>
 
 </div>
+</article>
+</div>
+
+<div class="col-xs-12 col-sm-3 wow fadeInDown">
+{% include sponsors.md %}
+</div>
+
+</div>
 </div>
 </section>
-

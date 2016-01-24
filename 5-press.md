@@ -9,8 +9,12 @@ header_image: conference_2015.jpg
 
 <!-- we should always have a bootstrap section header ... -->
 <section id="speakers" style="text-align:left;">
-<div class="content-wrapper">
-<div class="col-lg-10 col-lg-offset-1">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-9 wow fadeInDown">
+<article>
+<div class="post-content">
+
 
 <h2>Press Releases</h2>
 <ul class="ul-bulletlist">
@@ -122,7 +126,15 @@ E-Mail  <i class="fa fa-envelope-o"></i></a></p>
 </div>
 </div>
 
+
+</div>
+</article>
+</div>
+
+<div class="col-xs-12 col-sm-3 wow fadeInDown">
+{% include sponsors.md %}
+</div>
+
 </div>
 </div>
 </section>
-

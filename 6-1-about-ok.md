@@ -3,16 +3,19 @@ layout: default
 title: Organization Committee
 permalink: /about/committee/
 parent: About
-header_image: final_2013.jpg
+header_image: 2015/Participants_CyberStorm_2015.jpg
 ---
 
 {% include top-section.html %}
 <!-- we should always have a bootstrap section header ... -->
 <section id="speakers" style="text-align:left;">
-<div class="content-wrapper">
-<div class="col-lg-10 col-lg-offset-1">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-9 wow fadeInDown">
+<article>
+<div class="post-content">
 
-
+<h1>Organization Committee</h1>
 
 <div class="scs-portrait">
 <img src="/img/about/bernhard_tellenbach.jpg" alt="Dr. Bernhard Tellenbach">
@@ -105,6 +108,14 @@ Board
 
 Organization Committee
 <a href="mailto:ok@swisscyberstorm.com" target="_blank">ok@swisscyberstorm.com</a>
+
+</div>
+</article>
+</div>
+
+<div class="col-xs-12 col-sm-3 wow fadeInDown">
+{% include sponsors.md %}
+</div>
 
 </div>
 </div>

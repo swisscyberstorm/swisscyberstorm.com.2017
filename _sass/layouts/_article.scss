@@ -100,7 +100,7 @@ article {
         float: left;
         text-align: center;
         width: 300px;
-        min-height: 400px;
+        min-height: 350px;
         margin: 0.5em;
         padding: 0.3em;
         p {
@@ -136,3 +136,11 @@ article {
     }
   }
 }
+.page-column-left {
+   text-align: left;
+    @media (max-width: $screen-sm-min) {
+	padding: 4.5% 6.25%
+    }
+}   
+
+
