@@ -1,0 +1,13 @@
+---
+- www: http://www.admin.ch
+  image: /img/EFD_ISB_d_CMYK_pos_quer_MELANI-EDA-DE-500dpi.gif
+  text: Partner - Eidgenössisches Finanzdepartment EFD
+  type: Partner
+- www: 
+  image: /img/SATW_transparent.png
+  text: Partner - Swiss Academy of Engineering Science
+  type: Partner
+- www: http://www.terreactive.ch/
+  image: /img/sponsors/terreactive_logo.svg
+  text: GOLD Sponsor - terreActive AG
+  type: GOLD

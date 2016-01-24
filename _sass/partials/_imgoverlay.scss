@@ -1,0 +1,52 @@
+
+.partner-container  {
+  position: relative;
+  border-radius: 20px;
+
+  .partner-image  {
+    positon: absolute;
+    top: 0;
+    left: 0;
+    margin-bottom: 2em;
+    max-width: 15em;
+    width: 100%;
+    height: 100%;
+    a:hover {
+ 	opacity: 0.6;
+    } 
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: $brand-primary;
+    color: #f0f0f0;
+    font-width: 200;
+    vertical-align: middle;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    padding: 5px;
+    &:hover {
+       opacity: 0.8;
+    }
+  }
+}
+
+.partner-image-inner {
+  p { 
+    margin-bottom: 0px;
+  }
+  a {
+    color: #f0f0f0;
+    &:hover {
+       font-weight: 500;
+       color: #fff;
+    }
+  }
+
+}

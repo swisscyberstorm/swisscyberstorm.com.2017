@@ -1,0 +1,32 @@
+<!-- Begin Page with 2 columns -->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-9 wow fadeInDown">
+            {% for article in site.data.confPage %}
+                <article class="content-wrapper text-left">
+	 	<h2>{{ article.title }}</h2>		    
+		{% for para in article.paragraph %}
+		{% if para.raw != null %}
+		  {{ para.raw }}
+                {% endif %}
+		{% if para.text != null %}
+		  <p>{{ para.text }}</p>
+                {% endif %}
+		{% if para.include != null %}
+		  {% include {{para.include}} %} 
+                {% endif %}
+		{% if para.image != null %}
+		<div><img src="{{ para.image }}"></div>
+                {% endif %}
+                {% endfor %}
+                </article>
+            {% endfor %}
+            </div>
+            <div class="col-xs-12 col-sm-3 wow fadeInDown">
+               {% include sponsors.md %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Page -->
