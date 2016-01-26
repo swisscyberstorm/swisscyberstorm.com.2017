@@ -71,9 +71,9 @@
                 equalheight('.same-height');
             }
             if ($(window).height() < 500) {
-                $('ul.navigation-primary').css('max-height',$(window).height());
+                $('#nav-container').css('max-height','300px');
             } else {
-                $('ul.navigation-primary').css('max-height','500px');
+                $('#nav-container').css('max-height','500px');
             }
         });
 

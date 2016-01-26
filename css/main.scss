@@ -15,13 +15,12 @@
 @import 'base/hero';
 
 // Layout elements
+@import 'layouts/header';
 @import 'layouts/posts';
 @import 'layouts/article';
-@import 'layouts/header';
 @import 'layouts/program';
 
 // Partials
-@import 'includes/header';
 @import 'includes/footer';
 
 @import 'bootstrap';
