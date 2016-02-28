@@ -1,0 +1,37 @@
+  title: "Swiss Cyber Storm 2014 Challenges, Conference and Cyber Challenge Final"
+  items:
+    - {
+    	date: '2014-11-07',
+        issuer: 'Steiermark ORF',
+    	title: 'Heimsieg bei 1. "European Cyber Security Challenge"',
+    	link: 'http://steiermark.orf.at/news/stories/2677849/', 
+        type: 'www',
+      }
+    - {
+    	date: '2014-11-06',
+        issuer: 'derStandard.at',
+    	title: 'Team Österreich gewann die 1. "European Cyber Security Challenge"',
+    	link: 'http://derstandard.at/2000007826365/Team-Oesterreich-gewann-die-1-European-Cyber-Security-Challenge', 
+        type: 'www',
+      }
+    - {
+    	date: '2014-11-06',
+        issuer: 'oe24.at',
+    	title: 'Erste "European Cyber Security Challenge"',
+    	link: 'http://www.oe24.at/oesterreich/chronik/steiermark/Erste-European-Cyber-Security-Challenge/164218126', 
+        type: 'www',
+      }
+    - {
+    	date: '2014-11-05',
+        issuer: 'Woche.at',
+    	title: 'Gefahren aus dem Netz bewusst machen',
+    	link: 'http://www.meinbezirk.at/hartberg-fuerstenfeld/wirtschaft/gefahren-aus-dem-netz-bewusst-machen-d1142196.html', 
+        type: 'www',
+      }
+    - {
+    	date: '2014-10-24',
+        issuer: 'la-consulenza',
+    	title: 'Le due facce della medaglia digitale',
+    	link: 'http://www.rsi.ch/rete-uno/programmi/intrattenimento/la-consulenza/Le-due-facce-della-medaglia-digitale-2803933.html', 
+        type: 'www',
+      }

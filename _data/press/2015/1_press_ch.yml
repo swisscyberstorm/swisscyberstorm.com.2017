@@ -1,0 +1,338 @@
+  title: 'Press Review Switzerland'
+  items:
+    - {
+    	date: '2015-10-23',
+        issuer: 'Netzwoche',
+    	title: 'Schweizer Jung-Hacker holen Bronze',
+    	link: 'http://www.netzwoche.ch/News/2015/10/23/Schweizer-Jung-Hacker-holen-Bronze.aspx', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'Swiss IT Magazine',
+    	title: 'Podestplatz für Schweizer Jung-Hacker ',
+    	link: 'http://www.itmagazine.ch/Artikel/60874/Podestplatz_fuer_Schweizer_Jung-Hacker.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'IT Business',
+    	title: 'Schweizer Junghacker holen Podest-Rang',
+    	link: 'http://www.itbusiness.ch/news/people-corporate/item/669-schweizer-junghacker-holen-podest-rang-an-europameisterschaft.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'ICT Kommunikation',
+    	title: 'Schweizer Junghacker belegen bei Cyber-Europameisterschaft den dritten Platz',
+    	link: 'http://ictk.ch/content/schweizer-junghacker-belegen-bei-cyber-europameisterschaft-den-dritten-platz', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'Finanzen.ch',
+    	title: 'Österreichisches Hacker-Nationalteam holt Europameisterschaft',
+    	link: 'http://www.finanzen.ch/nachrichten/aktien/Oesterreichisches-Hacker-Nationalteam-holt-Europameisterschaft-1000874089', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'Neue Luzerner Zeitung',
+    	title: 'Schweizer Junghacker brillieren an EM',
+    	link: 'http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/luzern/Schweizer-Junghacker-brillieren-an-Europameisterschaft;art92,615820', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-23',
+        issuer: 'Computerworld',
+    	title: 'Schweizer Junghacker sichern sich Podest-Platz',
+    	link: 'http://www.computerworld.ch/news/security/artikel/schweizer-junghacker-sichern-sich-podest-platz-68985/', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-22',
+        issuer: '20 Minuti',
+    	title: 'Alle finali europee degli hacker chi vince poi stacca un impiego',
+    	link: '/res/press/2015/20151022-20M.pdf', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-22',
+        issuer: 'Computerworld',
+    	title: 'So tickt der russische Hackermarkt',
+    	link: 'http://www.computerworld.ch/news/security/artikel/so-tickt-der-russische-hackermarkt-68976/', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-22',
+        issuer: 'Neue Luzerner Zeitung/Bote der Urschweiz',
+    	title: 'IT-Talente hacken um die Wette',
+    	link: 'https://www.luzernerzeitung.ch/nachrichten/schweiz/abo/IT-Talente-hacken-um-die-Wette;art9641,615115', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-21',
+        issuer: 'Neue Luzerner Zeitung',
+    	title: 'Die besten Hacker Europas (Bildstrecke)',
+    	link: 'http://www.luzernerzeitung.ch/nachrichten/bilder/anlaesse/Die-besten-Hacker-Europas;cme157643,920428', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-21',
+        issuer: 'Swissinfo',
+    	title: 'The battle to become Switzerland’s best young hackers',
+    	link: 'http://www.swissinfo.ch/eng/cyber-talents_the-battle-to-become-switzerland-s-best-young-hackers/41730948', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-20',
+        issuer: 'SRF',
+    	title: '«Hacken ist eine Challenge, nicht per se etwas Böses»',
+    	link: 'http://www.srf.ch/news/regional/zentralschweiz/hacken-ist-eine-challenge-nicht-per-se-etwas-boeses', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-18',
+        issuer: 'SonntagsZeitung',
+    	title: 'Unsere Hacker-Nati trickst jedes System aus',
+    	link: '/res/press/2015/20151018-SZ.pdf', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-17',
+        issuer: 'Tele Bärn',
+    	title: 'Hacker aus Leidenschaft',
+    	link: 'http://www.telebaern.tv/118-show-news/6865-episode-samstag-17-oktober-2015/14108-segment-hacker-aus-leidenschaft', 
+        type: 'www'
+      }
+    - {
+    	date: '2015-10-16',
+        issuer: 'Beobachter',
+    	title: '«Ich gehöre zu den Guten»',
+    	link: '/res/press/2015/20151016-B.pdf', 
+        type: 'www'
+      }
+    - {
+        date: '2015-09-22',
+        issuer: 'Blick am Abend',
+        title: '10 Sicherheitstipps der Jung-Hacker',
+        link: 'http://www.blick.ch/life/digital/so-schuetzt-du-dich-10-sicherheitstipps-der-jung-hacker-id4190495.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-16',
+        issuer: '20 Minuten Bern',
+        title: 'Ein Berner fährt an die Hacking-Europameisterschaft',
+        link: 'http://www.20min.ch/schweiz/bern/story/31505557',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-16',
+        issuer: '20 Minuten Basel',
+        title: 'Hacker: Es gibt keine völlig sicheren Systeme',
+        link: '/res/press/2015/20150916-20MBasel.pdf',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-15',
+        issuer: 'KleinReport',
+        title: 'Schweizer Hacking-Meisterschaft für mehr IT-Sicherheit',
+        link: 'http://www.kleinreport.ch/news/schweizer-hacking-meisterschaft-fur-mehr-it-sicherheit-82262/',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'AGEFI',
+        title: 'Les meilleurs jeunes hackers suisses sélectionnés',
+        link: 'http://www.agefi.com/ageficom/suisse-economie-politique/detail/edition/online/article/les-meilleurs-jeunes-hackers-suisses-selectionnes-406938.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'inside-it.ch',
+        title: 'Schweizer Delegation für europäischen Hacking-Wettbewerb steht',
+        link: 'http://www.inside-it.ch/articles/41386',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'Swiss IT Magazine',
+        title: 'Die besten Schweizer Jung-Hacker sind gefunden',
+        link: 'http://www.itmagazine.ch/Artikel/60595/Die_besten_Schweizer_Jung-Hacker_sind_gefunden.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'Professional Computing',
+        title: 'Die besten Schweizer Jung-Hacker gekürt',
+        link: 'http://professional-computing.info/die-besten-schweizer-jung-hacker-gekuert/',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'Netzwoche',
+        title: 'Die besten Jung-Hacker der Schweiz',
+        link: 'http://www.netzwoche.ch/News/2015/09/14/Die-besten-Jung-Hacker-der-Schweiz.aspx',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'IT-Markt',
+        title: 'Die besten Jung-Hacker der Schweiz',
+        link: 'http://www.it-markt.ch/de-CH/News/2015/09/14/Die-besten-Jung-Hacker-der-Schweiz.aspx',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'Computerworld',
+        title: 'Beste Nachwuchshacker der Schweiz gefunden',
+        link: 'http://www.computerworld.ch/news/it-branche/artikel/beste-nachwuchshacker-der-schweiz-gefunden-68708/',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-11',
+        issuer: 'Tribune de Genève',
+        title: 'Une compétition pour dénicher les meilleurs pirates informatiques',
+        link: 'http://www.pressreader.com/switzerland/tribune-de-geneve/20150911/281629599050256/TextView',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-10',
+        issuer: '24 Heures',
+        title: 'A la recherche du meilleur hacker de Suisse',
+        link: 'http://www.24heures.ch/suisse/recherche-meilleur-pirate-informatique/story/17845564',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-10',
+        issuer: 'La Liberté',
+        title: 'La Suisse manque de spécialistes en sécurité informatique',
+        link: '/res/press/2015/20150810-L.pdf',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-05',
+        issuer: 'KleinReport',
+        title: 'Junge Cracks hacken um die Wette',
+        link: 'http://www.kleinreport.ch/news/cracks-hacken-um-die-wette-81933/',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-03',
+        issuer: 'technica-online',
+        title: 'Beste Jung-Hacker der Schweiz: Ein attraktives Ziel für IT-Recruiter',
+        link: 'http://www.technica-online.ch/artikel/beste-jung-hacker-der-schweiz-ein-attraktives-ziel-fuer-it-recruiter/',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-03',
+        issuer: 'agefi',
+        title: 'Les jeunes hackers sont une cible de choix pour les recruteurs IT',
+        link: 'http://www.agefi.com/ageficom/suisse-economie-politique/detail/edition/online/article/la-phase-de-qualification-du-cyber-security-challenge-2015-sest-terminee-la-nuit-de-dimanche-a-lundi-la-liste-des-20-meilleurs-jeunes-hackers-de-suisse-est-arretee-les-dix-meilleurs-404004.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-03',
+        issuer: 'Netzwoche',
+        title: '20 Finalisten an der Cyber Security Challenge',
+        link: 'http://www.netzwoche.ch/de-CH/News/2015/08/03/20-Finalisten-am-Cyber-Security-Challenge.aspx?agent=browser',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-03',
+        issuer: 'Inside-IT',
+        title: 'Swiss Cyber Storm kürt die 20 besten Nachwuchs-Hacker',
+        link: 'http://www.inside-it.ch/articles/40949',
+        type: 'www'
+      }
+    - {
+        date: '2015-08-03',
+        issuer: 'Computerworld',
+        title: 'Beste Nachwuchshacker der Schweiz gesucht',
+        link: 'http://www.computerworld.ch/news/it-branche/artikel/beste-nachwuchshacker-der-schweiz-gesucht-68432/',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'Netzwoche (Twitter)',
+        title: '@swisscyberstorm hat das Gymnasium Kirchenfeld in Bern für einen Tag in ein IT-Labor verwandelt.',
+        link: 'https://twitter.com/Netzwoche/status/614011694080102400',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'Netzwoche',
+        title: 'Verein will Jugendliche für Cybergefahren sensibilisieren',
+        link: 'http://www.netzwoche.ch/de-CH/News/2015/06/25/Verein-will-Jugendliche-fuer-Cyber-Gefahren-sensibilisieren.aspx',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'IT-Markt',
+        title: 'Verein will Jugendliche für Cybergefahren sensibilisieren',
+        link: 'http://www.it-markt.ch/de-CH/News/2015/06/25/Verein-will-Jugendliche-fuer-Cyber-Gefahren-sensibilisieren.aspx',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'IT Business',
+        title: '"Ethical Hacking"-Kurse gegen den Fachkräftemangel',
+        link: 'http://www.itbusiness.ch/news/people-corporate/item/390-%C2%ABethical-hacking%C2%BB-kurse-gegen-den-fachkr%C3%A4ftemangel.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'ICT Kommunikation',
+        title: '"Ethical Hacking"-Kurse gegen den Fachkräftemangel',
+        link: 'http://ictk.ch/content/ethical-hacking-kurse-gegen-den-fachkr%C3%A4ftemangel',
+        type: 'www'
+      }
+    - {
+        date: '2015-06-25',
+        issuer: 'Computerworld',
+        title: 'Mit «Ethical Hacking» gegen den Fachkräftemangel',
+        link: 'http://www.computerworld.ch/news/security/artikel/mit-ethical-hacking-gegen-den-fachkraeftemangel-68193/',
+        type: 'www'
+      }
+    - {
+        date: '2015-05-04',
+        issuer: 'Inside-IT',
+        title: 'Dritte Cyber Security Challenge',
+        link: 'http://www.inside-it.ch/articles/40011',
+        type: 'www'
+      }
+    - {
+        date: '2015-05-04',
+        issuer: 'IT Magazine',
+        title: 'Startschuss für Cyber Security Challenge 2015',
+        link: 'http://www.itmagazine.ch/Artikel/59657/Startschuss_fuer_Cyber_Security_Challenge_2015.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-05-03',
+        issuer: 'S2PMag',
+        title: 'Communiqué - Cyber Security Challenge 2015',
+        link: 'http://www.s2pmag.ch/2015/05/03/communique-cyber-security-challenge-2015/',
+        type: 'www'
+      }
+    - {
+        date: '2015-05-03',
+        issuer: 'Online PC',
+        title: 'Qualifikation eröffnet: Spielerisch zu mehr IT-Sicherheit',
+        link: 'http://www.onlinepc.ch/events/schweiz/qualifikation-eroeffnet-spielerisch-zu-mehr-it-sicherheit-940026.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-05-03',
+        issuer: 'Le blog high-tech et telecom (Blog)',
+        title: 'Le Cyber Security Challenge débute ce lundi',
+        link: 'http://www.itmagazine.ch/Artikel/59657/Startschuss_fuer_Cyber_Security_Challenge_2015.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-03-01',
+        issuer: 'digma',
+        title: 'Swiss Cyber Storm 2014',
+        link: '/res/press/2015/20150301_digma.pdf',
+        type: 'pdf'
+      }

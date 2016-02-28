@@ -1,0 +1,38 @@
+
+{% for year_hash in site.data.press %}
+  {% assign year = year_hash[0] %}
+  {% assign rubric = year_hash[1] %}
+  <article>
+    <h2>Swiss Cyber Storm {{ year }}</h2>
+    {% for r_hash in rubric %}
+      {% assign r = r_hash[1] %}
+      <h3>{{ r.title }}</h3>
+      <ul>
+      {% for item in r.items %}
+        <div class="row">
+          <div class="col-xs-3 col-sm-3"> 
+	   <a href="{{ item.link }}" target="_blank"><span><i class="fa fa-hand-o-right"></i> {{ item.date }}</span></a>
+          </div>
+          <div class="col-xs-9 col-sm-9"> 
+          <i>{{ item.issuer }}</i>:
+          <a href="{{ item.link }}" target="_blank">
+            {% if item.type == "pdf" %}
+              <i class="fa fa-file-pdf-o"></i>
+            {% else %}
+              <i class="fa fa-external-link"></i> 
+            {% endif %}
+            {{ item.title }}
+          </a>
+          {% if item.link_de != null %}
+            - <a href="{{ item.link_de }}" target="_blank"><i class="fa fa-file-pdf-o"></i> German</a>
+          {% endif %}
+          {% if item.link_fr != null %}
+            - <a href="{{ item.link_fr }}" target="_blank"><i class="fa fa-file-pdf-o"></i> French</a>
+          {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+  </article>
+{% endfor %}

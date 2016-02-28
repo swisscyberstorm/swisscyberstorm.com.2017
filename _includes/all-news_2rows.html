@@ -1,0 +1,28 @@
+<!-- Begin News Section -->
+<section id="all-news" class="latest-news">
+        <div class="content-wrapper">
+                <div class="col-lg-10 col-lg-offset-1">
+                        <h1 class="schedule-table-heading" style="text-align: center">Latest news</h1>
+                        {% for post in site.posts %}
+			{% unless post.draft %}
+                        {% assign loopindex = forloop.index | modulo: 2 %}
+			{% if loopindex == 1 %}
+                        <article class="row">
+			{% endif %}
+                    {% assign postUrl = site.baseurl | append: post.url %}
+                                        <div class="post col-md-6 col-sm-6 text-left animated fadeInDown" data-delay="500">
+                                                <h5 class="slot-title">{{ post.title }}</h5>
+						<p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+                                                <p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
+                                        </div>
+			{% if loopindex  == 0 %}
+                        </article>
+			{% elsif forloop.last %}
+                        </article>
+			{% endif %}
+                {% endunless %}
+                {% endfor %}
+                </div>
+        </div>
+</section>
+<!-- End News Section -->

@@ -1,0 +1,47 @@
+  title: "Press Release"
+  items:
+    - {
+    	date: '2015-10-22',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'The European Cyber Security Challenge 2015 is over - The Swiss team won the bronze medal!',
+    	link: '/res/press/MM-European-Final-EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/MM-European-Final-DE.pdf',
+        link_fr: '/res/press/MM-European-Final-FR.pdf' 
+      }
+    - {
+    	date: '2015-09-14',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Discovering the Top Young Swiss Master Hackers',
+    	link: '/res/press/MM-CH-Final-en.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/MM-CH-Final-de.pdf',
+        link_fr: '/res/press/MM-CH-Final-fr.pdf' 
+      }
+    - {
+    	date: '2015-08-04',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Switzerland’s best Hackers: An Attractive Target for IT-Recruiter',
+    	link: '/res/press/SCS_MM-Ende_Qualifikation-EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM-Ende_Qualifikation-DE.pdf',
+        link_fr: '/res/press/SCS_MM-Ende_Qualifikation-FR.pdf' 
+      }
+    - {
+    	date: '2015-06-25',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Ethical hacking courses to counter skills shortage',
+    	link: '/res/press/SCS_MM_Event_Gymnasien_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Event_Gymnasien_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Event_Gymnasien_FR.pdf' 
+      }
+    - {
+    	date: '2015-05-04',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Qualification opens: More IT security, playfully',
+    	link: '/res/press/Press-Release-Challenge-Start_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/Press-Release-Challenge-Start_DE.pdf',
+        link_fr: '/res/press/Press-Release-Challenge-Start_FR.pdf' 
+      }

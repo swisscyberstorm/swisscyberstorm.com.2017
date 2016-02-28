@@ -1,0 +1,72 @@
+  title: "Swiss Cyber Storm @ Security Alpen Cup 2013 in Linz and Vienna"
+  items:
+    - {
+        date: '2013-11-13',
+        issuer: 'inside-it.ch',
+        title: 'Schweiz holt Cyber Security Alpen Cup',
+        link: 'http://www.inside-it.ch/articles/34430',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-13',
+        issuer: 'Computerworld',
+        title: 'Schweiz schlägt Österreich bei IT-Security',
+        link: 'http://www.computerworld.ch/news/kommunikation/artikel/schweiz-schlaegt-oesterreich-bei-it-security-64668/',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-13',
+        issuer: 'MELANI',
+        title: 'MELANI Press Release',
+        link: 'http://www.melani.admin.ch/dienstleistungen/archiv/01560/index.html?lang=de',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-08',
+        issuer: 'www.ots.at',
+        title: 'Cyber-Sicherheitswoche des Bundesheeres endet mit Länderkampf',
+        link: 'http://www.ots.at/presseaussendung/OTS_20131107_OTS0220/cyber-sicherheitswoche-des-bundesheeres-endet-mit-laenderkampf',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-08',
+        issuer: 'www.krone.at',
+        title: 'Schweiz gewinnt Hackerbewerb "Security Alpen Cup"',
+        link: 'http://www.krone.at/Digital/Schweiz_gewinnt_Hackerbewerb_Security_Alpen_Cu  p-Ergebnis_fix-Story-382094',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-08',
+        issuer: 'die Presse',
+        title: 'Hacker-Cup: Schweizer schlagen Österreicher im Finale',
+        link: 'http://diepresse.com/home/techscience/internet/sicherheit/1474030/HackerCup_Schweizer-schlagen-Osterreicher-im-Finale',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-08',
+        issuer: 'derStandard',
+        title: '"Security Alpen Cup" geht an die Schweiz',
+        link: 'http://derstandard.at/1381371281852/Security-Alpen-Cup-geht-an-die-Schweiz',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-06',
+        issuer: 'www.nachrichten.at',
+        title: 'Wir alle sind im Haifischbecken Cyber-Space',
+        link: 'http://www.nachrichten.at/oberoesterreich/Wir-alle-sind-im-Haifischbecken-  Cyber-Space;art4,1232713',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-01',
+        issuer: 'ORF',
+        title: 'Abwehramt fischt nach Hackern',
+        link: 'http://ooe.orf.at/news/stories/2612494/',
+        type: 'www'
+      }
+    - {
+        date: '2013-11-01',
+        issuer: 'derStandard.at',
+        title: '"Cyber Terror" und Anonymous: Bundesheer fischt nach jungen Hackern',
+        link: 'http://derstandard.at/1381370597201/Cyber-Terror-und-Anonymous-Bundesheer-fischt-nach-jungen-Hackern',
+        type: 'www'
+      }

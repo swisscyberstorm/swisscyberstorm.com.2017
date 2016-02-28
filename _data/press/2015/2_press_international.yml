@@ -1,0 +1,177 @@
+  title: 'Press Review International'
+  items:
+    - {
+        date: '2015-10-24',
+        issuer: 'Heise.de',
+        title: 'Cyber Security Challenge: Deutsches Team wird Vize-Europameister',
+        link: 'http://www.heise.de/newsticker/meldung/Cyber-Security-Challenge-Deutsches-Team-wird-Vize-Europameister-2854679.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Wallstreet Online',
+        title: 'Österreichisches Hacker-Nationalteam holt Europameisterschaft',
+        link: 'http://www.wallstreet-online.de/nachricht/8054955-oesterreichisches-hacker-nationalteam-holt-europameisterschaft',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Tiroler Tageszeitung',
+        title: 'Österreichisches Nationalteam ist Europameister – im Hacken',
+        link: 'http://www.tt.com/lebensart/10671569-91/%C3%B6sterreichisches-nationalteam-ist-europameister--im-hacken.csp',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'The Register',
+        title: 'Youths represent UK at first European Cyber Security Challenge',
+        link: 'http://www.theregister.co.uk/2015/10/23/european_cyber_security_challenge_2015/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Südtirol News',
+        title: 'Die besten Hacker Europas kommen aus Österreich',
+        link: 'http://www.suedtirolnews.it/d/artikel/2015/10/23/die-besten-hacker-europas-kommen-aus-oesterreich.html#.VipTFit1FSM',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Salzburger Nachrichten',
+        title: 'Österreichs Hacker sind Europameister',
+        link: 'http://www.salzburg.com/nachrichten/oesterreich/chronik/sn/artikel/oesterreichs-hacker-sind-europameister-170701/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'ORF',
+        title: 'Österreichs Hacker-Nationalteam ist Europameister',
+        link: 'http://orf.at/stories/2305744/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Kronen Zeitung',
+        title: 'Österreich ist Europameister der Hacker',
+        link: 'http://www.krone.at/Digital/Oesterreich_ist_Europameister_der_Hacker-Challenge_in_Luzern-Story-478519',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Kleine Zeitung',
+        title: 'Österreichs Hacker sind Europameister',
+        link: 'http://www.kleinezeitung.at/s/chronik/oesterreich/4850318/CyberTalente_Osterreichs-Hacker-sind-Europameister',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Information Security Buzz',
+        title: 'Representing Britain in the First European Cyber Security Challenge',
+        link: 'http://www.informationsecuritybuzz.com/representing-britain-in-the-first-european-cyber-security-challenge/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Futurezone',
+        title: 'Österreichisches Hacker-Nationalteam ist Europameister',
+        link: 'http://futurezone.at/digital-life/oesterreichisches-hacker-nationalteam-ist-europameister/160.048.827',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Engineering and Technology Magazine',
+        title: 'German-speaking nations dominate in European Cyber Security Challenge',
+        link: 'http://eandt.theiet.org/news/2015/oct/european-cyber-security-challenge.cfm',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Der Standard',
+        title: 'Europas beste Nachwuchs-Hacker kommen aus Österreich',
+        link: 'http://derstandard.at/2000024386851/Europas-beste-Nachwuchs-Hacker-kommen-aus-Oesterreich',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-23',
+        issuer: 'Computerwelt',
+        title: 'Österreichs Nachwuchs-Hacker sind wieder Europameister',
+        link: 'http://www.computerwelt.at/news/technologie-strategie/security/detail/artikel/113211-oesterreichs-nachwuchs-hacker-sind-wieder-europameister/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-22',
+        issuer: 'info security',
+        title: 'Brits Take on Europe’s Best in EU-wide Cyber Security Challenge',
+        link: 'http://www.infosecurity-magazine.com/news/brits-take-europes-best-euwide/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-22',
+        issuer: 'Monitor',
+        title: 'Österreich ist (wieder) Europameister',
+        link: 'http://www.monitor.at/index.cfm/storyid/16580_Titelverteidigung_gelungen-Oesterreich_ist_%28wieder%29_Europameister',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-22',
+        issuer: 'Metro',
+        title: 'Un concours européen de cyber-pirates',
+        link: 'http://fr.metrotime.be/2015/10/22/must-read/un-concours-europeen-de-cyber-pirates/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-22',
+        issuer: 'Information Risk Management (Blog)',
+        title: 'European Cyber Security Challenge: Competition Day',
+        link: 'https://irmsecurity.com/blog/european-cyber-security-challenge-competition-day/',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-21',
+        issuer: 'ENISA',
+        title: 'Discovering the Top Young European Master Hackers',
+        link: 'https://www.enisa.europa.eu/media/press-releases/discovering-the-top-young-european-master-hackers',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-20',
+        issuer: 'Weser Kurier',
+        title: 'Die Suche nach Sicherheitslücken',
+        link: 'http://www.weser-kurier.de/bremen/bremen-stadtreport_artikel,-Die-Suche-nach-Sicherheitsluecken-_arid,1233835.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-19',
+        issuer: 'Sat.1',
+        title: 'Bremer Student zählt zu den besten Hackern Deutschlands',
+        link: 'http://www.sat1regional.de/panorama-video/article/bremer-student-zaehlt-zu-den-besten-hackern-deutschlands-186979.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-18',
+        issuer: 'Osnabrücker Zeitung',
+        title: 'Delmenhorster Hacker macht Computerprogramme sicherer',
+        link: 'http://www.noz.de/deutschland-welt/niedersachsen/artikel/628275/delmenhorster-hacker-macht-computerprogramme-sicherer',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-17',
+        issuer: 'Radio Bremen',
+        title: 'Auf der Suche nach der Lücke im System',
+        link: 'http://www.radiobremen.de/gesellschaft/themen/hacker112.html',
+        type: 'www'
+      }
+    - {
+        date: '2015-10-17',
+        issuer: 'Kreiszeitung',
+        title: 'Hacker aus Leidenschaft',
+        link: 'http://www.luzernerzeitung.ch/nachrichten/bilder/anlaesse/Die-besten-Hacker-Europas;cme157643,920428',
+        type: 'www'
+      }
+    - {
+        date: '2015-09-14',
+        issuer: 'Austria Cyber Security Challenge',
+        title: 'Die Schweizer Meister unter den Jung-Hackern stehen fest',
+        link: 'http://www.verbotengut.at/',
+        type: 'www'
+      }

@@ -1,0 +1,44 @@
+  title: "Swiss Cyber Storm 2013 Challenges & Conference"
+  items:
+    - {
+        date: '2013-12-04',
+        issuer: 'digma',
+        title: 'Swiss Cyber Storm Relaunched',
+        link: 'http://2014.swisscyberstorm.com/files/2913/8885/0156/digma_2013_4.pdf',
+        type: 'pdf'
+      }
+    - {
+        date: '2013-06-24',
+        issuer: 'swissICT',
+        title: 'Rückblick: Lean, Agile, Scrum Konferenz 2013',
+        link: 'http://www.swissict.ch/index.php?id=419',
+        type: 'www'
+      }
+    - {
+        date: '2013-06-20',
+        issuer: 'Cyber Smashup',
+        title: 'Swiss Cyber Storm 4',
+        link: 'http://cybermashup.com/2013/06/20/swiss-cyber-storm-4-part-1/',
+        type: 'www'
+      }
+    - {
+        date: '2013-05-17',
+        issuer: 'inside-it.ch',
+        title: 'Wer will in die erste Schweizer Cyber-Delegation?',
+        link: 'http://www.inside-it.ch/articles/32550',
+        type: 'www'
+      }
+    - {
+        date: '2013-05-17',
+        issuer: 'Netzwoche',
+        title: 'Cyber-Talente gesucht',
+        link: 'http://www.netzwoche.ch/de-CH/News/2013/05/17/Cyber-Talente-gesucht.aspx',
+        type: 'www'
+      }
+    - {
+        date: '2013-05-16',
+        issuer: 'Romandie',
+        title: 'Les TIC, mais en toute sécurité: Swiss Cyber Storm cherche les «cyber-talents» de demain',
+        link: 'http://www.romandie.com/news/n/__Les_TIC_mais_en_toute_securite_Swiss_Cyber_Storm_cherche_les_cyber_talents_de_demain____21160520131640.asp',
+        type: 'www'
+      }
