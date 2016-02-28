@@ -131,6 +131,10 @@
             event.stopPropagation();
             container.toggleClass('scs-menu-open');
         });
+        $('#menu>ul>li').click(function(event) {
+            // prevent menu form disapparing when clicking for expansion
+            event.stopPropagation();
+        }); 
         $('.scs-pusher').click(function() {
             if (container.hasClass('scs-menu-open')) {
                 container.removeClass('scs-menu-open');

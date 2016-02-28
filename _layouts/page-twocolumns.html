@@ -2,26 +2,17 @@
 layout: default
 ---
 
-<div class="content">
-  <section class="docs">
-  <article>
+{% include top-section.html %}
+<section style="text-align:left;">
+  <div class="container">
     <div class="row">
-      <div class="col-md-8">
-      {{ content }}
+      <div class="col-xs-12 col-sm-9 wow fadeInDown">
+          {{ content }}
       </div>
-      <div class="col-md-4">
-      {% include sponsors.md %}
+      <div class="col-xs-12 col-sm-3 wow fadeInDown">
+        {% include sponsors.md %}
       </div>
     </div>
-  </article>
-  </section>
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
-
-
-</div>
+  </div>
+</section>
 

@@ -1,22 +1,18 @@
 ---
-layout: default
+layout: page-twocolumns
 title: Organization Committee
 permalink: /about/committee/
 parent: About
 header_image: 2015/Participants_CyberStorm_2015.jpg
 ---
 
-{% include top-section.html %}
-<!-- we should always have a bootstrap section header ... -->
-<section id="speakers" style="text-align:left;">
-<div class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 wow fadeInDown">
 <article>
-<div class="post-content">
-
+<div class="row">
 <h1>Organization Committee</h1>
+</div>
 
+<div class="row">
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/bernhard_tellenbach.jpg" alt="Dr. Bernhard Tellenbach">
 <div class="scs-portrait-description">
@@ -25,7 +21,9 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.zhaw.ch/en/zurich-university-of-applied-sciences.html">Lecturer, Zurich University of Applied Sciences (ZHAW)</a>
 </div>
 </div>
+</div>
 
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/adrian_bachmann.jpg" alt="Dr. Adrian Bachmann">
 <div class="scs-portrait-description">
@@ -34,7 +32,11 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.temet.ch/">Partner, IT Security Consultant, TEMET AG</a>
 </div>
 </div>
+</div>
+</div>
 
+<div class="row">
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/ivan_buetler.jpg" alt="Ivan Bütler">
 <div class="scs-portrait-description">
@@ -43,7 +45,9 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.csnc.ch/en/profile/portraits/ivan-buetler.html">CEO, Compass Security AG</a>
 </div>
 </div>
+</div>
 
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/mark_saxer.jpg" alt="lic. phil. I Mark A. Saxer">
 <div class="scs-portrait-description">
@@ -52,7 +56,11 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="">Partner, Furrer.Hugi&Partner AG</a>
 </div>
 </div>
+</div>
+</div>
 
+<div class="row">
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/christian_folini.png" alt="Dr. Christian Folini">
 <div class="scs-portrait-description">
@@ -61,7 +69,9 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.netnea.com/">Security Consultant, netnea.com</a>
 </div>
 </div>
+</div>
 
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/benjamin_fehrensen.png" alt="Dr. Benjamin Fehrensen">
 <div class="scs-portrait-description">
@@ -70,8 +80,11 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.schroders.com/ch/de">Schroder & Co Bank AG</a>
 </div>
 </div>
+</div>
+</div>
 
-
+<div class="row">
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/roger_blum.jpg" alt="Roger Blum">
 <div class="scs-portrait-description">
@@ -80,7 +93,9 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="https://www.open.ch/">Security Engineer, Open Systems AG</a>
 </div>
 </div>
+</div>
 
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/philippe_schnyder.jpg" alt="Philippe Schnyder">
 <div class="scs-portrait-description">
@@ -89,7 +104,11 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.omnisec.ch/">Omnisec AG</a>
 </div>
 </div>
+</div>
+</div>
 
+<div class="row">
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 <div class="scs-portrait">
 <img src="/img/about/valentin_zahnd.jpg" alt="Valentin Zahnd">
 <div class="scs-portrait-description">
@@ -98,26 +117,9 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <a class="scs-portrait-affiliation" href="http://www.zhaw.ch/en/zurich-university-of-applied-sciences.html">Scientific Assistant, Zurich University of Applied Sciences (ZHAW)</a>
 </div>
 </div>
+</div>
+  <div class="col-xs-12 col-sm-6 wow fadeInDown">
 
-<h2>Contact</h2>
-President, Bernhard Tellenbach
-<a href="mailto:president@swisscyberstorm.com" target="_blank">president@swisscyberstorm.com</a>
-
-Board
-<a href="mailto:vorstand@swisscyberstorm.com" target="_blank">vorstand@swisscyberstorm.com</a>
-
-Organization Committee
-<a href="mailto:ok@swisscyberstorm.com" target="_blank">ok@swisscyberstorm.com</a>
-
+</div>
 </div>
 </article>
-</div>
-
-<div class="col-xs-12 col-sm-3 wow fadeInDown">
-{% include sponsors.md %}
-</div>
-
-</div>
-</div>
-</section>
-

@@ -25,7 +25,7 @@
               <div class="carousel-caption">
                 <h1 class="animation animated-item-1">{{ item.main_heading }}.</h1>
                 <p class="animation animated-item-2">{{ item.sub_heading }}</p>
-                <p><a class="btn btn-lg btn-primary animation animated-item-3" href="{{ item.read_more_link }}" role="button">{{ item.button_text }}</a></p>
+                <p><a class="btn btn-lg btn-primary animation animated-item-3{% if item.class != null %} {{ item.class }}{% endif %}" href="{% if item.read_more_link != null %}{{ item.read_more_link }}{% else %}{{ item.link }}{% endif %}" {% if item.link != null %}target="_blank"{% endif %} role="button">{{ item.button_text }}</a></p>
               </div>
             </div>
           </div><!--/.item-->

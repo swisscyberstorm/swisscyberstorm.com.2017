@@ -43,13 +43,13 @@ theme:
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-          &copy; 2015 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a>
+          &copy; 2016 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a>
         </div>
       <div class="col-sm-6">
         <ul class="pull-right">
-          <li><a href="#">Home</a></li>
-          <li><a href="/committee">About Us</a></li>
-          <li><a href="mailto:press@swisscyberstorm.com1">Contact Us</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/committee">About Us</a></li>
+          <li><a href="mailto:contact@swisscyberstorm.com">Contact Us</a></li>
         </ul>
       </div>
      </div>

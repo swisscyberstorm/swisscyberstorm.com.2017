@@ -95,7 +95,7 @@ $fontsize-navigation-smaller: $font-size;
     }
     &.after-scroll {
         padding-top: 0;
-        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+        //box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         .overlay {
             opacity: 1;
         }
@@ -135,9 +135,13 @@ nav {
         height: 100%;
         transition: $long-transition;
         background: #333;
+        -webkit-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
         transform: translateX(-100%);
     }
     .scs-menu-open & {
+        -webkit-transform: translate(0);
+        -ms-transform: translate(0);
         transform: translate(0);
     }
     ul {
