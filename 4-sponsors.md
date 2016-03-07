@@ -147,11 +147,11 @@ Get in touch with them and have a look at what they have to offer!</p>
 -->
 
 <h2>Become a Sponsor!</h2>
-Please contact us at 
+<p>Please contact us at 
 <a href="mailto:contact@swisscyberstorm.com" target="_blank">contact@swisscyberstorm.com</a>
 and we'll be pleased to tell you all about our conference and challenge sponsoring opportunities!
 
-You can visit our web sites from previous years to get a better idea of the Swiss Cyber Storm event. 
+You can visit our web sites from previous years to get a better idea of the Swiss Cyber Storm event. </p>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2015.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2015</a></li>
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2014.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2014</a></li>

@@ -42,7 +42,7 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Ivan Bütler</p>
 <p class="scs-portrait-responsibility">Security Challenges</p>
-<a class="scs-portrait-affiliation" href="http://www.csnc.ch/en/profile/portraits/ivan-buetler.html">CEO, Compass Security AG</a>
+<a class="scs-portrait-affiliation" href="http://e1.compass-security.com/">CEO, Compass Security AG</a>
 </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Dr. Benjamin Fehrensen</p>
 <p class="scs-portrait-responsibility">Publishing & Challenge Support</p>
-<a class="scs-portrait-affiliation" href="http://www.schroders.com/ch/de">Schroder & Co Bank AG</a>
+<a class="scs-portrait-affiliation" href="http://www.ubs.com/ch/de">UBS AG</a>
 </div>
 </div>
 </div>
@@ -122,4 +122,12 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 
 </div>
 </div>
+
+<div class="row">
+<h2>Contact</h2>
+<p>
+OK: <a href="mailto:contact@swisscyberstorm.com" target="_blank">contact@swisscyberstorm.com</a><br>
+</p>
+</div>
+
 </article>
