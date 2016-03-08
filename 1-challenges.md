@@ -5,6 +5,11 @@ title: Challenges
 permalink: /challenges/
 draft: true
 header_image: eucsc.png
+buttons:
+  - link: 'https://www.hacking-lab.com/events/registerform.html?eventid=1037&uk=dWSXpQCpjjBF9JVvKcpZi33yyPxAi7zS'
+    text: 'Register Junior (14-20)'
+  - link: 'https://www.hacking-lab.com/events/registerform.html?eventid=1038&uk=bjbtyzbe443u7kZPZDpRPSG33d4cehAP'
+    text: 'Register Senior (20-30)'
 ---
 
 
