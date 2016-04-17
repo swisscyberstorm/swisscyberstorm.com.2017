@@ -7,7 +7,6 @@ hide: false
 ---
 
 <article>
-<!--
 <h2>Sponsors</h2>
 <p>Swiss Cyber Storm would like to thank its partners and sponsors for their invaluable support. We are happy to have each of them on board. We believe they are not only the right partners for us but also for you. 
 Get in touch with them and have a look at what they have to offer!</p>
@@ -74,6 +73,7 @@ Get in touch with them and have a look at what they have to offer!</p>
 {% endfor %}
     {{ no_odd }}
    </div>
+
    
   <div class="col-xs-12 col-eq-padding"> 
     <div class="row">
@@ -109,7 +109,80 @@ Get in touch with them and have a look at what they have to offer!</p>
   {% endif %}
 {% endfor %}
     {{ no_odd }}
+   </div>
 
+
+  <div class="col-xs-12 col-eq-padding"> 
+    <div class="row">
+     <div class="col-xs-12">
+      <h4>Challenges</h4>
+     </div>
+    </div>
+{% assign sponsors = site.data.sponsors | where: "type", "CHALLENGES" %}
+{% for item in sponsors %}
+  {% capture thecycle %}{% cycle 'group challenges': 'odd', 'even' %}{% endcapture %}
+  {% if thecycle == 'odd' %}
+    {% assign no_odd = '</div></div>' %} 
+    <div class="row">
+     <div id="equalheight">
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+       <div class="sponsor-img" style="max-width: {{item.max-width}}">
+        <a href="{{item.www}}" target ="_blank">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
+        </a>
+       </div>
+      </div>
+  {% else %}
+    {% assign no_odd = '' %} 
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+       <div class="sponsor-img" style="max-width: {{item.max-width}}">
+        <a href="{{item.www}}" target ="_blank">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+  {% endif %}
+{% endfor %}
+    {{ no_odd }}
+   </div>
+
+
+  <div class="col-xs-12 col-eq-padding"> 
+    <div class="row">
+     <div class="col-xs-12">
+      <h4>Academy</h4>
+     </div>
+    </div>
+{% assign sponsors = site.data.sponsors | where: "type", "ACADEMY" %}
+{% for item in sponsors %}
+  {% capture thecycle %}{% cycle 'group academy': 'odd', 'even' %}{% endcapture %}
+  {% if thecycle == 'odd' %}
+    {% assign no_odd = '</div></div>' %} 
+    <div class="row">
+     <div id="equalheight">
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+       <div class="sponsor-img" style="max-width: {{item.max-width}}">
+        <a href="{{item.www}}" target ="_blank">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
+        </a>
+       </div>
+      </div>
+  {% else %}
+    {% assign no_odd = '' %} 
+      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+       <div class="sponsor-img" style="max-width: {{item.max-width}}">
+        <a href="{{item.www}}" target ="_blank">
+         <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+  {% endif %}
+{% endfor %}
+    {{ no_odd }}
    </div>
 
   </div>
@@ -144,7 +217,6 @@ Get in touch with them and have a look at what they have to offer!</p>
  </div>
 </div>
 {% endfor %}
--->
 
 <h2>Become a Sponsor!</h2>
 <p>Please contact us at 

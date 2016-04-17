@@ -1,4 +1,9 @@
 -
+  title: "Upcomming Event"
+  paragraph:
+  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Strom 2016"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2016 | <i>October 19<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is open</a> </div> </div>'
+}
+-
   title: "Swiss Cyber Storm"
   paragraph: 
   - { text:  'Swiss Cyber Storm 2016 is an international IT security conference in the domain of cyber attacks and defense. On the management and tech track, international experts talk about the latest findings, techniques, visions, opinions and lessons learned. To complement the talks, the conference features the opportunity to link with the swiss finalists team of the European Cyber Security Challenge. Swiss Cyber Storm 2016 provides a lot of room for the networking with national and international experts.'
