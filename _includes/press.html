@@ -1,5 +1,6 @@
 
-{% for year_hash in site.data.press %}
+{% assign sorted_pages = site.data.press | sort %}
+{% for year_hash in sorted_pages reversed %}
   {% assign year = year_hash[0] %}
   {% assign rubric = year_hash[1] %}
   <article>

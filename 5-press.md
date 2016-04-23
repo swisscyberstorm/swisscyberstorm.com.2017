@@ -10,7 +10,7 @@ header_image: conference_2015.jpg
     <h2>Press Contact</h2>
     <div class="scs-portrait-description">
       Mark A. Saxer<br>
-      <a class="scs-portrait-affiliation" href="http://www.furrerhugi.ch" target="_blank">Partner, Furrer.Hugi & Partner AG</a>
+      <a class="scs-portrait-affiliation" href="http://www.furrerhugi.ch" target="_blank">Partner, furrerhugi. ag</a>
       <p>For press inquiries please send an <a href="mailto:press@swisscyberstorm.com" target="_blank">
       E-Mail  <i class="fa fa-envelope-o"></i></a></p>
     </div>

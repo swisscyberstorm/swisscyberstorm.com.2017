@@ -1,7 +1,7 @@
 -
   title: "Upcomming Event"
   paragraph:
-  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Strom 2016"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2016 | <i>October 19<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is open</a> </div> </div>'
+  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Storm 2016"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2016 | <i>October 19<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is open</a> </div> </div>'
 }
 -
   title: "Swiss Cyber Storm"

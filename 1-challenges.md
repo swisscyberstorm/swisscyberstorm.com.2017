@@ -16,14 +16,17 @@ buttons:
 <article>
 	<h2>European Cyber Security Challenge 2016</h2>
 
-	<p>Are you between <strong>14 and 30</strong> years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team that is competing against teams from Germany, Austria, Romania, UK and Spain in November 2016 in Berlin! A big chance for</p>
+	<p>Are you between <strong>14 and 30</strong> years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team that is competing against teams from Germany, Austria, Romania, UK and Spain in November 2016 in Berlin! Meet other like-minded people. Make your passion your career.</p>
 </article>
 
 <article>
 	<h2>Register Today!</h2>
 	<p>
-	ONLINE QUALIFICATION SWITZERLAND = 2.May until 15. August 2016 
+	ONLINE QUALIFICATION SWITZERLAND from 2.May until 15. August 2016 
 	<br>
+	</p>
+	<p><strong>Timeline:</strong><br>
+	<img src="/img/timeline2016.png" alt="Timeline">
 	</p>
 	<ol>
 		<li>

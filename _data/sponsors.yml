@@ -67,19 +67,19 @@
   max-width: 35.27%
   type: BRONZE
 - www: http://www.open.ch
-  image: /img/sponsors/logo_open-systems.png
+  image: /img/sponsors/open-systems.svg
   image-alt: CHALLENGES Sponsor - Open Systems
   profile: <strong>Open Systems</strong> 1990 in Basel gegründet, seit 1995 mit Hauptsitz in Zürich.  135+ Mitarbeiter, die alle auf Sicherheit und Verfügbarkeit spezialisiert sind.  Technologie- und Providerunabhängig.  Eingetragen als Schweizer Aktiengesellschaft. Alle Aktien befinden sich in Privatbesitz.  ISO 27001:2013 und ITIL zertifizierte Mission Control Operations.  Follow-the-sun Operations Centers in Zürich und Sydney.  Mitglied von FIRST und SISA.
   max-width: 76.01%
   type: CHALLENGES
 - www: https://www.zhaw.ch
-  image: /img/sponsors/ZHAW_byline_cymk.png
+  image: /img/sponsors/zhaw_logo.svg
   image-alt: ACADEMY Sponsor -  Zurich University of Applied Sciences (ZHAW)
   profile: '<strong>Zurich University of Applied Sciences (ZHAW)</strong> The ZHAW is one of the leading universities of applied sciences in Switzerland. Teaching, research, continuing education and other services are both scientifically-based and practice-oriented.  In our work in research and development, we concentrate on important societal challenges, with a particular focus on energy and social integration. With locations in Winterthur, Zurich and Wädenswil, the ZHAW is firmly integrated in the local region whilst also collaborating with international partners. There are eight Schools in the University: Applied Linguistics, Applied Psychology, Architecture, Design and Civil Engineering, Engineering, Health Professions, Life Sciences and Facility Management, Management and Law, and Social Work.'
   max-width: 76.01%
   type: ACADEMY
 - www: https://www.bfh.ch
-  image: /img/sponsors/logo_bfh_en.gif
+  image: /img/sponsors/bfh_logo.svg
   image-alt: ACADEMY Sponsor - Bern University of Applied Science
   profile: '<strong>Bern University of Applied Sciences (BFH)</strong> is an application-oriented university. In addition to teaching, the university provides continuing education, research and development and services relating to its core competences. Anyone who studies at Bern University of Applied Sciences can do so in an interdisciplinary way and in an international context, without setting foot outside the University: within its six departments, a range of subjects as varied as nursing, food technology and sports are taught. It is also a meeting point for students from many diverse countries.'
   max-width: 76.01%
