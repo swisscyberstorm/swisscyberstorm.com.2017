@@ -1,0 +1,9 @@
+  title: 'Press Review Switzerland'
+  items:
+    - {
+    	date: '2016-04-13',
+        issuer: 'az Aargauer Zeitung',
+    	title: 'Cyber-Crime: Spuren im Web führen fast nie zu den Tätern',
+    	link: 'http://www.aargauerzeitung.ch/aargau/kanton-aargau/cyber-crime-spuren-im-web-fuehren-fast-nie-zu-den-taetern-130197172', 
+        type: 'www'
+      }
