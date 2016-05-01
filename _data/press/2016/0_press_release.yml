@@ -1,0 +1,11 @@
+  title: "Press Release"
+  items:
+    - {
+    	date: '2015-05-01',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Start of the European Cyber Championship 2016',
+    	link: '/res/press/SCS_MM_Start_Qualifikation_2016_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Start_Qualifikation_2016_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Start_Qualifikation_2016_FR.pdf' 
+      }

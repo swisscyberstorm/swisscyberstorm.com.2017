@@ -1,7 +1,8 @@
 ---
 layout: page-twocolumns
 title: Press
-permalink: /press/
+permalink: /press/articles/
+parent: Press
 header_image: conference_2015.jpg
 ---
 <article>
