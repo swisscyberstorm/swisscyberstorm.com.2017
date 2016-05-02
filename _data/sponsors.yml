@@ -57,15 +57,6 @@
     by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.
   max-width: 53.56%
   type: SILVER
-- www: http://www.csnc.ch/
-  image: /img/sponsors/compass_logo.svg
-  image-alt: BRONZE Sponsor - Compass Security AG
-  profile: <strong>Compass Security AG</strong> is a leading Swiss penetration testing
-    and ethical hacking company, located in Rapperswil-Jona with branches in Berne
-    and Berlin. Compass Security provides in-depth security analysis, APT detection
-    and forensic services to their clients.
-  max-width: 35.27%
-  type: BRONZE
 - www: http://www.open.ch
   image: /img/sponsors/open-systems.svg
   image-alt: CHALLENGES Sponsor - Open Systems
