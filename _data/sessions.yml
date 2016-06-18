@@ -26,7 +26,7 @@
   title: "Apéro Riche"
   place: "Foyer / Lucerne Terrace"
   service: service
-  description: "The best time to talk with speakers and attendees"
+  description: "Networking Food & Drinks"
 -
   id: 906
   title: "Coffee Break"
@@ -35,74 +35,128 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 101
-  title: "Why organizations keep getting breached....Still, in 2015"
+  title: "Not yet disclosed"
   subtype: keynote
-  speakers: [beaver]
+  speakers: []
   link: 
 -
   id: 102
-  title: "Effective methods to detect current threats"
+  title: "Exploiting Software Without Bugs"
   subtype: presentation
-  speakers: [petrov, just]
+  speakers: [bos]
+  description: "In this talk I will look at new types of vulnerabilties that may have disastrous consequences, but for which it is difficult to point at any particular bug in the software stack. In particular, I will discuss how Google allows attackers that compromise your PC to also own your phone (thereby killing SMS-based two-fact authentication), a new attack on Windows-based systems that allows an attacker to completely pwn the latest Microsoft Edge browser with all defenses up, as well a Linux installations in the cloud, all while not using a single software bug. The goal of this talk is to show that any sufficiently advanced attack is indistinguishable from magic."
   link: 
 -
   id: 103
-  title: "Flushing Away Preconceptions of Risk"
+  title: "Bounty Hunter Programs"
   subtype: presentation
-  speakers: [drdu]
+  speakers: [ahmed]
   link: 
 -
   id: 104
-  title: "Working Together: Law enforcement and private sector botnet takedowns"
+  title: "botnet takedowns"
   subtype: presentation
   speakers: [neville,langford]
   link:
 -
   id: 105
-  title: "Six hacks in 60 Minutes"
+  title: "Team Switzerland European Cyber Security Challenge 2016"
   subtype: presentation
   speakers: []
   link:
 -
   id: 106
-  title: "Working Together: Law enforcement and private sector botnet takedowns"
+  title: "Closing Keynodes"
   subtype: keynote
-  speakers: [neville,langford]
+  speakers: []
   link:
 -
   id: 201
-  title: "Differences and new challenges of cybersecurity issues from the angle of Alibaba"
-  subtype: keynote
-  speakers: [white]
+  title: "The Cyber Kill Chain"
+  subtype: presentation
+  speakers: [randall]
   link: 
 -
   id: 202
-  title: "State of the Cyber Threat & Consequences of Inaction"
+  title: "Bounty Hunter Programs"
   subtype: presentation
-  speakers: [dorough]
+  speakers: [ahmed]
+  link: 
+-
+  id: 204
+  title: ".ch Compared to world"
+  subtype: presentation
+  speakers: [matherly]
   link: 
 -
   id: 203
-  title: "The 2020 CISO, What will their roll look like?"
+  title: "Turbo Talk"
   subtype: presentation
-  speakers: [9]
+  speakers: [academy_research]
+  link: 
+-
+  id: 205
+  title: "Lockpicking and IT Security"
+  subtype: presentation
+  speakers: [belgers]
+  link: 
+-
+  id: 206
+  title: "Darknet Investigations"
+  subtype: presentation
+  speakers: [ruef]
+  link: 
+-
+  id: 207
+  title: "Engineering Software for Resilience"
+  subtype: presentation
+  speakers: [galbreath]
   link: 
 -
   id: 301
-  title: "New generation timeline tools: A case study"
-  subtype: keynote
-  speakers: [7]
+  title: "No Compliance without Security Monitoring"
+  subtype: presentation
+  speakers: [klaes]
   link: 
 -
   id: 302
-  title: "Black Market of Cybercrime in Russia"
+  title: "Smart Wearable - Threat to Nation's Security"
   subtype: presentation
-  speakers: [8]
+  description: "In past couple of years the World has started moving towards Mobility. The applications and gadgets using those applications have seen to be growing exponentially. This has also brought endless possibilities of Security Breaches. <br>
+This is the World of <b>Mobile Warfare</b>. We have seen recent cases where even LEA (Law Enforcement Agencies) is trying to break into your phone and monitor all your activities. Our smart-wearable store all our personal data like health data, which can be used to carry out a targeted Chemical attack (think about it).
+On a bigger picture, what if Smart Weapons being used in a country’s defense are compromised? What is health related data of our soldiers is leaked? Smart gadgets are built for good purpose, but can it not be misused for massive destruction? <br>
+Hear me in detail only at Swiss Cyber Storm 2016 "
+  speakers: [thakur]
+  link: 
+-
+  id: 304
+  title: "Threat Intelligence"
+  subtype: presentation
+  speakers: [barwinski]
   link:
 -
   id: 303
-  title: "Visibility in the ENISA Threat Landscape"
+  title: "Turbo Talk"
   subtype: presentation
-  speakers: [9]
+  speakers: [academy_research]
+  link:
+-
+  id: 305
+  title: "Collaborative Training of Cyber Defense Capabilities in the military domain: what's going on."
+  subtype: presentation
+  description: "Military Information and Communication Systems are increasingly interconnected and use the similar when not the same components of civilian systems. Cyber-Incidents on military systems are thus technically very similar. Decision processes and impact of incidents are on the other side quite different. Examples of international trainings and exercises on the technical and operative level will be presented."
+  speakers: [sibillia]
+  link:
+-
+  id: 306
+  title: "Important EU-Cyber regulations Switzerland must apply until 2018"
+  subtype: presentation
+  speakers: [rosenthal]
+  link:
+-
+  id: 307
+  title: "Multi-Layer Security (In-Depth)"
+  subtype: presentation
+  speakers: [caissy]
   link:
  

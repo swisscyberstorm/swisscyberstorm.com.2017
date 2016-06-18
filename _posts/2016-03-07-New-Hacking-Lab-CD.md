@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Hacking-Lab LiveCD 9-05 Released
+header_image: eucsc.png
 ---
 
 The new Hacking-Lab 9-05 LiveCD has been released today. The new build is supporting 32 bit binaries, plus we added remmina RDP client. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hacking-Lab LiveCD
+header_image: eucsc.png
 ---
 <!-- preview_img -->
 To get started solving real hacking challenges you want to dive into the world of the [Hacking-Lab](https://www.hacking-lab.com/index.html).

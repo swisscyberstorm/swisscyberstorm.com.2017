@@ -163,7 +163,7 @@
   max-width: 52.18%
   type: BRONZE
 - www: http://www.csnc.ch/
-  image: /img/sponsors/compass_logo.svg
+  image: /img/sponsors/compass.eps
   image-alt: BRONZE Sponsor - Compass Security AG
   profile: <strong>Compass Security AG</strong> is a leading Swiss penetration testing
     and ethical hacking company, located in Rapperswil-Jona with branches in Berne

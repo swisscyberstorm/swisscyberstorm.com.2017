@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Get ready for Hacky Easter
+header_image: eucsc.png
 ---
 
 [HackyEaster](http://hackyeaster.hacking-lab.com/) will start tomorrow! 

@@ -6,143 +6,172 @@
   publish: "true"
   title: "Welcome"
   profile: 
-  abstract: 
+  abstract: "Not yet disclosed ..."
   image: /img/about/bernhard_tellenbach.jpg
-- speaker: "Kevin Beaver"
-  jobtitle: "Security Consultant, Writer, Professional Speaker and Expert Witness"
-  affiliation: "Atlanta, Georgia-based Principle Logic, LLC"
-  publish: "true"
-  title: "Why organizations keep getting breached....Still, in 2015."
-  profile: "<strong>Kevin Beaver</strong>, CISSP is an information security consultant, writer, professional speaker, and expert witness with Atlanta, Georgia-based Principle Logic, LLC. With over 26 years of experience in IT and 20 in information security, Kevin specializes in performing independent security assessments to help businesses minimize their IT risks, take the pain out of compliance, and uncheck the checkboxes that keep creating a false sense of security. He has written/co-written 12 books on information security including the best-selling Hacking For Dummies and The Practical Guide to HIPAA Privacy and Security Compliance. Kevin has also written over 800 articles and guest blog posts on information security and serves as a regular contributor to various websites including TechTarget's SearchSecurity.com, Ziff Davis' Toolbox.com, and IBM's SecurityIntelligence.com. Kevin can be reached at www.principlelogic.com and you can connect with him on LinkedIn and on Twitter at @kevinbeaver"
-  abstract: "Information security is no longer a mysterious function carried out by IT staff. Rather, it has made its way into the boardroom, falling under what seems to be increasingly stringent compliance oversight. Yet the data breaches keep occurring. Why is this? The solutions to our information security challenges are right before our eyes. Many principles have been around for decades. Yet, not unlike government politics, people often get in their own way when it comes to getting things done with security. In this keynote presentation, <a href=\"http://www.principlelogic.com/\">Atlanta, Georgia-based independent information security consultant, expert witness, and author of Hacking For Dummies, Kevin Beaver</a>, will explore why we’re experiencing these roadblocks and provide ideas on what you can do to minimize their impact on your security program."
+- speaker: "Troy Hunt"
+  jobtitle: "????"
+  affiliation: "Not yet disclosed"
+  publish: "false"
+  title: "Not yet disclosed."
+  profile: "<strong>Troy Hunt</strong> not yet disclosed ..."
+  abstract: "Not yet disclosed ..."
   www: "https://www.linkedin.com/in/kevinbeaver"
   image: /img/speakers/kevin_beaver.jpg
   pdf: /res/presentations/kevin_beaver.pdf
   max-width: 78%
-  id: beaver
-- speaker: Enrico Petrov
-  jobtitle: Director Managed Security Services
-  affiliation: terreActive
-  title: "Effective methods to detect current threats"
-  profile: "<strong>Enrico Petrov</strong> has a proven record of supporting Swiss enterprises to detect and prevent IT security incidents. Working at terreActive as Director of Managed Security Services since 2002 he has focused on design, integration and operation of Security Monitoring projects for Swiss banks, insurances, health care and government institutions. Mr. Petrov is managing a team of engineers providing SOC Services to guarantee security for various companies in Switzerland 7x24. With his expertise in security assessments and multi-layer defense architectures he has further enhanced quality and efficiency of the terreActive Security Operations Center. Mr. Petrov holds a Master degree in Electronics and Telecommunications from the Technical University of Turin."
-  abstract: "Taking your IT security to the next level, you have to consider a paradigm shift. In the past companies mostly invested resources to try to avoid security violations. Nowadays you have to face the inevitable: a security breach can’t be fully prevented. You need to be able to detect it as quick as possible to stop it in its early stages. You need a multi-layer defense strategy to detect attacks and secure your company, a combination of various sensors to improve transparency. Based on our experience managing Security Monitoring for various Swiss companies we will share insights with you how to tackle this.<br>
-  <ul><li>Different types of attacks. What can be detected at which stage of the attack?</li>
-  <li>Detection tools and methods. When to use automated alarming, when to rely on security staff.</li>
-  <li>How to integrate tools into your internal organization? Impacts on your daily business.</li></ul>
-<br>
-A customer of terreActive, the international private bank Coutts will afterwards explain why outsourcing of security services is an option. Coutts will share its experiences and will also provide an outlook of security measures that should be considered for the future. Coutts is an international private bank operating in Europe, Asia and many offshore centres and providing private banking, wealth management and investment services.
-<br>Speaker:<br>Daniel Just, Vice President<br>Head of SOC<br>Wealth IT SR Security Operations Centre<br>Coutts & Co Ltd<br>Zürich, Switzerland
-"
-  www: "https://www.terreactive.ch/de/management-_content---1--1011.html"
-  image: /img/speakers/enrico_petrov.jpg
-  pdf: /res/presentations/enrico_petrov.pdf
+  id: hunt
+- speaker: Herbert Bos
+  jobtitle: "Prof. Computer System Section at Universiteit Amsterdam" 
+  affiliation: affiliation 
+  title: "Prof. at Universiteit Amsterdam" 
+  profile: "Herbert Bos is a professor of Systems and Network Security at Vrije Universiteit Amsterdam in the Netherlands. He obtained his Ph.D. from Cambridge University Computer Laboratory (UK). Coming from a systems background, he drifted into security a few years ago and never left. He is very proud of his (former) students, three of whom have won the Roger Needham Ph.D. Award for best Ph.D. thesis in systems in Europe."
+  abstract: "Taking your IT security to the next level, ..." 
   max-width: 78%
-  talkid: terreactive
-  id: petrov
-- speaker: Daniel Just
-  jobtitle: Vice President and Head of SOC
-  affiliation: Coutts & Co Ltd, Zurich
-  title: ""
+  www: https://www.vusec.net/people/herbert-bos/
+  image: /img/speakers/herbertbos.jpg
+  talkid: bos
+  id: bos
+- speaker: Mazin Ahmed
+  jobtitle: Information Security Specialist / Penetration Tester 
+  title: "Information Security Specialist / Penetration Tester"
   profile: ""
-  abstract: ""
-  www: "https://www.linkedin.com/pub/daniel-just/9a/7b/499"
-  image: 
+  abstract: "Not yet disclosed ..."
+  image: /img/speakers/mazin_ahmed.jpg
   max-width: 78%
-  talkid: terreactive
-  id: just
-- speaker: Dr. Yuejin Du
-  jobtitle: Vice President
-  affiliation: Alibaba Group
-  title: "Differences and new challenges of cybersecurity issues from the angle of Alibaba"
-  profile: "<strong>Yuejin Du, Ph.D.</strong> is currently serving as the director of the National Engineering Laboratory for Cybersecurity Emergency Response Technology, CTO of the National Computer Emergency Response Team and Coordination Center of China (CNCERT/CC). Dr. Du has more than 10 years of experience on Internet security and was involved in the handling work of nearly all the large scale Internet incidents during 2001 to 2008. Dr. Du contributed to national Internet security capacity building, leaded the project of national Internet intrusion monitoring platform and played a key role setting up the national incident response cooperation framework. Dr. Du was one of the top level network security experts during many important event, include Olympic Game in 2008, the World Expo and the Asian Games in 2010, and the Summer Universiade in 2011. Dr. Du earned many very high level awards because of his contributions. <br><br> 
-Dr. Du also played an active role in international cooperation. Dr. Du worked as deputy chair of APCERT. He proposed the China-ASEAN cooperation framework on network security, led an APEC-TEL project on botnet countermeasure, and conducted numerous presentations on various international conferences."
-  abstract: "As one of the biggest 'Internet-based' company, what are the main cybersecurity challenges in Alibaba? Are there any differences with the popular theories or practices from others, like the national cybersecurity protection systems? Can we provide something new on cybersecurity protection from a different angle, to help the global situation? This speech will share some thoughts on the above, and introduce the practices of Alibaba security."
-  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
-  image: /img/speakers/yuejin_du.jpg
-  pdf: /res/presentations/yuejin_du.pdf
+  www: "https://www.mazinahmed.net"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mazen160"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/infosecmazinahmed"}
+  talkid: Bounty
+  id: ahmed
+- speaker: Milan Singh Thakur
+  affiliation: OWASP Foundation
+  title: "Smart Wearable - Threat to Nation's Security"
+  profile: "Milan is very passionate about Information Security and an International Speaker. He is leading OWASP Mobile Security Project Globally and is also AppSec INDIA Leader. He also works as Information Security Consultant at <a href='https://aujas.com/' traget='_blank'>Aujas Network in India</a>. His primary focus is Mobile Security. He has helped to secure mobile apps for various well known clients in banking, insurance, health, e-commerce and other sectors. <br>
+He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, VAPT activities, Wireless Pentesting, Payment Gateway Security Assessments and lot more. His scope of exploration is not limited to these technologies. He is strong supporter of “Open-Source” terminology and has been promoting it since 2010."
+  image: /img/speakers/milan_singh_thakur.jpg
   max-width: 78%
-  id: drdu
-- speaker: Alan Neville
-  jobtitle: Threat Intelligence Analyst 
-  affiliation: Symantec
-  title: "Working Together: Law enforcement and private sector botnet takedowns"
-  profile: "<strong>Alan Neville</strong> is a member of the Attack Investigations Team (AIT) housed in Symantec’s Security Response Center in Dublin where he leads investigations into high-profile attacks and is responsible for identifying, analyzing and responding to such attacks and threats. Alan also represents Symantec as a media spokesperson on topical security issues. Previously, Alan worked on the operations team in Symantec’s Security Response Team as a Malware Analyst before moving into AIT. More recently, Alan has been involved in investigations surrounding Dragonfly, Turla and take operations such as Ramnit and ZeroAccess. Alan holds a MS.c in Security and Forensics from Dublin City University."
-  abstract: "Computer criminals regularly construct large distributed attack networks known as botnets. These networks are comprised of hijacked computers that an attacker can use to send spam, commit financial fraud or launch cyber-attacks. This talk aims to describe the approaches of botnet takedowns from the perspective of law enforcement agencies and the AV industry using examples from recent take-downs and discusses success stories when private and public sectors work together to tackle a common foe.  "
-  www: "https://www.linkedin.com/pub/yuejin-du/4/8a0/249?trk=seokp_posts_secondary_cluster_res_author_photo"
-  image: /img/speakers/alan_neville.jpg
-  pdf: /res/presentations/alan_neville.pdf
+  www: "http://sec4app.blogspot.ch/"
+  social: 
+    - {name: "linkedin", link: "https://in.linkedin.com/in/milansinghthakur"}
+    - {name: "facebook", link: "https://www.facebook.com/milan2377"}
+  talkid: thakur
+  id: thakur
+- speaker: John Matherly
+  jobtitle: Founder of Shodan
+  affiliation: Shodan
+  title: ".ch Compared to world"
+  profile: "<strong>John Matherly</strong> is the founder and CEO of Shodan. Shodan is a search engine for the Internet of Things (IoT). John is at the cutting edge of online security and privacy issues as his technology concerns the connectivity of all our surrounding objects with the cyber space." 
+  abstract: "Not yet disclosed ..."
+  image: /img/speakers/john_matherly.jpg
+  "www": "https://www.shodan.io/"
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JohnMatherly"}
+    - {name: "twitter", link: "https://twitter.com/achillean"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/johnmatheny"}
+    - {name: "facebook", link: "https://www.facebook.com/public/John-Matheny"}
   max-width: 78%
-  talkid: fbi 
-  id: neville
-- speaker: Thom Langford
-  jobtitle: CISO
-  affiliation: Publicis Group
-  title: "Flushing Away Preconceptions of Risk"
-  profile: "<strong>Thom Langford</strong>. As Chief Information Security Officer of Publicis Groupe, Thom is responsible for all aspects of information security risk and compliance as well as managing the Groupe Information Security Programme. Additionally the role is responsible for  business continuity capabilities across the Groupe’s global operations. Having successfully built security and IT programmes from the ground up Thom brings an often opinionated and forward thinking view of security risk, both in assessments and management, but is able to do so with humour and pragmatism (mostly). An international public speaker and award winning security blogger, Thom contributes to a number of industry blogs and publications. Thom is also the sole founder of Host Unknown, a loose collective of three infosec luminaries combined to make security education and infotainment films.  Thom can be found online at both thomlangford.com and @thomlangford  on Twitter."
-  abstract: "Risk is often seen as a dirty word in business. It is a thing that needs to be reduced to nothing, and has no possible good use in an organization, especially a security programme.<br><br>
-This couldn’t be more wrong! Risk is an inherent part of any business, and yet it is often poorly recognized and leveraged in the security organisation. In this presentation Thom will look at three areas of the risk conundrum to open the veil on the elusive art of understanding and ultimately measuring risk:
-<ol><li>The initial interpretation of risk and how it is often misunderstood.</li>
-<li>The measurement of risk, and how some systems work and other don’t.</li>
-<li>The effective treatment of risk, and how sometimes the obvious thing to do can be the wrong thing to do.</li></ol>
-With the use of analogies and examples, the audience will appreciate that risk assessment, measurement and management is not always as straightforward as it might first seem. The audience will leave with a new appreciation of how risk can be leveraged for good, and not just perceived as bad."
-  www: "https://www.linkedin.com/in/thomlangford"
-  image: /img/speakers/thom_langford.jpg
-  pdf: /res/presentations/thom_langford.pdf
-  max-width: 78%
-  id: langford
-- speaker: Daniel White
-  jobtitle: Incident Response, Forensics and Tools
-  affiliation:  Google's security team
-  title: "New generation timeline tools: A case study"
-  abstract: "A moderately-sized institution of higher learning receives an ominous threat from a shadowy hacker group. A plucky band of misfits, armed only with open source forensic tools is the college’s only hope. What happens next? Will our brave band of heroes be able to stop the cyber terrorists in time? <br><br>
-This talk will give you a good understanding of the new features in the Plaso and Timesketch forensic tools, as well as an insight into some of the analysis processes these tools enable. Rather than just talking about these features, you’ll see how they’re actually deployed in an investigative context."
-  profile: "<strong>Daniel White</strong> is a security engineer at Google, focused on forensics, incident response, tool development, and keeping people and data safe."
-  www: "https://www.linkedin.com/pub/daniel-white/3/a71/690"
-  image: /img/speakers/daniel_white.jpg
-  pdf: /res/presentations/daniel_white.pdf
-  max-width: 78%
-  id: white
-- speaker: Richard Dorough
-  jobtitle: Senior Managing Director
-  jobtitle-long: Senior Managing Director, National Practice leader Cyber Breach Response, Remediation and Investigation Practice
+  id: matherly
+- speaker: Mark Barwinski
+  jobtitle: Threat Intelligence
   affiliation: PwC
-  title: "State of the Cyber Threat & Consequences of Inaction"
-  profile: "<strong>Richard Dorough</strong> is as a Senior Managing Director and National Practice leader in our Cyber Breach Response, Remediation and Investigation Practice.  Richard has over 20 years’ experience in IT Security, IT Forensics, IT Audit, and IT Governance.  Areas of focus include digital threat assessments, Cyber incident identification and response, electronic investigations and IT Security organization and operations center  assessment and development. <br> Richard was the Global Chief Information Security Officer for Textron.  As Global Chief Information Security Officer, Richard was responsible for developing, maintaining and assuring continuous improvement of Textron’s Information Technology Security strategy, programs, policies and processes. This included leadership of the Information Technology Risk Management (ITRM) Council which is a team of Security leaders from across Textron’s Business Units and COEs.  Richard was also responsible for IT Privacy governance, software asset management, disaster recovery and led the IT portion of the electronic discovery (eDiscovery) program for Textron. "
-  abstract: "The cyber threat is increasingly sophisticated.  Many cyber defenses are inadequate to mitigate the risk.  
-While many boards of directors are beginning to ask probing questions about the cyber threat, not enough are engaging this issue adequately.
-This is a discussion of what boards need to know in order to more effectively managed the cyber risk, which now qualifies as one of the more 
-critical threats most any board will face."
-  www: "https://www.linkedin.com/pub/richard-dorough/1/220/971"
-  image: /img/speakers/richard_dorough.jpg
-  pdf: /res/presentations/richard_dorough.pdf
+  title: "Threat Intelligence"
+  profile: "<strong>Mark Barwinski</strong> ... "
+  abstract: "Not yet disclosed ..."
+  image: /img/speakers/mark_barwinski.jpg
   max-width: 78%
-  id: dorough
-- speaker: Dmitry Slinkov
-  jobtitle: Information Security Officer
-  affiliation: RUSSIA CONSULTING
-  title: "Black Market of Cybercrime in Russia"
-  profile: "<strong>Dmitry Slinkov</strong> is building security processes and culture in a small group of 10 companies with HQ in Moscow with more than 500 employees. From the development of Security Concept and Security Strategy to its implementation, KPI and audit in all offices, his work at RUSSIA CONSULTING does also involve the development and implementation of products such as for background checks of people.<br>Before his current position, Dmitry worked as information security manager for Michelin, as information security specialist at HSBC and as information security administrator at Citi financial services. "
-  abstract: "New vulnerabilities and attacks based on them are always ahead of the protection methods. 
-How to identify which threats are most relevant and can be directed against you tomorrow? Are the hackers really as scary as people speculate? 
-We explored the services available on the black market of cybercrime in Russia and the CIS and found a lot of very nice services like purchasing 
-and renting of botnets, personal malware, DoS attacks, hacking of private and corporate emails, etc... and decided to test these services to get 
-the real picture of the methods hackers use and to know the costs of such attacks."
-  www: "https://www.linkedin.com/pub/dmitry-slinkov/46/701/a20?trk=pub-pbmap"
-  image: /img/speakers/dmitry_slinkov.jpg
-  pdf: /res/presentations/dmitry_slinkov.pdf
+  social: 
+    - {name: "twitter", link: "https://twitter.com/markbarwinski"}
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/markbarwinski"}
+  talkid: barwinski 
+  id: barwinski
+- speaker: Walter Belgers
+  jobtitle: Owner and COO Madison Gurkha
+  affiliation: Madison Gurkha
+  title: "Lockpicking and IT Security"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/walter"}
+  profile: "<strong>Walter Belgers</strong> studied Information Technology at the Technical University of Eindhoven, he also followed extra courses such as Computer criminality (University of Tilburg). Walter started at Philips C&P in 1994 (currently known as Atos Origin) where he rolled-out and developed world-wide firewall services. After that he spend several years teaching UNIX and internet security at AT Computing. In 2002 he joined Madison Gurkha and became partner. Besides his Technical consultancy activities Walter also writes articles and columns, gives lectures and acts as a press informant. Walter is a certified security professional (CISSP) and security auditor (CISA)."
+  abstract: "Not yet disclosed ..."
+  www: "https://www.madison-gurkha.com/en/walter.php"
+  image: /img/speakers/walter_belgers.jpg
   max-width: 78%
-  id: slinkov
-- speaker: Paul Crichard
-  jobtitle: Head of Cyber Research
-  affiliation: Raytheon UK
-  title: "The 2020 CISO, What will their roll look like?"
-  abstract: "A fireside chat between Paul Crichard and his interviewer Roberd D. Rodriguez."
-  profile: ""
-  www: ""
-  image: "/img/speakers/silhouette.jpg"
+  id: belgers
+- speaker: Riccardo Sibillia
+  title: "Collaborative Training of Cyber Defense Capabilities in the military domain: what's going on."
+  profile: "Riccardo Sibilia is physicist by training and in Cyber-Security since 25 years. He is since 2007 head of the Cyber Threat Analysis of the Swiss Armed Forces. Along his career, he worked on the strategic, doctrinal and technological bases for Cyber Defense both on the military and the national level."
   max-width: 78%
-  talkid: fireside
-  id: cass
+  image: /img/speakers/shadow.jpg
+  id: sibillia
+- speaker: Marc Ruef
+  jobtitle: Member of the Board, scip AG
+  jobtitle-long: Member of the Board, scip AG
+  affiliation: scip AG
+  title: "Title"
+  social: 
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/mruef"}
+    - {name: "twitter", link: "https://twitter.com/mruef"}
+    - {name: "youtube", link: "https://www.youtube.com/user/mruef"}
+    - {name: "xing", link: "https://www.xing.com/profile/Marc_Ruef"}
+  profile: "<strong>Marc Ruef</strong>  ... "
+  abstract: "Not yet disclosed ..."
+  www: "https://www.scip.ch/"
+  image: /img/speakers/marc_ruef.jpg
+  max-width: 78%
+  id: ruef
+- speaker: David Rosenthal
+  jobtitle:  Counsel, Co-head IT practice
+  affiliation: Homburger AG 
+  title: "The changes in data protection law -- what they mean for information security."
+  profile: "<strong>David Rosenthal</strong> is counsel and co-head of the IT practice at Homburger, a leading Swiss law business firm in Zürich, which he joined in April 2001. Before that, he headed his own legal consulting firm in Basel."
+  www: "http://www.homburger.ch/dataprotection"
+  pdf: /res/presentations/david_rosenthal.pdf
+  image: /img/speakers/david_rosenthal.jpg
+  max-width: 78%
+  talkid: rosenthal
+  id: rosenthal
+- speaker: David Caissy
+  jobtitle: Security Consultant
+  affiliation: Albero Solutions Inc.
+  title: "Multi-Layer Security (In-Depth)."
+  profile: "<strong>David Caissy</strong> , OSCP, GWAPT, GPEN, GSEC, CISSP, CEH has 16 years of experience as a security consultant and a web application architect. He has performed security audits, vulnerability assessments, web application penetration tests and has designed several secure systems. He has worked for banks, the Department of National Defense, various government agencies and private companies. He has been teaching information security in colleges and in many departments over the last 10 years."
+  image: /img/speakers/davidcaissy.jpg
+  social: 
+    - {name: "linkedin", link: "https://ca.linkedin.com/in/david-caissy-63131419"}
+  max-width: 78%
+  talkid: caissy
+  id: caissy
+- speaker: Nick Galbreath
+  affiliation: Signal Sciences
+  jobtitle: "CTO and Founder of Signal Sciences"
+  title: "Engineering Software for Resilience"
+  profile: "Nick Galbreath is CTO and Founder of Signal Sciences, a new company focusing on web application defense and security monitoring. Over the last 20 years, Nick has held leadership positions in number of e-commerce and social media companies, including IPONWEB, Etsy, Right Media, UPromise, Friendster, and Open Market, and has consulted for many more. He is the author of \"Cryptography for Internet and Database Applications\" (Wiley), and was awarded a number of patents in the area of social networking. He holds a master's degree in mathematics from Boston University and currently resides in Tokyo, Japan."
+  image: "/img/speakers/nickgalbreath.jpg"
+  max-width: 78%
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nick-galbreath-1890794"}
+  talkid: galbreath
+  id: galbreath
+- speaker: Raoul Chiesa
+  jobtitle: Founding Partner, President @ Security Brokers Società Cooperativa per Azioni
+  affiliation: Joint Stock Cooperative Company
+  title: 
+  profile: "Raoul &quot;Nobody&quot; Chiesa was born in Torino, Italy.  After being among the first Italian hackers back in the 80’s and 90's (1986-1995), Raoul decided to move to professional InfoSec, establishing back in 1997 the very first vendor-neutral Italian security advisory company; he then left it in 2012, and established along with former and new partners “The Security Brokers”, a visionary joined stock company providing niche, cutting-edge security consulting services and solutions.
+<br><br>
+Raoul is among the founder members of CLUSIT (Italian Information Security Association, est. 2000) and he is a Board of Directors member at ISECOM, OWASP Italian Chapter, and at the Italian Privacy Observatory (AIP/OPSI); he has been one of the coordinators of the Working Group &quot;Cyber World&quot; at the Center for Defence Higher Studies (CASD) between 2010 and 2013 at the National Security Observatory (OSN) at Italy's MoD. 
+<br><br>
+He is a former member of the ENISA Permanent Stakeholders Group (2010-2012 and 2013-2015), a independent “Special Advisor on Cybercrime and Hacker’s Profiling” at the UN agency UNICRI, and a Member of the Coordination Group and Scientific Committee of APWG European chapter, the Anti-Phishing Working Group, acting like a “Cultural Attachè” for Italy, and a contributing author and Advisor at GCSEC.org. 
+<br><br>
+Since July 2015 he’s a Board Member at AIIC, Italian Experts Association on Critical Infrastructures, a Subject Matter Expert for ADETEF (different French ministries) at ENCYSEC (Enhancing Cyber Security), a project funded by the European Union, and a member of the ITU (UN-Geneva) Roster of Experts on Cybersecurity.<br>
+<br>
+Raoul publishes books, white papers and articles worldwide, which are often translated in different languages (English, French, Italian, Romanian, Spanish, Chinese) as main author or contributor, while being since more than 20 years a worldwide known and appreciated Key Noter and Speaker; giving all of the above, Raoul is a regular contact for worldwide medias (newspapers, TV, radio, podcasts and bloggers) when dealing with Information Security issues, ICT security incidents and IT trends."
+  social: 
+    - {name: "twitter", link: "https://twitter.com/securitybrokers"}
+    - {name: "linkedin", link: "http://it.linkedin.com/in/raoulchiesa"}
+  image: "/img/speakers/raoul_chiesa.jpg"
+  max-width: 78%
+  talkid: chiesa
+  id: chiesa
 - speaker: Robert Rodriguez
   jobtitle: Chairman & Founder, SINET
   affiliation: Security Innovation Network (SINET)
@@ -187,3 +216,29 @@ the real picture of the methods hackers use and to know the costs of such attack
   max-width: 78%
   talkid: fbi
   id: grasso
+- speaker: "Academy & Research"
+  image: /img/speakers/shadow.jpg
+  id: academy_research 
+  publish: "false"
+  title: "Academy & Research"
+  abstract: "Not yet disclosed ..."
+- speaker: Robert Randall
+  jobtitle: IT-Security Engineer & Consultant 
+  affiliation: TerreActive
+  title: The Cyber Kill Chain
+  profile: "<strong>Robert Randall</strong> ..." 
+  www: "https://www.linkedin.com/pub/christopher-stangl/2/597/347"
+  image: /img/speakers/robert_randall.jpg
+  social: 
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/robert-randall-26657b"}
+  max-width: 78%
+  talkid: randall
+  id: randall
+- speaker: Andrea Klaes
+  jobtitle: CISO Sulzer
+  title: No Compliance without Security Monitoring
+  image: /img/speakers/shadow.jpg
+  profile: "<strong>Andrea Klaes</strong> ..." 
+  max-width: 78%
+  talkid: klaes
+  id: klaes

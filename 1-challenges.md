@@ -22,6 +22,11 @@ buttons:
 <article>
 	<h2>Register Today!</h2>
 	<p>
+        <a href='../res/press/HL_Flyer_May_2016-04-de_web.pdf' target="_blank"><i class="fa fa-file-pdf-o"></i> Flyer German</a>
+        <a href="../res/press/HL_Flyer_May_2016-04-fr_web.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Flyer French</a>
+        <a href="../res/press/HL_Flyer_May_2016-04-it_web.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Flyer Italian</a>
+        </p>
+	<p>
 	ONLINE QUALIFICATION SWITZERLAND from 2.May until 15. August 2016 
 	<br>
 	</p>

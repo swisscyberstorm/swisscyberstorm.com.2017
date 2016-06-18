@@ -9,38 +9,38 @@
               <a href="/"><i class="fa fa-home"></i></a>
             </li>
             {% assign last_base_url = "" %}
+            {% assign sub_in = false   %}
             {% for page in site.html_pages %}
               {% assign url_parts = page.url | split: '/' %}
               {% assign url_parts_size = url_parts | size %}
+              {% if url_parts_size == 3 %}
+                 {% assign base_url = url_parts[1]  %}  
+              {% else %}
+                 {% assign base_url = url_parts[0] %}
+              {% endif %}
               {% assign rm = url_parts | last %}
-              {% assign base_url = page.url | replace: rm %}
-
               {% if page.title and page.hide != true %}
-
+                {% if sub_in and (base_url != last_base_url) %}
+                     </ul>
+                   </li>
+                   {% assign sub_in = false   %}
+                {% endif %}
                 {% if url_parts_size == 2 and rm != 'index.html' %}
                   <li><a href='{{page.url}}'>{{page.title}}</a></li>
                 {% endif %}
                 {% if url_parts_size == 3 and base_url != last_base_url %}
-                  <li><div class="nolink">{{page.parent}}</div>
-                    <ul>
-                    {% for node in site.html_pages %}
-                      {% assign node_url_parts = node.url | split: '/' %}
-                      {% assign node_url_parts_size = node_url_parts | size %}
-                      {% assign rm = node_url_parts | last %}
-                      {% assign node_base_url = node.url | replace: rm %}
-                      {% if node_base_url == base_url and node.title and node.hide != true%}
-                        <li><a href='{{node.url}}'>{{node.title}}</a></li>
-                      {% endif %}
-                    {% endfor %}
-                    </ul>
-                  </li>
+                  {% assign sub_in = true   %}
+                   <li><div class="nolink">{{page.parent}}</div>
+                     <ul>
+                {% endif %}
+                {% if url_parts_size == 3  %}
+                   <li><a href='{{page.url}}'>{{page.title}}</a></li>
                 {% endif %}
               {% endif %}
               {% assign last_base_url = base_url %}
             {% endfor %}
 	    <!-- Social icons from Font Awesome, if enabled -->
             {% include icons.html %}
-
         </ul>
     </nav>
 </header>
