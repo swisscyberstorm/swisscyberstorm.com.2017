@@ -74,6 +74,7 @@ Get in touch with them and have a look at what they have to offer!</p>
     {{ no_odd }}
    </div>
 
+<!--
    
   <div class="col-xs-12 col-eq-padding"> 
     <div class="row">
@@ -110,7 +111,7 @@ Get in touch with them and have a look at what they have to offer!</p>
 {% endfor %}
     {{ no_odd }}
    </div>
-
+-->
 
   <div class="col-xs-12 col-eq-padding"> 
     <div class="row">

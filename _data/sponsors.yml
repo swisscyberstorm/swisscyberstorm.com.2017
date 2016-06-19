@@ -2,13 +2,19 @@
 - www: http://www.terreactive.ch/
   image: /img/sponsors/terreactive_logo.svg
   image-alt: GOLD Sponsor - terreActive AG
-  profile: <strong>terreActive</strong> is one of the leading IT security experts
+  profile: <a href='http://www.terreactive.ch' target='_blank'><strong>terreActive</strong></a> is one of the leading IT security experts
     with main focus on Security Monitoring and Log Management. As a Swiss engineering
     company with outstanding know-how our services include Consulting, Integration
     and Operation. We design comprehensive concepts for international enterprises,
     small e-business companies as well as for private banks.
   max-width: 59.52%
   type: GOLD
+- www: http://www.compass-security.com
+  image: /img/sponsors/compass_logo.svg
+  image-alt: SILVER Sponsor - Compass Security AG
+  profile: "<a href='http://www.compass-security.com/' target='_blank'><strong>Compass Security AG</strong></a> is one of the most renowned penetration testing, forensics and ethical hacking companies in Switzerland and Germany. Their work and research gained international recognition. With <a href='https://www.hacking-lab.com/' target='_blank'>Hacking-Lab</a>, the flagship project of Compass Security, they provide the comprehensive attack/defense <a href='http://www.hacking-lab-ctf.com/' target='_blank'>CTF system</a> used by the <a href='http://www.europeancybersecuritychallenge.eu/' target='_blank'>European Cyber Security Challenge</a> and others, for finding young cyber talents and for encouraging them to pursue a career in cyber security. Hands-on security trainings and experience is a key factor of their success. Compass Security means trust and confidence. The trust anchor in today's fast changing world."
+  max-width: 72.35%
+  type: SILVER
 - www: https://www.infoguard.ch/
   image: /img/sponsors/infoguard_logo.svg
   image-alt: SILVER Sponsor - InfoGuard
@@ -60,12 +66,6 @@
     by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.
   max-width: 53.56%
   type: SILVER
-- www: http://www.csnc.ch/
-  image: /img/sponsors/compass_logo.svg
-  image-alt: BRONZE Sponsor - Compass Security AG
-  profile: "<a href='http://www.compass-security.com/' target='_blank'>Compass Security AG</a> is one of the most renowned penetration testing, forensics and ethical hacking companies in Switzerland and Germany. Their work and research gained international recognition. With <a href='https://www.hacking-lab.com/' target='_blank'>Hacking-Lab</a>, the flagship project of Compass Security, they provide the comprehensive attack/defense <a href='http://www.hacking-lab-ctf.com/' target='_blank'>CTF system</a> used by the <a href='http://www.europeancybersecuritychallenge.eu/' target='_blank'>European Cyber Security Challenge</a> and others, for finding young cyber talents and for encouraging them to pursue a career in cyber security. Hands-on security trainings and experience is a key factor of their success. Compass Security means trust and confidence. The trust anchor in today's fast changing world."
-  max-width: 53.56%
-  type: BRONZE
 - www: http://www.open.ch
   image: /img/sponsors/open-systems.svg
   image-alt: CHALLENGES Sponsor - Open Systems
