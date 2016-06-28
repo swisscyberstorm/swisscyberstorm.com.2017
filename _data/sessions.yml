@@ -72,19 +72,20 @@
   link:
 -
   id: 201
-  title: "The Cyber Kill Chain"
+  title: "The Cyber Kill Chain: Use it to protect yourself - knowing the limitations!"
   subtype: presentation
   speakers: [randall]
+  description: "The Cyber Kill Chain can be a useful tool in a corporate environment. We will clarify what it’s good for and what the limitations are. Looking at detecting intruders, we will reveal current challenges in Security Monitoring."
   link: 
 -
-  id: 202
-  title: "Bounty Hunter Programs"
+  id: 206
+  title: "Bounty Hunting in Sudan and Abroad"
   subtype: presentation
   speakers: [ahmed]
   link: 
 -
-  id: 204
-  title: ".ch Compared to world"
+  id: 202
+  title: "CH Compared to the World"
   subtype: presentation
   speakers: [matherly]
   link: 
@@ -95,27 +96,28 @@
   speakers: [academy_research]
   link: 
 -
-  id: 205
-  title: "Lockpicking and IT Security"
-  subtype: presentation
-  speakers: [belgers]
-  link: 
--
-  id: 206
-  title: "Darknet Investigations"
-  subtype: presentation
-  speakers: [ruef]
-  link: 
--
-  id: 207
+  id: 204
   title: "Engineering Software for Resilience"
   subtype: presentation
   speakers: [galbreath]
   link: 
 -
-  id: 301
-  title: "No Compliance without Security Monitoring"
+  id: 205
+  title: "*** SECRET TOPIC *** "
   subtype: presentation
+  speakers: [helme]
+  link: 
+-
+  id: 207
+  title: "Darknet Investigations"
+  subtype: presentation
+  speakers: [ruef]
+  link: 
+-
+  id: 301
+  title: "Logfile analysis: Actions leave traces - know what to look for"
+  subtype: presentation
+  description: "Due to the ever changing IT environment the largest concern regarding security is losing control. Logfiles are a good method to retain control over dedicated areas and to make compliance checks. We will look at some specific use cases for logfile analysis that we found to be very helpful. "
   speakers: [klaes]
   link: 
 -

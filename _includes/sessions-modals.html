@@ -50,11 +50,13 @@
 											<ul class="social">
                 
 		{% if speaker.www %}
+                     {% for www_link in speaker.www %}
 			<li>
-														<a href="{{ speaker.www }}" target="_blank">
+														<a href="{{ www_link }}" target="_blank">
 														www	<i class="fa fa-external-link"></i>
 														</a>
 			</li>
+                     {% endfor %}
 		{% endif %}
 												{% for social in speaker.social %}
 													<li>

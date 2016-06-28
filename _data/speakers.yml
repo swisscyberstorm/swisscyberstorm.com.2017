@@ -15,7 +15,7 @@
   title: "Not yet disclosed."
   profile: "<strong>Troy Hunt</strong> not yet disclosed ..."
   abstract: "Not yet disclosed ..."
-  www: "https://www.linkedin.com/in/kevinbeaver"
+  www: ["https://www.linkedin.com/in/kevinbeaver"]
   image: /img/speakers/kevin_beaver.jpg
   pdf: /res/presentations/kevin_beaver.pdf
   max-width: 78%
@@ -27,18 +27,17 @@
   profile: "Herbert Bos is a professor of Systems and Network Security at Vrije Universiteit Amsterdam in the Netherlands. He obtained his Ph.D. from Cambridge University Computer Laboratory (UK). Coming from a systems background, he drifted into security a few years ago and never left. He is very proud of his (former) students, three of whom have won the Roger Needham Ph.D. Award for best Ph.D. thesis in systems in Europe."
   abstract: "Taking your IT security to the next level, ..." 
   max-width: 78%
-  www: https://www.vusec.net/people/herbert-bos/
+  www: [ "https://www.vusec.net/people/herbert-bos/"]
   image: /img/speakers/herbertbos.jpg
   talkid: bos
   id: bos
 - speaker: Mazin Ahmed
-  jobtitle: Information Security Specialist / Penetration Tester 
-  title: "Information Security Specialist / Penetration Tester"
-  profile: ""
+  affiliation: Information Security Specialist / Penetration Tester 
+  profile: "<b>Mazin Ahmed</b> ..."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/mazin_ahmed.jpg
   max-width: 78%
-  www: "https://www.mazinahmed.net"
+  www: ["https://www.mazinahmed.net"]
   social: 
     - {name: "twitter", link: "https://twitter.com/mazen160"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/infosecmazinahmed"}
@@ -51,7 +50,7 @@
 He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, VAPT activities, Wireless Pentesting, Payment Gateway Security Assessments and lot more. His scope of exploration is not limited to these technologies. He is strong supporter of “Open-Source” terminology and has been promoting it since 2010."
   image: /img/speakers/milan_singh_thakur.jpg
   max-width: 78%
-  www: "http://sec4app.blogspot.ch/"
+  www: ["http://sec4app.blogspot.ch/"]
   social: 
     - {name: "linkedin", link: "https://in.linkedin.com/in/milansinghthakur"}
     - {name: "facebook", link: "https://www.facebook.com/milan2377"}
@@ -64,12 +63,11 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   profile: "<strong>John Matherly</strong> is the founder and CEO of Shodan. Shodan is a search engine for the Internet of Things (IoT). John is at the cutting edge of online security and privacy issues as his technology concerns the connectivity of all our surrounding objects with the cyber space." 
   abstract: "Not yet disclosed ..."
   image: /img/speakers/john_matherly.jpg
-  "www": "https://www.shodan.io/"
+  www: ["https://www.shodan.io/"]
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JohnMatherly"}
     - {name: "twitter", link: "https://twitter.com/achillean"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/johnmatheny"}
-    - {name: "facebook", link: "https://www.facebook.com/public/John-Matheny"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jmath"}
   max-width: 78%
   id: matherly
 - speaker: Mark Barwinski
@@ -86,14 +84,28 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   talkid: barwinski 
   id: barwinski
 - speaker: Walter Belgers
-  jobtitle: Owner and COO Madison Gurkha
-  affiliation: Madison Gurkha
+  jobtitle: President of TOOOL
+  affiliation: Owner and COO Madison Gurkha
   title: "Lockpicking and IT Security"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/walter"}
-  profile: "<strong>Walter Belgers</strong> studied Information Technology at the Technical University of Eindhoven, he also followed extra courses such as Computer criminality (University of Tilburg). Walter started at Philips C&P in 1994 (currently known as Atos Origin) where he rolled-out and developed world-wide firewall services. After that he spend several years teaching UNIX and internet security at AT Computing. In 2002 he joined Madison Gurkha and became partner. Besides his Technical consultancy activities Walter also writes articles and columns, gives lectures and acts as a press informant. Walter is a certified security professional (CISSP) and security auditor (CISA)."
-  abstract: "Not yet disclosed ..."
-  www: "https://www.madison-gurkha.com/en/walter.php"
+  profile: "<strong>Walter Belgers</strong> is busy in the security and computing science field
+	since age 8. He has experience in setting up security systems,
+	international roll-out, education, auditing you name it.  He is
+	owner and COO of Madison Gurkha, a Dutsch security company with
+	a name that sticks.  The last 15+ years he was also involved in
+	giving lectures and organising conferences (boardmember of
+	EuroBSDCon 2004, chair or member of the program committee for
+	many others; probably a reason he has sympathy for Swiss Cyber
+	Storm).  Walter's specialties include Security (computers and
+	other), UNIX, computer science in general (operating systems,
+	computer languages, hardware), teaching, explaining, social
+	engineering, organising, giving lectures. AND: Lockpicking!
+	Walter is multiple winner of Dutch lockpicking championships and
+	the president of TOOOL (The Open Organisation of Lockpickers)."
+  www: ["https://www.toool.nl"]
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MadisonGurkha"}
   image: /img/speakers/walter_belgers.jpg
   max-width: 78%
   id: belgers
@@ -104,18 +116,18 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   image: /img/speakers/shadow.jpg
   id: sibillia
 - speaker: Marc Ruef
-  jobtitle: Member of the Board, scip AG
-  jobtitle-long: Member of the Board, scip AG
-  affiliation: scip AG
+  affiliation: Member of the Board, scip AG, Lawn Mower in Residence, Ruef family
+  jobtitle-long: Member of the Board, scip AG, Lawn Mower in Residence, Ruef family
   title: "Title"
   social: 
     - {name: "linkedin", link: "https://ch.linkedin.com/in/mruef"}
     - {name: "twitter", link: "https://twitter.com/mruef"}
     - {name: "youtube", link: "https://www.youtube.com/user/mruef"}
+    - {name: "facebook", link: "https://www.facebook.com/marc.ruef"}
     - {name: "xing", link: "https://www.xing.com/profile/Marc_Ruef"}
   profile: "<strong>Marc Ruef</strong>  ... "
   abstract: "Not yet disclosed ..."
-  www: "https://www.scip.ch/"
+  www: ["https://www.scip.ch/", "https://vuldb.com"]
   image: /img/speakers/marc_ruef.jpg
   max-width: 78%
   id: ruef
@@ -124,7 +136,7 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   affiliation: Homburger AG 
   title: "The changes in data protection law -- what they mean for information security."
   profile: "<strong>David Rosenthal</strong> is counsel and co-head of the IT practice at Homburger, a leading Swiss law business firm in Zürich, which he joined in April 2001. Before that, he headed his own legal consulting firm in Basel."
-  www: "http://www.homburger.ch/dataprotection"
+  www: ["http://www.homburger.ch/dataprotection"]
   pdf: /res/presentations/david_rosenthal.pdf
   image: /img/speakers/david_rosenthal.jpg
   max-width: 78%
@@ -149,7 +161,8 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   image: "/img/speakers/nickgalbreath.jpg"
   max-width: 78%
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nick-galbreath-1890794"}
+    - {name: "twitter", link: "https://twitter.com/NGalbreath"}
+  www: ["https://signalsciences.com/about/", "http://www.client9.com/" ]
   talkid: galbreath
   id: galbreath
 - speaker: Raoul Chiesa
@@ -178,7 +191,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   profile: "Robert D. Rodriguez is the Chairman & Founder of the Security Innovation Network™ (SINET) www.security-innovation.org an International community builder whose mission is to advance innovation and enable global collaboration between the public and private sectors to defeat Cybersecurity threats. Each year SINET  hosts  programs  in Silicon Valley, New York City, London and Washington DC  which are   supported   by   the   U.S. Department of Homeland Security Science & Technology Directorate (DHS S&T). The SINET model is designed to advance innovation by connecting the ecosystem of the entrepreneur; academia, science, private   industry, investment banking, system integration, policy, innovators, law enforcement, venture capital and the Federal Government to include the civilian, military and intelligence agencies. In 2001, Robert spearheaded the development of the U. S. Secret   Service’s   first public-private   partnership Cybersecurity initiative in the Western Region of the United States. Since 2005 he has been advising and coordinating the public private sector outreach for the DHS S&T and SRI International. Robert has served on the US Air Force Cybersecurity Advisory Board and has been called upon numerous times by Federal Government Agencies and universities such as Stanford and UNC Charlotte to help coordinate their private    sector outreach to the venture capital community and both large and small businesses. In his previous career Robert served twenty-two years as a Special Agent with the United States Secret Service where he held a number of executive leadership positions within the Presidential Protection, Protective Intelligence, Inspection, Criminal Investigation Divisions and the Counter Assault Team. His executive protection experience spanned 10 years at the White House serving   Presidents   Ronald   W.   Reagan, George   H.  Bush, William  J. Clinton and numerous  Heads of  State. He serves on the Board of Advisors for The Chertoff Group, as Director Emeritus for the San Francisco Kraft Fight Hunger Bowl, National Cyber Security Hall of Fame Board of Directors and is a certified graduate of the Federal Government’s Senior Executive Service Program."
   title: ""
   abstract: ""
-  www: "www.security-innovation.org/itsef/bios/rrodriguez.htm"
+  www: ["www.security-innovation.org/itsef/bios/rrodriguez.htm"]
   image: /img/speakers/robert_rodriguez.jpg
   max-width: 78%
   talkid: fireside
@@ -189,7 +202,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   title: "Visibility in the ENISA Threat Landscape"
   abstract: ""
   profile: "<strong>Dr. Louis Marinos</strong>, is senior expert at ENISA in the area of Risk and Threat Management with extensive experience in the management and operation of security and the coordination of European expert groups. Currently, he is responsible for Projects in the area of Emerging Threat Landscape. He is the author and main responsible of the ENISA Threat Landscape. His expertise is on: Threat Analysis, Risk analysis, Risk Management and Business Continuity Planning, including SMEs, Member States and Critical Information Infrastructure Protection. Assessment and management of Emerging and Future Risks, Threats and trends hereof. Integration of Risk Management with operational and governance processes. Strategic consulting in the area of security for major firms in the financial, telecommunication and commercial sectors. Security management with regard to critical business areas, such as financial institutions, B2B and telecommunications."
-  www: "https://www.linkedin.com/pub/louis-marinos/12/124/b69"
+  www: ["https://www.linkedin.com/pub/louis-marinos/12/124/b69"]
   image: /img/speakers/louis_marinos.jpg
   pdf: /res/presentations/louis_marinos.pdf
   max-width: 78%
@@ -200,7 +213,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   title: "Threat Intelligence Sharing – Lessons from the Front Lines."
   profile: "<strong>Patrick Miller</strong> is a security executive who has dedicated his career to the protection and defense of the nation’s critical energy infrastructure. He is the founder of EnergySec, and currently its President and CEO. This nonprofit information sharing organization began as a few colleagues meeting for lunch and has grown into a nationwide effort to promote sound security principles in the energy industry. <br>One of his strengths is the diversity of his professional experience. In Energy, he has held positions with a utility, a regulator, and a private consulting firm. He has also held key positions in the Insurance, Internet and Telecommunications sectors. Among other credentials he holds the CISA, CRISC and CISSP certifications. <br>Patrick is an active member of several critical infrastructure security working groups and a sought after speaker and industry expert on the subjects of critical infrastructure protection, process control system security, regulatory compliance, audit, and privacy."
   abstract: "Threat Intelligence Sharing is being called the Holy Grail of cybersecurity by many. It is also being called the Flavor of the Month by others. Does it really provide the promised value? How does an organization know whom to trust, when to share and how to transform the endless flood of security data into actionable information? Whether your intel sharing/gathering is peer to peer, public/private, commercial service or open source - there is a risk of realizing the quote from Aristotle: 'the more you know the more, the more you don’t know.’ Get the most out of your cybersecurity situational awareness efforts by learning from the successes and failures on the front lines of global critical infrastructure organizations."
-  www: "https://www.linkedin.com/in/millerpatrickc"
+  www: ["https://www.linkedin.com/in/millerpatrickc"]
   image: /img/speakers/patrick_miller.jpg
   pdf: /res/presentations/patrick_miller.pdf
   max-width: 78%
@@ -211,7 +224,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   title: "Working Title"
   profile: "<strong>Tom Grasso</strong> has been an FBI Agent since 1998 and has worked for the FBI’s Regional Computer Crime Squad in Chicago and the High Technology Crimes Task Force in Pittsburgh. He has also served as the FBI Liaison to the CERT/CC at Carnegie Mellon University. Tom is now part of the FBI’s Cyber Division and is assigned to the National Cyber-Forensics and Training Alliance (NCFTA) in Pittsburgh, a joint partnership between law enforcement, academia, and industry. Tom is also an Adjunct Professor of Criminology at La Roche College in Pittsburgh."
   abstract: ""
-  www: "https://www.linkedin.com/pub/christopher-stangl/2/597/347"
+  www: ["https://www.linkedin.com/pub/christopher-stangl/2/597/347"]
   image: /img/speakers/tom_grasso.jpg
   max-width: 78%
   talkid: fbi
@@ -224,10 +237,10 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   abstract: "Not yet disclosed ..."
 - speaker: Robert Randall
   jobtitle: IT-Security Engineer & Consultant 
-  affiliation: TerreActive
+  affiliation: terreActive
   title: The Cyber Kill Chain
-  profile: "<strong>Robert Randall</strong> ..." 
-  www: "https://www.linkedin.com/pub/christopher-stangl/2/597/347"
+  profile: "<strong>Robert Randall</strong> is a Senior IT-Security Engineer & Consultant at terreActive AG. Currently he is focused on log management, security monitoring and security metrics. Robert is highly opinionated when it comes to usable security and he prefers to blame manufacturers and companies for security lapses rather than employees or consumers. He holds an engineering degree in Information Technology with a focus on IT-Security." 
+  www: ["http://www.security.ch"]
   image: /img/speakers/robert_randall.jpg
   social: 
     - {name: "linkedin", link: "https://ch.linkedin.com/in/robert-randall-26657b"}
@@ -235,10 +248,24 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   talkid: randall
   id: randall
 - speaker: Andrea Klaes
-  jobtitle: CISO Sulzer
+  affiliation: Chief Information Security Officer at Sulzer Management AG
   title: No Compliance without Security Monitoring
-  image: /img/speakers/shadow.jpg
-  profile: "<strong>Andrea Klaes</strong> ..." 
+  image: /img/speakers/Andrea_Klaes.jpg
+  profile: "<strong>Andrea</strong> has been responsible for global IT security at Sulzer since October 2013. During the last 15 years Andrea’s main focus was on Security, holding various positions at different companies, e.g. Network Associates, Swiss Re or Raiffeisen." 
   max-width: 78%
   talkid: klaes
   id: klaes
+- speaker: Scott Helme
+  jobtitle: Information Security Consultant, blogger, builder of things
+  title: Not yet disclosed
+  image: /img/speakers/scott_helme.png
+  www: ["https://scotthelme.co.uk/", "https://securityheaders.io"]
+  profile: "<strong>Scott Helme</strong> Information Security Consultant, blogger, builder of things. Creator of <a href='https://twitter.com/reporturi'>@reporturi</a> and <a href='https://twitter.com/securityheaders'>@securityheaders</a>. I want to secure the entire web <a href='https://scotthelme.co.uk/contact/'>scotthel.me/PGP</a>." 
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/scott.helme"}
+    - {name: "twitter", link: "https://twitter.com/Scott_Helme"}
+    - {name: "google-plus", link: "https://plus.google.com/+ScottHelme"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/scotthelme"}
+  max-width: 78%
+  talkid: helme
+  id: helme
