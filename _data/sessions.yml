@@ -35,9 +35,9 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 101
-  title: "Not yet disclosed"
+  title: "OWASP Security Australia"
   subtype: keynote
-  speakers: []
+  speakers: [hunt]
   link: 
 -
   id: 102
@@ -66,9 +66,9 @@
   link:
 -
   id: 106
-  title: "Closing Keynodes"
-  subtype: keynote
-  speakers: []
+  title: "Cyber Threats: What Vendors are not telling"
+  subtype: presentation
+  speakers: [chiesa]
   link:
 -
   id: 201
@@ -111,6 +111,14 @@
   id: 207
   title: "Darknet Investigations"
   subtype: presentation
+  description: "What is the sociological background of commercial cybercrime?
+Which players are involved in the darknet? How do they organise
+themselves? How are they finalising the transactions and how
+do they exchange money and goods? (Unless they do not trade goods, 
+but illegal services like assassinations of course.)
+Scip is constantly monitoring and analysing the darknet; assessing
+the black markets for drugs, weapons, data and crime-on-demand.
+This talk is a report about this work."
   speakers: [ruef]
   link: 
 -
@@ -144,7 +152,7 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   link:
 -
   id: 305
-  title: "Collaborative Training of Cyber Defense Capabilities in the military domain: what's going on."
+  title: "Benefits of participating in NATO Locked Shield Exercises - Management Perspective"
   subtype: presentation
   description: "Military Information and Communication Systems are increasingly interconnected and use the similar when not the same components of civilian systems. Cyber-Incidents on military systems are thus technically very similar. Decision processes and impact of incidents are on the other side quite different. Examples of international trainings and exercises on the technical and operative level will be presented."
   speakers: [sibillia]
@@ -160,5 +168,11 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   title: "Multi-Layer Security (In-Depth)"
   subtype: presentation
   speakers: [caissy]
+  link:
+-
+  id: 308
+  title: "Lockpicking and IT Security"
+  subtype: presentation
+  speakers: [belgers]
   link:
  

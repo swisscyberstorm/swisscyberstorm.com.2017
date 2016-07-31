@@ -2,7 +2,7 @@
 
 <!-- include latest-news.html --> 
 <article>
-<h2>Upcomming Event</h2>
+<h2>Upcoming Event</h2>
 <div class="row">
   <div class="col-xs-12 col-sm-5">
     <a href="/conference"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Strom 2016"/></a>

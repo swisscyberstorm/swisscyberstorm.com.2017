@@ -9,15 +9,18 @@
   abstract: "Not yet disclosed ..."
   image: /img/about/bernhard_tellenbach.jpg
 - speaker: "Troy Hunt"
-  jobtitle: "????"
-  affiliation: "Not yet disclosed"
-  publish: "false"
-  title: "Not yet disclosed."
-  profile: "<strong>Troy Hunt</strong> not yet disclosed ..."
-  abstract: "Not yet disclosed ..."
-  www: ["https://www.linkedin.com/in/kevinbeaver"]
-  image: /img/speakers/kevin_beaver.jpg
-  pdf: /res/presentations/kevin_beaver.pdf
+  jobtitle: "Microsoft MVP"
+  affiliation: "Pluralsight author"
+  title: "OWASP Security Australia"
+  profile: "<strong>Troy Hunt</strong> is a Pluralsight author, Microsoft MVP and world-renowned internet security specialist. He spend his time teaching developers how to break into their own systems before helping to piece them back together to be secure against today’s online threats. He’s also the creator of “Have I been pwned?”, the free online service for breach monitoring and notifications. Troy regularly blogs at troyhunt.com from his home in Australia."
+  www: ["https://www.troyhunt.com/"]
+  image: /img/speakers/troy_hunt.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/troyhunt"}
+    - {name: "facebook", link: "https://www.facebook.com/troyahunt"}
+    - {name: "github", link: "https://github.com/troyhunt"}
+    - {name: "wikipedia", link: "https://en.wikipedia.org/wiki/Troy_Hunt"}
+    - {name: "google-plus", link: "https://plus.google.com/+TroyHunt/posts"}
   max-width: 78%
   id: hunt
 - speaker: Herbert Bos
@@ -116,8 +119,7 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   image: /img/speakers/shadow.jpg
   id: sibillia
 - speaker: Marc Ruef
-  affiliation: Member of the Board, scip AG, Lawn Mower in Residence, Ruef family
-  jobtitle-long: Member of the Board, scip AG, Lawn Mower in Residence, Ruef family
+  affiliation: Member of the Board, scip AG
   title: "Title"
   social: 
     - {name: "linkedin", link: "https://ch.linkedin.com/in/mruef"}
@@ -125,8 +127,26 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
     - {name: "youtube", link: "https://www.youtube.com/user/mruef"}
     - {name: "facebook", link: "https://www.facebook.com/marc.ruef"}
     - {name: "xing", link: "https://www.xing.com/profile/Marc_Ruef"}
-  profile: "<strong>Marc Ruef</strong>  ... "
-  abstract: "Not yet disclosed ..."
+  profile: "<strong>Marc Ruef</strong> is a Pioneer and Enterpreneur. Almost twenty years
+ago, he launched an online site which would later become computec.ch,
+the  GO-TO place for IT security related information in German. Forward
+a few years, he founded scip AG, an information security consulting
+company. Unlike other pen-testers and researchers, scip is known to go
+the extra mile. It must be Marc's special talent, that gives scip
+reports an artistic touch making them special among their peers.  Marc
+is known to be a very active author with hundreds of articles and
+several books published on a wide range of cyber security topics.  His
+persistence and experience gave Marc access to contracts and research,
+other security experts can only dream of. He attends Swiss Cyberstorm
+to talk about this work."
+  abstract: "What is the sociological background of commercial cybercrime?
+Which players are involved in the darknet? How do they organise
+themselves? How are they finalising the transactions and how
+do they exchange money and goods? (Unless they do not trade goods, 
+but illegal services like assassinations of course.)
+Scip is constantly monitoring and analysing the darknet; assessing
+the black markets for drugs, weapons, data and crime-on-demand.
+This talk is a report about this work."
   www: ["https://www.scip.ch/", "https://vuldb.com"]
   image: /img/speakers/marc_ruef.jpg
   max-width: 78%

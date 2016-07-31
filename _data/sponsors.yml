@@ -7,8 +7,14 @@
     company with outstanding know-how our services include Consulting, Integration
     and Operation. We design comprehensive concepts for international enterprises,
     small e-business companies as well as for private banks.
-  max-width: 59.52%
+  max-width: 80.00%
   type: GOLD
+- www: https://www.aspectra.ch/
+  image: /img/sponsors/ASP_logo_pos_mit_claim_CMYK.svg
+  image-alt: SILVER Sponsor - aspectra
+  profile: "<strong>aspectra</strong> is the Swiss leader in dedicated hosting. The company implements, operates and monitors IT environments for business-critical applications, securely and with a high level of availability. Our IT outsourcing complies with FINMA-RS08/7 and is ISO 27001-certified."
+  max-width: 72.35%
+  type: SILVER
 - www: http://www.compass-security.com
   image: /img/sponsors/compass_logo.svg
   image-alt: SILVER Sponsor - Compass Security AG
@@ -28,7 +34,7 @@
   image: /img/sponsors/oneconsult_logo.png
   image-alt: SILVER Sponsor - Oneconsult AG
   profile: <strong>Oneconsult AG</strong> is a Swiss cyber security consulting company with approx. 25 employees, offices in Switzerland and Germany, a customer base of 300+ organizations and 1000+ completed security projects worldwide. We are your trustworthy partner for a holistic cyber security approach against external and internal threats such as APT, hacker attacks, malware infection, digital fraud and data leakage. Oneconsult’s core services are penetration tests, ISO 27001 security audits and IT forensics. To protect your organization and mitigate specific information security risks, the portfolio also covers practical security consulting, security training and virtual security officer services. Dedicated IT security researchers, digital forensics experts (GCFE, GREM, etc.), ISO security auditors (ISO 27001 Lead Auditor) and a large team of certified penetration testers (OPST, OSCP, etc.) are at your service.
-  max-width: 100.0%
+  max-width: 72.35%
   type: SILVER
 - www: http://www.pwc.ch/cybersecurity
   image: /img/sponsors/pwc_logo.svg
@@ -69,7 +75,7 @@
 - www: http://www.open.ch
   image: /img/sponsors/open-systems.svg
   image-alt: CHALLENGES Sponsor - Open Systems
-  profile: <strong>Open Systems</strong> 1990 in Basel gegründet, seit 1995 mit Hauptsitz in Zürich.  135+ Mitarbeiter, die alle auf Sicherheit und Verfügbarkeit spezialisiert sind.  Technologie- und Providerunabhängig.  Eingetragen als Schweizer Aktiengesellschaft. Alle Aktien befinden sich in Privatbesitz.  ISO 27001:2013 und ITIL zertifizierte Mission Control Operations.  Follow-the-sun Operations Centers in Zürich und Sydney.  Mitglied von FIRST und SISA.
+  profile: "<strong>Open Systems</strong> is one of the leading enterprise security providers in Europe, focusing on network security, application delivery, identity management and global connectivity − all integrated by service management.<br> Renowned global enterprises and NGOs use Mission Control Security Services by Open Systems to secure the availability and performance of their business-critical applications and networks. With Mission Control Centers in Zurich and Sydney, Open Systems currently operates in over 180 countries worldwide − 24x7, 365 days a year."
   max-width: 76.01%
   type: CHALLENGES
 - www: https://www.bfh.ch
