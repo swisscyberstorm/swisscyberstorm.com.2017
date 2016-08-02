@@ -14,7 +14,7 @@ Get in touch with them and have a look at what they have to offer!</p>
  <div class="row">
   <div id="equalheight">
   
-   <div class="col-lg-4 col-sm-6 col-xs-12 col-eq-padding"> 
+   <div class="col-lg-4 col-sm-6 col-xs-10 col-eq-padding"> 
     <div class="row">
      <div class="col-xs-12">
        <h4>Gold</h4>
@@ -39,7 +39,7 @@ Get in touch with them and have a look at what they have to offer!</p>
    </div>
 -->
 
-   <div class="col-lg-8 col-xs-12 col-eq-padding"> 
+   <div class="col-lg-8 col-xs-10 col-eq-padding"> 
     <div class="row">
      <div class="col-xs-12">
       <h4>Silver</h4>
