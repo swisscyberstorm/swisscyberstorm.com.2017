@@ -1,6 +1,15 @@
   title: "Press Release"
   items:
     - {
+    	date: '2016-08-16',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'End of final qualifying 2016',
+    	link: '/res/press/SCS_MM_Ende_Qualifikation_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Ende_Qualifikation_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Ende_Qualifikation_FR.pdf',
+      }
+    - {
     	date: '2016-06-18',
         issuer: 'Swiss Cyber Storm',
     	title: 'Flyer European Cyber Security Challenge 2016',

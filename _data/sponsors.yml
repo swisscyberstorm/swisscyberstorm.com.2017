@@ -39,12 +39,7 @@
 - www: http://www.pwc.ch/cybersecurity
   image: /img/sponsors/pwc_logo.svg
   image-alt: SILVER Sponsor - PwC Switzerland
-  profile: <strong>PwC</strong> brings a multi-disciplinary approach to information
-    and cyber security, addressing the key components of strategy, people, process,
-    technology and compliance. PwC's approach to information security blends business
-    insight with a broader view of risk. We help clients to exploit opportunities
-    by understanding their business drivers and threats and building in appropriate
-    security enablers.
+  profile: "At <strong>PwC</strong>, our purpose is to build trust in society and solve important problems. We're a network of firms in 157 countries with more than 208,000 people who are committed to delivering quality in assurance, advisory and tax services. Within PwC Switzerland around 2,800 employees and partners in 14 locations in Switzerland and one in the Principality of Liechtenstein help to create the value organisations and individuals are looking for. PwC Digital Services in Switzerland is part of a worldwide community of experts dedicated to helping you not just face digital disruption, but also to thrive on it. Our integrated digital solutions span innovation and strategy through to execution. We combine multi-disciplinary capabilities in digital strategy, transformation, user experience and design, cybersecurity as well as data analytics to help clients with all aspects of their digital transformation."
   max-width: 41.25%
   type: SILVER
 - www: http://www.temet.ch
