@@ -1,0 +1,37 @@
+  title: 'Press Review International (Selection)'
+  items:
+    - {
+        date: '2016-08-17',
+        issuer: 'Vaterlandmagazin (LI)',
+        title: 'Jung-Hacker kämpfen für IT-Sicherheit',
+        link: 'http://www.vaterlandmagazin.li/wirtschaft/international/Jung-Hacker-kaempfen-fuer-IT-Sicherheit;art105,219096',
+        type: 'www'
+      }
+    - {
+        date: '2016-07-10',
+        issuer: 'EPT (GR)',
+        title: 'European Cyber Security Challenge 2016',
+        link: 'https://www.youtube.com/watch?v=4t82nHFLcFc',
+        type: 'www'
+      }
+    - {
+        date: '2016-08-02',
+        issuer: 'Pressebox (DE)',
+        title: 'Online-Qualifikation mit großer Resonanz abgeschlossen',
+        link: 'http://www.pressebox.de/pressemitteilung/heise-medien-gruppe-gmbh-co-kg/Online-Qualifikation-mit-grosser-Resonanz-abgeschlossen/boxid/808612',
+        type: 'www'
+      }
+    - {
+        date: '2016-05-02',
+        issuer: 'WDR',
+        title: 'Cyber Security Challenge sucht Nachwuchs-Hacker',
+        link: 'http://www1.wdr.de/nachrichten/ruhrgebiet/cyber-security-challenge-108.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-05-02',
+        issuer: 'Heise iX',
+        title: 'Cyber Security Challenge: Wettbewerb für "Nachwuchs-Hacker" startet am 2. Mai',
+        link: 'http://www.heise.de/ix/meldung/Cyber-Security-Challenge-Wettbewerb-fuer-Nachwuchs-Hacker-startet-am-2-Mai-3194493.html',
+        type: 'www'
+      }

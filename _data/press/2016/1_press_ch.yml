@@ -1,5 +1,173 @@
   title: 'Press Review Switzerland'
   items:
+ #   - {
+ #   	date: '2016-08-17',
+ #       issuer: '20 Minuten',
+ #   	title: 'Elite des hackers suisses en finale',
+ #   	link: '', 
+ #       type: 'www'
+ #     }
+ #   - {
+ #   	date: '2016-08-17',
+ #       issuer: '20 Minuten',
+ #   	title: 'Beste Hacker kämpfen ums Finale',
+ #   	link: '', 
+ #       type: 'www'
+ #     }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Watson',
+    	title: '20 Schweizer Jung-Hacker wollen es in die Nati schaffen und an der EM teilnehmen. Und die Frauen?',
+    	link: 'https://www.watson.ch/Digital/Schweiz/917747838-20-Schweizer-Jung-Hacker-wollen-es-in-die-Nati-schaffen-und-an-der-EM-teilnehmen--Und-die-Frauen-', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Tribune de Genève',
+    	title: 'Les meilleurs hackers suisses en route pour la finale',
+    	link: 'http://www.tdg.ch/suisse/meilleurs-hackers-suisses-route-finale/story/13271271', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Swissinfo.ch',
+    	title: "Vingt hackers suisses visent l'European Cyber Security Challenge",
+    	link: 'http://www.swissinfo.ch/fre/vingt-hackers-suisses-visent-l-european-cyber-security-challenge/42376414', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Swiss IT Magazine',
+    	title: '20 Schweizer Jung-Hacker kämpfen um Finaleinzug',
+    	link: 'http://www.itmagazine.ch/Artikel/62791/20_Schweizer_Jung-Hacker_kaempfen_um_Finaleinzug.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Romandie.com',
+    	title: "Vingt hackers suisses visent l'European Cyber Security Challenge",
+    	link: 'http://www.romandie.com/news/Vingt-hackers-suisses-visent-lEuropean-Cyber-Security-Challenge/728886.rom', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Oltener Tagblatt',
+    	title: '20 Schweizer Jung-Hacker im europäischen Finale',
+    	link: 'http://www.oltnertagblatt.ch/wirtschaft/20-schweizer-jung-hacker-im-europaeischen-finale-130493757', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Netzwoche:',
+    	title: 'Die 20 besten Schweizer Jung-Hacker stehen fest',
+    	link: 'http://www.netzwoche.ch/news/2016-08-16/die-20-besten-schweizer-jung-hacker-stehen-fest', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Le Matin',
+    	title: 'Les meilleurs hackers suisses en route pour la finale',
+    	link: 'http://www.lematin.ch/suisse/Les-meilleurs-hackers-suisses-en-route-pour-la-finale/story/13271271', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'IT-Markt',
+    	title: 'Die 20 besten Schweizer Jung-Hacker stehen fest',
+    	link: 'http://www.it-markt.ch/News/2016/08/16/Die-20-besten-Schweizer-Jung-Hacker-stehen-fest.aspx', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'IT Business',
+    	title: 'Europa sucht den Superhacker',
+    	link: 'http://www.itbusiness.ch/news/security/item/1453-europa-sucht-den-superhacker.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'inside-it.ch',
+    	title: '20 Jungtalente für Schweizer Hacking-Wettbewerb ausgewählt',
+    	link: 'http://www.inside-it.ch/articles/44694', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'ICT Kommunikation',
+    	title: 'Die 20 besten Schweizer Jung-Hacker stehen fest',
+    	link: 'http://ictk.ch/content/die-20-besten-schweizer-jung-hacker-stehen-fest', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Der Landbote',
+    	title: '20 Schweizer Jung-Hacker im europäischen Finale',
+    	link: 'http://www.landbote.ch/wirtschaft/20-Schweizer-JungHacker-im-europaeischen-Finale/story/19671106', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'CE Today',
+    	title: 'Die 20 besten Schweizer Jung-Hacker stehen fest',
+    	link: 'http://www.cetoday.ch/de-CH/News/2016/08/16/Die-20-besten-Schweizer-Jung-Hacker-stehen-fest.aspx', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Cash online',
+    	title: '20 Schweizer Jung-Hacker im europäischen Finale',
+    	link: 'https://www.cash.ch/news/20-schweizer-jung-hacker-im-europaischen-finale-482700', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Bluewin:',
+    	title: "Vers l'European Cyber Security Challenge",
+    	link: 'https://www.bluewin.ch/fr/infos/suisse/2016/8/16/vingt-hackers-suisses-visent-l-european-cyber-secu.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Bluewin',
+    	title: 'Jung-Hacker kämpfen für IT-Sicherheit',
+    	link: 'https://www.bluewin.ch/de/news/vermischtes/2016/8/16/20-schweizer-jung-hacker-im-europaeischen-finale.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Blick.ch',
+    	title: '20 Schweizer Jung-Hacker im europäischen Finale',
+    	link: 'http://www.blick.ch/people-tv/computersicherheit-20-schweizer-jung-hacker-im-europaeischen-finale-id5384839.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: 'Aargauer Zeitung',
+    	title: '20 Schweizer Jung-Hacker im europäischen Finale',
+    	link: 'http://www.aargauerzeitung.ch/leben/digital/20-schweizer-jung-hacker-im-europaeischen-finale-130493757', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-08-16',
+        issuer: '20 Minutes',
+    	title: 'Les meilleurs hackers suisses en route pour la finale',
+    	link: 'http://www.20min.ch/ro/multimedia/stories/story/Les-meilleurs-hackers-suisses-en-route-pour-la-finale-20884001', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-05-10',
+        issuer: 'ZHAW',
+    	title: 'Hacken für einen guten Zweck',
+    	link: 'https://informatiktage.ch/blog/hacken-fur-einen-guten-zweck/', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-05-02',
+        issuer: 'Computerworld',
+    	title: 'Startschuss für die Cyber-Europameisterschaft 2016',
+    	link: 'http://www.computerworld.ch/news/security/artikel/startschuss-fuer-die-cyber-europameisterschaft-2016-70116/', 
+        type: 'www'
+      }
     - {
     	date: '2016-04-13',
         issuer: 'az Aargauer Zeitung',
