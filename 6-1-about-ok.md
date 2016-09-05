@@ -101,7 +101,7 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Philippe Schnyder</p>
 <p class="scs-portrait-responsibility">Support (Program / Venue / Speaker)</p>
-<a class="scs-portrait-affiliation" href="http://www.omnisec.ch/">Omnisec AG</a>
+<a class="scs-portrait-affiliation" href="https://www.swisscom.ch/">Swisscom AG</a>
 </div>
 </div>
 </div>
