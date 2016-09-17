@@ -11,7 +11,7 @@ header_image: 2015/Technics_CyberSorm_2015.jpg
 <div class="row">
 <h1>Association</h1>
 The Swiss Cyber Storm association was founded on November 15, 2012 by a group of cyber security enthusiasts. 
-The purpose of this association as stated in the <a href="/res/association/statuten.pdf">byelaws (in German)</a> is to promote young
+The purpose of this association as stated in the <a href="/res/association/statuten.pdf">bylaws (in German)</a> is to promote young
 cyber security talents and to regularly carry out cyber security events for security professionals and decision-makers.
 </div>
 

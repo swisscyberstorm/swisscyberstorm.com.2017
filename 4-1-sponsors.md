@@ -1,7 +1,8 @@
 ---
 layout: page-twocolumns
 title: Sponsors
-permalink: /sponsors/
+parent: Sponsors
+permalink: /sponsors/sponsors/
 header_image: 2015/Ceremony_CyberStorm_2015.jpg
 hide: false
 ---
