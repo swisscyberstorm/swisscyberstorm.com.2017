@@ -1,6 +1,15 @@
   title: "Press Release"
   items:
     - {
+    	date: '2016-09-20',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Swiss final 2016 - Budding young hackers use charm and expertise for a chance to compete in the championship',
+    	link: '/res/press/SCS_MM_Schweizer_Finale_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Schweizer_Finale_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Schweizer_Finale_FR.pdf',
+      }
+    - {
     	date: '2016-08-16',
         issuer: 'Swiss Cyber Storm',
     	title: 'End of final qualifying 2016',

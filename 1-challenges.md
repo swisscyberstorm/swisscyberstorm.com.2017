@@ -5,70 +5,25 @@ title: Challenges
 permalink: /challenges/
 draft: true
 header_image: eucsc.png
-buttons:
-  - link: 'https://www.hacking-lab.com/events/registerform.html?eventid=1037&uk=dWSXpQCpjjBF9JVvKcpZi33yyPxAi7zS'
-    text: 'Register Junior (14-20)'
-  - link: 'https://www.hacking-lab.com/events/registerform.html?eventid=1038&uk=bjbtyzbe443u7kZPZDpRPSG33d4cehAP'
-    text: 'Register Senior (20-30)'
 ---
 
 
 <article>
-	<h2>European Cyber Security Challenge 2016</h2>
+	<h2>Swiss Cyber Storm Challenge - Finals 2016</h2>
 
 
-	<p>Are you between <strong>14 and 30</strong> years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team that is competing against teams from Germany, Austria, Romania, UK and Spain in November 2016 in Berlin! Meet other like-minded people. Make your passion your career.</p>
-	<div class="row">
-	  <div class="col-md-4 col-sm-4">
-            <a href='../res/press/HL_Flyer_May_2016-04-de_web.pdf' target="_blank"><img src="../img/flyer-de.png" alt="Flyer German" /></a>
-          </div>
-	  <div class="col-md-4 col-sm-4">
-            <a href="../res/press/HL_Flyer_May_2016-04-fr_web.pdf" target="_blank"><img src="../img/flyer-fr.png" alt="Flyer French" /> </a>
-          </div>
-	  <div class="col-md-4 col-sm-4">
-            <a href="../res/press/HL_Flyer_May_2016-04-it_web.pdf" target="_blank"><img src="../img/flyer-it.png" alt="Flyer Italian" /></a>
-          </div>
-        </div>
+	<p>In Sursee over the weekend of September 17<sup>th</sup>-18<sup>th</sup>, Switzerland’s best young hackers, which qualified for the Swiss finals, competed against each other.</p>
+	<img src="/img/SCS2016_all.JPG" alt="Participent">
+	<p>After a weekend full of challenges, teamwork and presentations the Swiss team 2016 participating at the European Championship in Dusseldorf is found. Congratulations and all the best for the European Challenges!</p>
+	<img src="/img/SCS2016_winner2.JPG" alt="Swiss Team 2016">
+
 </article>
 
 <article>
-	<h2>Register Today!</h2>
-	<p>
-        <a href='../res/press/HL_Flyer_May_2016-04-de_web.pdf' target="_blank"><i class="fa fa-file-pdf-o"></i>Flyer German</a>
-        <a href="../res/press/HL_Flyer_May_2016-04-fr_web.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Flyer French</a>
-        <a href="../res/press/HL_Flyer_May_2016-04-it_web.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Flyer Italian</a>
-        </p>
-	<p>
-	ONLINE QUALIFICATION SWITZERLAND from 2.May until 15. August 2016 
-	<br>
-	</p>
-	<p><strong>Timeline:</strong><br>
-	<img src="/img/timeline2016.png" alt="Timeline">
-	</p>
-	<ol>
-		<li>
-			<strong>Between 14-20 years old?</strong>
-			<ul>
-				<li>
-					<a href="https://www.hacking-lab.com/events/registerform.html?eventid=1037&uk=dWSXpQCpjjBF9JVvKcpZi33yyPxAi7zS
-" target="_blank">Register here for the category "JUNIOR"</a>.
-				</li>
-			</ul>
-		</li>
-		<br>
-		<li>
-			<strong>Between 21-30 years old?</strong>
-			<ul>
-				<li>
-					<a href="https://www.hacking-lab.com/events/registerform.html?eventid=1038&uk=bjbtyzbe443u7kZPZDpRPSG33d4cehAP
-" target="_blank">Register here for the category "SENIOR"</a>.
-				</li>
-			</ul>
-		</li>
-	</ol>
-	<p>
-	You need to Sign-Up a Hacking-Lab account and use one of the registration links above. On May 2th, 2016, Hacking-Lab will provide the details of the first challenges. You won't see any tasks and challenges before the starting date. Please make yourself familiar with the Hacking-Lab framework, download the free Hacking-Lab LiveCD from <a target="_blank" href="http://media.hacking-lab.com/">http://media.hacking-lab.com/</a>. 
-	</p>
+	<h2>Video  European Cyber Security Challenge 2016 CTF Infrastructure</h2>
+    <div class="theme-video embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8M22pzybVbo"></iframe>
+    </div>
 </article>
 
 <article>
@@ -77,6 +32,7 @@ buttons:
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y_DZHr8pKUI"></iframe>
     </div>
 </article>
+
 
 <article>
 	<h2>How to qualify for the Swiss national team?</h2>
