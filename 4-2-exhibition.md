@@ -15,7 +15,7 @@ Get in touch with them and have a look at what they have to offer!</p>
 
 <div class="row">
  <div class="col-xs-12">
-  <img alt="Exhibition Area" src="/res/exhibition/exhibition_area.png" width="100%">
+  <img alt="Exhibition Area" src="/res/exhibition/exhibition-area-www.png" width="100%">
  </div>
 </div>
 

@@ -21,6 +21,18 @@
   profile: "At <strong>PwC</strong>, our purpose is to build trust in society and solve important problems. We're a network of firms in 157 countries with more than 208,000 people who are committed to delivering quality in assurance, advisory and tax services. Within PwC Switzerland around 2,800 employees and partners in 14 locations in Switzerland and one in the Principality of Liechtenstein help to create the value organisations and individuals are looking for. PwC Digital Services in Switzerland is part of a worldwide community of experts dedicated to helping you not just face digital disruption, but also to thrive on it. Our integrated digital solutions span innovation and strategy through to execution. We combine multi-disciplinary capabilities in digital strategy, transformation, user experience and design, cybersecurity as well as data analytics to help clients with all aspects of their digital transformation."
   max-width: 41.25%
   type: SILVER
+- www: http://www.trendmicro.de
+  image: /img/sponsors/trendmicro_logo.svg
+  image-alt: SILVER Sponsor - Trend Micro
+  profile: <strong>Trend Micro Incorporated</strong>, a global leader in security
+    software, strives to make the world safe for exchanging digital information. Our
+    innovative solutions for consumers, businesses and governments provide layered
+    content security to protect information on mobile devices, endpoints, gateways,
+    servers and the cloud. All of our solutions are powered by cloud-based global
+    threat intelligence, the Trend Micro™ Smart Protection Network™, and are supported
+    by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.
+  max-width: 53.56%
+  type: SILVER
 - www: https://www.infoguard.ch/
   image: /img/sponsors/infoguard_logo.svg
   image-alt: SILVER Sponsor - InfoGuard
@@ -55,3 +67,21 @@
   profile: "<strong><a href='https://www.compass-security.com/' target='_blank'>Compass Security</a></strong> is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings. Our research and community contributions regularly gain international recognition. Our employees have presented at the highly regarded security conferences, such as Black Hat Las Vegas and Microsoft's invite only conference, called Blue Hat, in Redmond. With <a href='https://www.hacking-lab.com/'>Hacking-Lab</a>, the flagship project of Compass Security, a comprehensive attack/defense <a href='https://www.hacking-lab-ctf.com/'>CTF system</a> is provided to run the <a href='http://www.europeancybersecuritychallenge.eu/'>European Cyber Security Challenge</a>. Hacking-Lab is licensed to numerous universities worldwide for educational purposes, with its aims of building young cyber talents as well as encouraging them to pursue a career in cyber security. Build your skills and join us for exciting challenges. <a href='https://www.compass-security.com/'>www.compass-security.com</a>"
   max-width: 72.35%
   type: SILVER
+- www: https://www.bfh.ch
+  image: /img/sponsors/bfh_logo.svg
+  image-alt: ACADEMY Sponsor - Bern University of Applied Science
+  profile: '<strong>Bern University of Applied Sciences (BFH)</strong> is an application-oriented university. In addition to teaching, the university provides continuing education, research and development and services relating to its core competences. Anyone who studies at Bern University of Applied Sciences can do so in an interdisciplinary way and in an international context, without setting foot outside the University: within its six departments, a range of subjects as varied as nursing, food technology and sports are taught. It is also a meeting point for students from many diverse countries.'
+  max-width: 66.01%
+  type: ACADEMY
+- www: https://www.zhaw.ch
+  image: /img/sponsors/zhaw_logo.svg
+  image-alt: ACADEMY Sponsor -  Zurich University of Applied Sciences (ZHAW)
+  profile: '<strong>Zurich University of Applied Sciences (ZHAW)</strong> The ZHAW is one of the leading universities of applied sciences in Switzerland. Teaching, research, continuing education and other services are both scientifically-based and practice-oriented.  In our work in research and development, we concentrate on important societal challenges, with a particular focus on energy and social integration. With locations in Winterthur, Zurich and Wädenswil, the ZHAW is firmly integrated in the local region whilst also collaborating with international partners. There are eight Schools in the University: Applied Linguistics, Applied Psychology, Architecture, Design and Civil Engineering, Engineering, Health Professions, Life Sciences and Facility Management, Management and Law, and Social Work.'
+  max-width: 66.01%
+  type: ACADEMY
+- www: https://www.hsr.ch
+  image: /img/sponsors/hsr_logo.svg
+  image-alt: ACADEMY Sponsor - Hochschule für Technik Rapperswil
+  profile: 'The <strong>HSR Hochschule für Technik Rapperswil</strong> offers bachelor and master courses, post-graduate studies and courses as well as a variety of additional further education possibilities in all its specialist fields.  The second central area of activity at the HSR is application-oriented research and development and also services. Effective and practicable solutions are developed in a total of 17 institutes – in close cooperation with those commissioning the work in the private and public sectors.'
+  max-width: 100%
+
