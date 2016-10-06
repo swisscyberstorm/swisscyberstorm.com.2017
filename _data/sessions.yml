@@ -35,9 +35,10 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 101
-  title: "OWASP Security Australia"
+  title: "Lessons from Billions of Breached Records"
   subtype: keynote
   speakers: [hunt]
+  description: "What motivates attackers to dump data publicly? How is it sold, traded and redistributed and for that matter, what even causes people to go public with it? These are all questions I’ve dealt with over the years running the ethical data breach search service “Have I been pwned”. It’s also given me the opportunity to interact with everyone from the attackers breaching these systems to the impacted organisations to law enforcement agencies.  <br><br> In this talk, I'll share the lessons learned from working with billions of publicly dumped records as a result of major data breaches. The talk sheds light on how this class of adversary operates and the weaknesses within organisations they continually manage to exploit. It's a unique inside look at security from a very real world and very actionable perspective."
   link: 
 -
   id: 102
@@ -66,13 +67,13 @@
   link:
 -
   id: 106
-  title: "Cyber Threats: What Vendors are not telling"
+  title: "What Vendors Are Not Telling You"
   subtype: presentation
   speakers: [chiesa]
   link:
 -
   id: 201
-  title: "The Cyber Kill Chain: Use it to protect yourself - knowing the limitations!"
+  title: "The Cyber Kill Chain: Use it to Protect Yourself - Knowing the Limitations!"
   subtype: presentation
   speakers: [randall]
   description: "The Cyber Kill Chain can be a useful tool in a corporate environment. We will clarify what it’s good for and what the limitations are. Looking at detecting intruders, we will reveal current challenges in Security Monitoring."
@@ -123,13 +124,13 @@ This talk is a report about this work."
   link: 
 -
   id: 301
-  title: "Logfile analysis: Actions leave traces - know what to look for"
+  title: "Logfile Analysis: Actions Leave Traces - Know What to Look For"
   subtype: presentation
-  description: "Due to the ever changing IT environment the largest concern regarding security is losing control. Logfiles are a good method to retain control over dedicated areas and to make compliance checks. We will look at some specific use cases for logfile analysis that we found to be very helpful. "
+  description: "Due to the ever changing IT environment the largest concern regarding security is losing control. Logfiles are a good method to retain control over dedicated areas and to make compliance checks. We will look at some specific use cases for logfile analysis that we found to be very helpful."
   speakers: [klaes]
   link: 
 -
-  id: 302
+  id: 702
   title: "Smart Wearable - Threat to Nation's Security"
   subtype: presentation
   description: "In past couple of years the World has started moving towards Mobility. The applications and gadgets using those applications have seen to be growing exponentially. This has also brought endless possibilities of Security Breaches. <br>
@@ -139,10 +140,11 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   speakers: [thakur]
   link: 
 -
-  id: 304
-  title: "Threat Intelligence"
+  id: 302
+  title: "Cross-border Hunting of Sophisticated Threat Actors in Enterprise Networks – Challenges and Success Factors."
   subtype: presentation
   speakers: [barwinski]
+  description: "What used to be single device, event driven cyber forensic investigations has rapidly evolved to sustained global hunting operations across large networks with tens or hundreds of thousands of endpoints. Adversary hunting activities across the World is relatively simple when one organization operates under unified laws, regulations, policies and processes. However, global corporate enterprises operate with a variety of very distinct environments, subject to local regulations and distinct business unit priorities, policies, processes and business practices. In this digital landscape, investigating and recovering from a significant compromise can pose unexpected additional challenges. Join Mark as he dissects such an incident, exploring real world experiences towards the eradication of unwelcome guests."
   link:
 -
   id: 303
@@ -159,7 +161,7 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   link:
 -
   id: 306
-  title: "Important EU-Cyber regulations Switzerland must apply until 2018"
+  title: "Important EU-Cyber Regulations Switzerland Must Apply Until 2018"
   subtype: presentation
   speakers: [rosenthal]
   link:
@@ -175,4 +177,3 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   subtype: presentation
   speakers: [belgers]
   link:
- 

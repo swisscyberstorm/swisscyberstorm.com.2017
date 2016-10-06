@@ -1,6 +1,20 @@
   title: 'Press Review International (Selection)'
   items:
     - {
+        date: '2016-09-12',
+        issuer: 'SC Magazine (GB)',
+        title: 'Top 10 Cyber-Security Challenge UK talents chosen for European finals',
+        link: 'http://www.scmagazineuk.com/top-10-cyber-security-challenge-uk-talents-chosen-for-european-finals/article/521861/',
+        type: 'www'
+      }
+    - {
+        date: '2016-09-05',
+        issuer: 'ComputerWeekly (GB)',
+        title: 'Simulated cyber attack in London adds finalists to 2016 UK Cyber Security Challenge',
+        link: 'http://www.computerweekly.com/news/450303717/Simulated-cyber-attack-in-London-adds-finalists-to-2016-UK-Cyber-Security-Challenge',
+        type: 'www'
+      }
+    - {
         date: '2016-08-17',
         issuer: 'Vaterlandmagazin (LI)',
         title: 'Jung-Hacker kämpfen für IT-Sicherheit',

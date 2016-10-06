@@ -1,8 +1,8 @@
 ---
 - speaker: "Dr. Bernhard Tellenbach"
   id: bernhard 
-  jobtitle: "President of the Swiss Cyber Storm"
-  affiliation: "Lecturer, Zurich University of Applied Sciences (ZHAW)"
+  jobtitle: "President"
+  affiliation: "Swiss Cyber Storm"
   publish: "true"
   title: "Welcome"
   profile: 
@@ -24,8 +24,7 @@
   max-width: 78%
   id: hunt
 - speaker: Herbert Bos
-  jobtitle: "Prof. Computer System Section at Universiteit Amsterdam" 
-  affiliation: affiliation 
+  affiliation: "Professor and leader of the VUSec Systems Security research group" 
   title: "Prof. at Universiteit Amsterdam" 
   profile: "Herbert Bos is a professor of Systems and Network Security at Vrije Universiteit Amsterdam in the Netherlands. He obtained his Ph.D. from Cambridge University Computer Laboratory (UK). Coming from a systems background, he drifted into security a few years ago and never left. He is very proud of his (former) students, three of whom have won the Roger Needham Ph.D. Award for best Ph.D. thesis in systems in Europe."
   abstract: "Taking your IT security to the next level, ..." 
@@ -36,7 +35,7 @@
   id: bos
 - speaker: Mazin Ahmed
   affiliation: Information Security Specialist / Penetration Tester 
-  profile: "<b>Mazin Ahmed</b> ..."
+  profile: "<b>Mazin Ahmed</b> is an Information Security Specialist and a Penetration Tester.  Computers and its security is his passion for years, and every day he gets attached more into this field. Information Security is not just his career focus, but it's his hobby.  Mazin has worked for a variety of companies, universities, banks, providing the best security solutions, and ensuring that the maximum security possible. Currently, he is running a few community projects, to help raising better awareness regarding Information Security.  He is also a bug bounty programs participant in his spare time. He has reported valid vulnerabilities to numerous top-profile companies, such as Facebook, Twitter, LinkedIn, Bugcrowd, Oracle, Ebay to name a few. He has also been one of the top 3 researchers for PureVPN, one of the top 5 researchers for Tagged, and he was three times in the Bugcrowd top 10 researchers of the month. He is currently among the 15 top researchers (out of 20,000+) on Bugcrowd."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/mazin_ahmed.jpg
   max-width: 78%
@@ -63,7 +62,7 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   jobtitle: Founder of Shodan
   affiliation: Shodan
   title: ".ch Compared to world"
-  profile: "<strong>John Matherly</strong> is the founder and CEO of Shodan. Shodan is a search engine for the Internet of Things (IoT). John is at the cutting edge of online security and privacy issues as his technology concerns the connectivity of all our surrounding objects with the cyber space." 
+  profile: "<strong>John Matherly</strong> is the founder and CEO of Shodan, the first comprehensive search engine of devices connected to the Internet. John, born in Switzerland, graduated from University of California, San Diego, with a bachelors degree in bioinformatics, with research done in the field of hydrogen-deuterium exchange mass spectrometry . Prior to creating Shodan, John worked at the San Diego Supercomputer Center as a programmer/ analyst on the Protein Data Bank project. The idea of Shodan was born in 2003, and it has evolved into a tool that searches for and catalogs every IP address on the Internet, ranging from individual home desktops to industrial automation systems. Shodan also performs automatic Internet-wide surveys, analyzes large amounts of data and makes security tools more accessible to the community."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/john_matherly.jpg
   www: ["https://www.shodan.io/"]
@@ -74,10 +73,10 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   max-width: 78%
   id: matherly
 - speaker: Mark Barwinski
-  jobtitle: Threat Intelligence
-  affiliation: PwC
+  jobtitle: PwC
+  affiliation: Director Cybersecurity 
   title: "Threat Intelligence"
-  profile: "<strong>Mark Barwinski</strong> ... "
+  profile: "As the Director for Cybersecurity, <strong>Mark</strong>  is responsible for leading Threat Intelligence, Incident Response, Cyber Forensics, and SOC consulting services in Switzerland. He joined PwC following 13 years of cyber related experience attained at the Naval Postgraduate School and Sandia National Laboratories as a spyware researcher in his early years, and at the U.S. Department of Defense where he played a variety of hands-on and leadership roles in the Washington D.C / Baltimore area, Germany, Afghanistan, and Canada. In these various roles, Mark supported military operations and the safety of high government ranking individuals, and helped protect the Global Information Grid (GiG) through the development of analyst tools and the leading of an intelligence analysis and reporting cell. He also closely collaborated with partner nation states promoting joint discovery and response efforts. Mark is currently focused on leveraging actionable information acquired from intelligence and incident response activities, and further building key capabilities in country."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/mark_barwinski.jpg
   max-width: 78%
@@ -280,7 +279,10 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   title: Not yet disclosed
   image: /img/speakers/scott_helme.png
   www: ["https://scotthelme.co.uk/", "https://securityheaders.io"]
-  profile: "<strong>Scott Helme</strong> Information Security Consultant, blogger, builder of things. Creator of <a href='https://twitter.com/reporturi'>@reporturi</a> and <a href='https://twitter.com/securityheaders'>@securityheaders</a>. I want to secure the entire web <a href='https://scotthelme.co.uk/contact/'>scotthel.me/PGP</a>." 
+  profile: "<strong>Scott Helme</strong> is a security researcher, international speaker and author of the <a href='https://scotthelme.co.uk'>scotthelme.co.uk</a> blog. He is also the founder of <a href='https://scotthelme.co.uk'>securityheaders.io</a> an online assessment tool which checks the correct deployment of HTTP
+Security headers on web servers. His site <a href='https://report-uri.io'>report-uri.io</a>  is a welcome
+support for organisations trying out Content Security Policy.
+Scott handles over 100M reports on <a href='https://report-uri.io'>report-uri.io</a> per week."
   social: 
     - {name: "facebook", link: "https://www.facebook.com/scott.helme"}
     - {name: "twitter", link: "https://twitter.com/Scott_Helme"}
