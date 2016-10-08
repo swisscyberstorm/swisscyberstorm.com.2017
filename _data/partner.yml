@@ -7,6 +7,10 @@
   image: /img/satwLogoClaimrechts_4c.png
   text: Partner - Swiss Academy of Engineering Science
   type: Partner
+- www: http://www.haslerstiftung.ch/en/
+  image: /img/sponsors/LogoHaslerStiftung.png
+  text: Partner - Foundation Hasler
+  type: ChallengePartner
 - www: http://www.terreactive.ch/
   image: /img/sponsors/terreactive_logo.svg
   text: GOLD Sponsor - terreActive AG
@@ -14,8 +18,4 @@
 - www: http://www.open.ch
   image: /img/sponsors/open-systems.svg
   text: CHALLENGES Sponsor - Open Systems
-  type: CHALLENGES
-- www: http://www.haslerstiftung.ch/en/
-  image: /img/sponsors/LogoHaslerStiftung.png
-  text: CHALLENGES Sponsor - Foundation Hasler
   type: CHALLENGES
