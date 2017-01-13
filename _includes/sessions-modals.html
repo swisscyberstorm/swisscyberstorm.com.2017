@@ -24,7 +24,13 @@
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						{% if mySpeakers[0].pdf != null %}
-						<a class="theme-presentation" href="{{ mySpeakers[0].pdf }}" title="Presentation" target="_blank">View presentation <i class="fa fa-file-pdf-o"></i></a>
+						<a class="theme-presentation" href="/res/presentations/{{ mySpeakers[0].pdf }}" title="PDF Presentation" target="_blank">View pdf presentation <i class="fa fa-file-pdf-o"></i></a>
+						{% endif %}
+						{% if mySpeakers[0].ppt != null %}, &nbsp;
+						<a class="theme-presentation" href="/res/presentations/{{ mySpeakers[0].ppt }}" title="PPT Presentation" target="_blank">View ppt presentation <i class="fa fa-file-powerpoint-o"></i></a>
+						{% endif %}
+						{% if mySpeakers[0].pdf2 != null %}, &nbsp;
+						<a class="theme-presentation" href="/res/presentations/{{ mySpeakers[0].pdf2 }}" title="PDF Presentation" target="_blank">View 2<sup>nd</sup> pdf presentation <i class="fa fa-file-pdf-o"></i></a>
 						{% endif %}
 						<hr>
 						<div class="people-details">

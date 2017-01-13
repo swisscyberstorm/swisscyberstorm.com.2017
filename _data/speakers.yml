@@ -1,10 +1,22 @@
 ---
+- speaker: Ivan Bütler
+  jobtitle: "Board Member Swiss Cyber Storm"
+  affiliation: "CEO Compass Security AG"
+  image: /img/speakers/ivan_buetler.jpg
+  social: 
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/ivanbuetler"}
+    - {name: "twitter", link: "https://twitter.com/ibuetler"}
+    - {name: "youtube", link: "https://www.youtube.com/user/ibuetler"}
+    - {name: "github", link: "https://github.com/ibuetler"}
+  www: ["http://e1.compass-security.com/"]
+  id: buetler
 - speaker: "Dr. Bernhard Tellenbach"
   id: bernhard 
   jobtitle: "President"
   affiliation: "Swiss Cyber Storm"
   publish: "true"
   title: "Welcome"
+  pdf: SCS7-Ivan-Buetler-HSR.pdf
   profile: 
   abstract: "Not yet disclosed ..."
   image: /img/about/bernhard_tellenbach.jpg
@@ -30,6 +42,7 @@
   abstract: "Taking your IT security to the next level, ..." 
   max-width: 78%
   www: [ "https://www.vusec.net/people/herbert-bos/"]
+  pdf: SCS7-Herbert-Bos.pdf
   image: /img/speakers/herbertbos.jpg
   talkid: bos
   id: bos
@@ -38,6 +51,8 @@
   profile: "<b>Mazin Ahmed</b> is an Information Security Specialist and a Penetration Tester.  Computers and its security is his passion for years, and every day he gets attached more into this field. Information Security is not just his career focus, but it's his hobby.  Mazin has worked for a variety of companies, universities, banks, providing the best security solutions, and ensuring that the maximum security possible. Currently, he is running a few community projects, to help raising better awareness regarding Information Security.  He is also a bug bounty programs participant in his spare time. He has reported valid vulnerabilities to numerous top-profile companies, such as Facebook, Twitter, LinkedIn, Bugcrowd, Oracle, Ebay to name a few. He has also been one of the top 3 researchers for PureVPN, one of the top 5 researchers for Tagged, and he was three times in the Bugcrowd top 10 researchers of the month. He is currently among the 15 top researchers (out of 20,000+) on Bugcrowd."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/mazin_ahmed.jpg
+  pdf: SCS7-Mazin-Ahmed.pdf
+  ppt: SCS7-Mazin-Ahmed.pptx
   max-width: 78%
   www: ["https://www.mazinahmed.net"]
   social: 
@@ -71,6 +86,8 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
     - {name: "twitter", link: "https://twitter.com/achillean"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/jmath"}
   max-width: 78%
+  pdf: SCS7-John-Matherly.pdf
+  ppt: SCS7-John-Matherly.pptx
   id: matherly
 - speaker: Mark Barwinski
   jobtitle: PwC
@@ -79,6 +96,7 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
   profile: "As the Director for Cybersecurity, <strong>Mark</strong>  is responsible for leading Threat Intelligence, Incident Response, Cyber Forensics, and SOC consulting services in Switzerland. He joined PwC following 13 years of cyber related experience attained at the Naval Postgraduate School and Sandia National Laboratories as a spyware researcher in his early years, and at the U.S. Department of Defense where he played a variety of hands-on and leadership roles in the Washington D.C / Baltimore area, Germany, Afghanistan, and Canada. In these various roles, Mark supported military operations and the safety of high government ranking individuals, and helped protect the Global Information Grid (GiG) through the development of analyst tools and the leading of an intelligence analysis and reporting cell. He also closely collaborated with partner nation states promoting joint discovery and response efforts. Mark is currently focused on leveraging actionable information acquired from intelligence and incident response activities, and further building key capabilities in country."
   abstract: "Not yet disclosed ..."
   image: /img/speakers/mark_barwinski.jpg
+  pdf: SCS7-Mark-Barwinski.pdf
   max-width: 78%
   social: 
     - {name: "twitter", link: "https://twitter.com/markbarwinski"}
@@ -110,12 +128,14 @@ He has expertise in fields like secure code review, NFC Pentesting, Web Appsec, 
     - {name: "twitter", link: "https://twitter.com/MadisonGurkha"}
   image: /img/speakers/walter_belgers.jpg
   max-width: 78%
+  pdf: SCS7-Walter-Belgers.pdf
   id: belgers
 - speaker: Riccardo Sibillia
   title: "Collaborative Training of Cyber Defense Capabilities in the military domain: what's going on."
   profile: "Riccardo Sibilia is physicist by training and in Cyber-Security since 25 years. He is since 2007 head of the Cyber Threat Analysis of the Swiss Armed Forces. Along his career, he worked on the strategic, doctrinal and technological bases for Cyber Defense both on the military and the national level."
   max-width: 78%
   image: /img/speakers/shadow.jpg
+  pdf: SCS7-Riccardo-Sibilia.pdf
   id: sibillia
 - speaker: Marc Ruef
   affiliation: Member of the Board, scip AG
@@ -149,6 +169,7 @@ This talk is a report about this work."
   www: ["https://www.scip.ch/", "https://vuldb.com"]
   image: /img/speakers/marc_ruef.jpg
   max-width: 78%
+  pdf: SCS7-Marc-Ruef.pdf
   id: ruef
 - speaker: David Rosenthal
   jobtitle:  Counsel, Co-head IT practice
@@ -156,8 +177,8 @@ This talk is a report about this work."
   title: "The changes in data protection law -- what they mean for information security."
   profile: "<strong>David Rosenthal</strong> is counsel and co-head of the IT practice at Homburger, a leading Swiss law business firm in Zürich, which he joined in April 2001. Before that, he headed his own legal consulting firm in Basel."
   www: ["http://www.homburger.ch/dataprotection"]
-  pdf: /res/presentations/david_rosenthal.pdf
   image: /img/speakers/david_rosenthal.jpg
+  pdf: SCS7-David-Rosenthal.pdf
   max-width: 78%
   talkid: rosenthal
   id: rosenthal
@@ -178,6 +199,8 @@ This talk is a report about this work."
   title: "Engineering Software for Resilience"
   profile: "Nick Galbreath is CTO and Founder of Signal Sciences, a new company focusing on web application defense and security monitoring. Over the last 20 years, Nick has held leadership positions in number of e-commerce and social media companies, including IPONWEB, Etsy, Right Media, UPromise, Friendster, and Open Market, and has consulted for many more. He is the author of \"Cryptography for Internet and Database Applications\" (Wiley), and was awarded a number of patents in the area of social networking. He holds a master's degree in mathematics from Boston University and currently resides in Tokyo, Japan."
   image: "/img/speakers/nickgalbreath.jpg"
+  pdf: SCS7-Nick-Galbreath.pdf
+  ppt: SCS7-Nick-Galbreath.pptx
   max-width: 78%
   social: 
     - {name: "twitter", link: "https://twitter.com/NGalbreath"}
@@ -201,6 +224,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
     - {name: "twitter", link: "https://twitter.com/securitybrokers"}
     - {name: "linkedin", link: "http://it.linkedin.com/in/raoulchiesa"}
   image: "/img/speakers/raoul_chiesa.jpg"
+  pdf: SCS7-Raoul-Chiesa.pdf
   max-width: 78%
   talkid: chiesa
   id: chiesa
@@ -261,6 +285,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   profile: "<strong>Robert Randall</strong> is a Senior IT-Security Engineer & Consultant at terreActive AG. Currently he is focused on log management, security monitoring and security metrics. Robert is highly opinionated when it comes to usable security and he prefers to blame manufacturers and companies for security lapses rather than employees or consumers. He holds an engineering degree in Information Technology with a focus on IT-Security." 
   www: ["http://www.security.ch"]
   image: /img/speakers/robert_randall.jpg
+  pdf: SCS7-Robert-Randall.pdf
   social: 
     - {name: "linkedin", link: "https://ch.linkedin.com/in/robert-randall-26657b"}
   max-width: 78%
@@ -273,6 +298,7 @@ Raoul publishes books, white papers and articles worldwide, which are often tran
   profile: "<strong>Andrea</strong> has been responsible for global IT security at Sulzer since October 2013. During the last 15 years Andrea’s main focus was on Security, holding various positions at different companies, e.g. Network Associates, Swiss Re or Raiffeisen." 
   max-width: 78%
   talkid: klaes
+  pdf: SCS7-Andrea-Klaes.pdf
   id: klaes
 - speaker: Scott Helme
   jobtitle: Information Security Consultant, blogger, builder of things
@@ -289,5 +315,30 @@ Scott handles over 100M reports on <a href='https://report-uri.io'>report-uri.io
     - {name: "google-plus", link: "https://plus.google.com/+ScottHelme"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/scotthelme"}
   max-width: 78%
+  pdf: SCS7-Scott-Helme.pdf
+  ppt: SCS7-Scott-Helme.pptx
   talkid: helme
   id: helme
+- speaker: Prof. Dr. Marc Rennhard
+  title:
+  jobtitle: "Head of Information Security Research Group"
+  image: /img/speakers/marc_rennhard.jpg
+  affiliation: "ZHAW School of Engineering"
+  profile: "<strong>Marc Rennhard</strong> is professor for computer science at the ZHAW (Zürcher Hochschule für Angewandte Wissenschaften, Zurich University of Applied Sciences), focusing on information security.<br>
+Before joining the ZHAW, I graduated as Dipl. El.-Ing. ETH (M.Sc.) from ETH Zürich in 1998, specialising in the areas communication systems, information theory and information security. I then joined the company Solution Providers AG as an IT consultant before I returned to ETH Zürich as a research assistant, where I completed my dissertation about anonymous Internet communication in 2004. I hold the CISSP security professional certification since 2004 and the ETH teaching diploma for higher education since 2003. Occasionally, I'm also doing some work as an IT security and strategy consultant at Consecom AG."
+  www: ["https://home.zhaw.ch/rema/"]
+  pdf: SCS7-Marc-Bernard.pdf
+  pdf2: SCS7-Ivan-Buetler-HSR.pdf
+  ppt: SCS7-Marc-Bernard.pptx
+  id: rennhard
+- speaker: Prof. Dr. Endre Bangerter 
+  jobtilte: Professor of Computer Science
+  affiliation: "Bern University of Applied Sciences"
+  profile: "Endre Bangerter is professor of computer science at the Bern University of Applied Sciences, and a lecturer at the Forensic Science Institute of the University of Lausanne.<br>
+In earlier jobs, Endre has worked as a software developer, technical consultant, and researcher at IBM Global Services, IBM Research, and Accenture. He has a PhD in computer science from in the field of cryptography from the Horst Görtz Institute For II-security at the University of Bochum in Germany."
+  id: bangerter
+  image: /img/speakers/shadow.jpg
+  social: 
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/endre-bangerter-5baa418"}
+    - {name: "xing", link: "https://www.xing.com/profile/Endre_Bangerter"}
+  www: ["https://web.ti.bfh.ch/index.php?id=1&L=1&ord=name&uid=5458&div=FBI&strt=0"]

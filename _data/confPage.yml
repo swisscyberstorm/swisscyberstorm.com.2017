@@ -1,7 +1,7 @@
 -
-  title: "Upcomming Event"
+  title: "Save the date"
   paragraph:
-  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Storm 2016"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2016 | <i>October 19<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is open</a> </div> </div>'
+  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Storm 2017"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2017 is ccoming soon! | <i>October 18<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is closed</a> </div> </div>'
 }
 -
   title: "Swiss Cyber Storm"
@@ -11,11 +11,6 @@
   - { text: 'Swiss Cyber Storm is supported by the Reporting and Analysis Centre for Information Assurance MELANI and the Swiss Accademy of Engineering Sciences (SATW). Furthermore, the European Cyber Security Challenge is supported by the European Network and Information Security Agency (ENISA) as well as the organizations that each spent time organizing the national competitions for each respective participating country.'
 }
   - { include: slide-show.html } 
--
-  title: "Tickets"
-  paragraph: 
-  - { text: '<a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034">Registration for the conference is now open!</a>'
-}
 -
   title: "Venue"
   paragraph: 

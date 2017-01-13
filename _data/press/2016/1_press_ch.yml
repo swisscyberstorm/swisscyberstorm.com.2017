@@ -1,6 +1,83 @@
   title: 'Press Review Switzerland'
   items:
     - {
+    	date: '2016-10-11',
+        issuer: 'Tribune de Genève',
+    	title: '24 heures: Le chiffre',
+    	link: '/res/press/20161111_Tribune de Geneve.pdf', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Le Matin',
+    	title: 'En Bref',
+    	link: '/res/press/20161111_Le Matin.pdf', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'IT-Markt',
+    	title: 'Spanien gewinnt European Cyber Security Challenge',
+    	link: 'http://www.it-markt.ch/news/2016-11-10/spanien-gewinnt-european-cyber-security-challenge', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Romandie.com',
+    	title: 'Les hackers suisses 7es au concours européen de cybersécurité',
+    	link: 'http://www.romandie.com/news/Les-hackers-suisses-7es-au-concours-europeen-de-cybersecurite_ROM/752180.rom', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Swissinfo',
+    	title: 'Les hackers suisses 7es au concours européen de cybersécurité',
+    	link: 'http://www.swissinfo.ch/fre/les-hackers-suisses-7es-au-concours-europ%C3%A9en-de-cybers%C3%A9curit%C3%A9/42583614', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Bluewin',
+    	title: 'Les hackers suisses 7es au niveau européen',
+    	link: 'https://www.bluewin.ch/fr/infos/suisse/2016/11/10/les-hackers-suisses-7es-au-concours-europeen-de-cy.html', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Finanzen.ch',
+    	title: 'Spanien gewinnt European CyberSecurityChallenge 2016',
+    	link: 'http://www.finanzen.ch/nachrichten/aktien/Spanien-gewinnt-European-CyberSecurityChallenge-2016-1001514184', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-10-11',
+        issuer: 'Netzwoche',
+    	title: 'Spanien gewinnt European Cyber Security Challenge',
+    	link: 'http://www.netzwoche.ch/news/2016-11-10/spanien-gewinnt-european-cyber-security-challenge-0', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-09-30',
+        issuer: 'Schweiz am Sonntag',
+    	title: 'Schützen statt stehlen: Diese Hacker sind keine Verbrecher',
+    	link: '/res/press/20161030_Schweiz am Sonntag.pdf', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-09-30',
+        issuer: 'Die Südostschweiz',
+    	title: 'Schützen statt stehlen: Diese Hacker sind keine Verbrecher',
+    	link: 'http://www.suedostschweiz.ch/diverses/2016-10-30/schuetzen-statt-stehlen-diese-hacker-sind-keine-verbrecher', 
+        type: 'www'
+      }
+    - {
+    	date: '2016-09-22',
+        issuer: 'Surseer Woche',
+    	title: 'Die besten Jung-Hacker stehen fest',
+    	link: '/res/press/20160915_Surseer Woche.pdf', 
+        type: 'www'
+      }
+    - {
     	date: '2016-09-20',
         issuer: 'Aargauer Zeitung online',
     	title: '«Wie ein Aargauer Nachwuchs-Hacker um einen Platz an der EM kämpft»',

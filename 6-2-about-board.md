@@ -85,7 +85,7 @@ cyber security talents and to regularly carry out cyber security events for secu
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Prof. Dr. Bernhard Hämmerli</p>
 <p class="scs-portrait-role">Support</p>
-<a class="scs-portrait-affiliation" href="">Lucerne University of Appliet Sciences and Arts</a>
+<a class="scs-portrait-affiliation" href="">Lucerne University of Applied Sciences and Arts</a>
 </div>
 </div>
 </div>

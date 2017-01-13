@@ -2,15 +2,15 @@
 
 <!-- include latest-news.html --> 
 <article>
-<h2>Upcoming Event</h2>
+<h2>Save the Date</h2>
 <div class="row">
   <div class="col-xs-12 col-sm-5">
-    <a href="/conference"><img src="/img/venue/kkl_scs_2016.png" alt="Swiss Cyber Strom 2016"/></a>
+    <a href="/conference"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Strom 2017"/></a>
   </div>
   <div class="col-xs-12 col-sm-5">
-    <p style="font-size: 16pt">Swiss Cyber Storm 2016 | 
-    <i>October 19<sup>th</sup></i> | Luzern Switzerland </p>
-    <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is open</a>
+    <p style="font-size: 16pt">Swiss Cyber Storm 2017 is coming soon! | 
+    <i>October 18<sup>th</sup></i> | Luzern Switzerland </p>
+    <!-- <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is closed</a> -->
   </div>
 </div>
 </article>

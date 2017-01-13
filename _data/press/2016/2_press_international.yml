@@ -1,6 +1,84 @@
   title: 'Press Review International (Selection)'
   items:
     - {
+        date: '2016-11-26',
+        issuer: 'El País',
+        title: 'Los chavales españoles que resolvieron el desafío europeo de la ciberseguri-dad',
+        link: 'http://tecnologia.elpais.com/tecnologia/2016/11/18/actualidad/1479488314_335611.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-10',
+        issuer: 'Info Security Magazine (GB)',
+        title: 'UK’s Finest Codebreakers Battle the Best in Europe',
+        link: 'http://www.infosecurity-magazine.com/news/uks-finest-codebreakers-battle/',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-10',
+        issuer: 'Information Security Buzz (GB)',
+        title: 'UK’s Best Cyber Talent Representing Britain In 2016 European Cyber Security Challenge',
+        link: 'http://www.informationsecuritybuzz.com/articles/uks-best-cyber-talent-representing-britain-2016-european-cyber-security-challenge/',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-10',
+        issuer: 'Globb Security (ES)',
+        title: 'España logra el primer puesto en el campeonato europeo de ci-
+berseguridad',
+        link: 'http://globbsecurity.com/espana-primer-puesto-campeonato-ciberseguridad-40066/',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-10',
+        issuer: 'RP Online (DE)',
+        title: 'Spanier sind Europas beste Hacker',
+        link: 'http://www1.wdr.de/nachrichten/rheinland/hacker-challenge-102.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-09',
+        issuer: 'WDR (DE)',
+        title: 'Europäischer Hacker-Wettbewerb',
+        link: 'http://www1.wdr.de/nachrichten/rheinland/hacker-challenge-102.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-08',
+        issuer: 'WAZ (DE)',
+        title: 'Student der Ruhr-Uni Bochum knackt meisterhaft Computer',
+        link: 'http://www.derwesten.de/staedte/bochum/student-der-ruhr-uni-bochum-knackt-meisterhaft-computer-id12338959.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-07',
+        issuer: 'La Information (ES)',
+        title: '¿Qué país europeo tiene los mejores expertos emergentes en ciberseguridad? España participa en el desafío',
+        link: 'http://www.lainformacion.com/economia-negocios-y-finanzas/computacion-e-informatica/tecnologia-de-los-satelites/expertos-emergentes-ciberseguridad-Espana-participa_0_969804300.html',
+        type: 'www'
+      }
+    - {
+        date: '2016-11-04',
+        issuer: 'Tiroler Tageszeitung (AT)',
+        title: 'Verboten gute Hacker-Genies',
+        link: 'http://www.tt.com/lebensart/web/12210497-91/verboten-gute-hacker-genies.csp',
+        type: 'www'
+      }
+    - {
+        date: '2016-10-19',
+        issuer: 'Nachrichten.at (AT)',
+        title: 'Ein "Cyber-Soldat" aus dem Mühlviertel',
+        link: 'http://www.nachrichten.at/oberoesterreich/Ein-Cyber-Soldat-aus-dem-Muehlviertel;art4,2378370',
+        type: 'www'
+      }
+    - {
+        date: '2016-10-17',
+        issuer: 'Lichtensteiner Vaterland (LI)',
+        title: 'Hacken für die Computersicherheit',
+        link: '/res/press/20161014_Lichtensteiner Vaterland.pdf',
+        type: 'www'
+      }
+    - {
         date: '2016-09-12',
         issuer: 'SC Magazine (GB)',
         title: 'Top 10 Cyber-Security Challenge UK talents chosen for European finals',

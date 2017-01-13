@@ -52,6 +52,16 @@
   title: "Bounty Hunter Programs"
   subtype: presentation
   speakers: [ahmed]
+  description: "Bug bounty programs are getting more and more traction. Some see them
+as a cheap way to get a lot of pen-tests for free and some see them as
+the creation of a global market for security testing. Mazin Ahmed will
+take a close look at existing bug bounty programs and explain some of
+the merits of the bounty hunting community sites. He will also take the
+perspective of the Companies attempting to set up a bug bounty program
+and highlight widespread misconceptions and why they are wrong. Spice
+this up with demonstrations of bugs he discovered recently and stories
+from the adventurous life of a whitehat hacker living in Khartoum,
+Sudan."
   link: 
 -
   id: 104
@@ -83,24 +93,48 @@
   title: "Bounty Hunting in Sudan and Abroad"
   subtype: presentation
   speakers: [ahmed]
+  description: "Bug bounty programs are getting more and more traction. Some see them
+as a cheap way to get a lot of pen-tests for free and some see them as
+the creation of a global market for security testing. Mazin Ahmed will
+take a close look at existing bug bounty programs and explain some of
+the merits of the bounty hunting community sites. He will also take the
+perspective of the Companies attempting to set up a bug bounty program
+and highlight widespread misconceptions and why they are wrong. Spice
+this up with demonstrations of bugs he discovered recently and stories
+from the adventurous life of a whitehat hacker living in Khartoum,
+Sudan."
   link: 
 -
   id: 202
-  title: "CH Compared to the World"
+  title: "State of the Internet"
   subtype: presentation
   speakers: [matherly]
+  description: "Industrial control systems are more connected than ever, medical devices are joining the Internet slowly and bad guys have figured out that millions of insecure IoT devices can be used to launch attacks bigger than anything we've seen before. The talk will explore the current state of the Internet in Switzerland and abroad."
   link: 
 -
   id: 203
-  title: "Turbo Talk"
+  title: "Turbo Talks"
   subtype: presentation
-  speakers: [academy_research]
+  speakers: [bangerter]
   link: 
 -
   id: 204
   title: "Engineering Software for Resilience"
   subtype: presentation
   speakers: [galbreath]
+  description: "As the velocity of application development has increased, so has the
+velocity (and success) of attackers.  Given a massive hiring shortage of
+security professionals, how can we keep up and even get ahead?  We can,
+if we change the role of security to one that is building systems that
+are resilient to security shocks.  When we do this, we find the topics
+in security are quite different from what they used to be: How are we
+managing our software supply chain? Does the existing software have a
+consistent design? How can we build and operate a CI/CD pipeline
+for the long run? What is a good way to monitor web applications
+real-time? And perhaps surprisingly: Are we measuring the outbound email
+throughput and the capacity correctly? Yes, these are all security
+issues. Join Nick for his presentation and find out why this is the
+case so we can make more resilient and more secure software."
   link: 
 -
   id: 205
@@ -148,9 +182,9 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   link:
 -
   id: 303
-  title: "Turbo Talk"
+  title: "Turbo Talks"
   subtype: presentation
-  speakers: [academy_research]
+  speakers: [rennhard,bernhard,buetler]
   link:
 -
   id: 305
@@ -176,4 +210,13 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   title: "Lockpicking and IT Security"
   subtype: presentation
   speakers: [belgers]
+  description: "In this lecture, Walter Belgers will look at security flaws in locks to
+see how they came about. He shows us how similar mistakes are made in
+software development and in the deployment of safety locks: In both
+cases, we have to deal with design flaws, implementation errors, denial
+of service attacks, zero days, brute force attacks, user errors and
+more.  Walter will demonstrate these physical flaws live and we will see
+some interesting differences in the way security is looked at in
+hardware and in software: Lock designers and software engineers have a
+lot to learn from each other."
   link:
