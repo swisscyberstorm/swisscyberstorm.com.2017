@@ -33,7 +33,7 @@ header_image: eucsc.png
     </div>
 </article>
 
-
+<!--
 <article>
 	<h2>How to qualify for the Swiss national team?</h2>
 	<p>
@@ -67,7 +67,7 @@ header_image: eucsc.png
 		</li>
 	</ol>
 </article>
-
+-->
 <article>
 <h2>What is this all about?</h2>
 	Switzerland is seeking for cyber talents. It is very important for Switzerland and other European countries to find and support those talents. That's what all the European Cyber Security Challenge is about. It is a great opportunity to digg into the technical details of cyber security and meet other people with similar interests. Furthermore, you have the chance to exchange ideas with people from Spain, Romania, UK, Germany or Austria. More countries are joining this initiative. Swiss Cyber Storm is offering a platform for finding Swiss cyber talents aged 14 to 30 years and by making the cyber security topic more popular among them. Furthermore, we offer successful participants to become part of our	Swiss Whitehatters Academy where they can participate in networking and continuing education events.

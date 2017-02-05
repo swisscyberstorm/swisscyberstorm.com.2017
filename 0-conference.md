@@ -9,12 +9,12 @@ datasource: confPage
 header_image: conference_2015.jpg
 image:
  - url: img/scs_2014.png
-   caption: 'Swiss Cyber Storm 2016'
-   alt: 'Swiss Cyber Storm 2016'
+   caption: 'Swiss Cyber Storm 2017'
+   alt: 'Swiss Cyber Storm 2017'
 slideshow:
   - background_image_path: /img/conference_2015.jpg
     main_heading: Swiss Cyber Storm 2016
-    sub_heading: Swiss Cyber Storm 2016 is over. See you at Swiss Cyber Storm 2017!
+    sub_heading: Swiss Cyber Storm 2016 was great. See you at Swiss Cyber Storm 2017!
     read_more_link: /conference/
     button_text: Read more
   - background_image_path: /img/scs_2014.png

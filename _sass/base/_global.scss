@@ -238,11 +238,11 @@ figcaption {
   right: 0;
   top: 50px;
   width: 170px;
-  -webkit-animation: zoomIn 700ms ease-in 300ms both;
-  -moz-animation: zoomIn 700ms ease-in 300ms both;
-  -o-animation: zoomIn 700ms ease-in 300ms both;
-  -ms-animation: zoomIn 700ms ease-in 300ms both;
-  animation: zoomIn 700ms ease-in 300ms both;
+  -webkit-animation: flip 700ms ease-in 300ms both;
+  -moz-animation: flip 700ms ease-in 300ms both;
+  -o-animation: flip 700ms ease-in 300ms both;
+  -ms-animation: flip 700ms ease-in 300ms both;
+  animation: flip 700ms ease-in 300ms both;
   @media (max-width: 767px) {
         top: 50px;
         width: 100px;
