@@ -134,7 +134,7 @@ nav {
         width: 256px;
         height: 100%;
         transition: $long-transition;
-        background: #333;
+        background: #000000;
         -webkit-transform: translateX(-100%);
         -ms-transform: translateX(-100%);
         transform: translateX(-100%);
@@ -145,7 +145,7 @@ nav {
         transform: translate(0);
     }
     ul {
-        background-color:$color-background-navigation-level1;        
+        background-color:rgba(0,0,0,0.65);       
         margin: 0;
         padding: 0;
         line-height:1.5;

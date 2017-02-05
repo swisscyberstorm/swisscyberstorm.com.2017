@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 author: Benajmin Fehrensen, SCS
-url: "http://m.swisscyberstorm.com" # the base hostname & protocol for your site
+url: "http://www.swisscyberstorm.com" # the base hostname & protocol for your site
 
 # News Title
 NewsTitle: "Latest News"
@@ -9,17 +9,35 @@ NewsTitle: "Latest News"
 # Hero Block -- typing on the start site 
 heroImage: "hero.jpg"
 heroTitle: "<typeout>"
-eventDate: "October, 2016"
-typeoutTextValues: '"Swiss Cyber Storm", "Swiss Cyber Storm 2016", "SCS 2016"'
-typeoutFallback: "SCS 2016"
+eventDate: "October, 2017"
+typeoutTextValues: '"Swiss Cyber Storm", "Swiss Cyber Storm 2017", "SCS 2017"'
+typeoutFallback: "SCS 2017"
 
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/swisscyberstorm", icon: "twitter"}
+ - {link: "https://www.facebook.com/SwissCyberStorm", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.europeancybersecuritychallenge.eu/", text: "European Cyber Security Challenge"}
+   - {link: "https://www.hacking-lab.com", text: "Hacking Lab"}
+ -
+  title: "Swiss Cyber Storm"
+  links:
+   - {link: "/about/committee/", text: "About Us"}
+   - {link: "mailto:contact@swisscyberstorm.com", text: "Contact"}
+   
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: "Swiss Cyber Storm 2015 - International IT Security Conference"
+  title: "Swiss Cyber Storm 2017 - International IT Security Conference"
   avatar: SCS_Logo.png
   gravatar: # email md5 hash
-  description: "Swiss Cyber Storm 2015 Conference, European Cyber Security Challenge, Cyber Security Challenge, IT Security Conference Switzerland" # used by search engines
+  description: "Swiss Cyber Storm 2017 Conference, European Cyber Security Challenge, Cyber Security Challenge, IT Security Conference Switzerland" # used by search engines
   
 
   # Header and footer text
@@ -39,21 +57,6 @@ theme:
       Tickets / Registration
       </a>
 
-  footer_text: >
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6">
-          &copy; 2016 Swiss Cyber Storm - Hosting provided by <a href="https://www.nine.ch/en/">nine.ch</a>
-        </div>
-      <div class="col-sm-6">
-        <ul class="pull-right">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about/committee">About Us</a></li>
-          <li><a href="mailto:contact@swisscyberstorm.com">Contact Us</a></li>
-        </ul>
-      </div>
-     </div>
-    </div>
   
   # Icons
   rss: false
