@@ -228,6 +228,7 @@ and we'll be pleased to tell you all about our conference and challenge sponsori
 
 You can visit our web sites from previous years to get a better idea of the Swiss Cyber Storm event. </p>
 <ul class="fa-ul">
+  <li><i class="fa-li fa fa-external-link"></i><a href="http://2016.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2016</a></li>
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2015.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2015</a></li>
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2014.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2014</a></li>
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2013.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2013</a></li>
