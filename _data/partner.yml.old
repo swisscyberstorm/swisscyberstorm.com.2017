@@ -1,0 +1,21 @@
+---
+- www: https://www.melani.admin.ch/
+  image: /img/melani.png
+  text: Partner - MEALNI Melde- und Analysestelle Informationssicherung 
+  type: Partner
+- www: http://www.satw.ch/index_EN
+  image: /img/satwLogoClaimrechts_4c.png
+  text: Partner - Swiss Academy of Engineering Science
+  type: Partner
+- www: http://www.haslerstiftung.ch/en/
+  image: /img/sponsors/LogoHaslerStiftung.png
+  text: Partner - Foundation Hasler
+  type: ChallengePartner
+- www: http://www.terreactive.ch/
+  image: /img/sponsors/terreactive_logo.svg
+  text: GOLD Sponsor - terreActive AG
+  type: GOLD
+- www: http://www.open.ch
+  image: /img/sponsors/open-systems.svg
+  text: CHALLENGES Sponsor - Open Systems
+  type: CHALLENGES
