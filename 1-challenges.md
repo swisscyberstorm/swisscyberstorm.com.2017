@@ -152,6 +152,16 @@ window.onload = function() {
 
 
 </article>
+<article>
+<h2>Who can participate?</h2>
+	 <ul class="list-group">
+		  <li class="list-group-item">If you are between 14 and 25 years old and having a permanent residence in Switzerland, you are allowed to become a member of the SWISS NATIONAL TEAM. It is not mandatory to have the Swiss citizenship, but you have to live and work in Switzerland. </li>
+		  <li class="list-group-item">If you are between 14 and 20 years old, you are probably a student at a Swiss Kantonsschule or Gymnasium or you are doing an apprentice in informatic, either as system engineer or software developer. You are allowed to participate!</li>
+		  <li class="list-group-item">If you are beetween 20 and 25 years old, you are probably a student at a Swiss university (ETH, EPFL) or Swiss university of Applied Sciences (FH). May you have finished your apprentice, military service and you are a regular worker as system, network or software engineer? You are allowed to participate as well!</li>
+		  <li class="list-group-item">You are allowed to participate as long as you don't have a master degree. You can participate if you have a Bachelor degree, that's fine. </li>
+		  <li class="list-group-item">Juniors must be born in 1997 or before. Seniors must be born in the range from 1992-1996.</li>
+	</ul>
+</article>
 
 <article>
 	<h2>Video  European Cyber Security Challenge 2016 CTF Infrastructure</h2>
@@ -236,14 +246,5 @@ Check out the following links to access information, pictures and more from the 
 	</div>
 </article>
 
-<article>
-<h2>Who can participate?</h2>
-	 <ul class="list-group">
-		  <li class="list-group-item">If you are between 14 and 25 years old and having a permanent residence in Switzerland, you are allowed to become a member of the SWISS NATIONAL TEAM. It is not mandatory to have the Swiss citizenship, but you have to live and work in Switzerland. </li>
-		  <li class="list-group-item">If you are between 14 and 20 years old, you are probably a student at a Swiss Kantonsschule or Gymnasium or you are doing an apprentice in informatic, either as system engineer or software developer. You are allowed to participate!</li>
-		  <li class="list-group-item">If you are beetween 20 and 25 years old, you are probably a student at a Swiss university (ETH, EPFL) or Swiss university of Applied Sciences (FH). May you have finished your apprentice, military service and you are a regular worker as system, network or software engineer? You are allowed to participate as well!</li>
-		  <li class="list-group-item">You are allowed to participate as long as you don't have a master degree. You can participate if you have a Bachelor degree, that's fine. </li>
-		  <li class="list-group-item">Juniors must be born in 1997 or before. Seniors must be born in the range 1992-1996.</li>
-	</ul>
-</article>
+
 
