@@ -70,7 +70,7 @@ window.onload = function() {
           if (el.attr('width')>=0){
                 xpos+=Number(el.attr('width'))/2;
           }else{
-          		xpos+5;
+          		xpos+3;
           }
           el.style("stroke","#000").style("stroke-width",3);
           d3.select("#scs-tooltip").style('display','block'); //must be visible before placing!!
