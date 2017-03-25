@@ -130,13 +130,13 @@ window.onload = function() {
                 <li>
                         <strong>Between 14-20 years old?</strong><br>
 				<center>
-                                        <a class="btn btn-primary" href="https://www.hacking-lab.com/eventregister/?eventid=1222&uk=wCQatjE6TivwpQmtG4GZ9oHcbfVjSHMa" target="_blank">Register for the category JUNIOR</a>
+                                        <a class="btn btn-primary pulseButton" href="https://www.hacking-lab.com/eventregister/?eventid=1222&uk=wCQatjE6TivwpQmtG4GZ9oHcbfVjSHMa" target="_blank">Register for the category JUNIOR</a>
 				</center>
                 </li>
                 <li>
                         <strong>Between 21-25 years old?</strong><br>
 				<center>
-                                        <a class="btn btn-primary" href="https://www.hacking-lab.com/eventregister/?eventid=1223&uk=yLsjS7apgT9ogsMFZH4EKwmr5ms4U7VL" target="_blank">Register for the category SENIOR</a>
+                                        <a class="btn btn-primary pulseButton" href="https://www.hacking-lab.com/eventregister/?eventid=1223&uk=yLsjS7apgT9ogsMFZH4EKwmr5ms4U7VL" target="_blank">Register for the category SENIOR</a>
 				</center>
                 </li>
         	</ol>
