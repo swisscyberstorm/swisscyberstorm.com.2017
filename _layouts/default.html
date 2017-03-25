@@ -59,5 +59,22 @@
             });
         </script>
     {% endif %}
+    {% if page.permalink == '/challenges/' %}
+       <script type="text/javascript" src="/js/d3.v3.min.js"></script>
+       <script type="text/javascript" src="/js/d3-timeline.js"></script>
+       <script type="text/javascript" src="/js/d3.tip.v0.6.3.js"></script>
+       
+       <!-- The popup Menu --> 
+        <div id="scs-tooltip">
+		 	<div id="scs-tooltipContainer">
+				<div class="scs-category"></div>
+				<div class="scs-rule"></div>
+				<div class="scs-name"></div>
+				<div class="scs-description"></div>
+				<div class="scs-tail"></div>
+			</div>
+		</div>
+       
+    {% endif %}
 </body>
 </html>

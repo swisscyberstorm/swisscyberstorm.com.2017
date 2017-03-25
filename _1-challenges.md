@@ -68,7 +68,8 @@ buttons:
 		</li>
 	</ol>
 	<p>
-	You need to Sign-Up a Hacking-Lab account and use one of the registration links above. On May 2th, 2016, Hacking-Lab will provide the details of the first challenges. You won't see any tasks and challenges before the starting date. Please make yourself familiar with the Hacking-Lab framework, download the free Hacking-Lab LiveCD from <a target="_blank" href="http://media.hacking-lab.com/">http://media.hacking-lab.com/</a>. 
+	You need to Sign-Up a Hacking-Lab account and use one of the registration links above. On May 1<sup>st</sup> 2017, Hacking-Lab will provide the details of the first challenges. You won't see any tasks and challenges before the starting date. Please make yourself familiar with the Hacking-Lab framework, download the free Hacking-Lab LiveCD from <a target="_blank" href="http://media.hacking-lab.com/">http://media.hacking-lab.com/</a>. 
+
 	</p>
 </article>
 -->
