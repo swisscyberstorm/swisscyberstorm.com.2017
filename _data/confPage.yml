@@ -1,7 +1,7 @@
 -
-  title: "Save the date"
+  title: "Registration"
   paragraph:
-  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Storm 2017"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Swiss Cyber Strom 2017 is coming soon! | <i>October 18<sup>th</sup></i> | Luzern Switzerland </p> <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is closed</a> </div> </div>'
+  - { text: '<div class="row"> <div class="col-xs-12 col-sm-5"> <a href="http://scs2017.eventbee.com/" target="_blank"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Storm 2017"/></a> </div> <div class="col-xs-12 col-sm-5"> <p style="font-size: 16pt">Register now for the Swiss Cyber Strom 2017 | <i>October 18<sup>th</sup></i> | Luzern Switzerland |  Profit from early bird ticket price until July 30<sup>th</sup></p> <a class="btn btn-primary" href="http://scs2017.eventbee.com" target="_blank">Register now</a> </div> </div>'
 }
 -
   title: "Swiss Cyber Storm"

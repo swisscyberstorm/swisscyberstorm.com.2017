@@ -2,15 +2,15 @@
 
 <!-- include latest-news.html --> 
 <article>
-<h2>Save the Date</h2>
+<h2>Registration SCS 2017</h2>
 <div class="row">
   <div class="col-xs-12 col-sm-5">
     <a href="/conference"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Strom 2017"/></a>
   </div>
   <div class="col-xs-12 col-sm-5">
-    <p style="font-size: 16pt">Swiss Cyber Storm 2017 is coming soon! | 
-    <i>October 18<sup>th</sup></i> | Luzern Switzerland </p>
-    <!-- <a class="btn btn-primary" href="http://www.eventbee.com/v/swisscyberstorm/event?eid=128834034" target="_blank">Registration is closed</a> -->
+    <p style="font-size: 16pt">Swiss Cyber Storm 2017 is coming soon! |  
+    <i>October 18<sup>th</sup></i> | Luzern Switzerland | Profit from early bird tickets until July 30<sup>th</sup>.</p>
+    <a class="btn btn-primary" href="http://scs2017.eventbee.com" target="_blank">Register now</a> 
   </div>
 </div>
 </article>
