@@ -33,8 +33,7 @@
     	title: 'Ethical hacking courses to counter skills shortage',
     	link: '/res/press/SCS_MM_Event_Gymnasien_EN.pdf', 
         type: 'pdf',
-        link_de: '/res/press/SCS_MM_Event_Gymnasien_DE.pdf',
-        link_fr: '/res/press/SCS_MM_Event_Gymnasien_FR.pdf' 
+        link_de: '/res/press/SCS_MM_Event_Gymnasien_DE.pdf'
       }
     - {
     	date: '2015-05-04',
