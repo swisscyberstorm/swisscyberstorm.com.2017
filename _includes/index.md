@@ -9,7 +9,7 @@
   </div>
   <div class="col-xs-12 col-sm-5">
     <p style="font-size: 16pt">Swiss Cyber Storm 2017 is coming soon! |  
-    <i>October 18<sup>th</sup></i> | Luzern Switzerland | Profit from early bird tickets until July 30<sup>th</sup>.</p>
+    <i>October 18<sup>th</sup></i> | Luzern Switzerland | Profit from early bird tickets until June 30<sup>th</sup>.</p>
     <a class="btn btn-primary" href="http://scs2017.eventbee.com" target="_blank">Register now</a> 
   </div>
 </div>

@@ -156,6 +156,7 @@ window.onload = function() {
 <h2>Who can participate?</h2>
 	 <ul class="list-group">
 		  <li class="list-group-item">Juniors must be born in 1997 or before. Seniors must be born in the range from 1992-1996.</li>
+		  <li class="list-group-item">You need to have a Swiss passport or to be resident in Switzerland for over 5 years.</li>
 	</ul>
 </article>
 
