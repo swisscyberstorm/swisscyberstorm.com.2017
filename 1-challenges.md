@@ -7,9 +7,9 @@ draft: true
 header_image: eucsc.png
 buttons:
   - link: 'https://www.hacking-lab.com/eventregister/?eventid=1222&uk=wCQatjE6TivwpQmtG4GZ9oHcbfVjSHMa'
-    text: 'Register Junior (14-20)'
+    text: 'Register Junior'
   - link: 'https://www.hacking-lab.com/eventregister/?eventid=1223&uk=yLsjS7apgT9ogsMFZH4EKwmr5ms4U7VL'
-    text: 'Register Senior (21-25)'
+    text: 'Register Senior'
 ---
 
 
@@ -17,7 +17,7 @@ buttons:
 <article id="a_challenges">
 
 	<h2>Steroids for hackers - Swiss Cyber Challenges 2017</h2>
-        <p>Are you between <strong>14 and 25</strong> years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team competing against internatinonal teams from all over Europe! <a href="http://www.europeancybersecuritychallenge.eu/" traget="_blank">ECSC 2017</a> will take place in Málaga, Spain, 30 October - 3 November 2017. Meet other like-minded people. Make your passion your career.</p>
+        <p>Are you born in <strong>1992 or later</strong>? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team competing against internatinonal teams from all over Europe! <a href="http://www.europeancybersecuritychallenge.eu/" traget="_blank">ECSC 2017</a> will take place in Málaga, Spain, 30 October - 3 November 2017. Meet other like-minded people. Make your passion your career.</p>
 
 	<h2 id="header_register">Register Today</h2>	
         
@@ -128,7 +128,7 @@ window.onload = function() {
         </p>
 			<ol>
                 <li>
-                        <strong>Born in 1997 or before?</strong><br>
+                        <strong>Born in 1997 or later?</strong><br>
 				<center>
                                         <a class="btn btn-primary pulseButton" href="https://www.hacking-lab.com/eventregister/?eventid=1222&uk=wCQatjE6TivwpQmtG4GZ9oHcbfVjSHMa" target="_blank">Register for the category JUNIOR</a>
 				</center>
@@ -155,7 +155,7 @@ window.onload = function() {
 <article>
 <h2>Who can participate?</h2>
 	 <ul class="list-group">
-		  <li class="list-group-item">Juniors must be born in 1997 or before. Seniors must be born in the range from 1992-1996.</li>
+		  <li class="list-group-item">Juniors must be born in 1997 or later. Seniors must be born in the range from 1992-1996.</li>
 		  <li class="list-group-item">You need to have a Swiss passport or to be resident in Switzerland for over 5 years.</li>
 	</ul>
 </article>

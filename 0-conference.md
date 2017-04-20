@@ -27,7 +27,7 @@ slideshow:
     button_text: Register Now
   - background_image_path: /img/2015/Ceremony_CyberStorm_2015.jpg
     main_heading: Cyber Talents Wanted
-    sub_heading: Are you between 14 and 25 years old? Working with computers and networks is your passion and you are not (yet) a security professional? Then this challenge is for you!
+    sub_heading: Are you born in 1992 or later? Working with computers and networks is your passion and you are not (yet) a security professional? Then this challenge is for you!
     read_more_link: /challenges/
     button_text: Read more
 

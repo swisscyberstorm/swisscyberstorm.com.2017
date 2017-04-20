@@ -70,9 +70,7 @@ confirmed yet.
 
 The dark net is vastly attractive as a topic for a conference. It's sex
 and crime combined with security. It's kind of a safe bet that any tech
-audience will love that. We've done a dark net talk in 2015 and one in
-2016. This time we are changing the perspective a bit and return to the
-topic of bullet proof hosting. The traditional bullet proof hosting (RBN
+audience will love that. We've done a dark net talk in 2015 and one in 2016. This time we are changing the perspective a bit and return to the topic of bullet proof hosting. The traditional bullet proof hosting (RBN
 and the like) is dead. But there is a new type of malign hosting
 that is much harder to identify and even harder to fight. We have an
 expert on that topic coming from the States and I am very glad he
