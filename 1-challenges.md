@@ -16,7 +16,11 @@ buttons:
 
 <article id="a_challenges">
 
-	<h2>Steroids for hackers - Swiss Cyber Challenges 2017</h2>
+	<h2>Steroids for hackers - Swiss Cyber Challenges 2017 - <a href="/res/posts/Swiss-Cyber-Storm-Challenge-2017.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>&nbsp;Flyer</a></h2>
+	
+	<a href="/res/posts/Swiss-Cyber-Storm-Challenge-2017.pdf" target="_blank">
+	<img src="/img/challenges/Flyer_challenges_2017.png" width="100%">
+	</a>
         <p>Are you born in <strong>1992 or later</strong>? Working with computers and networks is your passion and you are not (yet) a security professional? Then the European Cyber Security Challenge is for you! You have to solve security related tasks from domains such as web security, mobile security, crypto, reverse engineering, forensics and more. You have the chance to become a member of the Swiss national team competing against internatinonal teams from all over Europe! <a href="http://www.europeancybersecuritychallenge.eu/" traget="_blank">ECSC 2017</a> will take place in Málaga, Spain, 30 October - 3 November 2017. Meet other like-minded people. Make your passion your career.</p>
 
 	<h2 id="header_register">Register Today</h2>	
