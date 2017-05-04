@@ -1,0 +1,12 @@
+  title: "Press Release"
+  items:
+    - {
+    	date: '2017-05-04',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'Cyber Security Challenge continues to grow: 15 countries are hacking for the championship title',
+    	link: '/res/press/SCS_MM_Start_Qualifikation_2017_EN.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Start_Qualifikation_2017_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Start_Qualifikation_2017_FR.pdf',
+      }
+
