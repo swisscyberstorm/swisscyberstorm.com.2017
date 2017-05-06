@@ -165,6 +165,13 @@ window.onload = function() {
 </article>
 
 <article>
+	<h2>Teaser Swiss Cyber Storm Challenge 2017</h2>
+    <div class="theme-video embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NvtNxwfr83g"></iframe>
+    </div>
+</article>
+
+<article>
 	<h2>Video  European Cyber Security Challenge 2016 CTF Infrastructure</h2>
     <div class="theme-video embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8M22pzybVbo"></iframe>
