@@ -165,6 +165,13 @@ window.onload = function() {
 </article>
 
 <article>
+	<h2>Bob wants to become a hacker</h2>
+    <div class="theme-video embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XIckkbVaxbQ"></iframe>
+    </div>
+</article>
+
+<article>
 	<h2>Teaser Swiss Cyber Storm Challenge 2017</h2>
     <div class="theme-video embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NvtNxwfr83g"></iframe>
