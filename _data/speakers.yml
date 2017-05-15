@@ -342,3 +342,10 @@ In earlier jobs, Endre has worked as a software developer, technical consultant,
     - {name: "linkedin", link: "https://ch.linkedin.com/in/endre-bangerter-5baa418"}
     - {name: "xing", link: "https://www.xing.com/profile/Endre_Bangerter"}
   www: ["https://web.ti.bfh.ch/index.php?id=1&L=1&ord=name&uid=5458&div=FBI&strt=0"]
+- speaker: Secret 
+  title: Mister
+  jobtilte: Anonymous
+  affiliation: "Not revealed"
+  profile: "Not yet revealed ..."
+  image: /img/speakers/shadow.jpg
+  id: secret
