@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 author: Benajmin Fehrensen, SCS
-url: "http://www.swisscyberstorm.com" # the base hostname & protocol for your site
+myurl: "https://www.swisscyberstorm.com" # the base hostname & protocol for your site
 
 # News Title
 NewsTitle: "Latest News"

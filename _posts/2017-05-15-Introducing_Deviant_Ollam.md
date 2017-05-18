@@ -15,7 +15,7 @@ and you get a very strong talk.
 
 <img src="/img/2017/Deviant_Ollam_backseat.jpeg">
 
-<i class="fa fa-fw fa-thumbs-o-up">Deviant Ollam making himself comfortable</i>
+<i>Deviant Ollam making himself comfortable</i>
 
 Deviant Ollam is best known for his role at DefCon and Shmoocon, namely
 in the Lockpick Village. But he is also a pioneering Android expert that
@@ -27,7 +27,7 @@ hotel room cuisine and the Chef among the frequent flyers.
 
 <img src="/img/2017/Deviant_Ollam_food.jpeg">
 
-<i class="fa fa-fw fa-thumbs-o-up">One of the yummy creations of Deviant Ollam</i>
+<i>One of the yummy creations of Deviant Ollam</i>
 
 If that is
 still not enough to convince you that Devian Ollam is a gorgeous
@@ -38,7 +38,7 @@ The early bird tickets for Swiss Cyber Storm are being sold until June 30, 2017.
 Head over to [eventbrite](http://www.eventbee.com/v/scs2017) to secure your ticket.
 
 More about Deviant Ollam:
-* [https://www.deviating.net](https://www.deviating.net)
+* [http://www.deviating.net](http://www.deviating.net)
 * [Twitter: @deviantollam](https://twitter.com/deviantollam)
 * [Book: Practical Lockpicking](https://www.amazon.com/Practical-Lock-Picking-Second-Penetration/dp/1597499897)
 
@@ -49,8 +49,8 @@ More about Deviant Ollam:
 </div>
 <div class="col-xs-8 col-sm-10">
 Christian Folini, Program Chair, Swiss Cyberstorm Conference 
-<a href="https://twitter.com/ChrFolini"><i class="fa fa-fw fa-twitter"><i>@ChrFolini</a>
+<a href="https://twitter.com/ChrFolini"><i class="fa fa-fw fa-twitter"></i>@ChrFolini</a></div>
 </div>
 
-</div>
+
 
