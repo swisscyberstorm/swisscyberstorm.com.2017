@@ -16,6 +16,10 @@ two days must be harder still. But truth be told, the talks did not
 convince me. They all resembled each other (DevSecOps? SecDevOps?) and I
 got the idea they were all somewhat inconsistent at the same time.
 
+<img src="/img/2017/Tanya_Janca_Zero.jpeg">
+
+<i>Tanya Janca (photo by Charles Earl)</i>
+
 Tanya Janca was the last chance this track was getting…  And it was a
 revelation: practical advice on how to integrate all sorts of best practices
 into your development and operation lifecyle. Her goal was to tell the audience
@@ -24,6 +28,10 @@ the Software Development Lifecycle (SLDC). And she hit it home with flying
 colours: Engaging, concise and a trove of information. In short: perfect
 Cyber Storm material.
 
+<img src="/img/2017/Tanya_Janca_Zero_Day_Reapers.png">
+
+<i>Tanya Janca performing with the Zero Day Reapers (photo likely by Christian Villemaire)</i>
+
 Tanya Janca is the Co-Chapter Lead of OWASP Ottawa in Canada. She brings
 20 years of experience as a software developer and Security
 Analyst. Her work as the IT Security Coordinator (CISO equivalent) for the 42nd General Election in
@@ -31,14 +39,6 @@ Canada earned her a nomination for the Government of Canada's CIO Award
 for "Excellent in Security" in 2016. Tanya Janca is also an avid gardener
 and the front women of the electro-punk band "Zero Day Reapers", whose
 song "Heartbleed" hit a tune with me. 
-
-<img src="/img/2017/Tanya_Janca_Zero_Day_Reapers.png">
-
-<i>Tanya Janca FIXME (replace photo)</i>
-
-<img src="/img/2017/Tanya_Janca_Zero_Day_Reapers.png">
-
-<i>Tanya Janca performing with the Zero Day Reapers (photo likely by Christian Villemaire)</i>
 
 The early bird tickets for Swiss Cyber Storm are being sold until June 30, 2017.
 Head over to [eventbrite](http://www.eventbee.com/v/scs2017) to secure your ticket.
@@ -57,5 +57,4 @@ More about Tanya Janca:
 Christian Folini, Program Chair, Swiss Cyberstorm Conference 
 <a href="https://twitter.com/ChrFolini"><i class="fa fa-fw fa-twitter"></i>@ChrFolini</a></div>
 </div>
-
 
