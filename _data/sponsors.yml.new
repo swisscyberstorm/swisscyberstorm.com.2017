@@ -1,11 +1,7 @@
 - www: https://fl1.ch/de/geschaeftskunden/silent-force 
   image: /img/sponsors/Cybersecurity-Alliance.svg
-  image-alt: GOLD Sponsor - terreActive AG
-  profile: <a href='http://www.terreactive.ch' target='_blank'><strong>terreActive</strong></a> is one of the leading IT security experts
-    with main focus on Security Monitoring and Log Management. As a Swiss engineering
-    company with outstanding know-how our services include Consulting, Integration
-    and Operation. We design comprehensive concepts for international enterprises,
-    small e-business companies as well as for private banks.
+  image-alt: GOLD Sponsor - FL1 silence force
+  profile: <a href='http://fl1.ch/de/geschaeftskunden/silent-force ' target='_blank'><strong>FL1 - silence force</strong></a> is the first commercially Managed Service allowing to detect attacks on the GSM mobile network and to protect against it.  
   max-width: 80.00%
   type: GOLD
 - www: https://www.aspectra.ch/
