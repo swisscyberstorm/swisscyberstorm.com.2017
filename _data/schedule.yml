@@ -2,8 +2,8 @@
   date: "2017-10-18"
   dateReadable: "October 18"
   tracks: 
-    - {title: "Track 1", color: "#333"}
-    - {title: "Track 2", color: "#001850"}
+    - {title: "Terrassensaal", color: "#333"}
+    - {title: "Auditorium", color: "#001850"}
   timeslots:
     - {
     	startTime: "08:30",

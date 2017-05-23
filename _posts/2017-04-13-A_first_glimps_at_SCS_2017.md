@@ -4,7 +4,7 @@ title: A first glimpse at the program of the SCS Conference 2017
 header_image: blog.jpg
 ---
 
-We had a few impressive talks at Swiss Cyberstorm 2016. Troy Hunt surprised me
+We had a few impressive talks at Swiss Cyber Storm 2016. Troy Hunt surprised me
 regarding his diligence with everything around account breaches.  John Matherly
 / Shodan and Marc Ruef with his Dark Net talk hit it home in a perfect way. I
 was very happy that Nick Galbreath's talk resonated with so many people in the
@@ -33,7 +33,7 @@ you actually want the best presentations. That's three wildly different
 things. And then there is of course the risk of ending up with a very
 unbalanced program where the best papers were all submitted in the same
 area of tech.  All this combined explains why we do it differently at
-Swiss Cyberstorm: We do a curated program.
+Swiss Cyber Storm: We do a curated program.
 
 This means we pick the best speakers and the best presentations in order
 to create an attractive program. Designing such a program also takes a
@@ -58,7 +58,7 @@ non-technology backgrounds entering IT security and proposing new
 solutions or new perspectives on well-known problems. We are going to
 have one or two talks that fall into this category.
 
-One topic that was never covered at Swiss Cyberstorm as far as I can
+One topic that was never covered at Swiss Cyber Storm as far as I can
 tell is social engineering. Well this time, we are going to have social
 engineering combined with physical access control. All documented on
 camera, mostly CCTV.  That's going to be awesome.
@@ -92,7 +92,7 @@ bird](http://www.eventbee.com/v/scs2017) has started.
 <img src="/img/speakers/folini.png" width="100%">
 </div>
 <div class="col-xs-8 col-sm-10">
-Christian Folini, Program Chair, Swiss Cyberstorm Conference 
+Christian Folini, Program Chair, Swiss Cyber Storm Conference 
 <a href="https://twitter.com/ChrFolini"><i class="fa fa-fw fa-twitter"></i>@ChrFolini</a>
 </div>
 

@@ -7,7 +7,7 @@
 -
   id: 902
   title: "Welcome"
-  place: "Lucerne Hall"
+  place: "Terrassensaal"
   speakers: [bernhard]
   description: "Welcome note of the presedent of the SCS"
 -
@@ -36,6 +36,7 @@
 -
   id: 101
   title: "Keynote 1"
+  place: Terrassensaal
   subtype: keynote
   speakers: [secret]
   description: "Not yet revealed."
@@ -43,6 +44,7 @@
 -
   id: 102
   title: "Keynote 2"
+  place: Terrassensaal
   subtype: presentation
   speakers: [secret]
   description: "Not yet revealed."
