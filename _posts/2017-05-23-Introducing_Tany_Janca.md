@@ -44,6 +44,7 @@ The early bird tickets for Swiss Cyber Storm are being sold until June 30, 2017.
 Head over to [eventbrite](http://www.eventbee.com/v/scs2017) to secure your ticket.
 
 More about Tanya Janca:
+* [<i class="fa fa-fw fa-linkedin"></i>](https://www.linkedin.com/in/tanya-janca-60ab0998/)
 * [Blog Post about Community Building](https://owasp.blogspot.ch/2017/01/from-uni-directional-to-vibrant-and.html)
 * [Tanya Janca on Meetup](https://www.meetup.com/OWASP-Ottawa/members/7055947/)
 * [Heartbleed](https://zerodayreapers.bandcamp.com/track/heartbleed)
