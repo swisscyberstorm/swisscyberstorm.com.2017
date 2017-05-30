@@ -118,17 +118,17 @@ Get in touch with them and have a look at what they have to offer!</p>
   <div class="col-xs-12 col-eq-padding"> 
     <div class="row">
      <div class="col-xs-12">
-      <h4>Challenges</h4>
+      <h4>Contributor</h4>
      </div>
     </div>
-{% assign sponsors = site.data.sponsors | where: "type", "CHALLENGES" %}
+{% assign sponsors = site.data.sponsors | where: "type", "CONTRIBUTOR" %}
 {% for item in sponsors %}
   {% capture thecycle %}{% cycle 'group challenges': 'odd', 'even' %}{% endcapture %}
   {% if thecycle == 'odd' %}
     {% assign no_odd = '</div></div>' %} 
     <div class="row">
      <div id="equalheight">
-      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+      <div class="col-lg-3 col-sm-4 col-xs-7 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}" target ="_blank">
          <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
@@ -137,7 +137,7 @@ Get in touch with them and have a look at what they have to offer!</p>
       </div>
   {% else %}
     {% assign no_odd = '' %} 
-      <div class="col-lg-3 col-sm-4 col-xs-6 col-eq-padding">
+      <div class="col-lg-3 col-sm-4 col-xs-7 col-eq-padding">
        <div class="sponsor-img" style="max-width: {{item.max-width}}">
         <a href="{{item.www}}" target ="_blank">
          <img class="svg" src="{{item.image}}" alt="{{item.image-alt}}">
@@ -188,8 +188,7 @@ Get in touch with them and have a look at what they have to offer!</p>
     {{ no_odd }}
    </div>
 
-  </div>
- </div>
+
  <div class="row verticalspaceing"></div>
 
 
@@ -200,7 +199,9 @@ Get in touch with them and have a look at what they have to offer!</p>
 </div>
 
 {% for item in site.data.sponsors %}
+{% if item.show-abstract == 'noshow' %}
 
+{% else %}
 <div class="row">
  <div class="col-lg-12 col-md-12">
   <div class="row">
@@ -219,6 +220,7 @@ Get in touch with them and have a look at what they have to offer!</p>
   </div>
  </div>
 </div>
+{% endif %}
 {% endfor %}
 
 <h2>Become a Sponsor!</h2>

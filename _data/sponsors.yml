@@ -3,6 +3,7 @@
   image-alt: GOLD Sponsor - FL1 silence force
   profile: <a href='http://fl1.ch/de/geschaeftskunden/silent-force ' target='_blank'><strong>FL1 - silence force</strong></a> is the first commercially available Managed Service allowing to detect attacks on the GSM mobile network and to protect against it.  
   max-width: 90.00%
+  show-abstract: show
   type: GOLD
 - www: https://www.aspectra.ch/
   image: /img/sponsors/ASP_logo_pos_mit_claim_CMYK.svg
@@ -31,12 +32,19 @@
   profile: <strong>Oneconsult AG</strong> is a Swiss cyber security consulting company with offices in Switzerland and Germany, a customer base of 300+ organizations and 1000+ completed security projects worldwide. We are your trustworthy partner for a holistic cyber security approach against external and internal threats such as APT, hacker attacks, malware infection, digital fraud and data leakage. Oneconsult’s core services are penetration tests, ISO 27001 security audits and IT forensics. To protect your organization and mitigate specific information security risks, the portfolio also covers practical security consulting, security training and virtual security officer services. Dedicated IT security researchers, digital forensics experts (GCFE, GREM, etc.), ISO security auditors (ISO 27001 Lead Auditor) and a large team of certified penetration testers (OPST, OSCP, etc.) are at your service.
   max-width: 72.35%
   type: SILVER
-- www: http://www.pwc.ch/cybersecurity
-  image: /img/sponsors/pwc_logo.svg
-  image-alt: SILVER Sponsor - PwC Switzerland
-  profile: "At <strong>PwC</strong>, our purpose is to build trust in society and solve important problems. We're a network of firms in 157 countries with more than 208,000 people who are committed to delivering quality in assurance, advisory and tax services. Within PwC Switzerland around 2,800 employees and partners in 14 locations in Switzerland and one in the Principality of Liechtenstein help to create the value organisations and individuals are looking for. PwC Digital Services in Switzerland is part of a worldwide community of experts dedicated to helping you not just face digital disruption, but also to thrive on it. Our integrated digital solutions span innovation and strategy through to execution. We combine multi-disciplinary capabilities in digital strategy, transformation, user experience and design, cybersecurity as well as data analytics to help clients with all aspects of their digital transformation."
-  max-width: 41.25%
-  type: SILVER
+- www: https://www.oneconsult.com/
+  image: /img/sponsors/oneconsult_logo.png
+  image-alt: CONTRIBUTOR Sponsor - Oneconsult AG
+  profile: <strong>Oneconsult AG</strong> is a Swiss cyber security consulting company with offices in Switzerland and Germany, a customer base of 300+ organizations and 1000+ completed security projects worldwide. We are your trustworthy partner for a holistic cyber security approach against external and internal threats such as APT, hacker attacks, malware infection, digital fraud and data leakage. Oneconsult’s core services are penetration tests, ISO 27001 security audits and IT forensics. To protect your organization and mitigate specific information security risks, the portfolio also covers practical security consulting, security training and virtual security officer services. Dedicated IT security researchers, digital forensics experts (GCFE, GREM, etc.), ISO security auditors (ISO 27001 Lead Auditor) and a large team of certified penetration testers (OPST, OSCP, etc.) are at your service.
+  max-width: 95%
+  show-abstract: noshow
+  type: CONTRIBUTOR
+#- www: http://www.pwc.ch/cybersecurity
+#  image: /img/sponsors/pwc_logo.svg
+#  image-alt: SILVER Sponsor - PwC Switzerland
+#  profile: "At <strong>PwC</strong>, our purpose is to build trust in society and solve important problems. We're a network of firms in 157 countries with more than 208,000 people who are committed to delivering quality in assurance, advisory and tax services. Within PwC Switzerland around 2,800 employees and partners in 14 locations in Switzerland and one in the Principality of Liechtenstein help to create the value organisations and individuals are looking for. PwC Digital Services in Switzerland is part of a worldwide community of experts dedicated to helping you not just face digital disruption, but also to thrive on it. Our integrated digital solutions span innovation and strategy through to execution. We combine multi-disciplinary capabilities in digital strategy, transformation, user experience and design, cybersecurity as well as data analytics to help clients with all aspects of their digital transformation."
+#  max-width: 41.25%
+#  type: SILVER
 - www: http://www.temet.ch
   image: /img/sponsors/temet_logo.svg
   image-alt: SILVER Sponsor - TEMET
@@ -48,7 +56,7 @@
     practitioners. Temet currently employs 11 information security experts and has
     a customer base of more than 40 financial institutions and public authorities
     in Switzerland.
-  max-width: 76.01%
+  max-width: 73.35%
   type: SILVER
 #- www: http://www.trendmicro.de
 #  image: /img/sponsors/trendmicro_logo.svg
@@ -64,10 +72,10 @@
 #  type: SILVER
 - www: http://www.open.ch
   image: /img/sponsors/open-systems.svg
-  image-alt: CHALLENGES Sponsor - Open Systems
+  image-alt: CONTRIBUTOR Sponsor - Open Systems
   profile: "<strong>Open Systems</strong> is one of the leading enterprise security providers in Europe, focusing on network security, application delivery, identity management and global connectivity − all integrated by service management.<br> Renowned global enterprises and NGOs use Mission Control Security Services by Open Systems to secure the availability and performance of their business-critical applications and networks. With Mission Control Centers in Zurich and Sydney, Open Systems currently operates in over 180 countries worldwide − 24x7, 365 days a year."
-  max-width: 76.01%
-  type: SILVER
+  max-width: 78.00%
+  type: CONTRIBUTOR
 - www: http://www.terreactive.ch/
   image: /img/sponsors/terreactive_logo.svg
   image-alt: SILVER Sponsor - terreActive AG
@@ -76,7 +84,7 @@
     company with outstanding know-how our services include Consulting, Integration
     and Operation. We design comprehensive concepts for international enterprises,
     small e-business companies as well as for private banks.
-  max-width: 72.35%
+  max-width: 61.00%
   type: SILVER
 - www: https://www.bfh.ch
   image: /img/sponsors/bfh_logo.svg
