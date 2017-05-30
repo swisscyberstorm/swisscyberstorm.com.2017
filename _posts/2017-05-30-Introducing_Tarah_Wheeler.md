@@ -4,13 +4,12 @@ title: Introducing Swiss Cyber Storm 2017 Speaker Tarah Wheeler
 header_image: blog.jpg
 ---
 
-Tarah Wheeler can be really vocal when it comes to gender equality,
-workplace diversity and American politics in general. She is a thought
-leader on all these topics and we could fill a conference with Tarah
-explaining her view on these topics. But then you could also read her
-book about Women in Tech or ask her directly. At Swiss Cyber Storm she
-will speak as security expert and share her insights into the security
-challenges that Fintech poses to companies.
+Tarah Wheeler can be really vocal when it comes to gender equality, workplace
+diversity and American politics in general. She is a thought leader and we
+could fill a conference with Tarah explaining her view on all these topics. But
+then you could also read her book about Women in Tech or ask her directly. At
+Swiss Cyber Storm she will speak as security expert and share her insights into
+the security challenges that Fintech poses to companies.
 
 Tarah radiates energy with every fiber and I see a real chance of her
 stunning everybody in the room. Will a restrained Swiss audience cope
@@ -32,7 +31,7 @@ stockpiles, increase the number of participants in the banking system,
 and improve fiscal efficiency. But there is also a juggernaut preparing
 to assault financial institutions: Cryptocurrencies. Money is flowing
 freely, with no capital controls, and the metadata surrounding
-financial transactions is more valuable than the money itself--yet
+financial transactions is more valuable than the money itself - yet
 often poorly secured. It does not really matter if Bitcoin is a fad or
 if Hyperledger can live up to its promise: Blockchains are a disrupting
 technology and they will destroy established business models: It is
@@ -46,7 +45,7 @@ before our eyes in the next few years.
 This all poses a huge security risk as the new Fintech businesses can no
 longer be secured in the way a traditional bank was. Switzerland
 is competing with London to be the Blockchain center of Europe and
-the canton of Zug is being dubbed Crypto valley. Yet how do all these
+the canton of Zug is being dubbed Crypto Valley. Yet how do all these
 startups solve their inherent security problems?
 
 In 2016, Mark Barwinski talked about his research into a state
