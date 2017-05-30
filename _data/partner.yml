@@ -3,7 +3,11 @@
   image: /img/melani.png
   text: Partner - MEALNI Melde- und Analysestelle Informationssicherung 
   type: Partner
-- www: http://www.satw.ch/index_EN
+- www: http://www.satw.ch/en/
   image: /img/satwLogoClaimrechts_4c.png
   text: Partner - Swiss Academy of Engineering Science
   type: Partner
+- www: https://fl1.ch/de/geschaeftskunden/silent-force 
+  image: /img/sponsors/Cybersecurity-Alliance.svg
+  text: GOLD Sponsor - FL1 silence force
+  type: GOLD
