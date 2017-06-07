@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Introducing Swiss Cyber Storm 2017 Speaker Deviant Ollam
