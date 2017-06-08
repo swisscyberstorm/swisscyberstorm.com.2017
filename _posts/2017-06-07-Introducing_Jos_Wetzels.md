@@ -21,7 +21,7 @@ with a remote control) and of course SCADA systems in high security
 environments.
 
 Our Swiss Cyber Storm Speaker Jos Wetzels has seen a lot of these devices. 
-His research with Twente University has focussed on the protection of
+His research with Twente University has focused on the protection of
 critical infrastructures such as electric, oil, gas and water utilities.
 Furthermore, it involved analysis of the operating systems used in cars, nuclear
 power plants and military fighter jets.
