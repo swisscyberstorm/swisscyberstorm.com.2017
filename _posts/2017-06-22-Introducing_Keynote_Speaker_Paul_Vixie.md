@@ -20,7 +20,7 @@ We like to think of our industry as a meritocracy where the greatest minds
 succeed. If you look over the list of people introduced into the Internet
 Hall of Fame, then I think it is safe to say that this represents the
 highest echelons of greatness that the IT industry has reserved for people 
-like Vint Cerf, Tim Berners-Lee or Linus Thorvalds. I had been following Paul
+like Vint Cerf, Tim Berners-Lee or Linus Torvalds. I had been following Paul
 from afar for many years. So when he was finally introduced into the hall in 2014 
 I felt like it was the place where he belongs.
 

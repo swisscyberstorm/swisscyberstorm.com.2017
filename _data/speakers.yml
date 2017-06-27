@@ -341,10 +341,176 @@ In earlier jobs, Endre has worked as a software developer, technical consultant,
     - {name: "linkedin", link: "https://ch.linkedin.com/in/endre-bangerter-5baa418"}
     - {name: "xing", link: "https://www.xing.com/profile/Endre_Bangerter"}
   www: ["https://web.ti.bfh.ch/index.php?id=1&L=1&ord=name&uid=5458&div=FBI&strt=0"]
+- speaker: Paul Vixie 
+  affiliation: CEO Farsight Security
+  profile: "We are very proud to have Paul Vixie as our keynote speaker. I do not need
+to tell you about Paul's greatness or about the fact that he is a veteran with over
+30 years in the IT industry. But let me tell you about two things that
+I think striking:
+<ul>
+<li> Paul has been introduced to the Internet Hall of Fame</li>
+<li> Paul runs a company called Farsight Security</li>
+</ul>
+<img src='/img/2017/Paul_Vixie.jpg'>
+
+<i>Paul Vixie, Godfather of DNS</i><br>
+
+We like to think of our industry as a meritocracy where the greatest minds
+succeed. If you look over the list of people introduced into the Internet
+Hall of Fame, then I think it is safe to say that this represents the
+highest echelons of greatness that the IT industry has reserved for people 
+like Vint Cerf, Tim Berners-Lee or Linus Thorvalds. I had been following Paul
+from afar for many years. So when he was finally introduced into the hall in 2014 
+I felt like it was the place where he belongs.<br>
+
+Now let's take a look at Farsight Security. I think it has an interesting
+business case, but he can explain that a lot better than I can.
+So let's just think of the name: Farsight Security. Is not the ability to see 
+far something we all aspire to? I always thought Paul had an excellent ability
+to extrapolate current trends into the future and to anticipate 
+the future as the signs developed on the wall. But when I met him in April
+at an event of the Security Interest Group of Switzerland (SIGS), I realized
+that he has an equal ability to describe past developments and how
+the present came to be. The past can be chaotic and hard to understand,
+but Paul brings order into the events and suddenly it all makes sense.<br>
+
+<img src='/img/2017/Paul_Vixie_study.jpg'>
+
+<i>Paul Vixie in his study</i><br>
+
+In fact, I met Paul at a SIGS Q&A session where he responded to a wide
+variety of questions in a very concise way. It was all
+quotable material and I went home with many, many pages of handwritten
+notes. See below for a link to a collection of Paul Vixie quotes.<br>
+
+When the session was over, I thought I had nothing to lose and asked
+Paul if he would be interested to speak at the Swiss Cyber Storm
+conference and much to my surprise, he accepted! I was so excited!<br>
+
+Paul has asked us to leave the topic of his keynote presentation
+open for the time being. I think this makes a lot of sense and
+we will define this together with him in time for the conference.
+But whatever the topic is going to be, I can assure you that it
+will be an excellent presentation.<br>
+
+
+"
+  image: /img/speakers/PaulVixie.jpeg
+  id: paulvixie
+  ptitle: "Keynote"
+  link: "/2017/06/22/Introducing_Keynote_Speaker_Paul_Vixie.html"
+  social:
+    - {name: "twitter", link: "https://twitter.com/paulvixie"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulvixie"}
+    - {name: "facebook", link: "https://www.facebook.com/paulvixie"}
+- speaker: Deviant Ollam 
+  affiliation: "Author of Practical Lock Picking"
+  ptitle: "Physical Access Control"
+  profile: "At Swiss Cyber Storm 2016, Walter Belgers from TOOOL Netherlands
+presented lock-picking as a metaphor of IT security hacking. This years
+speaker Deviant Ollam is Walter's counterpart in TOOOL United States. He
+has been called the godfather of Locksport and will show us how he combines lock
+picking and the hacking of IT security systems to conquer physical
+access control.  Add social engineering to give it an additional twist
+and you get a very strong talk.<br>
+
+
+<img src='/img/2017/Deviant_Ollam_backseat.jpeg'>
+
+<i>Deviant Ollam making himself comfortable</i><br>
+
+Deviant Ollam is best known for his role at DefCon and Shmoocon, namely
+in the Lockpick Village. But he is also a pioneering Android expert that
+pushed the limits of security on the systems when security was literally
+non-existing on these devices (not that much improved on Android in this
+regard). Few will know, however, that he is also the uncrowned king of
+hotel room cuisine and the Chef among the frequent flyers.<br>
+
+
+<img src='/img/2017/Deviant_Ollam_food.jpeg'>
+
+<i>One of the yummy creations of Deviant Ollam</i><br>
+
+If that is
+still not enough to convince you that Devian Ollam is a gorgeous
+addition to our schedule, then ask him about his experience with flying
+with firearms or his recent flamethrower weekend. This man has war stories to last a week!
+<br>"
+  image: "/img/speakers/dev.png"
+  id: deviantollam
+  link: "/2017/05/15/Introducing_Deviant_Ollam.html"
+  social:
+    - {name: "twitter", link: "https://twitter.com/deviantollam"}
+- speaker: Jos Wetzels 
+  affiliation: "Researcher at the University of Twente"
+  ptitle: "Industrial Control System / IoT Security"
+  profile: "The internet of things is all the rage and talks about the insecurity of smart
+devices and tech assistants are a constant companion at tech conferences these days. But
+it's also a bit boring in the sense that the whole audience knows IoT is
+insecure and the presentations are often déjà-vus of stupid mistakes on
+cheap devices.<br>
+
+<img src='/img/2017/Jos_Wetzels.jpg'>
+
+<i>Jos Wetzels, Security Researcher</i><br>
+
+Things get different when you stop talking about toothbrushes and
+toasters and you turn to devices and control systems where security really
+matters in a direct way. Health is often quoted (think pacemakers
+with a remote control) and of course SCADA systems in high security
+environments.<br>
+
+Our Swiss Cyber Storm Speaker Jos Wetzels has seen a lot of these devices. 
+His research with Twente University has focused on the protection of
+critical infrastructures such as electric, oil, gas and water utilities.
+Furthermore, it involved analysis of the operating systems used in cars, nuclear
+power plants and military fighter jets.<br>
+
+A lot of this work has been carried out
+under the seal of NDAs (sorry, no photo of Jos in a MIG cockpit). But some of the
+vulnerabilities can be disclosed and nothing prevents him from talking about structural
+problems he regularly encounters when working with industrial control systems
+and IoT devices. One such structural problem is the search for a decent source
+of entropy. Getting truly random numbers is hard and obtaining them in a controlled
+setting is a contradiction in itself. His recent CCC presentation exemplified this
+in great detail.<br>
+
+<img src='/img/2017/Jos_Wetzels_CCC.png'>
+
+<i>Jos Wetzels presenting his findings on random number generators at CCC in 2016</i>
+<br>
+But Jos won't stop at pointing out shortcomings in existing systems. His
+Swiss Cyber Storm presentation will also give advice on good IoT security. What you
+can do to improve the situation in constrained environments and where developers
+can make a difference.<br>
+
+Jos has been part of the European Union's PREEMPTIVE project for the
+protection of critical infrastructure. He has taught hands-on offensive
+security classes at the Dutch Kerckhoffs Institute and he occasionally shows up
+at Capture the Flag events. On top of that, I can confirm that Jos is good
+company at a conference and I hope you get the chance to talk to him.<br>"
+  image: /img/speakers/Jos_Wetzels.png
+  id: joswetzels
+  www: ["http://samvartaka.github.io/about"]
+  link: "/2017/06/07/Introducing_Jos_Wetzels.html"
+- speaker: Tarah Wheeler 
+  affiliation: "Author and Cybersecurity Czar"
+  ptitle: "Fintech And Digital Transformation"
+  profile: "Not yet revealed ..."
+  image: /img/speakers/Tarah_Wheeler_thumb.jpg
+  id: tarahwheeler
+  link: "/2017/05/30/Introducing_Tarah_Wheeler.html"
+- speaker: Tanya Janca 
+  affiliation: "Security Officer at Canadian Government"
+  ptitle: "Pushing Left Like A Boss"
+  profile: "Not yet revealed ..."
+  image: /img/speakers/Tanya_Janca_thumb.jpg
+  id: tanyajanca
+  link: "/2017/05/23/Introducing_Tany_Janca.html"
 - speaker: Secret 
-  title: Mister
+  ptitle: "Not yet announced"
   jobtilte: Anonymous
-  affiliation: "Not revealed"
+  affiliation: "Not yet revealed"
   profile: "Not yet revealed ..."
   image: /img/speakers/shadow.jpg
   id: secret

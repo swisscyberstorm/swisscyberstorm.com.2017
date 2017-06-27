@@ -1,9 +1,10 @@
 - 
   date: "2017-10-18"
-  dateReadable: "October 18"
+  dateReadable: "Agenda SCS Conference - October 18"
   tracks: 
-    - {title: "Terrassensaal", color: "#333"}
-    - {title: "Auditorium", color: "#001850"}
+    - {title: "Auditorium", color: "#001850", rgba: "rgba(0,24,80,0.1)"}
+    - {title: "Terrassensaal", color: "#ffe88e", rgba: "rgba(255,232,142,0.1)"}
+
   timeslots:
     - {
     	startTime: "08:30",
@@ -43,7 +44,7 @@
     - {
     	startTime: "12:15",
     	endTime: "12:50",
-    	sessionIds: [201,301]
+    	sessionIds: [201,302]
     }
     - {
         startTime: "12:50",
@@ -53,12 +54,12 @@
     - {
     	startTime: "13:50",
     	endTime: "14:25",
-    	sessionIds: [201,301]
+    	sessionIds: [201,302]
     }
     - {
     	startTime: "14:35",
     	endTime: "15:10",
-    	sessionIds: [201,301]
+    	sessionIds: [201,302]
     }
     - {
     	startTime: "15:20",
