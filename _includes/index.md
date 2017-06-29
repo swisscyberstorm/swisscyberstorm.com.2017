@@ -5,7 +5,7 @@
 <h2>Registration SCS 2017</h2>
 <div class="row">
   <div class="col-xs-12 col-sm-5">
-    <a href="/conference"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Strom 2017"/></a>
+    <a href="/conference"><img src="/img/venue/kkl_scs_2017.png" alt="Swiss Cyber Storm 2017"/></a>
   </div>
   <div class="col-xs-12 col-sm-5">
     <p style="font-size: 16pt">Swiss Cyber Storm 2017 is coming soon! |  

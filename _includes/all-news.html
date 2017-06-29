@@ -8,9 +8,40 @@
                         {% assign loopindex = forloop.index | modulo: 2 %}
                         <article class="row">
                     {% assign postUrl = site.baseurl | append: post.url %}
-                                                <h5 class="slot-title">{{ post.title }}</h5>
-						<p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-                                                <p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
+                    
+                    
+                     <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h5 class="slot-title">{{ post.title }}</h5></a>
+                         
+                        <div class="post-header">
+                        <div class="published col-md-6 col-xs-6 pull-left">
+                                 <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+                            </div>
+                            <div class="share col-md-6 col-xs-6 pull-right">
+                                <ul class="social-links">
+                                    {% assign postUrl = site.myurl | append: site.baseurl | append: post.url %} 
+                                    <li>
+                                        <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+						 <i class="fa fa-google-plus"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
+						 <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+						<i class="fa fa-facebook"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            </div>
+                        
+                               
+                                                      
+						
+                        <p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
                         </article>
                 {% endunless %}
                 {% endfor %}

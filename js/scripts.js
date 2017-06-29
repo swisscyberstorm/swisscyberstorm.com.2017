@@ -141,6 +141,7 @@
             }
         });
 
+        /*
         $('.track-header').each(function() {
             var slot = $(this).closest('.schedule-table').find('.slot').first();
             var scheduleFirstSlotText;
@@ -150,7 +151,8 @@
             }
             $(this).find('.slot-detail').html(scheduleFirstSlotText);
         });
-
+		*/
+        
         $('#post-section .post-body p').each(function() {
             if ($(this).find('.feature-image').length) {
                 var url = $(this).find('.feature-image').prop('src');
