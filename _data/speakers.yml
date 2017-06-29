@@ -507,6 +507,16 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   image: /img/speakers/Tanya_Janca_thumb.jpg
   id: tanyajanca
   link: "/2017/05/23/Introducing_Tany_Janca.html"
+- speaker: Daniela Oliveira
+  jobtitle: "Professor"
+  affiliation: "Florida Institute for Cyber Security"
+  ptitle: "Susceptibility of C-Level Management to Spear Phishing"
+  image: /img/speakers/Daniela_Oliveira_thumb.jpg
+  link: "/2017/06/29/Introducing_Daniela_Oliveira.html"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-oliveira-420699a8/"}
+  www: ["http://www.daniela.ece.ufl.edu/Home.html"]
+  id: danielaoliveira
 - speaker: Secret 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
