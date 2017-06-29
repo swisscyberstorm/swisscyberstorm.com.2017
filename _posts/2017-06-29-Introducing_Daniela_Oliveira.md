@@ -30,9 +30,9 @@ video on demand systems. She then shifted into the security domain
 and worked on malware detection in virtual machines, kernel
 extensions and other hard technical security topics.
 
-That was a period when Donald Knuth would attend her class
-(FIXME: Better add some details here) and she received
-an impressive collection of grants and awards that could
+That was a period when [Donald Knuth came to join her class](http://www.daniela.ece.ufl.edu/Knuth.jpg)
+and participate in a discussion on buffer overflows.
+Daniela received an impressive collection of grants and awards that could
 fill a blog post on its own.
 
 But then, slowly, she started to bring heuristics, behaviour
@@ -67,14 +67,13 @@ diversity program at the University of Florida. Professor Daniela Oliveira
 is a skyrocketing career scientist and we are very happy to welcome
 here in Lucerne.
 
-
-
+Don't forget to secure your ticket in time. The early bird sale will be
+closing in a few days. [Click here to register](http://www.eventbee.com/v/scs2017).
 
 More about Daniela Oliveira:
 * [Personal Website](http://www.daniela.ece.ufl.edu/Home.html)
 * [NSF Career Award](https://www.bowdoin.edu/computer-science/activity/2013/daniela-oliveira-nsf-career-award-virtual-machine-research.shtml)
 * [Distinctive Voices Video](https://www.youtube.com/watch?v=sV3yzONL2KY)
-
 
 <div class="row">
 <div class="col-xs-4 col-sm-2 wow fadeInDown">
