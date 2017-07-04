@@ -517,6 +517,17 @@ company at a conference and I hope you get the chance to talk to him.<br>"
     - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-oliveira-420699a8/"}
   www: ["http://www.daniela.ece.ufl.edu/Home.html"]
   id: danielaoliveira
+- speaker: Dhia Mahjoub
+  jobtitle: "Head of Security Research"
+  affiliation: "Cisco Umbrella (former OpenDNS)
+  ptitle: "Behaviors and Patterns of Bulletproof Hosters"
+  image: /img/speakers/Dhia_Mahjoub.jpeg
+  link: "/2017/07/05/Introducing_Dhia_Mahjoub.html"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dhiamahjoub"}
+    - {name: "twitter", link: "https://twitter.com/DhiaLite"}
+  www: ["https://umbrella.cisco.com/blog/author/dhia/"]
+  id: dhiamahjoub
 - speaker: Secret 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
