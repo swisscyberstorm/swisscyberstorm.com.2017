@@ -507,6 +507,17 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   image: /img/speakers/Tanya_Janca_thumb.jpg
   id: tanyajanca
   link: "/2017/05/23/Introducing_Tany_Janca.html"
+- speaker: Dhia Mahjoub
+  jobtitle: "Head of Security Research"
+  affiliation: "Cisco Umbrella (former OpenDNS)"
+  ptitle: "Behaviors and Patterns of Bulletproof Hosters"
+  image: /img/speakers/Dhia_Mahjoub.jpg
+  link: "/2017/07/11/Introducing_Dhia_Mahjoub.html"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dhiamahjoub"}
+    - {name: "twitter", link: "https://twitter.com/DhiaLite"}
+  www: ["https://umbrella.cisco.com/blog/author/dhia/"]
+  id: dhiamahjoub
 - speaker: Daniela Oliveira
   jobtitle: "Professor"
   affiliation: "Florida Institute for Cyber Security"
