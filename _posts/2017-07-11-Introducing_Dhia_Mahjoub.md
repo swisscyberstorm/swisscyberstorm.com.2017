@@ -28,33 +28,47 @@ Dr. Dhia Mahjoub has excellent insight into the various moves of
 these shady web citizens. The key is of course making good use of the 
 data and it takes a data scientist like Dhia to discover usage 
 patterns in Autonomous Systems (AS) that allow to predict which 
-IP addresses or domain names will be used for cybercrime before 
+IP space or domain names will be used for cybercrime before 
 it actually happens.
 
 Dhia Mahjoub leads the core research team focused on large scale threat
 detection, threat intelligence and advises on Research and Development
-strategy. Dhia has a background in networks and security, holds a 
+strategy. Dhia has a background in networks and security and holds a 
 PhD in graph algorithms applied on Wireless Sensor Networks problems.
+
+Graphics and visualisation is in fact a key to his work. Dhia enjoys drawing
+in his free time and is a frequent visitor to art museums during his frequent
+travels. A vivid reader, he is interested in history and exploring new cities.
+Dhia told me that he sees his research as a fusion of science, engineering
+and art. It's the combination of these disciplines that help to solve
+existing and novel problems in a creative and unconventional ways.
+This is mirrored in his research and development team at Cisco Umbrella and
+reminded me - once more - that IT security is opening up to new ideas, just like
+I explained in my last blog post about 
+[Daniela Oliveira](/2017/06/29/Introducing_Daniela_Oliveira.html).
 
 <img src="/img/2017/Dhia_Mahjoub_2.jpeg">
 
-<i>Dhia Mahjoub with  Thibault Reuille at Virus Bulletin 2014</i>
+<i>Dhia Mahjoub with Thibault Reuille at Virus Bulletin 2014</i>
 
-When I met Dhia at Usenix Enima in January 2017, I immediately realized
-that is a very skilled speaker. Looking up his bio underlined that impression
+When I met Dhia at Usenix Enigma in January 2017, I immediately realized
+he is a very skilled speaker. Looking up his bio underlined that impression
 and revealed dozens of presentations at the biggest security conferences
-all over the world: Black Hat, DefCon, RSA, ShmooCon, InfoSec Europe,
-etc. etc. But then he continued and explained to me how he thinks that 
+all over the world: Black Hat, DefCon, RSA, ShmooCon, InfoSec Europe, BotConf,
+etc. But then he continued and explained to me how he thinks that 
 there is a bullet proof hoster operating from Switzerland and I was sold:
-Here is a perfect Swiss Cyber Storm speaker!
+Here is a perfect Swiss Cyber Storm speaker! Even more so as Dhia
+shares my belief that conferences are an inspiring place to learn
+about the experiences of peers of various backgrounds.
 
 Don't forget to secure your ticket in time. The early bird sale will be
-closing in a few days. [Click here to register](http://www.eventbee.com/v/scs2017).
+closing in a few days. Seriously. [Click here to register](http://www.eventbee.com/v/scs2017).
 
-More about Dhia Majoub:
+More about Dhia Mahjoub:
 * [Twitter @dhialite](https://twitter.com/dhialite)
 * [Dhia's Blog](https://umbrella.cisco.com/blog/author/dhia/)
-* [Dhia at BruCON 0x07](https://www.youtube.com/watch?v=8edBgoHXnwg)
+* [Dhia at Kapersky SAS 2016](https://www.youtube.com/watch?v=6jFtobVNgMI)
+* [Dhia at BotConf 2014](https://www.youtube.com/watch?v=eC2jPNU0NZI)
 
 <div class="row">
 <div class="col-xs-4 col-sm-2 wow fadeInDown">
