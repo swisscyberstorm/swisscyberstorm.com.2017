@@ -10,7 +10,7 @@ There have been a few statements by Swiss politicians lately, trying to funnel
 into the army to grow real cyber units with extensive attack capabilities.
 Initiatives as this have been around for a while and usually I do not bother,
 but the statements are growing more systematic in recent weeks. On top of it,
-they coincidence with the ongoing definition of the 2<sub>nd</sub> edition of the National
+they coincidence with the ongoing definition of the 2<sup>nd</sup> edition of the National
 Cyber Strategy ("Nationale Strategie zum Schutz der Schweiz vor Cyber-Risiken")
 and this makes the discussion a bit unsettling.
 
