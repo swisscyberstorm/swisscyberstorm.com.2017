@@ -538,6 +538,14 @@ company at a conference and I hope you get the chance to talk to him.<br>"
     - {name: "linkedin", link: "https://www.linkedin.com/in/clement-guitton-3b905a2/"}
     - {name: "twitter", link: "https://twitter.com/cguitton"}
   id: clementguitton
+- speaker: Stefan L&uuml;ders
+  jobtitle: "CISO"
+  affiliation: "CERN"
+  ptitle: "IoT and Corporate IT Security"
+  image: /img/speakers/Stefan_Lueders_thumb.jpg
+  link: "/2017/07/25/Introducing_Stefan_Lueders.html"
+  social: 
+  id: stefanlueders
 - speaker: Secret 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
