@@ -4,13 +4,14 @@ title: Focus Theme E-Voting at Swiss Cyber Storm
 header_image: blog.jpg
 ---
 
-"Electronic voting is the supreme discipline when it comes to the design of
-secure communication protocols." This is what University of Zurich associate
+"With all its distinct and partly contradictory security requirements and goals, electronic voting
+is the supreme discipline among secure communication protocols." 
+This is what University of Zurich associate
 Professor [Rolf Oppliger](https://www.esecurity.ch/bio.html) told me when we
 discussed E-Voting last year. He went on to explain that online banking needs
 strong authentication, message integrity, confidentiality and non-reputability.
 But with E-Voting, this needs to be combined with anonymity, which makes it
-look like forcing two magnets together on the wrong side.
+feel like forcing two magnets together from the wrong side.
 
 At the same time, the voting process is at the very heart of a democracy. Undermine the trust in the results of
 the voting process and you undermine the legitimacy of the government. Undermine the legitimacy of the government
