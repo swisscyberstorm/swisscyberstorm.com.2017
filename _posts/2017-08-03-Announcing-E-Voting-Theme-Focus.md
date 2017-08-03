@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Focus Theme E-Voting at Swiss Cyber Storm
+title: Focus Theme E-Voting
 header_image: blog.jpg
 ---
 
