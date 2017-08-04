@@ -114,7 +114,7 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Valentin Zahnd</p>
 <p class="scs-portrait-responsibility">Swiss Whitehatters Academy</p>
-<a class="scs-portrait-affiliation" href="http://www.zhaw.ch/en/zurich-university-of-applied-sciences.html">Scientific Assistant, Zurich University of Applied Sciences (ZHAW)</a>
+<a class="scs-portrait-affiliation" href="http://www.consecom.com">Senior Security Consultant, Consecom AG</a>
 </div>
 </div>
 </div>
