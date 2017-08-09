@@ -29,7 +29,7 @@
 - www: http://www.nttcomsecurity.ch
   image: /img/sponsors/NTTSecurity_Logo_cs6_EN.svg
   image-alt: SILVER Sponsor - NTT Security
-  profile: <strong>NTT Security</strong> ist das auf Informationssicherheit und Risikomanagement spezialisierte Unternehmen der NTT Group (Nippon Telegraph and Telephone Corporation), einem der grössten IKT- Unternehmen weltweit. Der Experte für IT-Security steht für ein ganzheitliches Sicherheitskonzept und die Bereitstellung ausfallsicherer Lösungen, die den Anforderungen der Kunden vor dem Hintergrund des digitalen Wandels gerecht werden. Mit zehn globalen SOCs, sieben Zentren für Forschung und Entwicklung sowie mehr als 1.500 Sicherheitsexperten unterstützt NTT Security Unternehmen auf sechs Kontinenten bei der Reaktion auf Hunderttausende Sicherheitsvorfälle pro Jahr. <br> NTT Security bietet Kunden die richtige Mischung aus Beratung, Managed Services und Technologien, indem lokales Know-how optimal mit globalen Ressourcen kombiniert wird. 
+  profile: <strong>NTT Security</strong>  is the specialized security company of NTT Group (Nippon Telegraph and Telephone Corporation), one of the largest ICT companies in the world. NTT Security delivers secure and resilient business solutions to enable clients’ digital transformation needs. NTT Security has 10 SOCs, seven R&D centers, over 1,500 security experts and handles hundreds of thousands of security incidents annually across six continents.<br> NTT Security in Switzerland ensures that resources are used effectively by delivering the right mix of consulting, managed services and technology – making best use of local resources and leveraging our global capabilities.
   max-width: 72.35%
   type: SILVER
 - www: https://www.oneconsult.com/
@@ -54,14 +54,7 @@
 - www: http://www.temet.ch
   image: /img/sponsors/temet_logo.svg
   image-alt: SILVER Sponsor - TEMET
-  profile: <strong>TEMET</strong> is a privately owned information security consulting
-    company located in Zurich, Switzerland. It provides vendor independent project
-    management and consulting services in the areas of Identity and Access Management
-    (IAM) and Information Security Management Systems (ISMS) solutions. Our consultants
-    have a background in engineering and project management, and they are experienced
-    practitioners. Temet currently employs 11 information security experts and has
-    a customer base of more than 40 financial institutions and public authorities
-    in Switzerland.
+  profile: <strong>TEMET AG</strong> is a privately owned information security consulting company located in Zurich, Switzerland. It provides vendor independent project management and consulting services in all areas of information security, such as Identity and Access Management (IAM), Cyber Security and Information Security Management Systems (ISMS) solutions. Furthermore we perform Risk Assessments as well as Audits according to the international standards (ISO/IEC 27000 Series, COBIT, NIST, PCI DSS). Our consultants have a background in engineering and project management, and they are experienced practitioners. Temet currently employs 12 information security experts and has more than 75 Swiss customers in the areas of financial institutions, public authorities, critical infrastructures, insurers and health services.
   max-width: 73.35%
   type: SILVER
 #- www: http://www.trendmicro.de
