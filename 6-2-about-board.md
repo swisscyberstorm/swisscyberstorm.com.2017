@@ -61,7 +61,7 @@ cyber security talents and to regularly carry out cyber security events for secu
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">Valentin Zahnd</p>
 <p class="scs-portrait-role">Swiss Whitehatters Academy </p>
-<a class="scs-portrait-affiliation" href="http://www.zhaw.ch/en/zurich-university-of-applied-sciences.html">Scientific Assistant, Zurich University of Applied Sciences (ZHAW)</a>
+<a class="scs-portrait-affiliation" href="http://www.consecom.com">Senior Security Consultant, Consecom AG</a>
 </div>
 </div>
 </div>
