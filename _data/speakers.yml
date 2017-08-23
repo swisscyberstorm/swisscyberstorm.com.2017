@@ -19,6 +19,15 @@
   profile: 
   abstract: "Not yet disclosed ..."
   image: /img/about/bernhard_tellenbach.jpg
+- speaker: "Dr. Christian Folini"
+  id: folini 
+  jobtitle: "Program Chair"
+  affiliation: "Swiss Cyber Storm"
+  publish: "true"
+  title: "Infos about the program and the rooms"
+  profile: 
+  abstract: "Not yet disclosed ..."
+  image: /img/about/christian_folini.png
 - speaker: "Troy Hunt"
   jobtitle: "Microsoft MVP"
   affiliation: "Pluralsight author"
@@ -444,7 +453,8 @@ with firearms or his recent flamethrower weekend. This man has war stories to la
 - speaker: Jos Wetzels 
   affiliation: "Researcher at the University of Twente"
   ptitle: "Industrial Control System / IoT Security"
-  profile: "The internet of things is all the rage and talks about the insecurity of smart
+  profile: "
+  The internet of things is all the rage and talks about the insecurity of smart
 devices and tech assistants are a constant companion at tech conferences these days. But
 it's also a bit boring in the sense that the whole audience knows IoT is
 insecure and the presentations are often déjà-vus of stupid mistakes on
@@ -488,7 +498,8 @@ Jos has been part of the European Union's PREEMPTIVE project for the
 protection of critical infrastructure. He has taught hands-on offensive
 security classes at the Dutch Kerckhoffs Institute and he occasionally shows up
 at Capture the Flag events. On top of that, I can confirm that Jos is good
-company at a conference and I hope you get the chance to talk to him.<br>"
+company at a conference and I hope you get the chance to talk to him.<br>
+"
   image: /img/speakers/Jos_Wetzels.png
   id: joswetzels
   www: ["http://samvartaka.github.io/about"]
@@ -496,14 +507,110 @@ company at a conference and I hope you get the chance to talk to him.<br>"
 - speaker: Tarah Wheeler 
   affiliation: "Author and Cybersecurity Czar"
   ptitle: "Fintech And Digital Transformation"
-  profile: "Not yet revealed ..."
+  profile: "
+  Tarah Wheeler can be really vocal when it comes to gender equality, workplace
+diversity and American politics in general. She is a thought leader and we
+could fill a conference with Tarah explaining her view on all these topics. But
+then you could also read her book about Women in Tech or ask her directly. At
+Swiss Cyber Storm she will speak as security expert and share her insights into
+the security challenges that Fintech poses to companies.
+
+Tarah radiates energy with every fiber and I see a real chance of her
+stunning everybody in the room. Will a restrained Swiss audience cope
+with her charisma? But then we know that security is not for the faint
+of heart and there are experiences that will only make you stronger. So
+let's try this out.
+
+<img src='/img/2017/Tarah_Wheeler.jpg'>
+
+<i>Tarah Wheeler, Author and Cybersecurity Czar (photo by Lou Daprile)</i><br>
+
+Fiat currencies around the world are beginning to transition to a
+purely digital form. The Swiss National Bank seems to resist the trend
+and decided to issue another 1000 CHF bill. Meanwhile the European
+counterpart removed the 500 Euro notes from the market and India is
+doing the same with the big rupee notes. With a purely digital fiat
+currency, governments expect to expose black market monetary
+stockpiles, increase the number of participants in the banking system,
+and improve fiscal efficiency. But there is also a juggernaut preparing
+to assault financial institutions: Crypto currencies. Money is flowing
+freely, with no capital controls, and the metadata surrounding
+financial transactions is more valuable than the money itself - yet
+often poorly secured. It does not really matter if Bitcoin is a fad or
+if Hyper ledger can live up to its promise: Blockchains are a disrupting
+technology and they will destroy established business models: It is
+very likely the Bretton Woods system as we know it will transform
+before our eyes in the next few years.
+
+<img src='/img/2017/Tarah_Wheeler_flamethrower.jpg'>
+
+<i>You generally do not want to stand in the way of Tarah</i><br>
+
+This all poses a huge security risk as the new Fintech businesses can no
+longer be secured in the way a traditional bank was. Switzerland
+is competing with London to be the Blockchain center of Europe and
+the canton of Zug is being dubbed Crypto Valley. Yet how do all these
+startups solve their inherent security problems?
+
+In 2016, Mark Barwinski talked about his research into a state
+sponsored spying operation at Swiss Cyber Storm. That operation,
+meanwhile called Operation Cloud Hopper, is still not fully discovered,
+but its basic characteristics a very clear: It is a state sponsored
+attack on managed service companies and using their administration
+machines to move laterally from one high profile customer to the next.
+
+The digitalization and outsourcing of digital processes in the
+financial world transforms the IT companies handling these assets and
+processes into new forms of banks themselves. Not because of the
+business they do, but because of the information they handle. If these
+companies want to protect the assets in their custody they will need to
+adopt to this transformation and embrace new security practices and
+architectures.
+  "
   image: /img/speakers/Tarah_Wheeler_thumb.jpg
   id: tarahwheeler
   link: "/2017/05/30/Introducing_Tarah_Wheeler.html"
+  www: ["https://en.wikipedia.org/wiki/Tarah_Wheeler"]
 - speaker: Tanya Janca 
   affiliation: "Security Officer at Canadian Government"
   ptitle: "Pushing Left Like A Boss"
-  profile: "Not yet revealed ..."
+  profile: "
+  Imagine me attending the OWASP Application Security Europe conference
+two weeks ago; the Swiss Cyber Storm program was almost full, but I
+really wanted to have another addition to the management track. Security
+DevOps sounded ideal and AppSecEU was running a two day track with
+SecDevOps and DevSecOps. Although I can not really tell the two apart, I am
+quite sure that I did not hear a DevOpsSec talk. So there I was hearing talk
+after talk and getting more and more depressed. It is hard to select
+talks from a huge pile of submissions and assembling four tracks over
+two days must be harder still. But truth be told, the talks did not
+convince me. They all resembled each other (DevSecOps? SecDevOps?) and I
+got the idea they were all somewhat inconsistent at the same time.
+
+<img src='/img/2017/Tanya_Janca.jpeg'>
+
+<i>Tanya Janca (photo by Charles Earl)</i><br>
+
+Tanya Janca was the last chance this track was getting…  And it was a
+revelation: practical advice on how to integrate all sorts of best practices
+into your development and operation lifecyle. Her goal was to tell the audience
+how you can actually make sure you catch errors very early, near the left, in
+the Software Development Lifecycle (SLDC). And she hit it home with flying
+colours: Engaging, concise and a trove of information. In short: perfect
+Cyber Storm material.
+
+<img src='/img/2017/Tanya_Janca_Zero_Day_Reapers.png'>
+
+<i>Tanya Janca performing with the Zero Day Reapers (photo likely by Christian Villemaire)</i>
+<br>
+Tanya Janca is the Co-Chapter Lead of OWASP Ottawa in Canada. She brings
+20 years of experience as a software developer and Security
+Analyst. Her work as the IT Security Coordinator (CISO equivalent) for the 42nd General Election in
+Canada earned her a nomination for the Government of Canada's CIO Award
+for 'Excellent in Security' in 2016. Tanya Janca is also an avid gardener
+and the front women of the electro-punk band 'Zero Day Reapers', whose
+song 'Heartbleed' hit a tune with me. 
+  "
   image: /img/speakers/Tanya_Janca_thumb.jpg
   id: tanyajanca
   link: "/2017/05/23/Introducing_Tany_Janca.html"
@@ -511,6 +618,62 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   jobtitle: "Head of Security Research"
   affiliation: "Cisco Umbrella (former OpenDNS)"
   ptitle: "Behaviors and Patterns of Bulletproof Hosters"
+  profile: "
+  When we think of Bulletproof Hosting, we usually think of shady firms
+in the style of the Russian Business Network that dodge all inquiries and
+take-down notices from governments and potentially operating in corrupt
+legislations where such behaviour is accepted. Nowadays, this
+traditional centralized Bulletproof Hosting no longer works, although it
+did not disappear. 
+It has in fact morphed into a more modern flexible and elusive style
+where hosters diversify their footprints across various spaces and
+jurisdictions 
+and act as dynamic business partners for criminals that want to host
+illegal contents online. Copyright infringement? Not all country
+prosecute it. Illegal Porn? Better know the jurisdiction. Stolen
+data? We have servers in locations were your government won't be able
+to reach them.
+
+<img src='/img/2017/Dhia_Mahjoub.jpg'>
+
+<i>Dhia Mahjoub, Head of Security Research at Cisco Umbrella</i>
+
+As Head of Security Research at Cisco Umbrella (formerly OpenDNS), 
+Dr. Dhia Mahjoub has excellent insight into the various moves of 
+these shady web citizens. The key is of course making good use of the 
+data and it takes a data scientist like Dhia to discover usage 
+patterns in Autonomous Systems (AS) that allow to predict which 
+IP space or domain names will be used for cybercrime before 
+it actually happens.
+
+Dhia Mahjoub leads the core research team focused on large scale threat
+detection, threat intelligence and advises on Research and Development
+strategy. Dhia has a background in networks and security and holds a 
+PhD in graph algorithms applied on Wireless Sensor Networks problems.
+
+Graphics and visualisation is in fact a key to his work. Dhia enjoys drawing
+in his free time and is a frequent visitor to art museums during his frequent
+travels. A vivid reader, he is interested in history and exploring new cities.
+Dhia told me that he sees his research as a fusion of science, engineering
+and art. It's the combination of these disciplines that help to solve
+existing and novel problems in a creative and unconventional ways.
+This is mirrored in his research and development team at Cisco Umbrella and
+reminded me - once more - that IT security is opening up to new ideas.
+
+<img src='/img/2017/Dhia_Mahjoub_2.jpg'>
+
+<i>Dhia Mahjoub with Thibault Reuille at Virus Bulletin 2014</i><br>
+
+When I met Dhia at Usenix Enigma in January 2017, I immediately realized
+he is a very skilled speaker. Looking up his bio underlined that impression
+and revealed dozens of presentations at the biggest security conferences
+all over the world: Black Hat, DefCon, RSA, ShmooCon, InfoSec Europe, BotConf,
+etc. But then he continued and explained to me how he thinks that 
+there is a bullet proof hoster operating from Switzerland and I was sold:
+Here is a perfect Swiss Cyber Storm speaker! Even more so as Dhia
+shares my belief that conferences are an inspiring place to learn
+about the experiences of peers of various backgrounds.
+  "
   image: /img/speakers/Dhia_Mahjoub.jpg
   link: "/2017/07/11/Introducing_Dhia_Mahjoub.html"
   social: 
@@ -522,6 +685,70 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   jobtitle: "Professor"
   affiliation: "Florida Institute for Cyber Security"
   ptitle: "Susceptibility of C-Level Management to Spear Phishing"
+  profile: "
+  There is a shift in the world of IT security. Back in the 1990ties,
+people thought security was a purely technical if not mathematical
+problem. In one of his more famous quotes, Bruce Schneier stated 
+that having written 'Applied Cryptography' he really thought,
+that security was solved since he had just told the world how to
+apply encryption.
+
+As it turns out, people started to apply encryption but the overall
+security did not improve and Bruce Schneier realized there were
+more topics to cover and more books to write if he wanted to make
+the world a safer place.
+
+So, the technical field of IT security has opened itself to new
+influences and new ideas. I see this development where ever
+I look. But it struck me again, when I looked over the work of 
+Professor Daniela Oliveira from the University of Florida.
+
+<img src='/img/2017/Daniela_Oliveira.jpeg'>
+
+<i>Daniela Oliveira, Professor at the University of Florida</i><br>
+
+Daniela started out with research on performance in distributed
+video on demand systems. She then shifted into the security domain
+and worked on malware detection in virtual machines, kernel
+extensions and other hard technical security topics.
+
+That was a period when <a href='http://www.daniela.ece.ufl.edu/Knuth.jpg'>Donald Knuth came to join her class</a>
+ and participate in a discussion on buffer overflows.
+Daniela received an impressive collection of grants and awards that could
+fill a blog post on its own.
+
+But then, slowly, she started to bring heuristics, behaviour
+models and psychology into the mix and her research turned to
+applied security and human interactions with computers.
+
+I had the pleasure to attend a presentation she gave about
+her research. The talk centered around the susceptibility of 
+older adults to spear-phishing emails. Daniela Oliveira was able
+to show	that elderly populations are more likely to fall for certain
+types of phishing emails, especially when they hit the right tune 
+and align with the life domains of the victims. 
+
+<img src='/img/2017/Daniela_Oliveira_students.jpeg'>
+
+<i>Daniela Oliveira with some of her students</i><br>
+
+We entered a conversation and I asked if she thought her research
+would also apply to the susceptibility of C-level management to
+spear-phishing mails as this would help to explain some of the
+biggest financial frauds that happened in recent years in
+Switzerland and abroad.
+
+Daniela confirmed that impression and we are now talking about
+the details of her presentation for our Swiss Cyber Storm
+conference.
+
+Daniela Oliveira is a professor at the Florida Institute for Cyber
+Security (FICS). She has a family and owns a dog. She tries to shield
+her Brazilian mother from falling for online scams and directs a
+diversity program at the University of Florida. Professor Daniela Oliveira
+is a skyrocketing career scientist and we are very happy to welcome
+here in Lucerne.
+  "
   image: /img/speakers/Daniela_Oliveira_thumb.jpg
   link: "/2017/06/29/Introducing_Daniela_Oliveira.html"
   social: 
@@ -532,6 +759,75 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   jobtitle: "Political Risk Analyst"
   affiliation: "SwissRe"
   ptitle: "Attribution"
+  profile: "
+  There have been a few statements by Swiss politicians lately, trying to funnel
+<a href='https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20173507'>more</a> 
+<a href='https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20173199'>money</a> 
+into the army to grow real cyber units with extensive attack capabilities.
+Initiatives as this have been around for a while and usually I do not bother,
+but the statements are growing more systematic in recent weeks. On top of it,
+they coincidence with the ongoing definition of the 2<sup>nd</sup> edition of the National
+Cyber Strategy ('Nationale Strategie zum Schutz der Schweiz vor Cyber-Risiken')
+and this makes the discussion a bit unsettling.
+
+There is a case though. The NCS aims to define a policy for the
+non-military domain and the non-crisis situations. So what is the role
+of the military in all of this and what do you do when there is a
+national crisis? I see room for discussion and the military seems overly
+limited in its cyber defense resources and capabilities. But I doubt the
+idea of so called 'offensive defense' in cyberspace and I certainly don't
+buy into
+the plan to train militia soldiers in four months to become national
+'cyber warriors'. There are many cases that can be brought up against this
+idea, and I am quite sure that attribution is often one of them.
+
+Difficulties around investigating cyber attacks and, eventually,
+identifying the instigators mean that the process is far from being
+straight forward. Naturally, that means that we need to take into
+consideration these different difficulties around attribution when looking
+at retaliation. Combining a lack of reliable information with extensive
+attack capabilities in the hands of under-trained amateurs would certainly
+create a dangerous mix. It would be like putting soldiers with a rifle into
+the fog and asking them to return the fire hoping to hit the attacker.
+
+<img src='/img/2017/Clement_Guitton.jpg'>
+
+<i>Cl&eacute;ment Guitton, Political Risk Analyst, SwissRe</i>
+
+Attribution is notoriously tough. Maybe that's why you've read little
+constructive
+essays about the topic. Enters Dr. Cl&eacute;ment Guitton. Cl&eacute;ment Guitton
+received his PhD from the Department of War Studies at King's College,
+London, and worked as an analyst with the Department of Defense in
+Switzerland.  In June, he joined SwissRe as a political risk analyst. A
+few weeks before, he published 'Inside the Enemy's Computer. Identifying
+Cyber Attackers', a book focusing on attribution that
+received much acclaim.
+
+The acclaim is entirely justified since Cl&eacute;ment Guitton really
+sat down, put things into perspective and added the necessary and
+unavoidable political dimension to
+attribution. He provides a dependable framework to navigate
+attribution cases and come to reliable conclusions.
+
+<img src='/img/2017/Clement_Guitton_2.jpg'>
+
+<i>Cl&eacute;ment Guitton's book about the attribution problem</i>
+
+This means that Cl&eacute;ment Guitton's much needed input has brought light into a
+dark area of our profession. How such conclusions translate for
+Switzerland, a small country with little leverage, especially when compared
+with the usual countries at the center of attention (think of the US,
+Russia, China, Iran), makes up for an exciting discussion. 
+For instance, Switzerland has made veiled allegations that it thinks Russia
+stood behind several attacks on our country. But realistically, what can
+the country do next? How can Switzerland deter or even retaliate? What
+would a strategy look like? Such a strategy would probably have to
+encompass non-cyber attack related measures, ranging from the diplomatic
+(and ineffective) slap on the wrist to financial sanctions that
+have a high potential to spiral out of control rapidly. Outside of
+being not in our own interest.
+  "
   image: /img/speakers/Clement_Guitton_thumb.jpg
   link: "/2017/07/18/Introducing_Clement_Guitton.html"
   social: 
@@ -542,11 +838,86 @@ company at a conference and I hope you get the chance to talk to him.<br>"
   jobtitle: "CISO"
   affiliation: "CERN"
   ptitle: "IoT and Corporate IT Security"
+  profile: "
+  There is no business case for securing IoT hardware. There is no
+legislation and no incentive to lock it down. But there is a lot of
+legal knowledge how a manufacturer can sneak out of the
+responsibility via extensive EULAs. Our industry has been having great
+fun dissecting electronic scales, smart toothbrushes and even IoT egg
+containers (here at SCS!). This was all a bit theoretical since nobody
+sane in his mind would buy an electronic egg container and even if,
+electronic egg containers are hardly mission critical.
+
+But it was only a question of time before these gadgets would morph
+into something useful and until they would hit our corporate networks.
+This is about to happen right now and so it's time to look at this in
+more detail.
+
+When thinking about IoT for our conference, we wanted to have a speaker
+who has daily exposure to these problems. We were looking for somebody
+exploring the frontiers of securing IoT devices and we are very happy
+we have found a skilled presenter at CERN in Switzerland who is facing
+these questions every day: Dr. Stefan L&uuml;ders.
+
+<img src='/img/2017/Stefan_Lueders.jpg'>
+
+<i>Stefan L&uuml;ders, CISO at CERN</i><br>
+
+Stefan L&uuml;ders is a physicist turned CISO who took over the job to
+secure the complete infrastructure and operation at CERN from the
+desktops, the WiFi access points, the interconnection links with other
+research organisations, to the dozen different accelerators & experiments with the LHC
+being only one of them. All these accelerators are supported by dozens
+of different infrastructure systems, all operated and monitored with
+the help of industrial control systems. But these ICS started to grow
+into fully operated computers: Internet of Things devices. And while
+there are some established procedures on how to secure ICS (segregation
+into small compartments is probably best known), these approaches no
+longer work. The devices are much more powerful and people want them to
+be interconnected. So we need new approaches to operate them in a
+secure manner.
+
+<img src='/img/2017/Stefan_Lueders_2.jpg'>
+
+<i>Stefan L&uuml;ders at Vox Days 2017</i><br>
+
+Stefan L&uuml;ders is a renown speaker and long time CISO at CERN. Mirroring
+the multinational setup of CERN, he is a German living in France and
+working in Switzerland. Stefan is a very good Squash player leading the
+CERN leaderboard but he is also a big collector of LEGO (and this
+makes me much more jealous than his Squash skills). He has a complete,
+all time LEGO Fire Brigade collection and an extensive set of railways
+including the famous 1980ties models. I remember my cousin and me
+setting up the rails in a ring and having them collide at full speed...
+
+  "
   image: /img/speakers/Stefan_Lueders_thumb.jpg
   link: "/2017/07/25/Introducing_Stefan_Lueders.html"
   social: 
   id: stefanlueders
-- speaker: Secret 
+- speaker: Aldo Frick
+  jobtitle: "Board Member, Head, IT Service and Delivery"
+  affiliation: "Telecom Liechtenstein AG"
+  profile: "Aldo Frick is since 2011 board member of the FL1."
+  ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
+  image: /img/speakers/aldo_frick256.jpg 
+  social: 
+    - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aldo-frick-27608178"}
+  www: ["https://fl1.ch/de/geschaeftskunden/ueber-fl1/gl-und-vr"]
+  id: aldofrick
+- speaker: Harald Reisinger
+  jobtitle: "Managing Director"
+  affiliation: "RadarServices Smart IT-Security GmbH "
+  ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
+  image: /img/speakers/harald_reisinger256.jpg 
+  profile: "Harald Reisinger is Managing Director of RadarServices, the European market leader for pro-active IT security monitoring and risk detection. He has over 20 years of experience in corporate management in the IT sector. He was the co-founder of Greentube Ltd. (later successfully sold to Novomatic). In 2001, Harald Reisinger founded the base-camp GmbH and in 2011 he co-founded RadarServices. Harald Reisinger studied international business at the Vienna University of Economics and Business and the University of Nebraska at Omaha."
+  social: 
+    - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
+    - {name: "linkedin", link: "https://at.linkedin.com/in/harald-reisinger-2b17b469"}
+  id: haraldreisinger
+  www: ["https://www.radarservices.com/de/download/harald-reisinger/"]
+- speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
   affiliation: "Not yet revealed"

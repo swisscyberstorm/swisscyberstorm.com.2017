@@ -9,7 +9,7 @@
   title: "Welcome"
   place: "Auditorium"
   speakers: [bernhard]
-  description: "Welcome note of the presedent of the SCS"
+  description: "Welcome note of the president of the SCS"
 -
   id: 903
   title: "Coffee Break"
@@ -23,16 +23,22 @@
   service: service
 -
   id: 905
-  title: "Apéro Riche"
+  title: "Networking Lounge"
   place: "Lucerne Terrace"
   service: service
-  description: "Networking Food & Drinks"
+  description: "Networking, Food & Drinks; Raffle"
 -
   id: 906
   title: "Coffee Break"
   place: "Hall"
   service: service
   description: "The best time to talk with speakers and attendees"
+-
+  id: 907
+  title: "Welcome - Infos about the program and the rooms"
+  place: "Auditorium"
+  speakers: [bernhard, folini]
+  description: "Welcome - Infos about the program and the rooms"
 -
   id: 101
   title: "Keynote 1"
@@ -43,48 +49,72 @@
   link: 
 -
   id: 102
-  title: "Pysical Access Control"
+  title: "Transforming a Cyber Defense Center into a Value Proposition"
   place: Auditorium
   subtype: presentation
-  speakers: [deviantollam]
-  description: "Not yet revealed."
+  speakers: [aldofrick,haraldreisinger]
+  description: "Keynote 2 - Aldo Frick / Harald Reisinger Transforming a Cyber Defense Center into a Value Proposition"
   link: 
 -
   id: 103
-  title: "Keynote 3"
+  title: "Attribution"
   place: Auditorium
   subtype: presentation
-  speakers: [secret]
-  description: "Not yet revealed."
+  speakers: [clementguitton]
+  description: "Keynote 3 - Clément Guitton, Political Analyst SwissRe - Attribution"
   link: 
 -
   id: 104
-  title: "Keynote 4"
+  title: "E-Voting Focus - Introduction to E-Voting with a Focus on Switzerland"
   place: Auditorium
   subtype: presentation
   speakers: [secret]
   link:
 -
   id: 105
-  title: "Sponsoring Talk"
+  title: "E-Voting Focus - The E-Voting Offering of Swiss Post"
   place: "Auditorium"
   subtype: presentation
   speakers: [secret]
   link:
 -
   id: 106
-  title: "Sponsoring Talk"
-  place: "Terrassensaal"
+  title: "E-Voting Focus - The E-Voting Offering of the State of Geneva"
+  place: "Auditorium"
   subtype: presentation
   speakers: [secret]
   link:
 -
   id: 201
-  title: "Mgmt Talk"
+  title: "Pysical Access Control"
   place: "Auditorium"
   subtype: presentation
+  speakers: [deviantollam]
+  description: "Not yet revealed."
+  link: 
+-
+  id: 202
+  title: "Behaviours and Patterns of Bullet Proof Hosters"
+  place: "Auditorium"
+  subtype: presentation
+  speakers: [dhiamahjoub]
+  description: "Dhia Mahjoub, Head of Security  CISCO Umbrella - Behaviours and Patterns of Bullet Proof Hosters"
+  link: 
+-
+  id: 203
+  title: "Industrial Control System / IoT Security"
+  place: "Auditorium"
+  subtype: presentation
+  speakers: [joswetzels]
+  description: "TECH Talk Jos Wetzels, er at Twente University - Industrial Control System / IoT Security"
+  link: 
+-
+  id: 301
+  title: "Mgmt Talk"
+  place: "Terrassensaal"
+  subtype: presentation
   speakers: [secret]
-  description: "The Cyber Kill Chain can be a useful tool in a corporate environment. We will clarify what it’s good for and what the limitations are. Looking at detecting intruders, we will reveal current challenges in Security Monitoring."
+  description: "Not yet revealed."
   link: 
 -
   id: 206
@@ -103,48 +133,36 @@ from the adventurous life of a whitehat hacker living in Khartoum,
 Sudan."
   link: 
 -
-  id: 202
+  id: 402
   title: "State of the Internet"
   subtype: presentation
   speakers: [secret]
   description: "Industrial control systems are more connected than ever, medical devices are joining the Internet slowly and bad guys have figured out that millions of insecure IoT devices can be used to launch attacks bigger than anything we've seen before. The talk will explore the current state of the Internet in Switzerland and abroad."
   link: 
 -
-  id: 203
-  title: "Turbo Talks"
-  place: "Auditorium"
-  subtype: presentation
-  speakers: [secret]
-  link: 
--
-  id: 204
+  id: 310
   title: "Turbo Talks"
   place: "Terrassensaal"
   subtype: presentation
   speakers: [secret]
   link: 
 -
-  id: 205
-  title: "*** SECRET TOPIC *** "
+  id: 210
+  title: "Turbo Talks"
+  place: "Auditorium"
   subtype: presentation
-  speakers: [helme]
+  speakers: [secret]
   link: 
 -
-  id: 207
-  title: "Darknet Investigations"
-  subtype: presentation
-  description: "What is the sociological background of commercial cybercrime?
-Which players are involved in the darknet? How do they organise
-themselves? How are they finalising the transactions and how
-do they exchange money and goods? (Unless they do not trade goods, 
-but illegal services like assassinations of course.)
-Scip is constantly monitoring and analysing the darknet; assessing
-the black markets for drugs, weapons, data and crime-on-demand.
-This talk is a report about this work."
-  speakers: [ruef]
+  id: 111
+  title: "Keynote 2"
+  place: Auditorium
+  subtype: keynote
+  speakers: [secret]
+  description: "Not yet revealed."
   link: 
 -
-  id: 301
+  id: 401
   title: "Industrial Control Systems - IoT Security"
   place: "Terrassensaal"
   subtype: presentation
@@ -162,22 +180,54 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   speakers: [thakur]
   link: 
 -
-  id: 302
+  id: 209
   title: "Tech Talk"
-  place: "Terrassensaal"
+  place: "Auditorium"
   subtype: presentation
   description: "Not yet revealed."
   speakers: [secret]
   link: 
 -
+  id: 302
+  title: "IoT and Corporate IT Security"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Stefan Lüders, CISO CERN - IoT and Corporate IT Security"
+  speakers: [stefanlueders]
+  link: 
+-
   id: 303
+  title: "Fintech and Digital Transformation"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Tarah Wheeler, Author and Cyber Security Czar - Fintech and Digital Transformation"
+  speakers: [tarahwheeler]
+  link: 
+-
+  id: 304
+  title: "Pushing Left like a Boss"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Tanya Janca, Security Officer at Canadian Government- Pushing Left like a Boss"
+  speakers: [tanyajanca]
+  link: 
+-
+  id: 305
+  title: "Susceptibility of C-Level Management to Spear Phishing"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Prof. Daniela Oliveira, Professor at Florida Institute for Cyber Security - Susceptibility of C-Level Management to Spear Phishing"
+  speakers: [danielaoliveira]
+  link: 
+-
+  id: 503
   title: "Turbo Talks"
   place: "Terrassensaal"
   subtype: presentation
   speakers: [secret]
   link:
 -
-  id: 305
+  id: 405
   title: "Benefits of participating in NATO Locked Shield Exercises - Management Perspective"
   subtype: presentation
   description: "Military Information and Communication Systems are increasingly interconnected and use the similar when not the same components of civilian systems. Cyber-Incidents on military systems are thus technically very similar. Decision processes and impact of incidents are on the other side quite different. Examples of international trainings and exercises on the technical and operative level will be presented."

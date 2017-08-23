@@ -44,7 +44,7 @@ secure manner.
 
 <img src="/img/2017/Stefan_Lueders_2.jpg">
 
-<i>STefan L&uuml;ders at Vox Days 2017</i>
+<i>Stefan L&uuml;ders at Vox Days 2017</i>
 
 Stefan L&uuml;ders is a renown speaker and long time CISO at CERN. Mirroring
 the multinational setup of CERN, he is a German living in France and
