@@ -1,22 +1,8 @@
-# 2016-01-04 font-awesome local hinzugefügt (customer not trackable ...)
-# 2016-01-04 navigation on top
-# Title in Banner
-# shift challenge to the start
-# add bootstrap carousel to the start page
-# footer changed   
-# button added
-# animation added ..
-# flying top navigation (always present)
-# sticky header scheduler
-# schema http://schema.org/subEvent
-# animated icon fade in
-# animated start text 
-> apple touch icon!!!
-# swipe support for carousel
-# carousel full image ...
-> scroll navigation mobile scroll navigation mobile
-# modal popups 
-> compress
-# posts
-> partner plates
-# follow us in footer
+### SCS Website 2017
+
+The current version of the web site is published under [https://www.swisscyberstorm.com].
+
+The Swiss Cyber Storm is a non profit organization hosting the international [Swiss Cyber Storm Conference](https://www.swisscyberstorm.com/confernece) and running the [Swiss part](https://www.swisscyberstorm.com/challenges) of the [European Cyber Security Challenges](http://www.europeancybersecuritychallenge.eu) with a focus of identifying and supporting young cyber talents.
+
+
+
