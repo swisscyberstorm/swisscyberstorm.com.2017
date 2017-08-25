@@ -9,4 +9,14 @@
         link_de: '/res/press/SCS_MM_Start_Qualifikation_2017_DE.pdf',
         link_fr: '/res/press/SCS_MM_Start_Qualifikation_2017_FR.pdf',
       }
+    - {
+    	date: '2017-08-23',
+        issuer: 'Swiss Cyber Storm',
+    	title: 'End of final qualifying 2017',
+    	link: '/res/press/SCS_MM_Ende_Qualifikation_2017_DE.pdf', 
+        type: 'pdf',
+        link_de: '/res/press/SCS_MM_Ende_Qualifikation_2017_DE.pdf',
+        link_fr: '/res/press/SCS_MM_Ende_Qualifikation_2017_FR.pdf',
+      }
+
 
