@@ -2,7 +2,8 @@
 layout: page-twocolumns
 color: #000000
 title: Challenges
-permalink: /challenges/
+permalink: /challenges/overview/
+parent: Challenges
 draft: true
 header_image: eucsc.png
 #buttons:
@@ -15,35 +16,26 @@ header_image: eucsc.png
 
 
 <article>
-	
-	<h2>Swiss Cyber Storm Challenge - Finals 2017</h2>
-	<p>
-	From September 1<sup>st</sup> until September 3<sup>rd</sup> 2017 the best swiss cyber talents met in Sursee to build the national team for the ECSC final in Málaga. 
-	
-	After days full of riddles , challenges, the 10 participates representing Switzerland at the European Championship were selected.
-	
-	Congratulations and all the best for the European Challenges in Málaga! 
-	</p>
-	<img src="/img/gallerySCSChallenges2017/img9.jpg" width="100%">
-</article>
-	
-	
-<article>
-	<h2 id="header_register">Schedule SCS Challenges 2017</h2>	
-    <strong>Timeline:</strong><br>
-		<div id="timeline">&nbsp;</div>
-	<a href="/res/posts/Swiss-Cyber-Storm-Challenge-2017.pdf" target="_blank">
-	<img src="/img/challenges/Flyer_challenges_2017.png" width="100%">
-	</a>
+<h2>What is this all about?</h2>
+	Switzerland is seeking for cyber talents. It is very important for Switzerland and other European countries to find and support those talents. That's what all the European Cyber Security Challenge is about. It is a great opportunity to digg into the technical details of cyber security and meet other people with similar interests. Furthermore, you have the chance to exchange ideas with people from Spain, Romania, UK, Germany or Austria. More countries are joining this initiative. Swiss Cyber Storm is offering a platform for finding Swiss cyber talents aged 14 to 25 years and by making the cyber security topic more popular among them. Furthermore, we offer successful participants to become part of our	Swiss Whitehatters Academy where they can participate in networking and continuing education events.
 </article>
 
+
+<article>
+	<h2>SCS Challenges 2017 - Official Trailer </h2>
+    <div class="theme-video embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/45APBIEZ4b4"></iframe>
+    </div>
+</article>
+
+<!---
 <article>
 	<h2>Bob wants to become a hacker</h2>
     <div class="theme-video embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XIckkbVaxbQ"></iframe>
     </div>
 </article>
-
+-->
 
 <article>
 	<h2>Teaser Swiss Cyber Storm Challenge 2017</h2>
@@ -52,12 +44,14 @@ header_image: eucsc.png
     </div>
 </article>
 
+<!--
 <article>
 	<h2>Video  European Cyber Security Challenge 2016 CTF Infrastructure</h2>
     <div class="theme-video embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8M22pzybVbo"></iframe>
     </div>
 </article>
+-->
 
 <article>
 	<h2>Video from Final 2015 in Switzerland</h2>
@@ -101,39 +95,9 @@ header_image: eucsc.png
 	</ol>
 </article>
 -->
-<article>
-<h2>What is this all about?</h2>
-	Switzerland is seeking for cyber talents. It is very important for Switzerland and other European countries to find and support those talents. That's what all the European Cyber Security Challenge is about. It is a great opportunity to digg into the technical details of cyber security and meet other people with similar interests. Furthermore, you have the chance to exchange ideas with people from Spain, Romania, UK, Germany or Austria. More countries are joining this initiative. Swiss Cyber Storm is offering a platform for finding Swiss cyber talents aged 14 to 25 years and by making the cyber security topic more popular among them. Furthermore, we offer successful participants to become part of our	Swiss Whitehatters Academy where they can participate in networking and continuing education events.
-</article>
 
 
 
-<article>
-<h2>Previous Swiss Cyber Storm's</h2>
-Check out the following links to access information, pictures and more from the challenges of the last years.
-<ul class="fa-ul">
-<li>
-<i class="fa-li fa fa-check-square"></i>
-<a target="_blank" href="http://2016.swisscyberstorm.com/">Swiss Cyber Storm 2016</a>
-</li>
-<li>
-<i class="fa-li fa fa-check-square"></i>
-<a target="_blank" href="http://2015.swisscyberstorm.com/">Swiss Cyber Storm 2015</a>
-</li>
-<li>
-<i class="fa-li fa fa-check-square"></i>
-<a target="_blank" href="http://2014.swisscyberstorm.com/">Swiss Cyber Storm 2014</a>
-</li>
-<li>
-<i class="fa-li fa fa-check-square"></i>
-<a target="_blank" href="http://2013.swisscyberstorm.com/">Swiss Cyber Storm 2013</a>
-</li>
-</ul>
-	<div style="max-width: 500px">
-	<img src="/img/swiss-team-2015.jpg">
-	<i>This is the Swiss team 2015 - They got the bronce medal!</i>
-	</div>
-</article>
 
 
 <script type="text/javascript">
