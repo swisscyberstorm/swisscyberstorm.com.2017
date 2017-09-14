@@ -220,6 +220,14 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   speakers: [danielaoliveira]
   link: 
 -
+  id: 309
+  title: "Usable Security from a Neuroscience Perspective"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Prof. Anthony Vance, Associate Professor at Brigham Young University - Usable Security from a Neuroscience Perspective"
+  speakers: [anthonyvance]
+  link: 
+-
   id: 503
   title: "Turbo Talks"
   place: "Terrassensaal"

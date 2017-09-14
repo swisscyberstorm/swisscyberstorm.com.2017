@@ -895,6 +895,16 @@ setting up the rails in a ring and having them collide at full speed...
   link: "/2017/07/25/Introducing_Stefan_Lueders.html"
   social: 
   id: stefanlueders
+- speaker: Anthony Vance
+  jobtitle: "Associate Professor"
+  affiliation: "Brigham Young University"
+  ptitle: "Usable Security from a Neuroscience Perspective"
+  image: /img/speakers/Anthony_Vance_thumb.jpg
+  social: 
+    - {name: "linkedin", link: {https://www.linkedin.com/in/anthony-vance-916b236/"}
+    - {name: "twitter", link: "https://twitter.com/anthonyvance"}
+  www: ["https://anthonyvance.com/"]
+  id: anthonyvance
 - speaker: Aldo Frick
   jobtitle: "Board Member, Head, IT Service and Delivery"
   affiliation: "Telecom Liechtenstein AG"
