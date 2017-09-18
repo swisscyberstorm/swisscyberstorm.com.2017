@@ -924,3 +924,14 @@ setting up the rails in a ring and having them collide at full speed...
   profile: "Not yet revealed ..."
   image: /img/speakers/shadow.jpg
   id: secret
+- speaker: Thomas Hofer
+  jobtitle: Technical Expert
+  affiliation: "State of Geneva"
+  title: CHVote - The E-Voting Offering of Geneva
+  image: /img/speakers/thomas_hofer.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/thhofer"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thofer"}
+  max-width: 78%
+  talkid: hofer
+  id: hofer
