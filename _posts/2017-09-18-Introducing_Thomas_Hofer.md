@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Swiss Cyber Storm 2017 Speaker Stefan L&uuml;ders
+title: Introducing Swiss Cyber Storm 2017 Speaker Thomas Hofer
 header_image: blog.jpg
 ---
 
