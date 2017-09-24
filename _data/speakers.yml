@@ -1013,6 +1013,16 @@ happening in Lucerne."
   max-width: 78%
   talkid: hofer
   id: hofer
+- speaker: Raphael Reischuk
+  jobtitle: "Senior Information Security Researcher"
+  affiliation: "Zühlke Group"
+  ptitle: "The SCION Project"
+  image: /img/speakers/raphael_reischuk.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/reischuk/"}
+    - {name: "twitter", link: "https://twitter.com/raphaelreischuk"}
+  www: ["https://www.reischuk.ch/web/"]
+  id: raphaelreischuk
 - speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
