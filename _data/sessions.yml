@@ -181,10 +181,18 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   link: 
 -
   id: 209
+  title: "The SCION Project"
+  place: "Auditorium"
+  subtype: presentation
+  description: "Raphael Reischuk Senior Information Security Researcher of the Zühlke Group presents 'The SCION Project'"
+  speakers: [raphaelreischuk]
+  link: 
+-
+  id: 211
   title: "Tech Talk"
   place: "Auditorium"
   subtype: presentation
-  description: "Not yet revealed."
+  description: "Not yet announced"
   speakers: [secret]
   link: 
 -
