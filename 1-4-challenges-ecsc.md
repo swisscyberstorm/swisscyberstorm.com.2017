@@ -25,17 +25,23 @@ See web site of the <a href="https://www.europeancybersecuritychallenge.eu/index
 	<h2 id="header_register">Swiss Team 2017</h2>	
 <p>The  10 participants representing Switzerland at the European Championship.
 <img src="/img/gallerySCSChallenges2017/img9.JPG">
+
 <div class="row">
-<div class="col-xs-9">Anthony Schneiter</div><div class="col-xs-3">BL</div>
-<div class="col-xs-9">Loris Reiff</div><div class="col-xs-3">ZH</div>
+<div class="col-xs-12 col-sm-6"><i>Front row from left to right:</i>
 <div class="col-xs-9">Lukas Baege</div><div class="col-xs-3">ZH</div>
-<div class="col-xs-9">Marcel Mäder</div><div class="col-xs-3">ZH</div>
-<div class="col-xs-9">Michael Gottburg</div><div class="col-xs-3">NE</div>
-<div class="col-xs-9">Miro Haller</div><div class="col-xs-3">AG</div>
-<div class="col-xs-9">Moritz Schneider</div><div class="col-xs-3">AG</div>
-<div class="col-xs-9">Raphael Husistein</div><div class="col-xs-3">NW</div>
 <div class="col-xs-9">Timo Kübler</div><div class="col-xs-3">TG</div>
+<div class="col-xs-9">Anthony Schneiter</div><div class="col-xs-3">BL</div>
+<div class="col-xs-9">Michael Gottburg</div><div class="col-xs-3">NE</div>
+<div class="col-xs-9">Loris Reiff</div><div class="col-xs-3">ZH</div>
+</div>
+
+<div class="col-xs-12 col-sm-6"><i>Back row from left to right:</i>
+<div class="col-xs-9">Miro Haller</div><div class="col-xs-3">AG</div>
+<div class="col-xs-9">Marcel Mäder</div><div class="col-xs-3">ZH</div>
 <div class="col-xs-9">Toni Tanner</div><div class="col-xs-3">AG</div>
+<div class="col-xs-9">Raphael Husistein</div><div class="col-xs-3">NW</div>
+<div class="col-xs-9">Moritz Schneider</div><div class="col-xs-3">AG</div>
+</div>
 </div>
 </p>
 </article>

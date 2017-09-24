@@ -260,3 +260,11 @@ some interesting differences in the way security is looked at in
 hardware and in software: Lock designers and software engineers have a
 lot to learn from each other."
   link:
+-
+  id: 309
+  title: "Usable Security from a Neuroscience Perspective"
+  place: "Terrassensaal"
+  subtype: presentation
+  description: "MGMT Talk Prof. Anthony Vance, Associate Professor at Brigham Young University - Usable Security from a Neuroscience Perspective"
+  speakers: [anthonyvance]
+  link: 
