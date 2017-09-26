@@ -67,7 +67,7 @@ More about Raphael Reischuk:
 * [Twitter](https://twitter.com/raphaelreischuk) / [Linkedin](https://www.linkedin.com/in/reischuk/)
 * [SCION Project](https://www.scion-architecture.net)
 * [Simple thoughts on how to stop ransomware](https://www.linkedin.com/pulse/how-ransomware-could-stopped-forever-globally-raphael-reischuk/)
-* [Personal web page](https://www.reischuk.ch/web/
+* [Personal web page](https://www.reischuk.ch/web/)
 
 <div class="row">
 <div class="col-xs-4 col-sm-2 wow fadeInDown">
