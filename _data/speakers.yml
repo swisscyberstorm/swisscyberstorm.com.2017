@@ -1023,6 +1023,14 @@ happening in Lucerne."
     - {name: "twitter", link: "https://twitter.com/raphaelreischuk"}
   www: ["https://www.reischuk.ch/web/"]
   id: raphaelreischuk
+- speaker: Jordi Puiggalí
+  jobtitle: "Head of Research and Development"
+  affiliation: "SCYTL"
+  ptitle: "The Swiss Post E-Voting Solution"
+  image: /img/speakers/jordi_puiggali.png
+  social: 
+    - {name: "linkedin", link: "https://es.linkedin.com/in/jordi-puiggali-a402133"}
+  id: jordipuiggali
 - speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
