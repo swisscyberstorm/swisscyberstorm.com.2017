@@ -1,36 +1,36 @@
 -
   id: 901
   title: "Registration"
-  place: "Entrance Area"
+  place: "Lucerne Hall"
   service: service
   description: "Get your conference bag and badge"
 -
   id: 902
   title: "Welcome"
-  place: "Auditorium"
+  place: "Lucerne Hall"
   speakers: [bernhard]
   description: "Welcome note of the president of the SCS"
 -
   id: 903
   title: "Coffee Break"
-  place: "Hall"
+  place: "Lucerne Hall"
   service: service
   description: "The best time to talk with speakers and attendees"
 -
   id: 904
   title: "Lunch"
-  place: "Hall"
+  place: "Lucerne Hall"
   service: service
 -
   id: 905
   title: "Networking Lounge"
-  place: "Lucerne Terrace"
+  place: "Lucerne Hall"
   service: service
   description: "Networking, Food & Drinks; Raffle"
 -
   id: 906
   title: "Coffee Break"
-  place: "Hall"
+  place: "Lucerne Hall"
   service: service
   description: "The best time to talk with speakers and attendees"
 -
