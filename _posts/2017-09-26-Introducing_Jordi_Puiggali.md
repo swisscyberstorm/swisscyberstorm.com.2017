@@ -16,7 +16,10 @@ SCYTL has been founded in 2001 as a spin-off of a research group for applied cry
 
 <i>Dr. Jordi Puiggalí, Head of Research and Development at SCYTL</i>
 
-The partnership behind the Swiss Post post offering would have SCYTL provide the E-Voting technology and the software. And Swiss Post provide the infrastructure and its protection (plus a strong Swiss brand that has the trust of Swiss voters like no other). In spring 2017, Swiss Post accomplished the 50% certification of the Swiss federal chancellery that allows its E-Voting offering to be used by 50% of the electorate (= voters) of a given canton. The next step is the 100% certification that comes with many additional requirements that need to be fulfilled.
+SCYTL contributes to the partnership with it's E-Voting software and a
+long experience. Swiss Post on the other hand runs the infrastructure, 
+protects it from attacks (plus a strong Swiss brand that has the trust 
+of Swiss voters like no other). In spring 2017, Swiss Post accomplished the 50% certification of the Swiss federal chancellery that allows its E-Voting offering to be used by 50% of the electorate (= voters) of a given canton. The next step is the 100% certification that comes with many additional requirements that need to be fulfilled.
 
 But who would come to Lucerne to present this at Cyber Storm? I mean there are a lot of people involved at Swiss Post of course; namely at the infrastructure level. But there is nobody who has the expertise and detailed knowledge of Jordi Puiggalí when it comes to the intrinsics of the protocols involved with the electronic voting deployed by this partnership.
 
