@@ -897,26 +897,31 @@ setting up the rails in a ring and having them collide at full speed...
   id: stefanlueders
 - speaker: Aldo Frick
   jobtitle: "Board Member, Head, IT Service and Delivery"
-  affiliation: "Telecom Liechtenstein AG"
-  profile: "Aldo Frick is since 2011 board member of the FL1."
+  affiliation: "FL1 Telecom Liechtenstein AG"
+  profile: "Aldo Frick is board member of the FL1 - Telecom Liechtenstein AG since 2011. Telecom Liechtenstein AG serves private and business customers with modern products from fixed networks, mobile internet and TV. Smart ITC services and solutions complete the portfolio. It is a new player, yet it accepts the responsibility 
+to protect the assets of its customers and partners with strong
+security companies like RadarServices. And RadarServices is able to
+tailor its offerings to the
+exact demands of its customers while maintaining a high level of
+security; a perfect partnership."
   ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
-  image: /img/speakers/aldo_frick256.jpg 
+  image: /img/speakers/Aldo_Frick.png
   social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aldo-frick-27608178/"}
     - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/aldo-frick-27608178"}
-  www: ["https://fl1.ch/de/geschaeftskunden/ueber-fl1/gl-und-vr"]
+  www: ["https://fl1.ch/de/geschaeftskunden/ueber-fl1/gl-und-vr", "https://www.radarservices.com/about-us/customers/customer-references/radarservices-for-fl1-telecom-liechtenstein-ag/"]
   id: aldofrick
 - speaker: Harald Reisinger
   jobtitle: "Managing Director"
   affiliation: "RadarServices Smart IT-Security GmbH "
   ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
-  image: /img/speakers/harald_reisinger256.jpg 
+  image: /img/speakers/Harald_Reisinger.png
   profile: "Harald Reisinger is Managing Director of RadarServices, the European market leader for pro-active IT security monitoring and risk detection. He has over 20 years of experience in corporate management in the IT sector. He was the co-founder of Greentube Ltd. (later successfully sold to Novomatic). In 2001, Harald Reisinger founded the base-camp GmbH and in 2011 he co-founded RadarServices. Harald Reisinger studied international business at the Vienna University of Economics and Business and the University of Nebraska at Omaha."
   social: 
     - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
     - {name: "linkedin", link: "https://at.linkedin.com/in/harald-reisinger-2b17b469"}
   id: haraldreisinger
-  www: ["https://www.radarservices.com/de/download/harald-reisinger/"]
+  www: ["https://www.radarservices.com/about-us/customers/customer-references/radarservices-for-fl1-telecom-liechtenstein-ag/"]
 - speaker: Anthony Vance
   jobtitle: "Associate Professor"
   affiliation: "Brigham Young University"
