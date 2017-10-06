@@ -1018,6 +1018,15 @@ happening in Lucerne."
   max-width: 78%
   talkid: hofer
   id: hofer
+- speaker: Bryan Ford
+  jobtitle: "Professor"
+  affiliation: "EPFL"
+  ptitle: "An Introduction to E-Voting"
+  image: /img/speakers/bryan_ford.png"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/brynosaurus"}
+  www: ["http://www.brynosaurus.com"]
+  id: bryanford
 - speaker: Raphael Reischuk
   jobtitle: "Senior Information Security Researcher"
   affiliation: "Zühlke Group"
