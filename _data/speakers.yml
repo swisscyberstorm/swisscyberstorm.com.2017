@@ -1062,6 +1062,37 @@ So Swiss Post decided Jordi Puiggalí from Barcelona would present its solution 
   social: 
     - {name: "linkedin", link: "https://es.linkedin.com/in/jordi-puiggali-a402133"}
   id: jordipuiggali
+- speaker: Bryan Ford
+  jobtitle: "Professor"
+  affiliation: "EPFL"
+  ptitle: "An Introduction to E-Voting"
+  image: /img/speakers/bryan_ford.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/brynosaurus"}
+  www: ["http://www.brynosaurus.com"]
+  profile: "
+  So it took us a while to come up with such a speaker.
+But I am now very happy to be able to announce Prof.
+Bryan Ford from the EPFL, formerly Yale and MIT, as our
+speaker. Bryan Ford leads the Decentralized/Distributed 
+Systems (DEDIS) lab in Lausanne where he works on
+securing private and anonymous communication
+technologies. Bryan Ford also presented to a group
+of cantons lately when they met at the Federal
+Chancellery in Berne and so I think he is the perfect
+E-Voting keynote speaker.
+
+<img src='/img/2017/Bryan_Ford_2.jpg'>
+
+<i>Bryan Ford, speaking at the George Marshall Institute</i>
+
+
+So what you get at Swiss Cyber Storm is an overview
+over E-Voting and general, how the two competitors 
+stack up against each other and how they intend to
+solve the core problems with E-Voting.
+"
+  id: bryanford
 - speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
