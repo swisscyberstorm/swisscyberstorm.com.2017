@@ -79,7 +79,8 @@ E-Voting keynote speaker.
 
 <img src="/img/2017/Bryan_Ford_2.jpg">
 
-<i>Bryan Ford, FIXME</i>
+<i>Bryan Ford, speaking at the George Marshall Institute</i>
+
 
 So what you get at Swiss Cyber Storm is an overview
 over E-Voting and general, how the two competitors 
