@@ -352,62 +352,22 @@ In earlier jobs, Endre has worked as a software developer, technical consultant,
   www: ["https://web.ti.bfh.ch/index.php?id=1&L=1&ord=name&uid=5458&div=FBI&strt=0"]
 - speaker: Paul Vixie 
   affiliation: CEO Farsight Security
-  profile: "We are very proud to have Paul Vixie as our keynote speaker. I do not need
-to tell you about Paul's greatness or about the fact that he is a veteran with over
-30 years in the IT industry. But let me tell you about two things that
-I think striking:
-<ul>
-<li> Paul has been introduced to the Internet Hall of Fame</li>
-<li> Paul runs a company called Farsight Security</li>
-</ul>
-<img src='/img/2017/Paul_Vixie.jpg'>
-
-<i>Paul Vixie, Godfather of DNS</i><br>
-
-We like to think of our industry as a meritocracy where the greatest minds
-succeed. If you look over the list of people introduced into the Internet
-Hall of Fame, then I think it is safe to say that this represents the
-highest echelons of greatness that the IT industry has reserved for people 
-like Vint Cerf, Tim Berners-Lee or Linus Thorvalds. I had been following Paul
-from afar for many years. So when he was finally introduced into the hall in 2014 
-I felt like it was the place where he belongs.<br>
-
-Now let's take a look at Farsight Security. I think it has an interesting
-business case, but he can explain that a lot better than I can.
-So let's just think of the name: Farsight Security. Is not the ability to see 
-far something we all aspire to? I always thought Paul had an excellent ability
-to extrapolate current trends into the future and to anticipate 
-the future as the signs developed on the wall. But when I met him in April
-at an event of the Security Interest Group of Switzerland (SIGS), I realized
-that he has an equal ability to describe past developments and how
-the present came to be. The past can be chaotic and hard to understand,
-but Paul brings order into the events and suddenly it all makes sense.<br>
-
-<img src='/img/2017/Paul_Vixie_study.jpg'>
-
-<i>Paul Vixie in his study</i><br>
-
-In fact, I met Paul at a SIGS Q&A session where he responded to a wide
-variety of questions in a very concise way. It was all
-quotable material and I went home with many, many pages of handwritten
-notes. See below for a link to a collection of Paul Vixie quotes.<br>
-
-When the session was over, I thought I had nothing to lose and asked
-Paul if he would be interested to speak at the Swiss Cyber Storm
-conference and much to my surprise, he accepted! I was so excited!<br>
-
-Paul has asked us to leave the topic of his keynote presentation
-open for the time being. I think this makes a lot of sense and
-we will define this together with him in time for the conference.
-But whatever the topic is going to be, I can assure you that it
-will be an excellent presentation.<br>
-
-
+  profile: "
+  We are very proud to have Paul Vixie as our keynote speaker. We do not need to tell you about Paul’s
+greatness or about the fact that he is a veteran with over 30 years in the IT industry. But Paul
+also has a unique stage presence and a very wide horizon that spans the whole of the internet and
+beyond. As if to underline this, Paul proposed to talk about the viability of our constant expansion
+of software to govern our lifes, our culture, society and economy: Humanity has been building and
+programming general purpose computers for about six decades now, with spectacular results, mostly
+good. As we contemplate the Internet of Things in light of our collective experience, there are some
+disturbing conclusions to be drawn. Can we as a species safely place our economy and culture into a
+global distributed network of computers, if those computers are programmed by humans using commodity
+programming languages and tools? 
 "
   image: /img/speakers/PaulVixie.jpeg
+  blog: /2017/06/22/Introducing_Keynote_Speaker_Paul_Vixie.html
   id: paulvixie
   ptitle: "Keynote"
-  link: "/2017/06/22/Introducing_Keynote_Speaker_Paul_Vixie.html"
   social:
     - {name: "twitter", link: "https://twitter.com/paulvixie"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/paulvixie"}
@@ -415,267 +375,99 @@ will be an excellent presentation.<br>
 - speaker: Deviant Ollam 
   affiliation: "Author of Practical Lock Picking"
   ptitle: "Physical Access Control"
-  profile: "At Swiss Cyber Storm 2016, Walter Belgers from TOOOL Netherlands
-presented lock-picking as a metaphor of IT security hacking. This years
-speaker Deviant Ollam is Walter's counterpart in TOOOL United States. He
-has been called the godfather of Locksport and will show us how he combines lock
-picking and the hacking of IT security systems to conquer physical
-access control.  Add social engineering to give it an additional twist
-and you get a very strong talk.<br>
-
-
-<img src='/img/2017/Deviant_Ollam_backseat.jpeg'>
-
-<i>Deviant Ollam making himself comfortable</i><br>
-
-Deviant Ollam is best known for his role at DefCon and Shmoocon, namely
-in the Lockpick Village. But he is also a pioneering Android expert that
-pushed the limits of security on the systems when security was literally
-non-existing on these devices (not that much improved on Android in this
-regard). Few will know, however, that he is also the uncrowned king of
-hotel room cuisine and the Chef among the frequent flyers.<br>
-
-
-<img src='/img/2017/Deviant_Ollam_food.jpeg'>
-
-<i>One of the yummy creations of Deviant Ollam</i><br>
-
-If that is
-still not enough to convince you that Devian Ollam is a gorgeous
-addition to our schedule, then ask him about his experience with flying
-with firearms or his recent flamethrower weekend. This man has war stories to last a week!
-<br>"
+  profile: "
+  Cyber Security is most interesting, when it touches on the real world. Our speaker Deviant Ollam
+embodies this relationship as godfather of locksport and board member of TOOOL US and as a physical
+penetration tester that not only hacks into systems, but he hacks virtual and physical systems in
+order to actually get into buildings. He will also touch on social engineering so you get an
+all-encompassing picture of his work with intrusion as its ultimate goal no matter the means.
+Deviant Ollam is a fascinating person, a pioneer of Android security, an expert on flying with guns,
+an excellent cook specialized in hotel room cuisine coping with limited means and he is a long time
+member of the DefCon and the Shmoocon crew where he co-created the Lockpick Village. Join his talk
+and follow a astonishing collection of staggering stories all pointing to human fallacies that would
+never happen to any of you and your companies or organizations? Or could they?
+  "
   image: "/img/speakers/dev.png"
   id: deviantollam
-  link: "/2017/05/15/Introducing_Deviant_Ollam.html"
+  blog: "/2017/05/15/Introducing_Deviant_Ollam.html"
   social:
     - {name: "twitter", link: "https://twitter.com/deviantollam"}
 - speaker: Jos Wetzels 
   affiliation: "Researcher at the University of Twente"
   ptitle: "Industrial Control System / IoT Security"
   profile: "
-  The internet of things is all the rage and talks about the insecurity of smart
-devices and tech assistants are a constant companion at tech conferences these days. But
-it's also a bit boring in the sense that the whole audience knows IoT is
-insecure and the presentations are often déjà-vus of stupid mistakes on
-cheap devices.<br>
-
-<img src='/img/2017/Jos_Wetzels.jpg'>
-
-<i>Jos Wetzels, Security Researcher</i><br>
-
-Things get different when you stop talking about toothbrushes and
-toasters and you turn to devices and control systems where security really
-matters in a direct way. Health is often quoted (think pacemakers
-with a remote control) and of course SCADA systems in high security
-environments.<br>
-
-Our Swiss Cyber Storm Speaker Jos Wetzels has seen a lot of these devices. 
-His research with Twente University has focused on the protection of
-critical infrastructures such as electric, oil, gas and water utilities.
-Furthermore, it involved analysis of the operating systems used in cars, nuclear
-power plants and military fighter jets.<br>
-
-A lot of this work has been carried out
-under the seal of NDAs (sorry, no photo of Jos in a MIG cockpit). But some of the
-vulnerabilities can be disclosed and nothing prevents him from talking about structural
-problems he regularly encounters when working with industrial control systems
-and IoT devices. One such structural problem is the search for a decent source
-of entropy. Getting truly random numbers is hard and obtaining them in a controlled
-setting is a contradiction in itself. His recent CCC presentation exemplified this
-in great detail.<br>
-
-<img src='/img/2017/Jos_Wetzels_CCC.png'>
-
-<i>Jos Wetzels presenting his findings on random number generators at CCC in 2016</i>
-<br>
-But Jos won't stop at pointing out shortcomings in existing systems. His
-Swiss Cyber Storm presentation will also give advice on good IoT security. What you
-can do to improve the situation in constrained environments and where developers
-can make a difference.<br>
-
-Jos has been part of the European Union's PREEMPTIVE project for the
-protection of critical infrastructure. He has taught hands-on offensive
-security classes at the Dutch Kerckhoffs Institute and he occasionally shows up
-at Capture the Flag events. On top of that, I can confirm that Jos is good
-company at a conference and I hope you get the chance to talk to him.<br>
+  IoT is all the rage and we all have seen many presentations that left us chuckling at the abhorent
+security of these devices. Jos Wetzels takes that class of presentations one step further by leaving
+the smart toothbrushes and iphone enabled dildos behind and examining IoT devices and industrial
+constrol systems in environments where you would hope for higher standards: He looked at critical
+infrastructures for electric, oil, gas and water utilities. He analyzed the operating systems used
+in cars, nuclear power plants and military fighter jets. A lot of this work was carried out under
+NDA conditions, but that does not prevent Jos from telling us about his lessons learnt. There is a
+structural problem that he discoverd, the search for a decent source of entropy. Getting truly
+random numbers is hard and obtaining them in a controlled setting is a contradiction in itself. He
+will touch on this and tell us how he thinks developers should improve IoT security.
 "
   image: /img/speakers/Jos_Wetzels.png
   id: joswetzels
   www: ["http://samvartaka.github.io/about"]
-  link: "/2017/06/07/Introducing_Jos_Wetzels.html"
+  blog: "/2017/06/07/Introducing_Jos_Wetzels.html"
 - speaker: Tarah Wheeler 
   affiliation: "Author and Cybersecurity Czar"
   ptitle: "Fintech And Digital Transformation"
   profile: "
-  Tarah Wheeler can be really vocal when it comes to gender equality, workplace
-diversity and American politics in general. She is a thought leader and we
-could fill a conference with Tarah explaining her view on all these topics. But
-then you could also read her book about Women in Tech or ask her directly. At
-Swiss Cyber Storm she will speak as security expert and share her insights into
-the security challenges that Fintech poses to companies.
-
-Tarah radiates energy with every fiber and I see a real chance of her
-stunning everybody in the room. Will a restrained Swiss audience cope
-with her charisma? But then we know that security is not for the faint
-of heart and there are experiences that will only make you stronger. So
-let's try this out.
-
-<img src='/img/2017/Tarah_Wheeler.jpg'>
-
-<i>Tarah Wheeler, Author and Cybersecurity Czar (photo by Lou Daprile)</i><br>
-
-Fiat currencies around the world are beginning to transition to a
-purely digital form. The Swiss National Bank seems to resist the trend
-and decided to issue another 1000 CHF bill. Meanwhile the European
-counterpart removed the 500 Euro notes from the market and India is
-doing the same with the big rupee notes. With a purely digital fiat
-currency, governments expect to expose black market monetary
-stockpiles, increase the number of participants in the banking system,
-and improve fiscal efficiency. But there is also a juggernaut preparing
-to assault financial institutions: Crypto currencies. Money is flowing
-freely, with no capital controls, and the metadata surrounding
-financial transactions is more valuable than the money itself - yet
-often poorly secured. It does not really matter if Bitcoin is a fad or
-if Hyper ledger can live up to its promise: Blockchains are a disrupting
-technology and they will destroy established business models: It is
-very likely the Bretton Woods system as we know it will transform
-before our eyes in the next few years.
-
-<img src='/img/2017/Tarah_Wheeler_flamethrower.jpg'>
-
-<i>You generally do not want to stand in the way of Tarah</i><br>
-
-This all poses a huge security risk as the new Fintech businesses can no
-longer be secured in the way a traditional bank was. Switzerland
-is competing with London to be the Blockchain center of Europe and
-the canton of Zug is being dubbed Crypto Valley. Yet how do all these
-startups solve their inherent security problems?
-
-In 2016, Mark Barwinski talked about his research into a state
-sponsored spying operation at Swiss Cyber Storm. That operation,
-meanwhile called Operation Cloud Hopper, is still not fully discovered,
-but its basic characteristics a very clear: It is a state sponsored
-attack on managed service companies and using their administration
-machines to move laterally from one high profile customer to the next.
-
-The digitalization and outsourcing of digital processes in the
-financial world transforms the IT companies handling these assets and
-processes into new forms of banks themselves. Not because of the
-business they do, but because of the information they handle. If these
-companies want to protect the assets in their custody they will need to
-adopt to this transformation and embrace new security practices and
-architectures.
+  Tarah Wheeler is a thought leader on security and internet freedom. She is best known for her Women
+in Tech book but at Cyber Storm, she will speak about the security and the digital transformation of
+finance: Fiat currencies around the world are beginning to transition to a purely digital form and
+the removal of the 500 Euro notes is only one of the more obvious signs. With a purely digital fiat
+currency, black market monetary stockpiles would be exposed, the number of participants in the
+banking system is meant to grow, and fiscal efficiency will be improved.  Money is now flowing
+freely, with no capital controls, and the metadata surrounding financial transactions is more
+valuable than the money itself - yet often poorly secured.  Meanwhile the blockchain or even crypto
+currencies seem to be a disrupting technology and they will destroy many established business
+models: It is very likely the Bretton Woods system as we know it will transform before our eyes in
+the next few years. 
   "
   image: /img/speakers/Tarah_Wheeler_thumb.jpg
   id: tarahwheeler
-  link: "/2017/05/30/Introducing_Tarah_Wheeler.html"
+  blog: "/2017/05/30/Introducing_Tarah_Wheeler.html"
   www: ["https://en.wikipedia.org/wiki/Tarah_Wheeler"]
 - speaker: Tanya Janca 
   affiliation: "Security Officer at Canadian Government"
   ptitle: "Pushing Left Like A Boss"
   profile: "
-  Imagine me attending the OWASP Application Security Europe conference
-two weeks ago; the Swiss Cyber Storm program was almost full, but I
-really wanted to have another addition to the management track. Security
-DevOps sounded ideal and AppSecEU was running a two day track with
-SecDevOps and DevSecOps. Although I can not really tell the two apart, I am
-quite sure that I did not hear a DevOpsSec talk. So there I was hearing talk
-after talk and getting more and more depressed. It is hard to select
-talks from a huge pile of submissions and assembling four tracks over
-two days must be harder still. But truth be told, the talks did not
-convince me. They all resembled each other (DevSecOps? SecDevOps?) and I
-got the idea they were all somewhat inconsistent at the same time.
-
-<img src='/img/2017/Tanya_Janca.jpeg'>
-
-<i>Tanya Janca (photo by Charles Earl)</i><br>
-
-Tanya Janca was the last chance this track was getting…  And it was a
-revelation: practical advice on how to integrate all sorts of best practices
-into your development and operation lifecyle. Her goal was to tell the audience
-how you can actually make sure you catch errors very early, near the left, in
-the Software Development Lifecycle (SLDC). And she hit it home with flying
-colours: Engaging, concise and a trove of information. In short: perfect
-Cyber Storm material.
-
-<img src='/img/2017/Tanya_Janca_Zero_Day_Reapers.png'>
-
-<i>Tanya Janca performing with the Zero Day Reapers (photo likely by Christian Villemaire)</i>
-<br>
-Tanya Janca is the Co-Chapter Lead of OWASP Ottawa in Canada. She brings
-20 years of experience as a software developer and Security
-Analyst. Her work as the IT Security Coordinator (CISO equivalent) for the 42nd General Election in
-Canada earned her a nomination for the Government of Canada's CIO Award
-for 'Excellent in Security' in 2016. Tanya Janca is also an avid gardener
-and the front women of the electro-punk band 'Zero Day Reapers', whose
-song 'Heartbleed' hit a tune with me. 
+ Tanya Janca's talk titled \"Pushing Left Like a Boss\" points at the Software Development Lifecycle
+(SDLC) where the costs of bugs grow exponentially the longer you wait. Fix conceptual bugs
+and they hurt, but wait until the product has been rolled out and conceptual errors have grown into
+failures that threaten the existence of the product; to say the least. But how can you
+push left? What are the best practices for your organisation to detect these failure early on and
+to remain agile in your development. Can you build a DevOps pipeline without compromising on
+security? Tanya Janca is a developer with almost 20 years of experience. She advocated 
+safe coding practices for years, she accompanied the 42nd General Election in Canada as the IT 
+security coordinator, she is a Co-Leader of the OWASP Chapter Ottawa and engaged in the OWASP Women
+in AppSec initiative. And lately she started a career as a speaker at various conferences in the
+States and in Europe.
   "
   image: /img/speakers/Tanya_Janca_thumb.jpg
   id: tanyajanca
-  link: "/2017/05/23/Introducing_Tany_Janca.html"
+  blog: "/2017/05/23/Introducing_Tany_Janca.html"
 - speaker: Dhia Mahjoub
   jobtitle: "Head of Security Research"
   affiliation: "Cisco Umbrella (former OpenDNS)"
   ptitle: "Behaviors and Patterns of Bulletproof Hosters"
   profile: "
-  When we think of Bulletproof Hosting, we usually think of shady firms
-in the style of the Russian Business Network that dodge all inquiries and
-take-down notices from governments and potentially operating in corrupt
-legislations where such behaviour is accepted. Nowadays, this
-traditional centralized Bulletproof Hosting no longer works, although it
-did not disappear. 
-It has in fact morphed into a more modern flexible and elusive style
-where hosters diversify their footprints across various spaces and
-jurisdictions 
-and act as dynamic business partners for criminals that want to host
-illegal contents online. Copyright infringement? Not all country
-prosecute it. Illegal Porn? Better know the jurisdiction. Stolen
-data? We have servers in locations were your government won't be able
-to reach them.
-
-<img src='/img/2017/Dhia_Mahjoub.jpg'>
-
-<i>Dhia Mahjoub, Head of Security Research at Cisco Umbrella</i>
-
-As Head of Security Research at Cisco Umbrella (formerly OpenDNS), 
-Dr. Dhia Mahjoub has excellent insight into the various moves of 
-these shady web citizens. The key is of course making good use of the 
-data and it takes a data scientist like Dhia to discover usage 
-patterns in Autonomous Systems (AS) that allow to predict which 
-IP space or domain names will be used for cybercrime before 
-it actually happens.
-
-Dhia Mahjoub leads the core research team focused on large scale threat
-detection, threat intelligence and advises on Research and Development
-strategy. Dhia has a background in networks and security and holds a 
-PhD in graph algorithms applied on Wireless Sensor Networks problems.
-
-Graphics and visualisation is in fact a key to his work. Dhia enjoys drawing
-in his free time and is a frequent visitor to art museums during his frequent
-travels. A vivid reader, he is interested in history and exploring new cities.
-Dhia told me that he sees his research as a fusion of science, engineering
-and art. It's the combination of these disciplines that help to solve
-existing and novel problems in a creative and unconventional ways.
-This is mirrored in his research and development team at Cisco Umbrella and
-reminded me - once more - that IT security is opening up to new ideas.
-
-<img src='/img/2017/Dhia_Mahjoub_2.jpg'>
-
-<i>Dhia Mahjoub with Thibault Reuille at Virus Bulletin 2014</i><br>
-
-When I met Dhia at Usenix Enigma in January 2017, I immediately realized
-he is a very skilled speaker. Looking up his bio underlined that impression
-and revealed dozens of presentations at the biggest security conferences
-all over the world: Black Hat, DefCon, RSA, ShmooCon, InfoSec Europe, BotConf,
-etc. But then he continued and explained to me how he thinks that 
-there is a bullet proof hoster operating from Switzerland and I was sold:
-Here is a perfect Swiss Cyber Storm speaker! Even more so as Dhia
-shares my belief that conferences are an inspiring place to learn
-about the experiences of peers of various backgrounds.
+  When we think of bulletproof hosting, we usually think of shady firms in the style of the Russian
+Business Network. They were known dodge all inquiries and take-down notices from governments. They
+are thus operating in corrupt legislations where such behaviour is accepted. Nowadays, this
+traditional centralized bulletproof hosting has morphed into a more modern, flexible and elusive
+style where hosters diversify their footprints across various spaces and jurisdictions and act as
+dynamic business partners for criminals that want to host illegal contents online. Copyright
+infringement?  Not all country prosecute it. Illegal Porn?  Better know the jurisdiction. Stolen
+data? We have servers in locations were your government won’t be able to reach them. Dhia Mahjoub is
+the Head of Security Research at Cisco Umbrella, formerly OpenDNS, where he has all the data at his
+disposal to discover the operation patterns of these modern bulletproof hosters.
   "
   image: /img/speakers/Dhia_Mahjoub.jpg
-  link: "/2017/07/11/Introducing_Dhia_Mahjoub.html"
+  blog: "/2017/07/11/Introducing_Dhia_Mahjoub.html"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/dhiamahjoub"}
     - {name: "twitter", link: "https://twitter.com/DhiaLite"}
@@ -686,71 +478,20 @@ about the experiences of peers of various backgrounds.
   affiliation: "Florida Institute for Cyber Security"
   ptitle: "Susceptibility of C-Level Management to Spear Phishing"
   profile: "
-  There is a shift in the world of IT security. Back in the 1990ties,
-people thought security was a purely technical if not mathematical
-problem. In one of his more famous quotes, Bruce Schneier stated 
-that having written 'Applied Cryptography' he really thought,
-that security was solved since he had just told the world how to
-apply encryption.
-
-As it turns out, people started to apply encryption but the overall
-security did not improve and Bruce Schneier realized there were
-more topics to cover and more books to write if he wanted to make
-the world a safer place.
-
-So, the technical field of IT security has opened itself to new
-influences and new ideas. I see this development where ever
-I look. But it struck me again, when I looked over the work of 
-Professor Daniela Oliveira from the University of Florida.
-
-<img src='/img/2017/Daniela_Oliveira.jpeg'>
-
-<i>Daniela Oliveira, Professor at the University of Florida</i><br>
-
-Daniela started out with research on performance in distributed
-video on demand systems. She then shifted into the security domain
-and worked on malware detection in virtual machines, kernel
-extensions and other hard technical security topics.
-
-That was a period when <a href='http://www.daniela.ece.ufl.edu/Knuth.jpg'>Donald Knuth came to join her class</a>
- and participate in a discussion on buffer overflows.
-Daniela received an impressive collection of grants and awards that could
-fill a blog post on its own.
-
-But then, slowly, she started to bring heuristics, behaviour
-models and psychology into the mix and her research turned to
-applied security and human interactions with computers.
-
-I had the pleasure to attend a presentation she gave about
-her research. The talk centered around the susceptibility of 
-older adults to spear-phishing emails. Daniela Oliveira was able
-to show	that elderly populations are more likely to fall for certain
-types of phishing emails, especially when they hit the right tune 
-and align with the life domains of the victims. 
-
-<img src='/img/2017/Daniela_Oliveira_students.jpeg'>
-
-<i>Daniela Oliveira with some of her students</i><br>
-
-We entered a conversation and I asked if she thought her research
-would also apply to the susceptibility of C-level management to
-spear-phishing mails as this would help to explain some of the
-biggest financial frauds that happened in recent years in
-Switzerland and abroad.
-
-Daniela confirmed that impression and we are now talking about
-the details of her presentation for our Swiss Cyber Storm
-conference.
-
-Daniela Oliveira is a professor at the Florida Institute for Cyber
-Security (FICS). She has a family and owns a dog. She tries to shield
-her Brazilian mother from falling for online scams and directs a
-diversity program at the University of Florida. Professor Daniela Oliveira
-is a skyrocketing career scientist and we are very happy to welcome
-here in Lucerne.
+  Professor Daniela started out with research on performance in distributed video on demand systems.
+She then shifted into the security domain and worked on malware detection in virtual machines,
+kernel extensions and other hard technical security topics. But then, slowly, she started to bring
+heuristics, behaviour models and psychology into the mix and her research turned to applied security
+and human interactions with computers. A very typical development that we see over wide stretches of
+the security industry. At our conference, this career scientist will speak about the
+susceptibility of C-Level Management to spear phishing attacks. What angles do attackers use when
+writing their bait messages and what are the keywords that will lead to a lethal click by the
+receiver? What \"life domains\" need to be mentioned to draw the attention of the board member?
+Daniela has originally researched this for elderly populations but is now focusing
+on decision makers for our conference.
   "
   image: /img/speakers/Daniela_Oliveira_thumb.jpg
-  link: "/2017/06/29/Introducing_Daniela_Oliveira.html"
+  blog: "/2017/06/29/Introducing_Daniela_Oliveira.html"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-oliveira-420699a8/"}
   www: ["http://www.daniela.ece.ufl.edu/Home.html"]
@@ -760,76 +501,20 @@ here in Lucerne.
   affiliation: "SwissRe"
   ptitle: "Attribution"
   profile: "
-  There have been a few statements by Swiss politicians lately, trying to funnel
-<a href='https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20173507'>more</a> 
-<a href='https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20173199'>money</a> 
-into the army to grow real cyber units with extensive attack capabilities.
-Initiatives as this have been around for a while and usually I do not bother,
-but the statements are growing more systematic in recent weeks. On top of it,
-they coincidence with the ongoing definition of the 2<sup>nd</sup> edition of the National
-Cyber Strategy ('Nationale Strategie zum Schutz der Schweiz vor Cyber-Risiken')
-and this makes the discussion a bit unsettling.
+  Clément Guitton received his doctorate from the department of War Studies at the University College
+in London. He works as an advisor on political risks and released a book on attribution this year.
+In classical warfare, attribution is generally of an obvious nature thanks to the openness of the
+attacks or physical evidence collected on the ground. In cyber campaigns however, attribution is one
+of the hardest problems that is far some solved.  And it matters a lot as many Western countries are
+revising the doctrines in case they come under attack and immediate retaliation with cyber counter
+strike is now on the table. The discussion in Switzerland is turing in this direction as well
+despite the 2nd edition of the National Cyber Strategy keeping its civil tone. Yet the NCS is
+limited to non-crisis situations and the army is warming up to the topic of cyber warfare around
+here. So we are happy to have a reknown expert on the subject on stage at our conference. 
 
-There is a case though. The NCS aims to define a policy for the
-non-military domain and the non-crisis situations. So what is the role
-of the military in all of this and what do you do when there is a
-national crisis? I see room for discussion and the military seems overly
-limited in its cyber defense resources and capabilities. But I doubt the
-idea of so called 'offensive defense' in cyberspace and I certainly don't
-buy into
-the plan to train militia soldiers in four months to become national
-'cyber warriors'. There are many cases that can be brought up against this
-idea, and I am quite sure that attribution is often one of them.
-
-Difficulties around investigating cyber attacks and, eventually,
-identifying the instigators mean that the process is far from being
-straight forward. Naturally, that means that we need to take into
-consideration these different difficulties around attribution when looking
-at retaliation. Combining a lack of reliable information with extensive
-attack capabilities in the hands of under-trained amateurs would certainly
-create a dangerous mix. It would be like putting soldiers with a rifle into
-the fog and asking them to return the fire hoping to hit the attacker.
-
-<img src='/img/2017/Clement_Guitton.jpg'>
-
-<i>Cl&eacute;ment Guitton, Political Risk Analyst, SwissRe</i>
-
-Attribution is notoriously tough. Maybe that's why you've read little
-constructive
-essays about the topic. Enters Dr. Cl&eacute;ment Guitton. Cl&eacute;ment Guitton
-received his PhD from the Department of War Studies at King's College,
-London, and worked as an analyst with the Department of Defense in
-Switzerland.  In June, he joined SwissRe as a political risk analyst. A
-few weeks before, he published 'Inside the Enemy's Computer. Identifying
-Cyber Attackers', a book focusing on attribution that
-received much acclaim.
-
-The acclaim is entirely justified since Cl&eacute;ment Guitton really
-sat down, put things into perspective and added the necessary and
-unavoidable political dimension to
-attribution. He provides a dependable framework to navigate
-attribution cases and come to reliable conclusions.
-
-<img src='/img/2017/Clement_Guitton_2.jpg'>
-
-<i>Cl&eacute;ment Guitton's book about the attribution problem</i>
-
-This means that Cl&eacute;ment Guitton's much needed input has brought light into a
-dark area of our profession. How such conclusions translate for
-Switzerland, a small country with little leverage, especially when compared
-with the usual countries at the center of attention (think of the US,
-Russia, China, Iran), makes up for an exciting discussion. 
-For instance, Switzerland has made veiled allegations that it thinks Russia
-stood behind several attacks on our country. But realistically, what can
-the country do next? How can Switzerland deter or even retaliate? What
-would a strategy look like? Such a strategy would probably have to
-encompass non-cyber attack related measures, ranging from the diplomatic
-(and ineffective) slap on the wrist to financial sanctions that
-have a high potential to spiral out of control rapidly. Outside of
-being not in our own interest.
   "
   image: /img/speakers/Clement_Guitton_thumb.jpg
-  link: "/2017/07/18/Introducing_Clement_Guitton.html"
+  blog: "/2017/07/18/Introducing_Clement_Guitton.html"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/clement-guitton-3b905a2/"}
     - {name: "twitter", link: "https://twitter.com/cguitton"}
@@ -839,60 +524,19 @@ being not in our own interest.
   affiliation: "CERN"
   ptitle: "IoT and Corporate IT Security"
   profile: "
-  There is no business case for securing IoT hardware. There is no
-legislation and no incentive to lock it down. But there is a lot of
-legal knowledge how a manufacturer can sneak out of the
-responsibility via extensive EULAs. Our industry has been having great
-fun dissecting electronic scales, smart toothbrushes and even IoT egg
-containers (here at SCS!). This was all a bit theoretical since nobody
-sane in his mind would buy an electronic egg container and even if,
-electronic egg containers are hardly mission critical.
-
-But it was only a question of time before these gadgets would morph
-into something useful and until they would hit our corporate networks.
-This is about to happen right now and so it's time to look at this in
-more detail.
-
-When thinking about IoT for our conference, we wanted to have a speaker
-who has daily exposure to these problems. We were looking for somebody
-exploring the frontiers of securing IoT devices and we are very happy
-we have found a skilled presenter at CERN in Switzerland who is facing
-these questions every day: Dr. Stefan L&uuml;ders.
-
-<img src='/img/2017/Stefan_Lueders.jpg'>
-
-<i>Stefan L&uuml;ders, CISO at CERN</i><br>
-
-Stefan L&uuml;ders is a physicist turned CISO who took over the job to
-secure the complete infrastructure and operation at CERN from the
-desktops, the WiFi access points, the interconnection links with other
-research organisations, to the dozen different accelerators & experiments with the LHC
-being only one of them. All these accelerators are supported by dozens
-of different infrastructure systems, all operated and monitored with
-the help of industrial control systems. But these ICS started to grow
-into fully operated computers: Internet of Things devices. And while
-there are some established procedures on how to secure ICS (segregation
-into small compartments is probably best known), these approaches no
-longer work. The devices are much more powerful and people want them to
-be interconnected. So we need new approaches to operate them in a
-secure manner.
-
-<img src='/img/2017/Stefan_Lueders_2.jpg'>
-
-<i>Stefan L&uuml;ders at Vox Days 2017</i><br>
-
-Stefan L&uuml;ders is a renown speaker and long time CISO at CERN. Mirroring
-the multinational setup of CERN, he is a German living in France and
-working in Switzerland. Stefan is a very good Squash player leading the
-CERN leaderboard but he is also a big collector of LEGO (and this
-makes me much more jealous than his Squash skills). He has a complete,
-all time LEGO Fire Brigade collection and an extensive set of railways
-including the famous 1980ties models. I remember my cousin and me
-setting up the rails in a ring and having them collide at full speed...
-
+  We all know, there is no business case for securing IoT hardware. There is no legislation and no
+incentive to lock it down. But there is a lot of legal knowledge how a manufacturer can sneak out of
+the responsibility via extensive EULAs. Our industry has been having great fun dissecting electronic
+scales, smart toothbrushes and even IoT egg containers (here at SCS!). But the fun stops when
+products with the same lousy level of security hit your corporate network. Stefan Lüders is the CISO
+of CERN and he has first-hand experience with securing mission critical infrastructure when
+separation and containment of insecure devices is no longer an option as strong stakeholders (CERN
+physicists in Stefan's case) push for a wide introduction of hot sensors and control systems. So
+what options do you have in such a situation? Stefan's talk will teach you how to live with these
+devices. A separate talk by Jos Wetzels looks closer at the hardware itself.
   "
   image: /img/speakers/Stefan_Lueders_thumb.jpg
-  link: "/2017/07/25/Introducing_Stefan_Lueders.html"
+  blog: /2017/07/25/Introducing_Stefan_Lueders.html
   social: 
   id: stefanlueders
 - speaker: Aldo Frick
@@ -906,6 +550,7 @@ exact demands of its customers while maintaining a high level of
 security; a perfect partnership."
   ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
   image: /img/speakers/Aldo_Frick.png
+  blog: /2017/10/01/Introducing_Reisinger_Frick.html
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/aldo-frick-27608178/"}
     - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
@@ -916,6 +561,7 @@ security; a perfect partnership."
   affiliation: "RadarServices Smart IT-Security GmbH "
   ptitle: "Transforming a Cyber Defense Center into a Value Proposition"
   image: /img/speakers/Harald_Reisinger.png
+  blog: /2017/10/01/Introducing_Reisinger_Frick.html
   profile: "Harald Reisinger is Managing Director of RadarServices, the European market leader for pro-active IT security monitoring and risk detection. He has over 20 years of experience in corporate management in the IT sector. He was the co-founder of Greentube Ltd. (later successfully sold to Novomatic). In 2001, Harald Reisinger founded the base-camp GmbH and in 2011 he co-founded RadarServices. Harald Reisinger studied international business at the Vienna University of Economics and Business and the University of Nebraska at Omaha."
   social: 
     - {name: "xing", link: "https://www.xing.com/profile/Harald_Reisinger"}
@@ -927,23 +573,19 @@ security; a perfect partnership."
   affiliation: "Brigham Young University"
   ptitle: "Usable Security from a Neuroscience Perspective"
   profile: "
-  'Given a choice between dancing pigs and security, users will pick dancing pigs every time'. Generations of security officers have made jokes based on this popular saying and I have never heard anybody challenge its true core. Yet, why are users behaving like this? And why have 20 years of friends getting hacked, near-daily press coverage of security incidents and tedious awareness programs failed to change this fundamental behaviour pattern?
-
-<img src='/img/2017/Anthony_Vance.jpg'>
-
-<i>Prof. Anthony Vance, Brigham Young University</i>
-<br>
-Professor Anthony Vance wanted to sort this out. So he used combined functional magnetic resonance imaging and traditional usability testing to examine users while surfing the web and watching video clips. The results reveal a substantial effect of neurobiology on user's security behavior. It is worth looking at his results in detail: Security interfering with ongoing tasks (dual-task interference) has to fight for sufficient neural activation. And if the struggle puts it up against dancing pigs, the fight is over before it even started - or before it came to the attention of the user there was a decision to be made.
-
-Anthony's results suggest practical ways to improve the security via a better design of user interfaces that is aware of neurobiological fundamentals that are hard to change. His presentation will include various examples and suggestions in this direction.
-
-<img src='/img/2017/Anthony_Vance_2.jpg'>
-
-<i>Anthony on Mt. Bisoke, Rwanda</i>
-<br>
-Our speaker is currently teaching as a Distinguished Associate Professor at the University of Hawaii at Manoa (yes, he is surfing too!). His home university is the Brigham Young University in Utah, where he is part of the Neurosecurity lab. He previously taught in Oulu, Finland, and received a PhD in Management from the Université Paris-Dauphine. Combine this with two other PhDs making him a Prof. Dr. mult. and me looking like a n00b. Did I mention he speaks German on top of it?
-  "
+  The famous quote “Given a choice between dancing pigs and security, users will pick dancing pigs
+every time” stands at the beginning of Anthony Vance's talk. Yet, why are users behaving like this?
+And why have 20 years of friends getting hacked, near-daily press coverage of security incidents and
+tedious awareness programs failed to change this fundamental behaviour pattern?  Our speaker used
+combined functional magnetic resonance imaging and traditional usability testing to examine users
+while surfing the web and watching video clips. The results reveal a substantial effect of
+neurobiology on user’s security behavior.  It is worth looking at his results in detail.  But
+Anthony will also suggest practical ways to improve the security via a better design of user
+interfaces.  Interfaces written with the awareness of the fact that neurobiological fundamentals are
+hard to change.  His presentation will include various examples and suggestions in this direction.
+"
   image: /img/speakers/Anthony_Vance_thumb.jpg
+  blog: /2017/09/14/Introducing_Anthony_Vance.html
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/anthony-vance-916b236/"}
     - {name: "twitter", link: "https://twitter.com/anthonyvance"}
@@ -954,64 +596,19 @@ Our speaker is currently teaching as a Distinguished Associate Professor at the 
   affiliation: "State of Geneva"
   title: CHVote - The E-Voting Offering of Geneva
   profile: "
-  So there are two E-Voting offerings in Switzerland: one by the State of
-Geneva
-and one by Swiss Post. These two unlikely competitors are struggling to win
-Swiss cantons over to their solution. Geneva has been doing E-Voting
-since 2003 and five years ago, Thomas Hofer joined the team to serve as technical
-administrator and operator of the voting process.
-
-It was a difficult period for Geneva as their in-house developed
-E-Voting system was under close scrutiny by researchers. They  scored a
-success in court that gave them access to the source code of the Geneva
-E-Voting system. As a result of that struggle, Geneva changed its
-strategy and started to embrace the idea of open sourcing its E-Voting
-software. With Thomas Hofer it found a very capable executor in its own
-ranks who grew from operator to a partner of the University of
-Applied Sciences Bern to develop a new voting protocol that satisfies
-the higher security standard enforced by Swiss Federal Chancellery
-since 2013 / 2014. That new protocol has been published in spring,
-along side a proof of concept implementation
-and Thomas is now working on the target implementation for CHVote. And
-with CHVote, it's not only the source code that is open, the whole
-development is moving to GitHub too.
-
-<img src='/img/2017/Thomas_Hofer.jpg'>
-
-<i>Thomas Hofer, Technical Expert, State of Geneva</i>
-<br>
-Prior to this engagement in Geneva he worked with the CERN security group and
-graduated from EPFL with a master thesis on static source code analysis which
-earned him the Kudelski Prize that recognizes master projects having
-significantly contributed to the field of cryptography and information systems
-security.  Thomas is an open source enthusiast to his bones. He is a co-leader
-of the Geneva OWASP chapter and he has a knack for fixing annoying bugs in
-software on weekends. Like so many other developers, his day job does not leave
-him enough time to support third party software during office hours, but nobody
-is keeping him from debugging these problems on weekends. Well nobody outside
-of his children of course. This might hit a tune with some of you in the same
-position.
-
-For instance, he contributes now and then to a java wrapper for LibGMP,
-a native library used to achieve much better performance than with bare
-Java when computing complex arithmetic operations, such as the modular
-exponentiations used in common cryptographic operations.
-
-<img src='/img/2017/Thomas_Hofer_2.jpg'>
-
-<i>Thomas Hofer when he's not coding</i>
-<br>
-We are very pleased to have Thomas Hofer present the Geneva E-Voting
-solution CHVote at our conference. In fact, we are more than pleased.
-Everybody in this E-Voting business knows that I (Christian Folini
-writing here) work on the security of the Swiss Post E-Voting solution.
-Declining the invitation based on me colluding with the competition
-would have been very natural.  Therefore, accepting my invitation to
-Lucerne is first and foremost a display of good faith and I value that
-very much. Geneva and Swiss Post have never appeared and presented at
-the same conference and it is thanks to Thomas that this will be
-happening in Lucerne."
+  Thomas Hofer is the head of development for CHVote, the E-Voting offering of Geneva. Geneva has been
+doing many, many E-Voting pilot runs for over ten years. Thomas Hofer has been part of the project
+for half of its existence and his background in Open Source Software is now coming at his service.
+Despite initial resistance, Geneva made the complete transparency a prime characteristic of its
+E-Voting solution.  And when it became clear that it's system was unfit to meet the high federal
+standard to receive the certification for general use by 100% of the voters of a given canton,
+Geneva decided to start over from scratch, to task the technical University of Berne to develop a
+new voting protocol and to implement it in a completely open source process. At Swiss Cyber Storm,
+Thomas Hofer will introduce us toCHVote and how Geneva intends to implement four independent control
+systems to verify the votes. Meanwhile the former generation of CHVote is in use by multiple other
+Swiss cantons."
   image: /img/speakers/thomas_hofer.png
+  blog: /2017/09/18/Introducing_Thomas_Hofer.html
   social: 
     - {name: "twitter", link: "https://twitter.com/thhofer"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/thofer"}
@@ -1022,7 +619,21 @@ happening in Lucerne."
   jobtitle: "Senior Information Security Researcher"
   affiliation: "Zühlke Group"
   ptitle: "The SCION Project"
+  profile: "
+  Raphael Reischuck has a deep interest with cryptographic primitives and the construction of secure
+protocols based on these building blocks. This passion lead him into the Network Security Group at
+ETHZ where he joined the development of the SCION project. SCION is meant to replace the basic
+protocols the internet is built upon. If we are really honest, these protocols have proven to be
+illfit for our security needs. The much needed performance boosts often came in the form of bolt-on
+hacks instead of long-term visions. You could say that we have painted ourselves into a corner of a
+room stacked with RFCs. Raphael Reischuck thinks it is time for something new. But unlike former
+attempts to supersede TCP/IP and friends (attempts that are now long forgotten), SCION is designed
+to allow a smooth transition. And after years of testing, piloting and revising the first
+designs, the researchers of ETHZ are now coming out of cave to present us their new range of
+protocols.
+  "
   image: /img/speakers/raphael_reischuk.jpg
+  blog: /2017/09/24/Introducing-_Raphael_Reischuk.html
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/reischuk/"}
     - {name: "twitter", link: "https://twitter.com/raphaelreischuk"}
@@ -1033,64 +644,43 @@ happening in Lucerne."
   affiliation: "SCYTL"
   ptitle: "The Swiss Post E-Voting Solution"
   profile: "
-  The plot was thickening for E-Voting making real inroads into Switzerland a few years ago. Swiss Post must have become aware that the physical transport of ballots was possibly going to be reduced in the long run.
-
-Swiss Post is transporting the voting material to every Swiss voter and then - a specialty in Switzerland - most of the filled out ballots are transported by Swiss Post back into the ballot boxes (postal voting). And if you are aware that we are a direct democracy and there are at least four votes and elections for every voter every year, you realize this is a substantial business.
-
-So Swiss Post decided to enter the E-Voting market itself and it made Swiss Mathematician Dr. Denis Morel the head of this venture. Swiss Post also decided not to develop its own E-Voting software (I presume Denis Morel had a say in this). Instead it would partner with an expert in the E-Voting field. Enter: SCYTL, a commercial E-Voting company from Barcelona.
-
-SCYTL has been founded in 2001 as a spin-off of a research group for applied cryptography used in on-line voting from the Autonomous University of Barcelona, with the aim to apply the academic research into the real world. It has done elections literally all over the world, providing one of the first voting systems used in Switzerland (Neuchâtel) and developing the first online voting systems with verifiability in governmental elections like the end-to-end verifiability used in Norway in 2011. These security and auditability properties are achieved by means of application-level cryptographic protocols and E-Voting security. The man behind all this is SCYTL's Head of Research and Development, Jordi Puiggalí, one of the leading worldwide experts on E-Voting. Jordi has been with SCYTL since the beginning, when he left his job as technical director for PKI at the Autonomous University in Barcelona to help found this E-Voting startup.
-
-<img src='/img/2017/Jordi_Puiggali.jpg'>
-
-<i>Dr. Jordi Puiggalí, Head of Research and Development at SCYTL</i>
-
-SCYTL contributes to the partnership with it's E-Voting software and a
-long experience. Swiss Post on the other hand runs the infrastructure, 
-protects it from attacks (plus a strong Swiss brand that has the trust 
-of Swiss voters like no other). In spring 2017, Swiss Post accomplished the 50% certification of the Swiss federal chancellery that allows its E-Voting offering to be used by 50% of the electorate (= voters) of a given canton. The next step is the 100% certification that comes with many additional requirements that need to be fulfilled.
-
-But who would come to Lucerne to present this at Cyber Storm? I mean there are a lot of people involved at Swiss Post of course; namely at the infrastructure level. But there is nobody who has the expertise and detailed knowledge of Jordi Puiggalí when it comes to the intrinsics of the protocols involved with the electronic voting deployed by this partnership.
-
-<img src='/img/2017/Jordi_Puiggali_2.jpg'>
-
-<i>Jordi Puiggalí at the E-Vote-ID conference in Bregenz, 2016</i>
-
-So Swiss Post decided Jordi Puiggalí from Barcelona would present its solution in Lucerne at our conference. And I am very pleased with that decision. I love talking infrastructure protection with the people at Swiss Post. But at the core of any E-Voting setup is the cryptographic protocol that protects the votes from manipulation while guaranteeing the anonymity of the voter. So we need somebody to explain exactly this core technology and Jordi is the perfect person to do this.
+  Jordi Puiggalí is the head of research and development of the Spanish company SCYTL, the partner of
+Swiss Post for its E-Voting offering. Instead of developing it's own core E-Voting system, Swiss
+Post decided to join with one of the most experienced E-Voting companies in the world. That way
+Swiss Post could concentrate on the infrastructure and SCYTL adopt its voting protocol to a
+potential of 26 different Swiss jurisdictions and a heavy standard document issued by the Federal
+Cancellery. The cantons of Neuchatel and Fribourg have started to use the system actively in 2016
+and the solution has been certified for use by 50% of the voters of a given canton. More cantons
+decided to go with Swiss Post and the development is actively aiming for the 100% certification in
+2018. Jordi's talk will present the Swiss Post system and their approach to the problems of voter
+anonymisation and the verifiability of the votes cast and the results.
   "
   image: /img/speakers/jordi_puiggali.png
+  blog: /2017/09/26/Introducing_Jordi_Puiggali.html
   social: 
     - {name: "linkedin", link: "https://es.linkedin.com/in/jordi-puiggali-a402133"}
   id: jordipuiggali
 - speaker: Bryan Ford
   jobtitle: "Professor"
   affiliation: "EPFL"
+  blog: /2017/10/06/Introducing_Bryan_Ford.html
   ptitle: "An Introduction to E-Voting"
   image: /img/speakers/bryan_ford.png
   social: 
     - {name: "twitter", link: "https://twitter.com/brynosaurus"}
   www: ["http://www.brynosaurus.com"]
   profile: "
-  So it took us a while to come up with such a speaker.
-But I am now very happy to be able to announce Prof.
-Bryan Ford from the EPFL, formerly Yale and MIT, as our
-speaker. Bryan Ford leads the Decentralized/Distributed 
-Systems (DEDIS) lab in Lausanne where he works on
-securing private and anonymous communication
-technologies. Bryan Ford also presented to a group
-of cantons lately when they met at the Federal
-Chancellery in Berne and so I think he is the perfect
-E-Voting keynote speaker.
-
-<img src='/img/2017/Bryan_Ford_2.jpg'>
-
-<i>Bryan Ford, speaking at the George Marshall Institute</i>
-
-
-So what you get at Swiss Cyber Storm is an overview
-over E-Voting and general, how the two competitors 
-stack up against each other and how they intend to
-solve the core problems with E-Voting.
+  Professor Bryan Ford went from MIT to Yale and is now leading the Decentralized/Distributed Systems
+Lab (DEDIS) at the EPFL. His interest lie with the securing of private and anonmyous communication
+technologies. This work naturally makes him a very good choice for an introductory presentation on
+E-Voting at Swiss Cyber Storm. We are not the only ones who realized this however. So he presented
+in front of a group of cantons lately. His talk covered the application of blockchain technology on
+E-Voting and unsolved challenges faced by the two Swiss competitors on their way to build a solution
+that is certified for use by 100% of the voters and no longer limited to certain groups of voters.
+Proven anonymity, individual and general verifiability of the system and the establishment of
+multiple, independent control systems to supervise the various stages of the vote are the key
+problems. His talk at our conference will prepare the stage for the presentations of the two Swiss
+competitors.
 "
   id: bryanford
 - speaker: "Not yet announced" 

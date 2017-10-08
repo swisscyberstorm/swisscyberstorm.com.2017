@@ -53,6 +53,9 @@
 					                        </div>
 					                        {% endif %}
 											<p class="about">{{ speaker.profile }}</p>
+											{% if speaker.blog != null %}
+												<a class="modal-ribbon" href="{{ speaker.blog }}" target="_blank"><i class="fa fa-commenting-o"></i> SCS Blog</a>   
+					                        {% endif %}
 											<ul class="social">
                 
 		{% if speaker.www %}
