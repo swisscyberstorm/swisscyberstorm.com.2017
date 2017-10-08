@@ -396,14 +396,14 @@ never happen to any of you and your companies or organizations? Or could they?
   affiliation: "Researcher at the University of Twente"
   ptitle: "Industrial Control System / IoT Security"
   profile: "
-  IoT is all the rage and we all have seen many presentations that left us chuckling at the abhorent
+  IoT is all the rage and we all have seen many presentations that left us chuckling at the abhorrent
 security of these devices. Jos Wetzels takes that class of presentations one step further by leaving
 the smart toothbrushes and iphone enabled dildos behind and examining IoT devices and industrial
-constrol systems in environments where you would hope for higher standards: He looked at critical
+control systems in environments where you would hope for higher standards: He looked at critical
 infrastructures for electric, oil, gas and water utilities. He analyzed the operating systems used
 in cars, nuclear power plants and military fighter jets. A lot of this work was carried out under
 NDA conditions, but that does not prevent Jos from telling us about his lessons learnt. There is a
-structural problem that he discoverd, the search for a decent source of entropy. Getting truly
+structural problem that he discovered, the search for a decent source of entropy. Getting truly
 random numbers is hard and obtaining them in a controlled setting is a contradiction in itself. He
 will touch on this and tell us how he thinks developers should improve IoT security.
 "
@@ -421,7 +421,7 @@ finance: Fiat currencies around the world are beginning to transition to a purel
 the removal of the 500 Euro notes is only one of the more obvious signs. With a purely digital fiat
 currency, black market monetary stockpiles would be exposed, the number of participants in the
 banking system is meant to grow, and fiscal efficiency will be improved.  Money is now flowing
-freely, with no capital controls, and the metadata surrounding financial transactions is more
+freely, with no capital controls, and the meta data surrounding financial transactions is more
 valuable than the money itself - yet often poorly secured.  Meanwhile the blockchain or even crypto
 currencies seem to be a disrupting technology and they will destroy many established business
 models: It is very likely the Bretton Woods system as we know it will transform before our eyes in
@@ -507,10 +507,10 @@ In classical warfare, attribution is generally of an obvious nature thanks to th
 attacks or physical evidence collected on the ground. In cyber campaigns however, attribution is one
 of the hardest problems that is far some solved.  And it matters a lot as many Western countries are
 revising the doctrines in case they come under attack and immediate retaliation with cyber counter
-strike is now on the table. The discussion in Switzerland is turing in this direction as well
+strike is now on the table. The discussion in Switzerland is turning in this direction as well
 despite the 2nd edition of the National Cyber Strategy keeping its civil tone. Yet the NCS is
 limited to non-crisis situations and the army is warming up to the topic of cyber warfare around
-here. So we are happy to have a reknown expert on the subject on stage at our conference. 
+here. So we are happy to have a renown expert on the subject on stage at our conference. 
 
   "
   image: /img/speakers/Clement_Guitton_thumb.jpg
@@ -671,7 +671,7 @@ anonymisation and the verifiability of the votes cast and the results.
   www: ["http://www.brynosaurus.com"]
   profile: "
   Professor Bryan Ford went from MIT to Yale and is now leading the Decentralized/Distributed Systems
-Lab (DEDIS) at the EPFL. His interest lie with the securing of private and anonmyous communication
+Lab (DEDIS) at the EPFL. His interest lie with the securing of private and anonymous communication
 technologies. This work naturally makes him a very good choice for an introductory presentation on
 E-Voting at Swiss Cyber Storm. We are not the only ones who realized this however. So he presented
 in front of a group of cantons lately. His talk covered the application of blockchain technology on
