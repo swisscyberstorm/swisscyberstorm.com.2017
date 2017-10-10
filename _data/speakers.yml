@@ -688,7 +688,7 @@ competitors.
   affiliation: "Xorlab"
   blog: /2017/10/11/Introducing_Barresi_Ganz.html
   ptitle: "Modern Memory Corruption Exploit Mitigations"
-  image: /img/speakers/antonio_barresi.png
+  image: /img/speakers/Antonio_Barresi.png
   social: 
     - {name: "twitter", link: "https://twitter.com/antoniohbarresi"}
   www: ["https://www.antoniobarresi.com"]
@@ -714,7 +714,7 @@ talk about these issues.
   affiliation: "Xorlab"
   blog: /2017/10/11/Introducing_Barresi_Ganz.html
   ptitle: "Modern Memory Corruption Exploit Mitigations"
-  image: /img/speakers/matthias_ganz.png
+  image: /img/speakers/Matthias_Ganz.png
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/matthias-r-ganz-ph-d-8b4181138"}
   profile: "
