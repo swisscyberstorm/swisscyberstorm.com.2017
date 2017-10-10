@@ -683,6 +683,57 @@ problems. His talk at our conference will prepare the stage for the presentation
 competitors.
 "
   id: bryanford
+- speaker: Antonio Barresi
+  jobtitle: "CEO"
+  affiliation: "Xorlab"
+  blog: /2017/10/11/Introducing_Barresi_Ganz.html
+  ptitle: "Modern Memory Corruption Exploit Mitigations"
+  image: /img/speakers/antonio_barresi.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/antoniohbarresi"}
+  www: ["https://www.antoniobarresi.com"]
+  profile: "
+  It is so annoying to teach users (again and again) not to click and to keep
+clear of dangerous attachments. Yet, would it not be better if systems were
+immune from such fiendish assaults? How can we protect systems from PDF
+exploits and drive by downloads? This question has proven to be very, very
+difficult in practice. Antonio Barresi and Matthias Ganz are founders of the
+ETH Zurich spinoff Xorlab that strives to strike at the heart of this
+problem. For Swiss Cyber Storm, they will address it in a wide perspective
+and give us a general overview over modern means of mitigation against memory
+corruption attacks. After all, Data Execution Prevention (DEP) and Address
+Space Layout Randomization (ASLR) are only the - known forms of defense in
+this regard.  But what other techniques do exist to make the moat wider and
+the walls thicker? Our two speakers share a big interest in security problems
+that are closely linked to hardware and namely Antonio has travelled far to
+talk about these issues.
+"
+  id: antoniobarresi
+- speaker: Matthias Ganz
+  jobtitle: "CTO"
+  affiliation: "Xorlab"
+  blog: /2017/10/11/Introducing_Barresi_Ganz.html
+  ptitle: "Modern Memory Corruption Exploit Mitigations"
+  image: /img/speakers/matthias_ganz.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matthias-r-ganz-ph-d-8b4181138"}
+  profile: "
+  It is so annoying to teach users (again and again) not to click and to keep
+clear of dangerous attachments. Yet, would it not be better if systems were
+immune from such fiendish assaults? How can we protect systems from PDF
+exploits and drive by downloads? This question has proven to be very, very
+difficult in practice. Antonio Barresi and Matthias Ganz are founders of the
+ETH Zurich spinoff Xorlab that strives to strike at the heart of this
+problem. For Swiss Cyber Storm, they will address it in a wide perspective
+and give us a general overview over modern means of mitigation against memory
+corruption attacks. After all, Data Execution Prevention (DEP) and Address
+Space Layout Randomization (ASLR) are only the - known forms of defense in
+this regard.  But what other techniques do exist to make the moat wider and
+the walls thicker? Our two speakers share a big interest in security problems
+that are closely linked to hardware and namely Antonio has travelled far to
+talk about these issues.
+"
+  id: matthiasganz
 - speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous

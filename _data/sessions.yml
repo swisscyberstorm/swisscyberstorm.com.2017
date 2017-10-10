@@ -189,11 +189,11 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   link: 
 -
   id: 211
-  title: "Tech Talk"
+  title: "Modern Memory Corruption Exploit Mitigations"
   place: "Auditorium"
   subtype: presentation
-  description: "Not yet announced"
-  speakers: [secret]
+  description: "Antonio Barresi and Matthias Ganz present 'Modern Memory Corruption Exploit Mitigations'"
+  speakers: [antoniobarresi,matthiasganz]
   link: 
 -
   id: 302
