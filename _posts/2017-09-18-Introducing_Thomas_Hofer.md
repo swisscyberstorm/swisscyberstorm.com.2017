@@ -11,12 +11,15 @@ Swiss cantons over to their solution. Geneva has been doing E-Voting
 since 2003 and five years ago, Thomas Hofer joined the team to serve as technical
 administrator and operator of the voting process.
 
-It was a difficult period for Geneva as their in-house developed
-E-Voting system was under close scrutiny by researchers. They  scored a
-success in court that gave them access to the source code of the Geneva
-E-Voting system. As a result of that struggle, Geneva changed its
-strategy and started to embrace the idea of open sourcing its E-Voting
-software. With Thomas Hofer it found a very capable executor in its own
+  It was a difficult period for Geneva as their in-house developed E-Voting
+  system was under close scrutiny by researchers, who felt hindered in their
+  analysis by the difficulty of obtaining access to the source code. Indeed,
+  due to the conception that such systems were best kept as secret as
+  possible, only people allowed to vote in the canton were allowed to access
+  the source code, upon official request. Since then, Geneva changed its
+  strategy and started to embrace the idea of open sourcing its E-Voting
+  software.
+ With Thomas Hofer it found a very capable executor in its own
 ranks who grew from operator to a partner of the University of
 Applied Sciences Bern to develop a new voting protocol that satisfies
 the higher security standard enforced by Swiss Federal Chancellery
