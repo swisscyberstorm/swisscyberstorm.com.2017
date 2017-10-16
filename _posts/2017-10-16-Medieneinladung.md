@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Medieneinladung  
+title: Medieneinladung SCS Konferenz
 header_image: blog.jpg
 ---
 
