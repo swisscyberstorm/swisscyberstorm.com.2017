@@ -236,4 +236,3 @@ You can visit our web sites from previous years to get a better idea of the Swis
   <li><i class="fa-li fa fa-external-link"></i><a href="http://2013.swisscyberstorm.com/" target="_blank"> Swiss Cypber Storm 2013</a></li>
 </ul>
 
-</article>
