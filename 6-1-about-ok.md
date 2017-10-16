@@ -52,7 +52,7 @@ header_image: 2015/Participants_CyberStorm_2015.jpg
 <img src="/img/about/mark_saxer.jpg" alt="lic. phil. I Mark A. Saxer">
 <div class="scs-portrait-description">
 <p class="scs-portrait-name">lic. phil. I Mark A. Saxer</p>
-<p class="scs-portrait-responsibility">Public Relation & Moderation</p>
+<p class="scs-portrait-responsibility">Public Relations & Moderation</p>
 <a class="scs-portrait-affiliation" href="">Partner, Furrer.Hugi&Partner AG</a>
 </div>
 </div>
