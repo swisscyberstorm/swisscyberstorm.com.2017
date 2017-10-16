@@ -1,4 +1,8 @@
 ---
+- www: http://www.vtg.admin.ch/de/organisation/fub.html
+  image: /img/sponsors/FUB-mit-text.svg
+  text: Partner VBS - Führungsunterstützungsbasis FUB
+  type: Partner
 - www: https://www.melani.admin.ch/
   image: /img/melani.png
   text: Partner - MEALNI Melde- und Analysestelle Informationssicherung 

@@ -570,7 +570,7 @@ security; a perfect partnership."
   www: ["https://www.radarservices.com/about-us/customers/customer-references/radarservices-for-fl1-telecom-liechtenstein-ag/"]
 - speaker: Anthony Vance
   jobtitle: "Associate Professor"
-  affiliation: "Brigham Young University"
+  affiliation: "University of Hawaii at Mānoa"
   ptitle: "Usable Security from a Neuroscience Perspective"
   profile: "
   The famous quote “Given a choice between dancing pigs and security, users will pick dancing pigs
@@ -686,7 +686,7 @@ competitors.
 - speaker: Antonio Barresi
   jobtitle: "CEO"
   affiliation: "Xorlab"
-  blog: /2017/10/11/Introducing_Barresi_Ganz.html
+  blog: /2017/10/10/Introducing_Barresi_Ganz.html
   ptitle: "Modern Memory Corruption Exploit Mitigations"
   image: /img/speakers/Antonio_Barresi.png
   social: 
