@@ -40,6 +40,9 @@
   speakers: [bernhard, folini]
   description: "Welcome - Infos about the program and the rooms"
 -
+  id: 908
+  service: service
+-
   id: 101
   title: "Keynote 1"
   place: Auditorium
@@ -133,13 +136,6 @@ from the adventurous life of a whitehat hacker living in Khartoum,
 Sudan."
   link: 
 -
-  id: 402
-  title: "State of the Internet"
-  subtype: presentation
-  speakers: [secret]
-  description: "Industrial control systems are more connected than ever, medical devices are joining the Internet slowly and bad guys have figured out that millions of insecure IoT devices can be used to launch attacks bigger than anything we've seen before. The talk will explore the current state of the Internet in Switzerland and abroad."
-  link: 
--
   id: 310
   title: "Turbo Talks"
   place: "Terrassensaal"
@@ -163,11 +159,99 @@ Sudan."
   link: 
 -
   id: 401
-  title: "Industrial Control Systems - IoT Security"
-  place: "Terrassensaal"
+  title: "Hacking applications with a conventional Web browser - A How-To"
+  place: "Booth of aspectra"
   subtype: presentation
-  description: "Not yet revealed."
-  speakers: [joswetzels]
+  description: "
+  It is surprisingly simple to hack applications using a
+conventional browser and a notepad. We show you that there is no need for
+complicated tools or a server farm to confuse applications and to circumvent
+input validation. And, of course, we also show you how to protect your
+applications from these and other attacks.
+  "
+  speakers: [FriedrichOesch]
+  link: 
+-
+  id: 402
+  title: "Cybersecurity World Game"
+  subtype: presentation
+  place: "Booth of FL1 & RadarServices"
+  speakers: [aldofrick,haraldreisinger]
+  description: "
+  IT Security comes alive: Scenarios of targeted attacks are
+demonstrated in a 3D printed board game. Lateral movement of the attacker
+through a company is shown. Up-to-date IT risk detection measures of the
+company are explained and point to an effective and efficient protective
+shield an organization must have nowadays to keep its IT up and running at
+any time and therewith secures all its business processes."
+  link: 
+-
+  id: 403
+  title: "Phishing - there's life in the old dog yet"
+  subtype: presentation
+  place: "Speaker's Corner"
+  speakers: [MarioBischof]
+  description: "
+  • Spear phishing on the rise and more popular than ever: case studies from a
+victim’s viewpoint.<br>
+• Professional social engineering: insights into real scenarios and how to
+raise awareness for social engineering in your company.<br>
+• The perfect way of phishing with tips and tricks from an experienced
+fisherman: creating genuine looking scenarios and how to unmask common
+phishing frauds
+  "
+  link: 
+-
+  id: 404
+  title: "Hacking bIOTech"
+  subtype: presentation
+  place: "Speaker's Corner"
+  speakers: [CyrillBrunschwiler]
+  description: "
+  Beware, bIOTech is not necessarily Biotech. The talk will give an
+intro into the Compass deliberately vulnerable plant watering (humidity)
+sensor - bIOTech. A piece of IoT that makes use of the Expressif Systems’
+ESP8266 module and connects to the <a target='_blank' href='https://www.hacking-lab.com/index.html'>hacking-lab.com</a> platform. An environment,
+readily available to teach and experiment with information security aspects.
+You will get a kick-start on how to setup the device and how to tamper with
+its credential storage. Grab your own device right after the talk.
+"
+  link: 
+-
+  id: 405
+  title: "Why cyber security should never be an afterthought"
+  subtype: presentation
+  place: "Speaker's Corner"
+  speakers: [MiroLjubicic]
+  description: "
+  Businesses are focused on reducing costs and providing greater
+value while trying to be compliant, which is why they are focused on digital
+transformation. However, cyber resilience must be an essential part of this
+transformation process – not an afterthought. Upfront design and
+architecture along with continual review and testing will save considerable
+time and resources in recovering from a cyber attack. It is vitally
+important that we, as a cyber community, collaborate and take action.
+And if we don’t? The digital transformation that has increased global
+knowledge and social awareness will be undermined and the trust in our
+digital economy and the liberty it has provided us is at stake.
+Miro Ljubicic will share some practical examples, how business benefits of
+embedding cyber resilience into the digital transformation and why cyber
+security must be seen as an essential part of providing real business value
+and not by simply adding cost and slowing time to market."
+  link: 
+-
+  id: 406
+  title: "Cybersecurity World Game"
+  subtype: presentation
+  place: "Booth of FL1 & RadarServices"
+  speakers: [aldofrick,haraldreisinger]
+  description: "
+  IT Security comes alive: Scenarios of targeted attacks are
+demonstrated in a 3D printed board game. Lateral movement of the attacker
+through a company is shown. Up-to-date IT risk detection measures of the
+company are explained and point to an effective and efficient protective
+shield an organization must have nowadays to keep its IT up and running at
+any time and therewith secures all its business processes."
   link: 
 -
   id: 702
@@ -233,13 +317,6 @@ Hear me in detail only at Swiss Cyber Storm 2016 "
   place: "Terrassensaal"
   subtype: presentation
   speakers: [secret]
-  link:
--
-  id: 405
-  title: "Benefits of participating in NATO Locked Shield Exercises - Management Perspective"
-  subtype: presentation
-  description: "Military Information and Communication Systems are increasingly interconnected and use the similar when not the same components of civilian systems. Cyber-Incidents on military systems are thus technically very similar. Decision processes and impact of incidents are on the other side quite different. Examples of international trainings and exercises on the technical and operative level will be presented."
-  speakers: [sibillia]
   link:
 -
   id: 306

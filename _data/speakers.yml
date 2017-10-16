@@ -734,6 +734,71 @@ that are closely linked to hardware and namely Antonio has travelled far to
 talk about these issues.
 "
   id: matthiasganz
+- speaker: "Friedrich Oesch"
+  jobtitle: "Head of Professional Services Web Application Security"
+  affiliation: "Ergon Informatik AG"
+  image: /img/speakers/friedrich_oesch.png
+  profile: "
+  Since 15 years, Friedrich Oesch is responsible for Professional
+Services and   Academy and Quality Assurance for Ergons' application
+security solution Airlock Suite. Previously, he was a project manager in the
+development of web applications in the banking, administration and industry
+sectors. He is a certified business informatics specialist and has a
+certificate as CISSP (Certified Information Systems Security Professional)
+and ITIL Foundation.
+"
+  id: FriedrichOesch
+- speaker: "Miro Ljubicic"
+  jobtitle: "Head of the Swiss cyber defense team"
+  affiliation: "NTT Security "
+  image: /img/speakers/miroLjubicic.jpg
+  profile: "
+  Miro Ljubicic works for NTT Security since 2013, starting as
+IT security specialist for security monitoring, vulnerability management and
+security incident management. Today, Miro Ljubicic is head of the Swiss
+cyber defense team and responsible for building up and developing the new
+cyber defense center in Switzerland. Together with his team he plans and
+designs cyber control systems, analyzes and reviews cyber-attacks, optimizes
+early and real time detection and develops new analysis standards and value
+adding services.
+Before joining NTT Security, Miro Ljubicic has 10 years experiences with IT
+operations and global security operations at the financial service provider
+USB AG in Zurich.
+Miro Ljubicic has a Bachelor of Science of the ZHAW Zurich University of
+Applied Sciences.
+"
+  social: 
+    - {name: "linkedin", link: "https://ch.linkedin.com/in/miro-ljubicic-31363497"}
+  id: MiroLjubicic
+- speaker: "Mario Bischof"
+  jobtitle: "IT-Security Engineer &amp; Consultant"
+  affiliation: "terreActive AG"
+  image: /img/speakers/mario-bischof.jpg
+  social: 
+    - {name: "xing", link: "https://ch.linkedin.com/in/miro-ljubicic-31363497"}
+  id: MarioBischof
+- speaker: "Cyrill Brunschwiler"
+  jobtitle: "Managing Director"
+  affiliation: "Compass Security Schweiz AG"
+  image: /img/speakers/brunschwiler_cyrill.jpg
+  profile: "
+  With more than fifteen years of experience within the security scene
+and a background in electronics, Cyrill has come across numerous
+technologies and issues. He has been extensively contributing wargame
+challenges and educational material to the hacking-lab.com platform in its
+early days. Cyrill has been providing independent advice in the fields of
+penetration testing, security reviews and digital forensics to customers
+within the industries, utilities, pharma, finance and government sectors
+since 2005. He has been teaching network pentesting, wireless security and
+application security in cooperation with the Swiss ISACA chapter to several
+hundred students since and volunteers now and then for security lectures at
+local universities and business clubs. Cyrill has also contributed and
+supported (CFP board) to former Swiss Cyber Storm and Hack&Learn
+conferences. He holds an MSc degree in Information Security from the well
+renowned Royal Holloway University of London. In 2014 Cyrill Brunschwiler
+was appointed as the Managing Director of Compass Security Switzerland.
+"
+  id: CyrillBrunschwiler
 - speaker: "Not yet announced" 
   ptitle: "Not yet announced"
   jobtilte: Anonymous
