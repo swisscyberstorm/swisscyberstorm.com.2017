@@ -45,6 +45,7 @@ Give us some of your spare-time and help us organize and further evolve the Swis
 <div class="col-md-6 col-xs-12">
 <p>
 Did we arouse your interest? Get in touch with somebody of the organization right now or contact us via <a href="mailto:contact@swisscyberstorm.com" target="_blank">contact@swisscyberstorm.com</a>.
+</p>
 </div>
 
 
@@ -57,3 +58,4 @@ Thanks a lot!<br>
 The organizing committee
 </p>
 
+</div>
