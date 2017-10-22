@@ -1,6 +1,6 @@
 ---
 layout: page-twocolumns
-title: Photos 2015
+title: Conference 2015
 title_long: Photo Gallery Final Challenges 2015
 permalink: /press/photos2015/
 parent: Press

@@ -1,6 +1,6 @@
 ---
 layout: page-twocolumns
-title: Photos 2016
+title: Swiss Finals 2016
 title_long: Photo Gallery Swiss Challenges 2016
 permalink: /press/photos2016/
 parent: Press

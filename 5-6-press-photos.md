@@ -1,6 +1,6 @@
 ---
 layout: page-twocolumns
-title: SCS 2017
+title: Conference 2017
 title_long: Swiss Cyber Storm 2017
 permalink: /press/gallery2017/
 parent: Press
