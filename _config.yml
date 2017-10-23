@@ -22,10 +22,6 @@ socialLinks:
 footerBlocks:
  -
   title: "Links"
-  links:
-   - {link: "http://www.europeancybersecuritychallenge.eu/", text: "European Cyber Security Challenge"}
-   - {link: "https://www.hacking-lab.com", text: "Hacking Lab"}
- -
   title: "Swiss Cyber Storm"
   links:
    - {link: "/about/committee/", text: "About Us"}
