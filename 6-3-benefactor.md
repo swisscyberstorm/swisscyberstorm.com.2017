@@ -31,7 +31,7 @@ If you like what we are doing and if you want to support our non-profit organiza
 </ul>
 
 <h3>Benefactor</h3>
-<p>Support us without lifting a finger ;-) For the amount of CHF 1000 you will get one entrance ticket for the upcoming conference without any further liabilities. Furthermore, you are invited to attend the general assembly with a subsequent dinner.
+<p>Support us without lifting a finger ;-) For the amount of CHF 1000 you are invited to attend the general assembly with a subsequent dinner.
 </p>
 
 <h3>Swiss Cyber Storm Organizing Committee Member</h3>
