@@ -13,6 +13,8 @@
     </p>
   </div>
 </div>
+
+<a class="btn btn-primary" href="http://scs2017.eventbee.com" target="_blank">Register now</a>
 </article>
 
 

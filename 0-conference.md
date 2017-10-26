@@ -12,8 +12,8 @@ image:
    caption: 'Swiss Cyber Storm 2017'
    alt: 'Swiss Cyber Storm 2017'
 buttons:
-#  - link: 'http://scs2017.eventbee.com'
-#    text: 'Register now'
+  - link: 'http://scs2018.eventbee.com'
+    text: 'Register now'
 slideshow:
   - background_image_path: /img/conference_2015.jpg
     main_heading: Swiss Cyber Storm
