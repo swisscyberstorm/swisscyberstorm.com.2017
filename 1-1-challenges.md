@@ -80,8 +80,8 @@ The <a href="https://www.hacking-lab.com" target="_blank" ><img src="/img/hlLogo
 
 Subscribe in one of the 2 categories:
 <ul>
-<li><a href="https://www.hacking-lab.com/eventregister/?eventid=1409&uk=35t6C8MhogWtdq8SuVQUDfFw282ALRGh" alt="Sign up"><b>Juniors</b>: Teenagers up to 20 years</a> and</li>
-<li><a href="https://www.hacking-lab.com/eventregister/?eventid=1410&uk=9Fda78AP3wJsrQzJAPUdAkDSNRuxBUuJ" alt="Sign up"><b>Seniors</b>: Students between 20-25 years</a>.</li>
+<li><a href="https://www.hacking-lab.com/eventregister/?eventid=1409&uk=35t6C8MhogWtdq8SuVQUDfFw282ALRGh" alt="Sign up" target="_blank"><b>Juniors</b>: Teenagers up to 20 years</a> and</li>
+<li><a href="https://www.hacking-lab.com/eventregister/?eventid=1410&uk=9Fda78AP3wJsrQzJAPUdAkDSNRuxBUuJ" alt="Sign up" target="_blank"><b>Seniors</b>: Students between 20-25 years</a>.</li>
 </ul>
 
 <p>
