@@ -34,7 +34,7 @@ Test and train your skills in <a href="https://www.hacking-lab.com" target="_bla
 						<p class="title">Sign up for free</p>
 						<p class="date">Swiss Online Qualification For Teenager <b>Under 20 Years</b>.</p>
 						<center><b><p class="title">Category Junior</p></b></center>
-						<p class="desciption">From April 1<sup>st</sup> To June 30<sup>th</sup></p>  
+						<p class="desciption">From April 1<sup>st</sup> 12:00h To July 31<sup>st</sup> 24:00h</p>  
 						<!--<button type="button" class="btn btn-default">Sign up for free</button>-->
 					</div>
 				</div>
@@ -57,7 +57,7 @@ Test and train your skills in <a href="https://www.hacking-lab.com" target="_bla
 						<p class="title">Sign up for free</p>
 						<p class="date">Swiss Online Qualification For Students <b>Between 20-25 Years</b>.</p>
 						<center><b><p class="title">Category Senior</p></b></center>
-						<p class="desciption">From April 1<sup>st</sup> To June 30<sup>th</sup></p> 
+						<p class="desciption">From April 1<sup>st</sup> 12:00h To July 31<sup>st</sup> 24:00h</p>
 						<!--<button type="button" class="btn btn-default">Sign up for free</button>-->
 					</div>
 				</div>
