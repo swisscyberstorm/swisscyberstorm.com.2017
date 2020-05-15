@@ -639,6 +639,17 @@ protocols.
     - {name: "twitter", link: "https://twitter.com/raphaelreischuk"}
   www: ["https://www.reischuk.ch/web/"]
   id: raphaelreischuk
+- speaker: Harald Reisinger / Aldo Frick
+  jobtitle: "Managing Director / Member of the Executive Board"
+  affiliation: "RadarServices / FL1 - Telecom Liechtenstein
+  ptitle: "Security as a Value Proposition"
+  image: /img/speakers/Harald_Reisinger.png
+  image: /img/speakers/Also_Frick.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/harald-reisinger-2b17b469/?ppe=1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aldo-frick-27608178/"}
+  www: ["https://www.radarservices.com/about-us/customers/customer-references/radarservices-for-fl1-telecom-liechtenstein-ag/"]
+  id: reisingerfrick
 - speaker: Jordi Puiggalí
   jobtitle: "Head of Research and Development"
   affiliation: "SCYTL"
